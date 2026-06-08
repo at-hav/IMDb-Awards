@@ -15,9 +15,8 @@ except ImportError:
 
 BASE_URL      = "https://www.imdb.com/event"
 CURRENT_YEAR  = datetime.now().year
-YEAR_LOOKBACK = 20
-MAX_MISSES    = 3
-FETCH_ERROR   = object()   # sentinel: fetch failed (retryable), not "page has no data"
+YEAR_LOOKBACK = 20          # fallback only, when historyEventEditions is absent
+FETCH_ERROR   = object()    # sentinel: fetch failed (retryable), not "page has no data"
 
 
 def _fetch_year(page, event_id, year):
@@ -87,42 +86,77 @@ def _parse_awards(props):
     return result
 
 
-def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
-    out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
+def _fetch_event_history(page, event_id):
+    """Fetch the most recent year to get the canonical year list from historyEventEditions.
 
-    # Incremental: events with an existing YAML only need recent years updated.
-    if out_path.exists():
-        with out_path.open() as f:
-            yaml_data = yaml.safe_load(f) or {}
-        year_range = list(range(CURRENT_YEAR, CURRENT_YEAR - 2, -1))
-    else:
-        yaml_data  = {}
-        year_range = list(range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1))
-
-    event_name  = None
-    misses      = 0
-    new_years   = 0
+    Tries CURRENT_YEAR, CURRENT_YEAR-1, CURRENT_YEAR-2 (3 attempts). Returns
+    (event_name, valid_years, error_years, first_year, first_props).
+    valid_years is a set[int] or None when historyEventEditions is absent.
+    On complete failure returns (None, None, error_years, None, None).
+    """
     error_years = set()
-
-    # Pass 1: sequential scan with MAX_MISSES early-stop.
-    for year in year_range:
+    for attempt in range(3):
+        year = CURRENT_YEAR - attempt
         result = _fetch_year(page, event_id, year)
         if result is FETCH_ERROR:
             error_years.add(year)
-            misses += 1
-            print(f"  {year}: fetch error (miss {misses}/{MAX_MISSES})")
-            if misses >= MAX_MISSES:
-                print(f"  stopping after {MAX_MISSES} consecutive misses")
-                break
+            print(f"  history attempt {attempt + 1}/3 failed (year {year})")
             continue
         if result is None:
-            misses += 1
-            print(f"  {year}: no data (miss {misses}/{MAX_MISSES})")
-            if misses >= MAX_MISSES:
-                print(f"  stopping after {MAX_MISSES} consecutive misses")
-                break
+            print(f"  {year}: no data, trying previous year")
             continue
-        misses = 0
+        event_name = result.get("eventName", event_id)
+        hist = result.get("historyEventEditions", [])
+        valid_years = {h["year"] for h in hist} if hist else None
+        if valid_years is None:
+            print(f"  historyEventEditions absent — will use fallback range")
+        else:
+            print(f"  found {len(valid_years)} valid years via historyEventEditions")
+        return event_name, valid_years, error_years, year, result
+    print(f"  all 3 history attempts failed")
+    return None, None, error_years, None, None
+
+
+def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
+    out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
+    yaml_data = {}
+    if out_path.exists():
+        with out_path.open() as f:
+            yaml_data = yaml.safe_load(f) or {}
+
+    event_name, valid_years, error_years, first_year, first_props = \
+        _fetch_event_history(page, event_id)
+
+    if first_props is None:
+        return error_years
+
+    known_years = {int(y) for y in yaml_data if str(y).lstrip("-").isdigit()}
+
+    if valid_years is not None:
+        recent    = {y for y in (CURRENT_YEAR, CURRENT_YEAR - 1) if y in valid_years}
+        missing   = valid_years - known_years
+        retryable = retry_years & valid_years
+        to_fetch  = (recent | missing | retryable) - {first_year}
+    else:
+        fallback = set(range(CURRENT_YEAR - 1, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1))
+        to_fetch = (fallback - known_years | retry_years) - {first_year}
+
+    new_years = 0
+    awards = _parse_awards(first_props)
+    if awards:
+        yaml_data[str(first_year)] = awards
+        new_years += 1
+        print(f"  {first_year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
+
+    for year in sorted(to_fetch, reverse=True):
+        result = _fetch_year(page, event_id, year)
+        if result is FETCH_ERROR:
+            error_years.add(year)
+            print(f"  {year}: fetch error")
+            continue
+        if result is None:
+            print(f"  {year}: no data")
+            continue
         if event_name is None:
             event_name = result.get("eventName", event_id)
         awards = _parse_awards(result)
@@ -130,24 +164,6 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
             yaml_data[str(year)] = awards
             new_years += 1
             print(f"  {year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
-
-    # Pass 2: targeted retry for years that previously errored and aren't in the scan window.
-    for year in sorted(retry_years - set(year_range), reverse=True):
-        result = _fetch_year(page, event_id, year)
-        if result is FETCH_ERROR:
-            error_years.add(year)
-            print(f"  {year}: retry failed, will try again next run")
-            continue
-        if result is None:
-            print(f"  {year}: retry got no data, removing from retry list")
-            continue
-        if event_name is None:
-            event_name = result.get("eventName", event_id)
-        awards = _parse_awards(result)
-        if awards:
-            yaml_data[str(year)] = awards
-            new_years += 1
-            print(f"  {year}: retry ok — {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
 
     if not yaml_data and not error_years:
         print(f"  no data fetched for {event_id}")
