@@ -8,9 +8,9 @@ from datetime import datetime
 
 try:
     import cloudscraper
-    import yaml
+    from ruamel.yaml import YAML
 except ImportError:
-    print("Requirements missing: pip install cloudscraper pyyaml")
+    print("Requirements missing: pip install cloudscraper ruamel.yaml")
     sys.exit(1)
 
 BASE_URL     = "https://www.imdb.com/event"
@@ -99,7 +99,9 @@ def scrape_event(event_id, events_dir):
     with out_path.open("w") as f:
         if event_name:
             f.write(f"# {event_name}\n")
-        yaml.dump(yaml_data, f, default_flow_style=None, allow_unicode=True, sort_keys=True)
+        ry = YAML()
+        ry.default_flow_style = False
+        ry.dump(yaml_data, f)
     print(f"  Written: {out_path}")
     return True
 
@@ -115,7 +117,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     with ids_file.open() as f:
-        config = yaml.safe_load(f)
+        config = YAML().load(f)
     event_ids = [str(e).split()[0] for e in (config.get("event_ids") or [])]
 
     if not event_ids:

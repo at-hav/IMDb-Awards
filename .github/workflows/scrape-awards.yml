@@ -34,10 +34,11 @@ jobs:
       - name: Copy output to repo
         run: |
           python3 - <<'EOF'
-          import yaml, shutil, pathlib
+          import shutil, pathlib
+          from ruamel.yaml import YAML
           pathlib.Path('events').mkdir(exist_ok=True)
           with open('event_ids.yml') as f:
-              ids = yaml.safe_load(f)['event_ids']
+              ids = YAML().load(f)['event_ids'] or []
           for eid in ids:
               src = pathlib.Path(f'/tmp/kometa/events/{eid}.yml')
               if src.exists():
