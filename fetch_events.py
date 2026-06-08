@@ -123,6 +123,9 @@ def fetch_event(page, event_id, events_dir):
 if __name__ == "__main__":
     import os
 
+    # Force line-buffered output so GHA streams logs in real time
+    sys.stdout.reconfigure(line_buffering=True)
+
     base_dir   = pathlib.Path(__file__).parent
     events_dir = base_dir / "events"
     events_dir.mkdir(exist_ok=True)
@@ -156,10 +159,29 @@ if __name__ == "__main__":
         print("No event IDs configured")
         sys.exit(0)
 
-    print(f"Fetching {len(event_ids)} event(s)\n")
     with sync_playwright() as pw:
         browser = pw.firefox.launch()
         page = browser.new_page()
+
+        # Health check: pre-warm IMDb session and confirm WAF challenge resolves.
+        # If the homepage doesn't load, this runner IP is blocked — fail fast.
+        print("Health check: loading imdb.com...")
+        try:
+            page.goto("https://www.imdb.com/", wait_until="domcontentloaded", timeout=30000)
+            page.wait_for_function("() => document.title.length > 5", timeout=30000)
+            print(f"  OK — {page.title()!r}")
+        except Exception as e:
+            print(f"  FAILED — {e.__class__.__name__}: {str(e)[:120]}")
+            try:
+                print(f"  title: {page.title()!r}")
+                print(f"  snippet: {page.content()[:300]!r}")
+            except Exception:
+                pass
+            print("Aborting: WAF may be blocking this runner IP.")
+            browser.close()
+            sys.exit(1)
+
+        print(f"\nFetching {len(event_ids)} event(s)\n")
         for eid in event_ids:
             print(f"[{eid}]")
             fetch_event(page, eid, events_dir)
