@@ -17,6 +17,7 @@ BASE_URL      = "https://www.imdb.com/event"
 CURRENT_YEAR  = datetime.now().year
 YEAR_LOOKBACK = 20
 MAX_MISSES    = 3
+FETCH_ERROR   = object()   # sentinel: fetch failed (retryable), not "page has no data"
 
 
 def _fetch_year(page, event_id, year):
@@ -47,7 +48,7 @@ def _fetch_year(page, event_id, year):
             print(f"    snippet: {page.content()[:300]!r}")
         except Exception:
             pass
-        return None
+        return FETCH_ERROR
 
 
 def _parse_awards(props):
@@ -90,18 +91,30 @@ def fetch_event(page, event_id, events_dir):
     if out_path.exists():
         with out_path.open() as f:
             yaml_data = yaml.safe_load(f) or {}
-        year_range = range(CURRENT_YEAR, CURRENT_YEAR - 2, -1)
+        retry_years = set(yaml_data.pop("_retry", []))
+        year_range  = list(range(CURRENT_YEAR, CURRENT_YEAR - 2, -1))
     else:
-        yaml_data = {}
-        year_range = range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1)
+        yaml_data   = {}
+        retry_years = set()
+        year_range  = list(range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1))
 
-    event_name = None
-    misses = 0
-    new_years = 0
+    event_name  = None
+    misses      = 0
+    new_years   = 0
+    error_years = set()
 
+    # Pass 1: sequential scan with MAX_MISSES early-stop.
     for year in year_range:
-        props = _fetch_year(page, event_id, year)
-        if props is None:
+        result = _fetch_year(page, event_id, year)
+        if result is FETCH_ERROR:
+            error_years.add(year)
+            misses += 1
+            print(f"  {year}: fetch error (miss {misses}/{MAX_MISSES})")
+            if misses >= MAX_MISSES:
+                print(f"  stopping after {MAX_MISSES} consecutive misses")
+                break
+            continue
+        if result is None:
             misses += 1
             print(f"  {year}: no data (miss {misses}/{MAX_MISSES})")
             if misses >= MAX_MISSES:
@@ -110,20 +123,40 @@ def fetch_event(page, event_id, events_dir):
             continue
         misses = 0
         if event_name is None:
-            event_name = props.get("eventName", event_id)
-        awards = _parse_awards(props)
+            event_name = result.get("eventName", event_id)
+        awards = _parse_awards(result)
         if awards:
             yaml_data[str(year)] = awards
             new_years += 1
             print(f"  {year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
 
-    if not yaml_data:
+    # Pass 2: targeted retry for years that previously errored and aren't in the scan window.
+    for year in sorted(retry_years - set(year_range), reverse=True):
+        result = _fetch_year(page, event_id, year)
+        if result is FETCH_ERROR:
+            error_years.add(year)
+            print(f"  {year}: retry failed, will try again next run")
+            continue
+        if result is None:
+            print(f"  {year}: retry got no data, removing from retry list")
+            continue
+        if event_name is None:
+            event_name = result.get("eventName", event_id)
+        awards = _parse_awards(result)
+        if awards:
+            yaml_data[str(year)] = awards
+            new_years += 1
+            print(f"  {year}: retry ok — {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
+
+    if not yaml_data and not error_years:
         print(f"  no data fetched for {event_id}")
         return False
-
-    if not new_years:
+    if not new_years and not error_years:
         print(f"  {event_id}: up to date, skipping write")
         return True
+
+    if error_years:
+        yaml_data["_retry"] = sorted(error_years)
 
     with out_path.open("w") as f:
         if event_name:
