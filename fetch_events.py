@@ -23,7 +23,10 @@ FETCH_ERROR   = object()   # sentinel: fetch failed (retryable), not "page has n
 def _fetch_year(page, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
     try:
-        page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        resp = page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        if resp and resp.status == 404:
+            print(f"    404 ({url})")
+            return None
         # IMDb serves a JS challenge first (202); wait up to 45s for it to resolve.
         page.wait_for_function(
             "() => !!document.getElementById('__NEXT_DATA__')",
