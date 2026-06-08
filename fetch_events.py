@@ -22,12 +22,11 @@ MAX_MISSES    = 3
 def _fetch_year(page, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
     try:
-        page.goto(url, wait_until="networkidle", timeout=30000)
-        # IMDb serves a JS challenge first (202); wait up to 20s for it to resolve
-        # and the real page to load.
+        page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        # IMDb serves a JS challenge first (202); wait up to 45s for it to resolve.
         page.wait_for_function(
             "() => !!document.getElementById('__NEXT_DATA__')",
-            timeout=20000,
+            timeout=45000,
         )
         content = page.content()
         m = re.search(
@@ -42,7 +41,12 @@ def _fetch_year(page, event_id, year):
             return None
         return json.loads(m.group(1))["props"]["pageProps"]
     except Exception as e:
-        print(f"    error: {e}")
+        print(f"    error: {e.__class__.__name__}: {str(e)[:120]}")
+        try:
+            print(f"    page title: {page.title()!r}")
+            print(f"    snippet: {page.content()[:300]!r}")
+        except Exception:
+            pass
         return None
 
 
