@@ -47,6 +47,10 @@ jobs:
                   print(f'WARNING: {eid}.yml not generated')
           EOF
 
+      - name: Run redirect-event scraper
+        continue-on-error: true
+        run: python scrape_redirect.py
+
       - name: Commit and push
         run: |
           git config user.name "GitHub Action"
