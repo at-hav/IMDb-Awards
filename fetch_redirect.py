@@ -67,7 +67,7 @@ def _parse_awards(props):
     return result
 
 
-def scrape_event(event_id, events_dir):
+def fetch_event(event_id, events_dir):
     session = cloudscraper.create_scraper()
     yaml_data = {}
     event_name = None
@@ -127,6 +127,6 @@ if __name__ == "__main__":
     print(f"Fetching {len(event_ids)} redirect event(s)\n")
     for eid in event_ids:
         print(f"[{eid}]")
-        scrape_event(eid, events_dir)
+        fetch_event(eid, events_dir)
 
     print("\nDone.")
