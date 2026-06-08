@@ -226,8 +226,8 @@ if __name__ == "__main__":
             sys.exit(1)
 
         print(f"\nFetching {len(event_ids)} event(s)\n")
-        retry_path = events_dir / "_retry.yml"
-        retry_map  = yaml.safe_load(retry_path.read_text()) if retry_path.exists() else {}
+        retry_path = events_dir / "retry.yml"
+        retry_map  = (yaml.safe_load(retry_path.read_text()) if retry_path.exists() else None) or {}
 
         for eid in event_ids:
             print(f"[{eid}]")
