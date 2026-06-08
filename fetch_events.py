@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-Fetches award events year-by-year and writes YAML in Kometa format.
-Uses a real browser to handle JS-based access challenges.
+Fetches award events from IMDb and writes YAML files for sync_awards.
+Uses Firefox via Playwright to handle IMDb's JS-based WAF challenges.
 """
 import json, pathlib, re, sys
 from datetime import datetime
 
 try:
     from playwright.sync_api import sync_playwright
-    from ruamel.yaml import YAML
+    import yaml
 except ImportError:
-    print("Requirements missing: pip install playwright ruamel.yaml")
+    print("Requirements missing: pip install playwright pyyaml")
     sys.exit(1)
 
 BASE_URL      = "https://www.imdb.com/event"
@@ -84,11 +84,22 @@ def _parse_awards(props):
 
 
 def fetch_event(page, event_id, events_dir):
-    yaml_data = {}
+    out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
+
+    # Incremental: events with an existing YAML only need recent years updated.
+    if out_path.exists():
+        with out_path.open() as f:
+            yaml_data = yaml.safe_load(f) or {}
+        year_range = range(CURRENT_YEAR, CURRENT_YEAR - 2, -1)
+    else:
+        yaml_data = {}
+        year_range = range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1)
+
     event_name = None
     misses = 0
+    new_years = 0
 
-    for year in range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1):
+    for year in year_range:
         props = _fetch_year(page, event_id, year)
         if props is None:
             misses += 1
@@ -103,19 +114,21 @@ def fetch_event(page, event_id, events_dir):
         awards = _parse_awards(props)
         if awards:
             yaml_data[str(year)] = awards
+            new_years += 1
             print(f"  {year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
 
     if not yaml_data:
         print(f"  no data fetched for {event_id}")
         return False
 
-    out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
+    if not new_years:
+        print(f"  {event_id}: up to date, skipping write")
+        return True
+
     with out_path.open("w") as f:
         if event_name:
             f.write(f"# {event_name}\n")
-        ry = YAML()
-        ry.default_flow_style = False
-        ry.dump(yaml_data, f)
+        yaml.dump(yaml_data, f, default_flow_style=False, allow_unicode=True, sort_keys=True)
     print(f"  written: {out_path}")
     return True
 
@@ -136,14 +149,14 @@ if __name__ == "__main__":
         sys.exit(0)
 
     with ids_file.open() as f:
-        config = YAML().load(f)
+        config = yaml.safe_load(f)
     our_ids = [str(e).split()[0] for e in (config.get("event_ids") or [])]
 
     # Optionally merge Kometa's event list (set via KOMETA_EVENT_IDS env var in GHA)
     kometa_ids_path = os.environ.get("KOMETA_EVENT_IDS")
     if kometa_ids_path:
         with open(kometa_ids_path) as f:
-            kometa_ids = [str(e).split()[0] for e in (YAML().load(f).get("event_ids") or [])]
+            kometa_ids = [str(e).split()[0] for e in (yaml.safe_load(f).get("event_ids") or [])]
         print(f"Loaded {len(kometa_ids)} events from Kometa, {len(our_ids)} custom events")
     else:
         kometa_ids = []
@@ -161,22 +174,25 @@ if __name__ == "__main__":
 
     with sync_playwright() as pw:
         browser = pw.firefox.launch()
-        page = browser.new_page()
 
         # Health check: pre-warm IMDb session and confirm WAF challenge resolves.
         # If the homepage doesn't load, this runner IP is blocked — fail fast.
         print("Health check: loading imdb.com...")
+        warmup_page = None
         try:
-            page.goto("https://www.imdb.com/", wait_until="domcontentloaded", timeout=30000)
-            page.wait_for_function("() => document.title.length > 5", timeout=30000)
-            print(f"  OK — {page.title()!r}")
+            warmup_page = browser.new_page()
+            warmup_page.goto("https://www.imdb.com/", wait_until="domcontentloaded", timeout=30000)
+            warmup_page.wait_for_function("() => document.title.length > 5", timeout=30000)
+            print(f"  OK — {warmup_page.title()!r}")
+            warmup_page.close()
         except Exception as e:
             print(f"  FAILED — {e.__class__.__name__}: {str(e)[:120]}")
-            try:
-                print(f"  title: {page.title()!r}")
-                print(f"  snippet: {page.content()[:300]!r}")
-            except Exception:
-                pass
+            if warmup_page:
+                try:
+                    print(f"  title: {warmup_page.title()!r}")
+                    print(f"  snippet: {warmup_page.content()[:300]!r}")
+                except Exception:
+                    pass
             print("Aborting: WAF may be blocking this runner IP.")
             browser.close()
             sys.exit(1)
@@ -184,7 +200,9 @@ if __name__ == "__main__":
         print(f"\nFetching {len(event_ids)} event(s)\n")
         for eid in event_ids:
             print(f"[{eid}]")
-            fetch_event(page, eid, events_dir)
+            with browser.new_context() as ctx:
+                fetch_event(ctx.new_page(), eid, events_dir)
+
         browser.close()
 
     print("\nDone.")

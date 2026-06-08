@@ -11,6 +11,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v6
 
@@ -19,7 +20,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install playwright ruamel.yaml
+        run: pip install playwright pyyaml
 
       - name: Install Firefox
         run: playwright install firefox --with-deps
@@ -29,9 +30,6 @@ jobs:
           curl -fsSL \
             https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/master/event_ids.yml \
             -o kometa_event_ids.yml
-          curl -fsSL \
-            https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/master/event_validation.yml \
-            -o kometa_event_validation.yml
 
       - name: Fetch events
         run: python fetch_events.py
