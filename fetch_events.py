@@ -1,37 +1,39 @@
 #!/usr/bin/env python3
 """
-Fetches award events whose base URL redirects (no year-enumeration page).
-Requests year-specific pages directly and writes YAML in Kometa format.
+Fetches award events year-by-year and writes YAML in Kometa format.
+Uses a real browser to handle JS-based access challenges.
 """
-import json, pathlib, re, sys, time
+import json, pathlib, re, sys
 from datetime import datetime
 
 try:
-    import cloudscraper
+    from playwright.sync_api import sync_playwright
     from ruamel.yaml import YAML
 except ImportError:
-    print("Requirements missing: pip install cloudscraper ruamel.yaml")
+    print("Requirements missing: pip install playwright ruamel.yaml")
     sys.exit(1)
 
-BASE_URL     = "https://www.imdb.com/event"
-HEADERS      = {"Accept-Language": "en-US,en;q=0.9"}
-CURRENT_YEAR = datetime.now().year
+BASE_URL      = "https://www.imdb.com/event"
+CURRENT_YEAR  = datetime.now().year
 YEAR_LOOKBACK = 20
 MAX_MISSES    = 3
 
 
-def _fetch_year(session, event_id, year):
+def _fetch_year(page, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
-    resp = session.get(url, headers=HEADERS, timeout=15, allow_redirects=True)
-    if resp.status_code != 200:
-        print(f"    HTTP {resp.status_code} ({url})")
-        return None
-    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>', resp.text, re.DOTALL)
-    if not m:
-        return None
     try:
+        page.goto(url, wait_until="networkidle", timeout=30000)
+        m = re.search(
+            r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>',
+            page.content(),
+            re.DOTALL,
+        )
+        if not m:
+            print(f"    no __NEXT_DATA__ ({url})")
+            return None
         return json.loads(m.group(1))["props"]["pageProps"]
-    except (json.JSONDecodeError, KeyError):
+    except Exception as e:
+        print(f"    error: {e}")
         return None
 
 
@@ -68,19 +70,18 @@ def _parse_awards(props):
     return result
 
 
-def fetch_event(event_id, events_dir):
-    session = cloudscraper.create_scraper()
+def fetch_event(page, event_id, events_dir):
     yaml_data = {}
     event_name = None
     misses = 0
 
     for year in range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1):
-        props = _fetch_year(session, event_id, year)
+        props = _fetch_year(page, event_id, year)
         if props is None:
             misses += 1
             print(f"  {year}: no data (miss {misses}/{MAX_MISSES})")
             if misses >= MAX_MISSES:
-                print(f"  Stopping after {MAX_MISSES} consecutive misses")
+                print(f"  stopping after {MAX_MISSES} consecutive misses")
                 break
             continue
         misses = 0
@@ -90,10 +91,9 @@ def fetch_event(event_id, events_dir):
         if awards:
             yaml_data[str(year)] = awards
             print(f"  {year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
-        time.sleep(1)
 
     if not yaml_data:
-        print(f"  No data scraped for {event_id}")
+        print(f"  no data fetched for {event_id}")
         return False
 
     out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
@@ -103,7 +103,7 @@ def fetch_event(event_id, events_dir):
         ry = YAML()
         ry.default_flow_style = False
         ry.dump(yaml_data, f)
-    print(f"  Written: {out_path}")
+    print(f"  written: {out_path}")
     return True
 
 
@@ -112,9 +112,9 @@ if __name__ == "__main__":
     events_dir = base_dir / "events"
     events_dir.mkdir(exist_ok=True)
 
-    ids_file = base_dir / "redirect_event_ids.yml"
+    ids_file = base_dir / "event_ids.yml"
     if not ids_file.exists():
-        print("redirect_event_ids.yml not found — nothing to do")
+        print("event_ids.yml not found — nothing to do")
         sys.exit(0)
 
     with ids_file.open() as f:
@@ -122,12 +122,16 @@ if __name__ == "__main__":
     event_ids = [str(e).split()[0] for e in (config.get("event_ids") or [])]
 
     if not event_ids:
-        print("No redirect event IDs configured")
+        print("No event IDs configured")
         sys.exit(0)
 
-    print(f"Fetching {len(event_ids)} redirect event(s)\n")
-    for eid in event_ids:
-        print(f"[{eid}]")
-        fetch_event(eid, events_dir)
+    print(f"Fetching {len(event_ids)} event(s)\n")
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch()
+        page = browser.new_page()
+        for eid in event_ids:
+            print(f"[{eid}]")
+            fetch_event(page, eid, events_dir)
+        browser.close()
 
     print("\nDone.")

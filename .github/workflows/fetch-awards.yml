@@ -18,39 +18,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Clone Kometa awards library
-        run: git clone --depth=1 https://github.com/Kometa-Team/IMDb-Awards.git /tmp/kometa
+      - name: Install dependencies
+        run: pip install playwright ruamel.yaml
 
-      - name: Install Kometa dependencies
-        run: pip install -r /tmp/kometa/requirements.txt
+      - name: Install Chromium
+        run: playwright install chromium --with-deps
 
-      - name: Fetch Kometa events
-        continue-on-error: true
-        run: |
-          cp event_ids.yml /tmp/kometa/event_ids.yml
-          cd /tmp/kometa
-          python imdb_awards.py --no-sleep
-
-      - name: Copy output to repo
-        run: |
-          python3 - <<'EOF'
-          import shutil, pathlib
-          from ruamel.yaml import YAML
-          pathlib.Path('events').mkdir(exist_ok=True)
-          with open('event_ids.yml') as f:
-              ids = YAML().load(f)['event_ids'] or []
-          for eid in ids:
-              src = pathlib.Path(f'/tmp/kometa/events/{eid}.yml')
-              if src.exists():
-                  shutil.copy(src, f'events/{eid}.yml')
-                  print(f'Copied {eid}.yml')
-              else:
-                  print(f'WARNING: {eid}.yml not generated')
-          EOF
-
-      - name: Fetch redirect events
-        continue-on-error: true
-        run: python fetch_redirect.py
+      - name: Fetch events
+        run: python fetch_events.py
 
       - name: Commit and push
         run: |
