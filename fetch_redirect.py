@@ -22,8 +22,9 @@ MAX_MISSES    = 3
 
 def _fetch_year(session, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
-    resp = session.get(url, headers=HEADERS, timeout=15)
+    resp = session.get(url, headers=HEADERS, timeout=15, allow_redirects=True)
     if resp.status_code != 200:
+        print(f"    HTTP {resp.status_code} ({url})")
         return None
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>', resp.text, re.DOTALL)
     if not m:
