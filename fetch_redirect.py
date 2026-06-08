@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Fetches IMDb award events whose base URL redirects (no year-enumeration page).
-Requests year-specific pages directly and writes YAML in Kometa imdb_awards.py format.
+Fetches award events whose base URL redirects (no year-enumeration page).
+Requests year-specific pages directly and writes YAML in Kometa format.
 """
 import json, pathlib, re, sys, time
 from datetime import datetime

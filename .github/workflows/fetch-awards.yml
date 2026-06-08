@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Clone Kometa IMDb-Awards
+      - name: Clone Kometa awards library
         run: git clone --depth=1 https://github.com/Kometa-Team/IMDb-Awards.git /tmp/kometa
 
       - name: Install Kometa dependencies
