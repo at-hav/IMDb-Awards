@@ -27,10 +27,10 @@ jobs:
       - name: Fetch Kometa event metadata
         run: |
           curl -fsSL \
-            https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/main/event_ids.yml \
+            https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/master/event_ids.yml \
             -o kometa_event_ids.yml
           curl -fsSL \
-            https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/main/event_validation.yml \
+            https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/master/event_validation.yml \
             -o kometa_event_validation.yml
 
       - name: Fetch events
