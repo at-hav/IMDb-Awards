@@ -12,9 +12,9 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
@@ -22,7 +22,7 @@ jobs:
         run: git clone --depth=1 https://github.com/Kometa-Team/IMDb-Awards.git /tmp/kometa
 
       - name: Install Kometa dependencies
-        run: pip install -r /tmp/kometa/requirements.txt
+        run: pip install --extra-index-url https://pypi.kometa.wiki -r /tmp/kometa/requirements.txt
 
       - name: Run scraper
         run: |
