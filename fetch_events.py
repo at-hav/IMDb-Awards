@@ -15,7 +15,7 @@ except ImportError:
 
 BASE_URL      = "https://www.imdb.com/event"
 CURRENT_YEAR  = datetime.now().year
-YEAR_LOOKBACK = 20          # fallback only, when historyEventEditions is absent
+MIN_YEAR = 1920             # fallback only, when historyEventEditions is absent
 FETCH_ERROR   = object()    # sentinel: fetch failed (retryable), not "page has no data"
 
 
@@ -138,7 +138,7 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
         retryable = retry_years & valid_years
         to_fetch  = (recent | missing | retryable) - {first_year}
     else:
-        fallback = set(range(CURRENT_YEAR - 1, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1))
+        fallback = set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1))
         to_fetch = (fallback - known_years | retry_years) - {first_year}
 
     new_years = 0
