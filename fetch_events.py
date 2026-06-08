@@ -23,13 +23,16 @@ def _fetch_year(page, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
     try:
         page.goto(url, wait_until="networkidle", timeout=30000)
+        content = page.content()
         m = re.search(
             r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>',
-            page.content(),
+            content,
             re.DOTALL,
         )
         if not m:
             print(f"    no __NEXT_DATA__ ({url})")
+            print(f"    title: {page.title()!r}  len: {len(content)}")
+            print(f"    snippet: {content[:400]!r}")
             return None
         return json.loads(m.group(1))["props"]["pageProps"]
     except Exception as e:
