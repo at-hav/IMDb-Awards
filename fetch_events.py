@@ -117,6 +117,8 @@ def fetch_event(page, event_id, events_dir):
 
 
 if __name__ == "__main__":
+    import os
+
     base_dir   = pathlib.Path(__file__).parent
     events_dir = base_dir / "events"
     events_dir.mkdir(exist_ok=True)
@@ -128,7 +130,23 @@ if __name__ == "__main__":
 
     with ids_file.open() as f:
         config = YAML().load(f)
-    event_ids = [str(e).split()[0] for e in (config.get("event_ids") or [])]
+    our_ids = [str(e).split()[0] for e in (config.get("event_ids") or [])]
+
+    # Optionally merge Kometa's event list (set via KOMETA_EVENT_IDS env var in GHA)
+    kometa_ids_path = os.environ.get("KOMETA_EVENT_IDS")
+    if kometa_ids_path:
+        with open(kometa_ids_path) as f:
+            kometa_ids = [str(e).split()[0] for e in (YAML().load(f).get("event_ids") or [])]
+        print(f"Loaded {len(kometa_ids)} events from Kometa, {len(our_ids)} custom events")
+    else:
+        kometa_ids = []
+
+    seen = set()
+    event_ids = []
+    for eid in kometa_ids + our_ids:
+        if eid not in seen:
+            seen.add(eid)
+            event_ids.append(eid)
 
     if not event_ids:
         print("No event IDs configured")
