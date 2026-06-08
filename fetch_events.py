@@ -23,6 +23,12 @@ def _fetch_year(page, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
     try:
         page.goto(url, wait_until="networkidle", timeout=30000)
+        # IMDb serves a JS challenge first (202); wait up to 20s for it to resolve
+        # and the real page to load.
+        page.wait_for_function(
+            "() => !!document.getElementById('__NEXT_DATA__')",
+            timeout=20000,
+        )
         content = page.content()
         m = re.search(
             r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>',
@@ -130,7 +136,7 @@ if __name__ == "__main__":
 
     print(f"Fetching {len(event_ids)} event(s)\n")
     with sync_playwright() as pw:
-        browser = pw.chromium.launch()
+        browser = pw.firefox.launch()
         page = browser.new_page()
         for eid in event_ids:
             print(f"[{eid}]")

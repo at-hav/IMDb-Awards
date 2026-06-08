@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: pip install playwright ruamel.yaml
 
-      - name: Install Chromium
-        run: playwright install chromium --with-deps
+      - name: Install Firefox
+        run: playwright install firefox --with-deps
 
       - name: Fetch events
         run: python fetch_events.py
