@@ -25,6 +25,7 @@ jobs:
         run: pip install --extra-index-url https://pypi.kometa.wiki -r /tmp/kometa/requirements.txt
 
       - name: Run scraper
+        continue-on-error: true
         run: |
           cp event_ids.yml /tmp/kometa/event_ids.yml
           cd /tmp/kometa
