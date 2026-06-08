@@ -1,4 +1,4 @@
-name: Fetch Custom IMDb Award Events
+name: Fetch Awards
 
 on:
   schedule:
