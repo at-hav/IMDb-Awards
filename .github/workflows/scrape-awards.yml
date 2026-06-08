@@ -1,0 +1,55 @@
+name: Scrape Custom IMDb Awards
+
+on:
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Clone Kometa IMDb-Awards
+        run: git clone --depth=1 https://github.com/Kometa-Team/IMDb-Awards.git /tmp/kometa
+
+      - name: Install Kometa dependencies
+        run: pip install -r /tmp/kometa/requirements.txt
+
+      - name: Run scraper
+        run: |
+          cp event_ids.yml /tmp/kometa/event_ids.yml
+          cd /tmp/kometa
+          python imdb_awards.py --no-sleep
+
+      - name: Copy output to repo
+        run: |
+          python3 - <<'EOF'
+          import yaml, shutil, pathlib
+          pathlib.Path('events').mkdir(exist_ok=True)
+          with open('event_ids.yml') as f:
+              ids = yaml.safe_load(f)['event_ids']
+          for eid in ids:
+              src = pathlib.Path(f'/tmp/kometa/events/{eid}.yml')
+              if src.exists():
+                  shutil.copy(src, f'events/{eid}.yml')
+                  print(f'Copied {eid}.yml')
+              else:
+                  print(f'WARNING: {eid}.yml not generated')
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add events/
+          git diff --staged --quiet || \
+            (git commit -m "scraper: update $(date -u +'%Y-%m-%d')" && git push)
