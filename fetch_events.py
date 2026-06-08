@@ -84,19 +84,17 @@ def _parse_awards(props):
     return result
 
 
-def fetch_event(page, event_id, events_dir):
+def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
 
     # Incremental: events with an existing YAML only need recent years updated.
     if out_path.exists():
         with out_path.open() as f:
             yaml_data = yaml.safe_load(f) or {}
-        retry_years = set(yaml_data.pop("_retry", []))
-        year_range  = list(range(CURRENT_YEAR, CURRENT_YEAR - 2, -1))
+        year_range = list(range(CURRENT_YEAR, CURRENT_YEAR - 2, -1))
     else:
-        yaml_data   = {}
-        retry_years = set()
-        year_range  = list(range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1))
+        yaml_data  = {}
+        year_range = list(range(CURRENT_YEAR, CURRENT_YEAR - YEAR_LOOKBACK - 1, -1))
 
     event_name  = None
     misses      = 0
@@ -150,20 +148,17 @@ def fetch_event(page, event_id, events_dir):
 
     if not yaml_data and not error_years:
         print(f"  no data fetched for {event_id}")
-        return False
+        return error_years
     if not new_years and not error_years:
         print(f"  {event_id}: up to date, skipping write")
-        return True
-
-    if error_years:
-        yaml_data["_retry"] = sorted(error_years)
+        return error_years
 
     with out_path.open("w") as f:
         if event_name:
             f.write(f"# {event_name}\n")
         yaml.dump(yaml_data, f, default_flow_style=False, allow_unicode=True, sort_keys=True)
     print(f"  written: {out_path}")
-    return True
+    return error_years
 
 
 if __name__ == "__main__":
@@ -231,10 +226,22 @@ if __name__ == "__main__":
             sys.exit(1)
 
         print(f"\nFetching {len(event_ids)} event(s)\n")
+        retry_path = events_dir / "_retry.yml"
+        retry_map  = yaml.safe_load(retry_path.read_text()) if retry_path.exists() else {}
+
         for eid in event_ids:
             print(f"[{eid}]")
             with browser.new_context() as ctx:
-                fetch_event(ctx.new_page(), eid, events_dir)
+                errors = fetch_event(ctx.new_page(), eid, events_dir, set(retry_map.get(eid, [])))
+            if errors:
+                retry_map[eid] = sorted(errors)
+            else:
+                retry_map.pop(eid, None)
+
+        if retry_map:
+            retry_path.write_text(yaml.dump(retry_map, default_flow_style=False, sort_keys=True))
+        else:
+            retry_path.unlink(missing_ok=True)
 
         browser.close()
 
