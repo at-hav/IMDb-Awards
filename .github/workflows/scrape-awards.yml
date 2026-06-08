@@ -1,4 +1,4 @@
-name: Scrape Custom IMDb Awards
+name: Fetch Custom IMDb Award Events
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  scrape:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -24,7 +24,7 @@ jobs:
       - name: Install Kometa dependencies
         run: pip install -r /tmp/kometa/requirements.txt
 
-      - name: Run scraper
+      - name: Fetch Kometa events
         continue-on-error: true
         run: |
           cp event_ids.yml /tmp/kometa/event_ids.yml
@@ -48,9 +48,9 @@ jobs:
                   print(f'WARNING: {eid}.yml not generated')
           EOF
 
-      - name: Run redirect-event scraper
+      - name: Fetch redirect events
         continue-on-error: true
-        run: python scrape_redirect.py
+        run: python fetch_redirect.py
 
       - name: Commit and push
         run: |
@@ -58,4 +58,4 @@ jobs:
           git config user.email "action@github.com"
           git add events/
           git diff --staged --quiet || \
-            (git commit -m "scraper: update $(date -u +'%Y-%m-%d')" && git push)
+            (git commit -m "events: update $(date -u +'%Y-%m-%d')" && git push)

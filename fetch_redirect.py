@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Scraper for IMDb award events whose base URL redirects (no year-enumeration page).
-Probes year-specific pages directly and writes YAML in Kometa imdb_awards.py format.
+Fetches IMDb award events whose base URL redirects (no year-enumeration page).
+Requests year-specific pages directly and writes YAML in Kometa imdb_awards.py format.
 """
 import json, pathlib, re, sys, time
 from datetime import datetime
@@ -124,7 +124,7 @@ if __name__ == "__main__":
         print("No redirect event IDs configured")
         sys.exit(0)
 
-    print(f"Scraping {len(event_ids)} redirect event(s)\n")
+    print(f"Fetching {len(event_ids)} redirect event(s)\n")
     for eid in event_ids:
         print(f"[{eid}]")
         scrape_event(eid, events_dir)
