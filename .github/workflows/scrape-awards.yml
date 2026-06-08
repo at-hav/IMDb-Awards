@@ -22,7 +22,7 @@ jobs:
         run: git clone --depth=1 https://github.com/Kometa-Team/IMDb-Awards.git /tmp/kometa
 
       - name: Install Kometa dependencies
-        run: pip install --extra-index-url https://pypi.kometa.wiki -r /tmp/kometa/requirements.txt
+        run: pip install -r /tmp/kometa/requirements.txt
 
       - name: Run scraper
         continue-on-error: true
