@@ -120,33 +120,39 @@ def _fetch_event_history(page, event_id):
 def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     out_path = pathlib.Path(events_dir) / f"{event_id}.yml"
     yaml_data = {}
+    event_name = None
+
     if out_path.exists():
-        with out_path.open() as f:
-            yaml_data = yaml.safe_load(f) or {}
+        content = out_path.read_text()
+        first_line = content.split("\n", 1)[0]
+        if first_line.startswith("# "):
+            event_name = first_line[2:].strip()
+        yaml_data = yaml.safe_load(content) or {}
 
-    event_name, valid_years, error_years, first_year, first_props = \
-        _fetch_event_history(page, event_id)
-
-    if first_props is None:
-        return error_years
-
-    known_years = {int(y) for y in yaml_data if str(y).lstrip("-").isdigit()}
-
-    if valid_years is not None:
-        recent    = {y for y in (CURRENT_YEAR, CURRENT_YEAR - 1) if y in valid_years}
-        missing   = valid_years - known_years
-        retryable = retry_years & valid_years
-        to_fetch  = (recent | missing | retryable) - {first_year}
-    else:
-        fallback = set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1))
-        to_fetch = (fallback - known_years | retry_years) - {first_year}
-
+    error_years = set()
     new_years = 0
-    awards = _parse_awards(first_props)
-    if awards:
-        yaml_data[str(first_year)] = awards
-        new_years += 1
-        print(f"  {first_year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
+
+    if yaml_data:
+        # Incremental: YAML covers history; retry.yml catches errors.
+        # Only check the current year + explicit retry years.
+        to_fetch = {CURRENT_YEAR} | set(retry_years)
+    else:
+        # New event: use historyEventEditions to discover the full year list.
+        event_name_hist, valid_years, error_years, first_year, first_props = \
+            _fetch_event_history(page, event_id)
+        if event_name is None:
+            event_name = event_name_hist
+        if first_props is None:
+            return error_years
+        awards = _parse_awards(first_props)
+        if awards:
+            yaml_data[str(first_year)] = awards
+            new_years += 1
+            print(f"  {first_year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
+        if valid_years is not None:
+            to_fetch = (valid_years | set(retry_years)) - {first_year}
+        else:
+            to_fetch = (set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1)) | set(retry_years)) - {first_year}
 
     for year in sorted(to_fetch, reverse=True):
         result = _fetch_year(page, event_id, year)
@@ -169,7 +175,7 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
         print(f"  no data fetched for {event_id}")
         return error_years
     if not new_years and not error_years:
-        print(f"  {event_id}: up to date, skipping write")
+        print(f"  {event_id}: up to date")
         return error_years
 
     with out_path.open("w") as f:
