@@ -26,9 +26,11 @@ jobs:
         run: playwright install firefox --with-deps
 
       - name: Fetch events
+        timeout-minutes: 340
         run: python fetch_events.py
 
       - name: Commit and push
+        if: always()
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"

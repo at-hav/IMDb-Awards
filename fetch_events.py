@@ -22,36 +22,40 @@ VIEWPORTS     = [(1366, 768), (1440, 900), (1920, 1080), (1280, 800)]
 
 def _fetch_year(page, event_id, year):
     url = f"{BASE_URL}/{event_id}/{year}/1/"
-    try:
-        resp = page.goto(url, wait_until="domcontentloaded", timeout=30000)
-        if resp and resp.status == 404:
-            print(f"    404 ({url})")
-            return None
-        # IMDb serves a JS challenge first (202); wait up to 45s for it to resolve.
-        page.wait_for_function(
-            "() => !!document.getElementById('__NEXT_DATA__')",
-            timeout=45000,
-        )
-        content = page.content()
-        m = re.search(
-            r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>',
-            content,
-            re.DOTALL,
-        )
-        if not m:
-            print(f"    no __NEXT_DATA__ ({url})")
-            print(f"    title: {page.title()!r}  len: {len(content)}")
-            print(f"    snippet: {content[:400]!r}")
-            return None
-        return json.loads(m.group(1))["props"]["pageProps"]
-    except Exception as e:
-        print(f"    error: {e.__class__.__name__}: {str(e)[:120]}")
+    for attempt in range(2):
         try:
-            print(f"    page title: {page.title()!r}")
-            print(f"    snippet: {page.content()[:300]!r}")
-        except Exception:
-            pass
-        return FETCH_ERROR
+            resp = page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            if resp and resp.status == 404:
+                print(f"    404 ({url})")
+                return None
+            # IMDb serves a JS challenge first (202); wait up to 45s for it to resolve.
+            page.wait_for_function(
+                "() => !!document.getElementById('__NEXT_DATA__')",
+                timeout=45000,
+            )
+            content = page.content()
+            m = re.search(
+                r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>',
+                content,
+                re.DOTALL,
+            )
+            if not m:
+                print(f"    no __NEXT_DATA__ ({url})")
+                print(f"    title: {page.title()!r}  len: {len(content)}")
+                print(f"    snippet: {content[:400]!r}")
+                return None
+            return json.loads(m.group(1))["props"]["pageProps"]
+        except Exception as e:
+            if attempt == 0 and "NS_BINDING_ABORTED" in str(e):
+                time.sleep(0.5)
+                continue
+            print(f"    error: {e.__class__.__name__}: {str(e)[:120]}")
+            try:
+                print(f"    page title: {page.title()!r}")
+                print(f"    snippet: {page.content()[:300]!r}")
+            except Exception:
+                pass
+            return FETCH_ERROR
 
 
 def _parse_awards(props):
