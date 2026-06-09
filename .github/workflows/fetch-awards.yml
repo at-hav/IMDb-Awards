@@ -25,16 +25,8 @@ jobs:
       - name: Install Firefox
         run: playwright install firefox --with-deps
 
-      - name: Fetch Kometa event metadata
-        run: |
-          curl -fsSL \
-            https://raw.githubusercontent.com/Kometa-Team/IMDb-Awards/master/event_ids.yml \
-            -o kometa_event_ids.yml
-
       - name: Fetch events
         run: python fetch_events.py
-        env:
-          KOMETA_EVENT_IDS: kometa_event_ids.yml
 
       - name: Commit and push
         run: |
