@@ -112,7 +112,7 @@ def _fetch_event_history(page, event_id):
         if valid_years is None:
             print(f"  historyEventEditions absent — will use fallback range")
         else:
-            print(f"  found {len(valid_years)} valid years via historyEventEditions")
+            print(f"  found {len(valid_years)} valid years")
         return event_name, valid_years, error_years, year, result
     print(f"  all 3 history attempts failed")
     return None, None, error_years, None, None
