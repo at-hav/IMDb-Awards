@@ -3,7 +3,7 @@
 Fetches award events from IMDb and writes YAML files for sync_awards.
 Uses Firefox via Playwright to handle IMDb's JS-based WAF challenges.
 """
-import json, pathlib, re, sys
+import json, pathlib, random, re, sys, time
 from datetime import datetime
 
 try:
@@ -17,6 +17,7 @@ BASE_URL      = "https://www.imdb.com/event"
 CURRENT_YEAR  = datetime.now().year
 MIN_YEAR = 1920             # fallback only, when historyEventEditions is absent
 FETCH_ERROR   = object()    # sentinel: fetch failed (retryable), not "page has no data"
+VIEWPORTS     = [(1366, 768), (1440, 900), (1920, 1080), (1280, 800)]
 
 
 def _fetch_year(page, event_id, year):
@@ -154,7 +155,9 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
         else:
             to_fetch = (set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1)) | set(retry_years)) - {first_year}
 
-    for year in sorted(to_fetch, reverse=True):
+    for i, year in enumerate(sorted(to_fetch, reverse=True)):
+        if i > 0:
+            time.sleep(random.uniform(0.5, 1.5))
         result = _fetch_year(page, event_id, year)
         if result is FETCH_ERROR:
             error_years.add(year)
@@ -228,12 +231,15 @@ if __name__ == "__main__":
     with sync_playwright() as pw:
         browser = pw.firefox.launch()
 
+        w, h = random.choice(VIEWPORTS)
+        ctx = browser.new_context(viewport={"width": w, "height": h})
+
         # Health check: pre-warm IMDb session and confirm WAF challenge resolves.
         # If the homepage doesn't load, this runner IP is blocked — fail fast.
         print("Health check: loading imdb.com...")
         warmup_page = None
         try:
-            warmup_page = browser.new_page()
+            warmup_page = ctx.new_page()
             warmup_page.goto("https://www.imdb.com/", wait_until="domcontentloaded", timeout=30000)
             warmup_page.wait_for_function("() => document.title.length > 5", timeout=30000)
             print(f"  OK — {warmup_page.title()!r}")
@@ -247,6 +253,7 @@ if __name__ == "__main__":
                 except Exception:
                     pass
             print("Aborting: WAF may be blocking this runner IP.")
+            ctx.close()
             browser.close()
             sys.exit(1)
 
@@ -254,20 +261,27 @@ if __name__ == "__main__":
         retry_path = events_dir / "retry.yml"
         retry_map  = (yaml.safe_load(retry_path.read_text()) if retry_path.exists() else None) or {}
 
-        for eid in event_ids:
+        random.shuffle(event_ids)
+        for i, eid in enumerate(event_ids):
             print(f"[{eid}]")
-            with browser.new_context() as ctx:
-                errors = fetch_event(ctx.new_page(), eid, events_dir, set(retry_map.get(eid, [])))
+            page = ctx.new_page()
+            errors = fetch_event(page, eid, events_dir, set(retry_map.get(eid, [])))
+            page.close()
             if errors:
                 retry_map[eid] = sorted(errors)
             else:
                 retry_map.pop(eid, None)
+            if i < len(event_ids) - 1:
+                delay = random.uniform(2, 5)
+                print(f"  pausing {delay:.1f}s")
+                time.sleep(delay)
 
         if retry_map:
             retry_path.write_text(yaml.dump(retry_map, default_flow_style=False, sort_keys=True))
         else:
             retry_path.unlink(missing_ok=True)
 
+        ctx.close()
         browser.close()
 
     print("\nDone.")
