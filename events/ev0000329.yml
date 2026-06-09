@@ -1,4 +1,2901 @@
 # Hong Kong Film Awards
+'1982':
+  hong kong film award:
+    best actor:
+      winner:
+      - nm0401201
+    best actress:
+      winner:
+      - nm0401192
+    best director:
+      winner:
+      - nm0284535
+    best picture:
+      winner:
+      - tt0082428
+    best screenplay:
+      winner:
+      - tt0082534
+'1983':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0079891
+      - tt0084266
+      - tt0084267
+      - tt0084557
+      - tt0084671
+      winner:
+      - tt0085211
+    best actor:
+      nominee:
+      - nm0002000
+      - nm0005033
+      - nm0151155
+      - nm0482614
+      winner:
+      - nm0538353
+    best actress:
+      nominee:
+      - nm0151827
+      - nm0161193
+      - nm0530886
+      - nm0583956
+      winner:
+      - nm0482566
+    best art direction:
+      nominee:
+      - tt0084248
+      - tt0084386
+      - tt0084929
+      - tt0084941
+      winner:
+      - tt0084807
+    best cinematography:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084807
+      - tt0084941
+      - tt0125710
+      winner:
+      - tt0084929
+    best director:
+      nominee:
+      - nm0005033
+      - nm0158797
+      - nm0481681
+      - nm0848377
+      winner:
+      - nm0401176
+    best film editing:
+      nominee:
+      - tt0084263
+      - tt0084807
+      - tt0084941
+      - tt0125710
+      winner:
+      - tt0084929
+    best new performer:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084775
+      - tt0084807
+      winner:
+      - tt0084807
+    best original film score:
+      nominee:
+      - tt0084248
+      - tt0084807
+      - tt0084955
+      - tt0126073
+      winner:
+      - tt0084941
+    best original film song:
+      nominee:
+      - tt0083708
+      - tt0084925
+      - tt0084955
+      - tt0121057
+      winner:
+      - tt0084050
+    best picture:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0085211
+      - tt0125710
+      winner:
+      - tt0084807
+    best screenplay:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084443
+      - tt0084922
+      winner:
+      - tt0084807
+'1984':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0084587
+      - tt0084924
+      - tt0085260
+      - tt0086308
+      winner:
+      - tt0086605
+    best actor:
+      nominee:
+      - nm0005033
+      - nm0504973
+      - nm0628827
+      - nm0911007
+      winner:
+      - nm0504899
+    best actress:
+      nominee:
+      - nm0161193
+      - nm0401210
+      - nm0510857
+      - nm0515043
+      winner:
+      - nm0948112
+    best art direction:
+      nominee:
+      - tt0084056
+      - tt0085697
+      - tt0086308
+      - tt0086594
+      winner:
+      - tt0085336
+    best cinematography:
+      nominee:
+      - tt0084056
+      - tt0085144
+      - tt0085336
+      - tt0086594
+      winner:
+      - tt0085697
+    best director:
+      nominee:
+      - nm0477108
+      - nm0497379
+      - nm0939202
+      - nm0943138
+      winner:
+      - nm0284535
+    best film editing:
+      nominee:
+      - tt0084056
+      - tt0084924
+      - tt0085163
+      - tt0086308
+      winner:
+      - tt0085144
+    best new performer:
+      nominee:
+      - tt0085144
+      - tt0085336
+      - tt0086595
+      - tt0086607
+      winner:
+      - tt0085697
+    best original film score:
+      nominee:
+      - tt0084056
+      - tt0085144
+      - tt0086594
+      - tt0125784
+      winner:
+      - tt0085388
+    best original film song:
+      nominee:
+      - tt0084056
+      - tt0085144
+      - tt0086594
+      - tt0125784
+      winner:
+      - tt0085388
+    best picture:
+      nominee:
+      - tt0084056
+      - tt0084587
+      - tt0085336
+      - tt0086308
+      winner:
+      - tt0085144
+    best screenplay:
+      nominee:
+      - tt0084056
+      - tt0084587
+      - tt0085144
+      - tt0085336
+      winner:
+      - tt0085833
+'1985':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0086606
+      - tt0087578
+      - tt0087993
+      - tt0088107
+      winner:
+      - tt0085127
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0000334
+      - nm0155587
+      - nm0401201
+      winner:
+      - nm0497097
+    best actress:
+      nominee:
+      - nm0151827
+      - nm0409677
+      - nm0465496
+      - nm0948112
+      winner:
+      - nm0802700
+    best art direction:
+      nominee:
+      - tt0087959
+      - tt0088097
+      - tt0088098
+      - tt0121787
+      winner:
+      - tt0088126
+    best cinematography:
+      nominee:
+      - tt0087959
+      - tt0088098
+      - tt0088107
+      - tt0088126
+      winner:
+      - tt0087137
+    best director:
+      nominee:
+      - nm0007139
+      - nm0497097
+      - nm0502987
+      - nm0538332
+      - nm0948021
+    best film editing:
+      nominee:
+      - tt0087137
+      - tt0088097
+      - tt0088126
+      winner:
+      - tt0088107
+    best new performer:
+      nominee:
+      - tt0086446
+      - tt0086950
+      - tt0088107
+      - tt0125974
+      winner:
+      - tt0088126
+    best original film score:
+      nominee:
+      - tt0088097
+      - tt0088107
+      - tt0088126
+      - tt0121787
+      winner:
+      - tt0087959
+    best original film song:
+      nominee:
+      - tt0086616
+      - tt0087522
+      - tt0088097
+      - tt0088126
+      winner:
+      - tt0088098
+    best picture:
+      nominee:
+      - tt0087137
+      - tt0088097
+      - tt0088107
+      winner:
+      - tt0088126
+    best screenplay:
+      nominee:
+      - tt0086446
+      - tt0087137
+      - tt0088107
+      - tt0088268
+      winner:
+      - tt0088126
+    best supporting actor:
+      nominee:
+      - nm0150796
+      - nm0151755
+      - nm0156495
+      - nm0159201
+      winner:
+      - nm0795806
+    best supporting actress:
+      nominee:
+      - nm0156991
+      - nm0482666
+      - nm0497782
+      - nm0950472
+      winner:
+      - nm0611315
+'1986':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0089177
+      - tt0089371
+      - tt0091427
+      - tt0093229
+      winner:
+      - tt0089374
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0000334
+      - nm0401201
+      winner:
+      - nm0155587
+    best actress:
+      nominee:
+      - nm0351717
+      - nm0409677
+      - nm0510857
+      - nm0583956
+      winner:
+      - nm0939281
+    best art direction:
+      nominee:
+      - tt0089371
+      - tt0089651
+      - tt0089708
+      - tt0113975
+      winner:
+      - tt0093740
+    best cinematography:
+      nominee:
+      - tt0089371
+      - tt0089374
+      - tt0089708
+      - tt0113975
+      winner:
+      - tt0090012
+    best director:
+      nominee:
+      - nm0000329
+      - nm0005033
+      - nm0477102
+      - nm0490605
+      winner:
+      - nm0156520
+    best film editing:
+      nominee:
+      - tt0089371
+      - tt0089374
+      - tt0113975
+      winner:
+      - tt0115000
+    best new performer:
+      nominee:
+      - tt0088686
+      - tt0089371
+      - tt0093229
+      winner:
+      - tt0115000
+    best original film score:
+      nominee:
+      - tt0089708
+      - tt0091427
+      - tt0113975
+      winner:
+      - tt0089371
+    best original film song:
+      nominee:
+      - tt0087679
+      - tt0088981
+      - tt0089371
+      - tt0113975
+      winner:
+      - tt0091427
+    best picture:
+      nominee:
+      - tt0089133
+      - tt0089371
+      - tt0089708
+      winner:
+      - tt0089374
+    best screenplay:
+      nominee:
+      - tt0089133
+      - tt0089371
+      - tt0089708
+      - tt0121259
+      winner:
+      - tt0089515
+    best supporting actor:
+      nominee:
+      - nm0284011
+      - nm0482580
+      - nm0490497
+      winner:
+      - nm0388367
+    best supporting actress:
+      nominee:
+      - nm0151070
+      - nm0157805
+      - nm0939281
+      winner:
+      - nm0409677
+  people's choice award:
+    people's choice award:
+      nominee:
+      - tt0089515
+      - tt0115000
+      winner:
+      - tt0089259
+'1987':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0090952
+      - tt0091229
+      - tt0091447
+      - tt0091607
+      - tt0094374
+      winner:
+      - tt0089861
+    best actor:
+      nominee:
+      - nm0401201
+      - nm0497097
+      - nm0504897
+      - nm0504899
+      - nm0862479
+      winner:
+      - nm0000334
+    best actress:
+      nominee:
+      - nm0393251
+      - nm0530886
+      - nm0947313
+      - nm1501683
+      winner:
+      - nm0151827
+    best art direction:
+      nominee:
+      - tt0089861
+      - tt0090952
+      - tt0091510
+      - tt0092263
+      - tt0092301
+      winner:
+      - tt0090940
+    best cinematography:
+      nominee:
+      - tt0090952
+      - tt0091505
+      - tt0091510
+      - tt0092263
+      winner:
+      - tt0091378
+    best director:
+      nominee:
+      - nm0000247
+      - nm0232504
+      - nm0477102
+      - nm0497379
+      - nm0793812
+      winner:
+      - nm0284535
+    best film editing:
+      nominee:
+      - tt0089861
+      - tt0090952
+      - tt0092263
+      - tt0092301
+      winner:
+      - tt0091505
+    best new performer:
+      nominee:
+      - tt0091404
+      - tt0091428
+      - tt0092263
+      - tt0126239
+      winner:
+      - tt0091505
+    best original film score:
+      nominee:
+      - tt0090922
+      - tt0091505
+      - tt0092263
+      - tt0092301
+      winner:
+      - tt0091510
+    best original film song:
+      nominee:
+      - tt0089576
+      - tt0090922
+      - tt0091091
+      - tt0091260
+      winner:
+      - tt0092301
+    best picture:
+      nominee:
+      - tt0090922
+      - tt0090940
+      - tt0091235
+      - tt0091505
+      - tt0092251
+      winner:
+      - tt0092263
+    best screenplay:
+      nominee:
+      - tt0090940
+      - tt0091235
+      - tt0091505
+      - tt0091940
+      - tt0092263
+      winner:
+      - tt0090922
+    best supporting actor:
+      nominee:
+      - nm0000334
+      - nm0157971
+      - nm0498429
+      - nm0793008
+      - nm0943138
+      winner:
+      - nm0157971
+    best supporting actress:
+      nominee:
+      - nm0157797
+      - nm0497155
+      - nm0947778
+      winner:
+      - nm0157805
+'1988':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0090956
+      - tt0091431
+      - tt0093545
+      - tt0093978
+      - tt0094357
+      winner:
+      - tt0092501
+    best actor:
+      nominee:
+      - nm0000334
+      - nm0002000
+      - nm0196340
+      - nm0497097
+      - nm0874676
+      winner:
+      - nm0000334
+    best actress:
+      nominee:
+      - nm0155546
+      - nm0161193
+      - nm0497155
+      - nm0497782
+      - nm0939153
+      winner:
+      - nm0796196
+    best art direction:
+      nominee:
+      - tt0093314
+      - tt0093435
+      - tt0093962
+      - tt0094387
+      winner:
+      - tt0093978
+    best cinematography:
+      nominee:
+      - tt0090302
+      - tt0093962
+      - tt0093978
+      - tt0094387
+      winner:
+      - tt0093426
+    best director:
+      nominee:
+      - nm0155642
+      - nm0156520
+      - nm0401176
+      - nm0482681
+      - nm0848377
+      winner:
+      - nm0482681
+    best film editing:
+      nominee:
+      - tt0092501
+      - tt0093435
+      - tt0093962
+      - tt0093978
+      winner:
+      - tt0094387
+    best new performer:
+      nominee:
+      - tt0090956
+      - tt0091157
+      - tt0093304
+      - tt0093314
+      winner:
+      - tt0093957
+    best original film score:
+      nominee:
+      - tt0093304
+      - tt0093426
+      - tt0093435
+      - tt0094387
+      winner:
+      - tt0093978
+    best original film song:
+      nominee:
+      - tt0090302
+      - tt0093304
+      - tt0093435
+      - tt0093978
+      winner:
+      - tt0093978
+    best picture:
+      nominee:
+      - tt0092706
+      - tt0093435
+      - tt0093962
+      - tt0093978
+      - tt0094387
+      winner:
+      - tt0093426
+    best screenplay:
+      nominee:
+      - tt0093304
+      - tt0093435
+      - tt0093955
+      - tt0094387
+      winner:
+      - tt0093426
+    best supporting actor:
+      nominee:
+      - nm0007139
+      - nm0156558
+      - nm0387322
+      - nm0939309
+      - nm0943138
+      winner:
+      - nm0504897
+    best supporting actress:
+      nominee:
+      - nm0323922
+      - nm0409677
+      - nm0628731
+      winner:
+      - nm0157805
+'1989':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0093015
+      - tt0095491
+      winner:
+      - tt0095403
+    best actor:
+      nominee:
+      - nm0002000
+      - nm0161275
+      - nm0401201
+      - nm0490489
+      winner:
+      - nm0005033
+    best actress:
+      nominee:
+      - nm0001041
+      - nm0155546
+      - nm0583956
+      - nm0862882
+      winner:
+      - nm0611315
+    best art direction:
+      nominee:
+      - tt0093258
+      - tt0095405
+      - tt0095937
+      winner:
+      - tt0096461
+    best cinematography:
+      nominee:
+      - tt0093258
+      - tt0093814
+      - tt0096461
+      - tt0126331
+      winner:
+      - tt0095937
+    best director:
+      nominee:
+      - nm0013828
+      - nm0156448
+      - nm0492288
+      - nm0939182
+      winner:
+      - nm0477102
+    best film editing:
+      nominee:
+      - tt0095937
+      - tt0096284
+      - tt0096461
+      winner:
+      - tt0093258
+    best new performer:
+      nominee:
+      - tt0094694
+      - tt0096032
+      - tt0096284
+      - tt0126301
+      winner:
+      - tt0095405
+    best original film score:
+      nominee:
+      - tt0093814
+      - tt0095937
+      - tt0096032
+      - tt0096461
+      winner:
+      - tt0093258
+    best original film song:
+      nominee:
+      - tt0093814
+      - tt0094935
+      - tt0095405
+      winner:
+      - tt0093258
+    best picture:
+      nominee:
+      - tt0095396
+      - tt0095937
+      - tt0096284
+      - tt0096461
+      winner:
+      - tt0093258
+    best screenplay:
+      nominee:
+      - tt0093258
+      - tt0095937
+      - tt0096457
+      - tt0096505
+      winner:
+      - tt0096032
+    best supporting actor:
+      nominee:
+      - nm0159507
+      - nm0504973
+      - nm0874676
+      - nm0943138
+      winner:
+      - nm0156484
+    best supporting actress:
+      nominee:
+      - nm0157805
+      - nm0490589
+      - nm0583956
+      winner:
+      - nm0498218
+'1990':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0097618
+      - tt0098155
+      winner:
+      - tt0098019
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0000334
+      - nm0005033
+      - nm0401201
+      - nm0628827
+      winner:
+      - nm0000334
+    best actress:
+      nominee:
+      - nm0151827
+      - nm0271787
+      - nm0490500
+      - nm0628731
+      winner:
+      - nm0001041
+    best art direction:
+      nominee:
+      - tt0093944
+      - tt0097344
+      - tt0098019
+      - tt0098691
+      winner:
+      - tt0096989
+    best cinematography:
+      nominee:
+      - tt0096102
+      - tt0097202
+      - tt0097618
+      - tt0099079
+      winner:
+      - tt0096989
+    best director:
+      nominee:
+      - nm0150796
+      - nm0156448
+      - nm0156520
+      - nm0864775
+      winner:
+      - nm0000247
+    best film editing:
+      nominee:
+      - tt0093944
+      - tt0095011
+      - tt0097618
+      - tt0098019
+      winner:
+      - tt0097202
+    best new performer:
+      nominee:
+      - tt0097344
+      - tt0098056
+      - tt0098694
+      - tt0098708
+      winner:
+      - tt0126257
+    best original film score:
+      nominee:
+      - tt0098691
+      - tt0099719
+      winner:
+      - tt0099079
+    best original film song:
+      nominee:
+      - tt0098667
+      - tt0098694
+      - tt0099079
+      - tt0099756
+      winner:
+      - tt0098155
+    best picture:
+      nominee:
+      - tt0096989
+      - tt0097202
+      - tt0098694
+      - tt0099079
+      winner:
+      - tt0097344
+    best screenplay:
+      nominee:
+      - tt0096115
+      - tt0097202
+      - tt0098694
+      - tt0098702
+      - tt0099079
+      winner:
+      - tt0097344
+    best supporting actor:
+      nominee:
+      - nm0160846
+      - nm0399012
+      - nm0793008
+      winner:
+      - nm0504897
+    best supporting actress:
+      nominee:
+      - nm0465496
+      - nm0482662
+      - nm0786187
+      - nm0939281
+      winner:
+      - nm0948112
+  lifetime achievement award:
+    lifetime achievement award:
+      winner:
+      - nm0950680
+  professional achievement award:
+    professional achievement award:
+      winner:
+      - nm0189916
+'1991':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0098147
+      - tt0099791
+      - tt0100625
+      winner:
+      - tt0100973
+    best actor:
+      nominee:
+      - nm0156484
+      - nm0159507
+      - nm0401201
+      - nm0504899
+      winner:
+      - nm0002000
+    best actress:
+      nominee:
+      - nm0000084
+      - nm0001041
+      - nm0151827
+      - nm0490500
+      winner:
+      - nm0155546
+    best art direction:
+      nominee:
+      - tt0098147
+      - tt0099265
+      - tt0100973
+      winner:
+      - tt0101258
+    best cinematography:
+      nominee:
+      - tt0098147
+      - tt0099000
+      - tt0099265
+      - tt0099426
+      - tt0099719
+      winner:
+      - tt0101258
+    best director:
+      nominee:
+      - nm0000247
+      - nm0401176
+      - nm0492309
+      - nm0948021
+      winner:
+      - nm0939182
+    best film editing:
+      nominee:
+      - tt0098147
+      - tt0099719
+      - tt0100625
+      - tt0100973
+      - tt0101258
+      winner:
+      - tt0099426
+    best new performer:
+      nominee:
+      - tt0099000
+      - tt0100777
+      winner:
+      - tt0100144
+    best original film score:
+      nominee:
+      - tt0099000
+      - tt0099719
+      - tt0100144
+      - tt0100777
+      - tt0100973
+      winner:
+      - tt0098147
+    best original film song:
+      nominee:
+      - tt0098147
+      - tt0099719
+      - tt0100777
+      winner:
+      - tt0100973
+    best picture:
+      nominee:
+      - tt0098147
+      - tt0099000
+      - tt0099719
+      - tt0099927
+      winner:
+      - tt0101258
+    best screenplay:
+      nominee:
+      - tt0099000
+      - tt0099719
+      - tt0099927
+      - tt0101258
+      winner:
+      - tt0100144
+    best supporting actor:
+      nominee:
+      - nm0156484
+      - nm0232504
+      - nm0490614
+      - nm0628806
+      winner:
+      - nm0628806
+    best supporting actress:
+      nominee:
+      - nm0001041
+      - nm0155546
+      - nm0541203
+      - nm0659029
+      winner:
+      - nm0490602
+'1992':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0099558
+      - tt0102932
+      - tt0103044
+      - tt0104322
+      winner:
+      - tt0103285
+    best actor:
+      nominee:
+      - nm0000334
+      - nm0159507
+      - nm0490489
+      - nm0514998
+      winner:
+      - nm0874676
+    best actress:
+      nominee:
+      - nm0155546
+      - nm0156522
+      - nm0490500
+      - nm0611315
+      winner:
+      - nm0948112
+    best art direction:
+      nominee:
+      - tt0102068
+      - tt0102886
+      - tt0102932
+      - tt0103285
+      - tt0103292
+      winner:
+      - tt0104322
+    best cinematography:
+      nominee:
+      - tt0100910
+      - tt0102068
+      - tt0103285
+      - tt0103292
+      winner:
+      - tt0104322
+    best director:
+      nominee:
+      - nm0000247
+      - nm0013828
+      - nm0150906
+      - nm0690952
+      winner:
+      - nm0007139
+    best film editing:
+      nominee:
+      - tt0101020
+      - tt0101490
+      - tt0102932
+      - tt0104322
+      winner:
+      - tt0103285
+    best new performer:
+      nominee:
+      - tt0103306
+      - tt0110930
+      winner:
+      - tt0101463
+    best original film score:
+      nominee:
+      - tt0100910
+      - tt0102074
+      - tt0102891
+      - tt0102932
+      winner:
+      - tt0103285
+    best original film song:
+      nominee:
+      - tt0102068
+      - tt0102891
+      - tt0103314
+      - tt0108654
+      winner:
+      - tt0105398
+    best picture:
+      nominee:
+      - tt0101020
+      - tt0102074
+      - tt0103285
+      - tt0103292
+      winner:
+      - tt0101490
+    best screenplay:
+      nominee:
+      - tt0102074
+      - tt0102886
+      - tt0103045
+      - tt0103292
+      winner:
+      - tt0101490
+    best supporting actor:
+      nominee:
+      - nm0155587
+      - nm0156484
+      - nm0477209
+      - nm0628806
+      - nm0867242
+      winner:
+      - nm0477071
+    best supporting actress:
+      nominee:
+      - nm0263851
+      - nm0628731
+      - nm0946873
+      - nm0948112
+      winner:
+      - nm0409677
+'1993':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0103295
+      - tt0104558
+      - tt0104771
+      - tt0105859
+      winner:
+      - tt0105839
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0159507
+      - nm0381857
+      - nm0504899
+      winner:
+      - nm0504899
+    best actress:
+      nominee:
+      - nm0001041
+      - nm0510857
+      - nm0611315
+      - nm0946873
+      winner:
+      - nm0001041
+    best art direction:
+      nominee:
+      - tt0103295
+      - tt0104771
+      - tt0105839
+      - tt0107461
+      winner:
+      - tt0102816
+    best cinematography:
+      nominee:
+      - tt0100963
+      - tt0105839
+      - tt0105844
+      - tt0105859
+      winner:
+      - tt0102816
+    best costume & make up design:
+      nominee:
+      - tt0102816
+      - tt0103602
+      - tt0104771
+      - tt0105385
+      winner:
+      - tt0103295
+    best director:
+      nominee:
+      - nm0007139
+      - nm0150906
+      - nm0311508
+      - nm0477102
+      winner:
+      - nm0156448
+    best film editing:
+      nominee:
+      - tt0103295
+      - tt0104145
+      - tt0105839
+      - tt0105859
+      winner:
+      - tt0104684
+    best new performer:
+      nominee:
+      - tt0104245
+      - tt0105534
+      - tt0105839
+      - tt0326422
+      winner:
+      - tt0105864
+    best original film score:
+      nominee:
+      - tt0100963
+      - tt0103295
+      - tt0103602
+      - tt0105839
+      winner:
+      - tt0102816
+    best original film song:
+      nominee:
+      - tt0100963
+      - tt0103295
+      - tt0104939
+      winner:
+      - tt0102816
+    best picture:
+      nominee:
+      - tt0100963
+      - tt0102816
+      - tt0103602
+      - tt0105839
+      winner:
+      - tt0107461
+    best screenplay:
+      nominee:
+      - tt0100963
+      - tt0102816
+      - tt0103602
+      - tt0105385
+      winner:
+      - tt0107461
+    best supporting actor:
+      nominee:
+      - nm0504897
+      - nm0628757
+      - nm0938893
+      - nm0947447
+      winner:
+      - nm0514961
+    best supporting actress:
+      nominee:
+      - nm0409677
+      - nm0594909
+      - nm0939391
+      winner:
+      - nm0271787
+  special commemorative award:
+    special commemorative award:
+      winner:
+      - nm0628736
+'1994':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0105619
+      - tt0108148
+      - tt0108656
+      winner:
+      - tt0106936
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0490513
+      - nm0943099
+      winner:
+      - nm0938893
+    best actress:
+      nominee:
+      - nm0628731
+      - nm0796196
+      - nm0948154
+      winner:
+      - nm0950703
+    best art direction:
+      nominee:
+      - tt0106559
+      - tt0108335
+      - tt0108630
+      - tt0111770
+      winner:
+      - tt0106342
+    best cinematography:
+      nominee:
+      - tt0101644
+      - tt0108335
+      - tt0108337
+      - tt0108630
+      winner:
+      - tt0106342
+    best costume & make up design:
+      nominee:
+      - tt0105655
+      - tt0106559
+      - tt0106898
+      - tt0108630
+      - tt0111770
+      winner:
+      - tt0106342
+    best director:
+      nominee:
+      - nm0149216
+      - nm0151066
+      - nm0156871
+      - nm0492309
+      - nm0939202
+      winner:
+      - nm0232504
+    best film editing:
+      nominee:
+      - tt0106342
+      - tt0106936
+      - tt0108335
+      - tt0108592
+      winner:
+      - tt0108656
+    best new performer:
+      nominee:
+      - tt0106991
+      - tt0107266
+      - tt0107904
+      - tt0108335
+      winner:
+      - tt0108630
+    best original film score:
+      nominee:
+      - tt0105619
+      - tt0106232
+      - tt0106342
+      - tt0106559
+      - tt0111770
+      winner:
+      - tt0108630
+    best original film song:
+      nominee:
+      - tt0105619
+      - tt0106342
+      - tt0107904
+      - tt0111770
+      winner:
+      - tt0105619
+    best picture:
+      nominee:
+      - tt0106551
+      - tt0106898
+      - tt0108630
+      - tt0108656
+      winner:
+      - tt0111770
+    best screenplay:
+      nominee:
+      - tt0105381
+      - tt0106551
+      - tt0106898
+      - tt0107266
+      - tt0107984
+      winner:
+      - tt0111770
+    best supporting actor:
+      nominee:
+      - nm0155587
+      - nm0155593
+      - nm0497874
+      - nm0875275
+      - nm0938893
+      winner:
+      - nm0157971
+    best supporting actress:
+      nominee:
+      - nm0409677
+      - nm0492352
+      - nm0628731
+      - nm0948154
+      winner:
+      - nm0271787
+'1995':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0109688
+      - tt0110054
+      - tt0110200
+      - tt0111835
+      winner:
+      - tt0111512
+    best actor:
+      nominee:
+      - nm0000334
+      - nm0002000
+      - nm0156484
+      - nm0159507
+      - nm0467601
+      winner:
+      - nm0504897
+    best actress:
+      nominee:
+      - nm0001040
+      - nm0266638
+      - nm0481708
+      - nm0910947
+      - nm0943072
+      winner:
+      - nm0950703
+    best art direction:
+      nominee:
+      - tt0109424
+      - tt0109958
+      - tt0110053
+      - tt0110340
+      winner:
+      - tt0109688
+    best cinematography:
+      nominee:
+      - tt0108997
+      - tt0109424
+      - tt0110071
+      - tt0110980
+      winner:
+      - tt0109688
+    best costume & make up design:
+      nominee:
+      - tt0109958
+      - tt0110053
+      - tt0110340
+      - tt0111760
+      winner:
+      - tt0109688
+    best director:
+      nominee:
+      - nm0007139
+      - nm0150906
+      - nm0151066
+      - nm0939182
+      winner:
+      - nm0939182
+    best film editing:
+      nominee:
+      - tt0109688
+      - tt0109786
+      - tt0111512
+      - tt0111515
+      winner:
+      - tt0109424
+    best new performer:
+      nominee:
+      - tt0109786
+      - tt0109789
+      - tt0109958
+      - tt0111661
+      winner:
+      - tt0111739
+    best original film score:
+      nominee:
+      - tt0109424
+      - tt0109688
+      - tt0109958
+      - tt0110053
+      - tt0111739
+      winner:
+      - tt0110340
+    best original film song:
+      nominee:
+      - tt0109789
+      - tt0110053
+      - tt0111423
+      - tt0111661
+      winner:
+      - tt0109958
+    best picture:
+      nominee:
+      - tt0109688
+      - tt0109786
+      - tt0109958
+      - tt0111739
+      winner:
+      - tt0109424
+    best screenplay:
+      nominee:
+      - tt0109424
+      - tt0109688
+      - tt0109958
+      - tt0111661
+      winner:
+      - tt0111739
+    best supporting actor:
+      nominee:
+      - nm0150952
+      - nm0150987
+      - nm0156484
+      - nm0437630
+      - nm0467601
+      winner:
+      - nm0150952
+    best supporting actress:
+      nominee:
+      - nm0159513
+      - nm0298695
+      - nm0510950
+      - nm0628731
+      winner:
+      - nm0492350
+  lifetime achievement award:
+    lifetime achievement award:
+      winner:
+      - nm0939233
+'1996':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0112800
+      - tt0113153
+      - tt0113651
+      - tt0114126
+      winner:
+      - tt0113326
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0000334
+      - nm0159507
+      - nm0490489
+      winner:
+      - nm0152054
+    best actress:
+      nominee:
+      - nm0271787
+      - nm0611315
+      - nm0946873
+      - nm0948112
+      winner:
+      - nm0796196
+    best art direction:
+      nominee:
+      - tt0111767
+      - tt0112913
+      - tt0113292
+      - tt0113927
+      winner:
+      - tt0115016
+    best cinematography:
+      nominee:
+      - tt0112590
+      - tt0113292
+      - tt0113578
+      - tt0115016
+      winner:
+      - tt0112913
+    best costume & make up design:
+      nominee:
+      - tt0112800
+      - tt0112913
+      - tt0113292
+      - tt0113927
+      winner:
+      - tt0115016
+    best director:
+      nominee:
+      - nm0232504
+      - nm0864775
+      - nm0939182
+      - nm0948021
+      winner:
+      - nm0401176
+    best film editing:
+      nominee:
+      - tt0111767
+      - tt0112913
+      - tt0113326
+      - tt0115016
+      winner:
+      - tt0113651
+    best new performer:
+      nominee:
+      - tt0111767
+      - tt0112913
+      - tt0113326
+      - tt0113651
+      - tt0114998
+      winner:
+      - tt0112673
+    best original film score:
+      nominee:
+      - tt0113292
+      - tt0113351
+      - tt0114412
+      - tt0115016
+      winner:
+      - tt0112913
+    best original film song:
+      nominee:
+      - tt0113651
+      - tt0114998
+      - tt0115016
+      - tt0126942
+      winner:
+      - tt0113292
+    best picture:
+      nominee:
+      - tt0111424
+      - tt0112913
+      - tt0113326
+      - tt0113651
+      winner:
+      - tt0111767
+    best screenplay:
+      nominee:
+      - tt0112778
+      - tt0113651
+      - tt0114264
+      - tt0114996
+      winner:
+      - tt0111767
+    best supporting actor:
+      nominee:
+      - nm0150952
+      - nm0157759
+      - nm0467601
+      - nm0938990
+      winner:
+      - nm0437630
+    best supporting actress:
+      nominee:
+      - nm0351719
+      - nm0492350
+      - nm0948123
+      winner:
+      - nm0596297
+'1997':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0110463
+      - tt0115693
+      - tt0116312
+      - tt0117619
+      - tt0126839
+      winner:
+      - tt0116704
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0002000
+      - nm0481709
+      - nm0490513
+      - nm0939255
+      winner:
+      - nm0155587
+    best actress:
+      nominee:
+      - nm0000084
+      - nm0510950
+      - nm0596297
+      - nm0796196
+      winner:
+      - nm0001041
+    best art direction:
+      nominee:
+      - tt0115693
+      - tt0116295
+      - tt0116462
+      - tt0117619
+      winner:
+      - tt0117905
+    best cinematography:
+      nominee:
+      - tt0116295
+      - tt0116820
+      - tt0117619
+      - tt0126839
+      winner:
+      - tt0117905
+    best costume & make up design:
+      nominee:
+      - tt0115693
+      - tt0116462
+      - tt0117619
+      - tt0117643
+      winner:
+      - tt0117905
+    best director:
+      nominee:
+      - nm0150802
+      - nm0158427
+      - nm0232504
+      - nm0477274
+      - nm0795511
+      winner:
+      - nm0151066
+    best film editing:
+      nominee:
+      - tt0116312
+      - tt0116576
+      - tt0116704
+      - tt0116820
+      winner:
+      - tt0126839
+    best new performer:
+      nominee:
+      - tt0116462
+      - tt0116576
+      - tt0116704
+      - tt0117905
+      winner:
+      - tt0117575
+    best original film score:
+      nominee:
+      - tt0113724
+      - tt0116902
+      - tt0117575
+      - tt0126839
+      winner:
+      - tt0117905
+    best original film song:
+      nominee:
+      - tt0116462
+      - tt0117575
+      - tt0126801
+      winner:
+      - tt0117904
+    best picture:
+      nominee:
+      - tt0116576
+      - tt0116704
+      - tt0117575
+      - tt0126839
+      winner:
+      - tt0117905
+    best screenplay:
+      nominee:
+      - tt0116576
+      - tt0117242
+      - tt0117243
+      - tt0117904
+      - tt0127360
+      winner:
+      - tt0117905
+    best supporting actor:
+      nominee:
+      - nm0150952
+      - nm0482970
+      - nm0875275
+      - nm0938893
+      - nm0945189
+      winner:
+      - nm0874676
+    best supporting actress:
+      nominee:
+      - nm0492350
+      - nm0492352
+      - nm0498350
+      - nm0950703
+      winner:
+      - nm0795517
+'1998':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0117786
+      - tt0120115
+      - tt0120530
+      - tt0156588
+      winner:
+      - tt0156998
+    best actor:
+      nominee:
+      - nm0002000
+      - nm0490513
+      - nm0504899
+      - nm0874860
+      winner:
+      - nm0504897
+    best actress:
+      nominee:
+      - nm0490500
+      - nm0795517
+      - nm0837282
+      - nm0943072
+      winner:
+      - nm0001041
+    best art direction:
+      nominee:
+      - tt0118845
+      - tt0127468
+      - tt0156588
+      - tt0156998
+      winner:
+      - tt0120164
+    best cinematography:
+      nominee:
+      - tt0118845
+      - tt0120541
+      - tt0127468
+      - tt0156998
+      winner:
+      - tt0120164
+    best costume & make up design:
+      nominee:
+      - tt0118845
+      - tt0119818
+      - tt0127468
+      - tt0156998
+      winner:
+      - tt0120164
+    best director:
+      nominee:
+      - nm0156520
+      - nm0482681
+      - nm0864775
+      - nm0939182
+      winner:
+      - nm0150897
+    best film editing:
+      nominee:
+      - tt0118845
+      - tt0123328
+      - tt0134664
+      - tt0156998
+      winner:
+      - tt0120115
+    best new performer:
+      nominee:
+      - tt0120115
+      - tt0156496
+      - tt0156998
+      - tt0159506
+      winner:
+      - tt0123328
+    best original film score:
+      nominee:
+      - tt0120541
+      - tt0127468
+      - tt0146745
+      - tt0156998
+      winner:
+      - tt0120164
+    best original film song:
+      nominee:
+      - tt0116785
+      - tt0127468
+      - tt0128907
+      - tt0156588
+      winner:
+      - tt0159506
+    best picture:
+      nominee:
+      - tt0118845
+      - tt0120115
+      - tt0120164
+      - tt0134664
+      winner:
+      - tt0123328
+    best screenplay:
+      nominee:
+      - tt0120164
+      - tt0120541
+      - tt0123328
+      - tt0156588
+      winner:
+      - tt0134836
+    best sound design:
+      nominee:
+      - tt0120164
+      - tt0134664
+      - tt0156588
+      - tt0156998
+      winner:
+      - tt0120115
+    best supporting actor:
+      nominee:
+      - nm0151654
+      - nm0437630
+      - nm0690932
+      - nm0874676
+      winner:
+      - nm0422638
+    best supporting actress:
+      nominee:
+      - nm0000706
+      - nm0157805
+      - nm0498350
+      winner:
+      - nm0611315
+  special award:
+    special award:
+      winner:
+      - nm0159201
+'1999':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0163818
+      - tt0165499
+      - tt0180685
+      - tt0181582
+      winner:
+      - tt0127357
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0002002
+      - nm0481709
+      - nm0490513
+      - nm0504897
+      winner:
+      - nm0938893
+    best actress:
+      nominee:
+      - nm0504939
+      - nm0795517
+      - nm0946873
+      - nm0950703
+      winner:
+      - nm0510950
+    best art direction:
+      nominee:
+      - tt0144029
+      - tt0159251
+      - tt0165499
+      - tt0179110
+      winner:
+      - tt0169929
+    best cinematography:
+      nominee:
+      - tt0144029
+      - tt0159251
+      - tt0165499
+      - tt0179110
+      winner:
+      - tt0169929
+    best costume & make up design:
+      nominee:
+      - tt0159251
+      - tt0169929
+      - tt0176809
+      - tt0179110
+      winner:
+      - tt0165499
+    best director:
+      nominee:
+      - nm0150897
+      - nm0156520
+      - nm0477102
+      - nm0946883
+      winner:
+      - nm0150906
+      - nm0482592
+    best film editing:
+      nominee:
+      - tt0127357
+      - tt0157366
+      - tt0168043
+      - tt0181582
+      winner:
+      - tt0165499
+    best new performer:
+      nominee:
+      - tt0159432
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0168264
+    best original film score:
+      nominee:
+      - tt0144029
+      - tt0159251
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0165499
+    best original film song:
+      nominee:
+      - tt0165499
+      - tt0165998
+      - tt0189660
+      winner:
+      - tt0179110
+    best picture:
+      nominee:
+      - tt0127357
+      - tt0165499
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0157366
+    best screenplay:
+      nominee:
+      - tt0159432
+      - tt0168043
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0157366
+    best sound design:
+      nominee:
+      - tt0127357
+      - tt0157366
+      - tt0179110
+      - tt0181582
+      winner:
+      - tt0165499
+    best supporting actor:
+      nominee:
+      - nm0156496
+      - nm0284533
+      - nm0498189
+      - nm0874676
+      winner:
+      - nm0848377
+    best supporting actress:
+      nominee:
+      - nm0154726
+      - nm0496797
+      - nm0795517
+      - nm0946015
+      winner:
+      - nm0795517
+'2000':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0184526
+      - tt0203672
+      - tt0206334
+      - tt0220644
+      winner:
+      - tt0226693
+    best actor:
+      nominee:
+      - nm0490513
+      - nm0628757
+      - nm0874676
+      - nm0938893
+      winner:
+      - nm0490489
+    best actress:
+      nominee:
+      - nm0156444
+      - nm0409677
+      - nm0497782
+      - nm0504942
+      winner:
+      - nm0492352
+    best art direction:
+      nominee:
+      - tt0189954
+      - tt0206334
+      - tt0215240
+      - tt0228048
+      winner:
+      - tt0226693
+    best cinematography:
+      nominee:
+      - tt0206334
+      - tt0213314
+      - tt0224345
+      - tt0228048
+      winner:
+      - tt0226693
+    best costume & make up design:
+      nominee:
+      - tt0203672
+      - tt0206334
+      - tt0215240
+      - tt0228048
+      winner:
+      - tt0226693
+    best director:
+      nominee:
+      - nm0151827
+      - nm0401176
+      - nm0482681
+      - nm0864775
+      winner:
+      - nm0864775
+    best film editing:
+      nominee:
+      - tt0206334
+      - tt0216165
+      - tt0220644
+      - tt0234116
+      winner:
+      - tt0226693
+    best new performer:
+      nominee:
+      - tt0170626
+      - tt0188766
+      - tt0213314
+      - tt0234116
+      winner:
+      - tt0213314
+    best original film score:
+      nominee:
+      - tt0203672
+      - tt0220644
+      - tt0226693
+      - tt0234116
+      winner:
+      - tt0213314
+    best original film song:
+      nominee:
+      - tt0203672
+      - tt0213314
+      - tt0228048
+      - tt0234116
+      winner:
+      - tt0213314
+    best picture:
+      nominee:
+      - tt0213314
+      - tt0216165
+      - tt0220644
+      - tt0234116
+      winner:
+      - tt0189954
+    best screenplay:
+      nominee:
+      - tt0189954
+      - tt0216165
+      - tt0228048
+      - tt0234116
+      winner:
+      - tt0215240
+    best sound design:
+      nominee:
+      - tt0203672
+      - tt0206334
+      - tt0214555
+      - tt0224345
+      winner:
+      - tt0226693
+    best supporting actor:
+      nominee:
+      - nm0156554
+      - nm0401208
+      - nm0482695
+      - nm0874860
+      winner:
+      - nm0862479
+    best supporting actress:
+      nominee:
+      - nm0157805
+      - nm0387319
+      - nm0667978
+      winner:
+      - nm0628731
+'2001':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0233600
+      - tt0251094
+      - tt0251433
+      - tt0266408
+      winner:
+      - tt0190332
+    best actor:
+      nominee:
+      - nm0000334
+      - nm0490489
+      - nm0504899
+      - nm0628757
+      winner:
+      - nm0504897
+    best actress:
+      nominee:
+      - nm0000706
+      - nm0155618
+      - nm0702656
+      - nm0955471
+      winner:
+      - nm0001041
+    best art direction:
+      nominee:
+      - tt0190332
+      - tt0255327
+      - tt0259741
+      - tt0274626
+      winner:
+      - tt0118694
+    best cinematography:
+      nominee:
+      - tt0118694
+      - tt0259741
+      - tt0274626
+      - tt0277558
+      winner:
+      - tt0190332
+    best costume & make up design:
+      nominee:
+      - tt0190332
+      - tt0233600
+      - tt0251094
+      - tt0274626
+      winner:
+      - tt0118694
+    best director:
+      nominee:
+      - nm0150897
+      - nm0864775
+      - nm0906413
+      - nm0939182
+      - nm0948159
+      winner:
+      - nm0000487
+    best film editing:
+      nominee:
+      - tt0190332
+      - tt0233600
+      - tt0251433
+      - tt0277558
+      winner:
+      - tt0118694
+    best new performer:
+      nominee:
+      - tt0118694
+      - tt0251094
+      - tt0251433
+      - tt0266408
+      - tt0282159
+      winner:
+      - tt0255327
+    best original film score:
+      nominee:
+      - tt0118694
+      - tt0251433
+      - tt0259741
+      - tt0274626
+      winner:
+      - tt0190332
+    best original film song:
+      nominee:
+      - tt0244092
+      - tt0259741
+      - tt0274626
+      - tt0282159
+      winner:
+      - tt0190332
+    best picture:
+      nominee:
+      - tt0118694
+      - tt0244092
+      - tt0255327
+      - tt0266703
+      winner:
+      - tt0190332
+    best screenplay:
+      nominee:
+      - tt0118694
+      - tt0190332
+      - tt0244092
+      - tt0266703
+      winner:
+      - tt0255327
+    best sound design:
+      nominee:
+      - tt0251094
+      - tt0251433
+      - tt0258489
+      - tt0266408
+      winner:
+      - tt0190332
+    best supporting actor:
+      nominee:
+      - nm0150873
+      - nm0151654
+      - nm0156558
+      - nm0945189
+      winner:
+      - nm0628757
+    best supporting actress:
+      nominee:
+      - nm0504942
+      - nm0516284
+      - nm0594909
+      - tt0118694
+      winner:
+      - nm0155607
+  professional achievement award:
+    professional achievement award:
+      winner:
+      - nm0950759
+'2002':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0260136
+      - tt0286098
+      - tt0286112
+      - tt0295461
+      winner:
+      - tt0271946
+    best actor:
+      nominee:
+      - nm0156484
+      - nm0432425
+      - nm0490489
+      - nm1091782
+      winner:
+      - nm0159507
+    best actress:
+      nominee:
+      - nm0155618
+      - nm0611315
+      winner:
+      - nm0151827
+    best art direction:
+      nominee:
+      - tt0272362
+      - tt0286098
+      - tt0292066
+      - tt0312886
+      winner:
+      - tt0279523
+    best asian film:
+      nominee:
+      - tt0215369
+      - tt0220507
+      - tt0244316
+      - tt0304641
+      winner:
+      - tt0245429
+    best cinematography:
+      nominee:
+      - tt0279523
+      - tt0286112
+      - tt0292066
+      - tt0312412
+      winner:
+      - tt0287811
+    best costume & make up design:
+      nominee:
+      - tt0272362
+      - tt0286098
+      - tt0286112
+      - tt0292066
+      winner:
+      - tt0279523
+    best director:
+      nominee:
+      - nm0401176
+      - nm0477102
+      - nm0864775
+      - nm0906413
+      winner:
+      - nm0159507
+    best film editing:
+      nominee:
+      - tt0286098
+      - tt0286112
+      - tt0286635
+      - tt0292066
+      winner:
+      - tt0271946
+    best new performer:
+      nominee:
+      - tt0279697
+      - tt0312563
+      - tt0313579
+      - tt0313812
+      winner:
+      - tt0312886
+    best original film score:
+      nominee:
+      - tt0286112
+      - tt0292066
+      - tt0300197
+      - tt0312412
+      winner:
+      - tt0312941
+    best original film song:
+      nominee:
+      - tt0279523
+      - tt0286112
+      - tt0293895
+      - tt0312412
+      winner:
+      - tt0286797
+    best picture:
+      nominee:
+      - tt0286797
+      - tt0292066
+      - tt0312412
+      - tt0312886
+      winner:
+      - tt0286112
+    best screenplay:
+      nominee:
+      - tt0286112
+      - tt0292066
+      - tt0312563
+      - tt0312932
+      winner:
+      - tt0312886
+    best sound design:
+      nominee:
+      - tt0271946
+      - tt0286098
+      - tt0287811
+      - tt0312412
+      winner:
+      - tt0286112
+    best supporting actor:
+      nominee:
+      - nm0482628
+      - nm0497126
+      - nm0848377
+      - nm0945189
+      winner:
+      - nm0939431
+    best supporting actress:
+      nominee:
+      - nm0387319
+      - nm0401192
+      - nm0948112
+      - nm1092651
+      winner:
+      - tt0312886
+    best visual effects:
+      nominee:
+      - tt0260136
+      - tt0271946
+      - tt0286098
+      - tt0294251
+      winner:
+      - tt0286112
+'2003':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0282860
+      - tt0293660
+      - tt0300620
+      - tt0338564
+      winner:
+      - tt0299977
+    best actor:
+      nominee:
+      - nm0002000
+      - nm0481709
+      - nm0490489
+      - nm0504899
+      winner:
+      - nm0504897
+    best actress:
+      nominee:
+      - nm0001041
+      - nm0510950
+      - nm0910947
+      - nm1157324
+      winner:
+      - nm0496806
+    best art direction:
+      nominee:
+      - tt0284066
+      - tt0311913
+      - tt0324242
+      - tt0354593
+      winner:
+      - tt0299977
+    best asian film:
+      nominee:
+      - tt0260991
+      - tt0287934
+      - tt0307681
+      - tt0312841
+      winner:
+      - tt0293715
+    best cinematography:
+      nominee:
+      - tt0284066
+      - tt0293660
+      - tt0324242
+      - tt0338564
+      winner:
+      - tt0299977
+    best costumes/make up:
+      nominee:
+      - tt0290654
+      - tt0311913
+      - tt0338564
+      - tt0354593
+      winner:
+      - tt0299977
+    best director:
+      nominee:
+      - nm0150897
+      - nm0151066
+      - nm0492305
+      - nm0955443
+      winner:
+      - nm0490487
+      - nm0538320
+    best film editing:
+      nominee:
+      - tt0284066
+      - tt0299977
+      - tt0324242
+      - tt0325655
+      winner:
+      - tt0338564
+    best music:
+      nominee:
+      - tt0290654
+      - tt0311913
+      - tt0324242
+      - tt0338564
+      winner:
+      - tt0299977
+    best new performer:
+      nominee:
+      - tt0290654
+      - tt0341129
+      - tt0348448
+      - tt0354498
+      winner:
+      - tt0324242
+    best original film song:
+      nominee:
+      - tt0282860
+      - tt0299977
+      - tt0329784
+      - tt0347230
+      winner:
+      - tt0338564
+    best picture:
+      nominee:
+      - tt0290654
+      - tt0299977
+      - tt0324242
+      - tt0354593
+      winner:
+      - tt0338564
+    best screenplay:
+      nominee:
+      - tt0284066
+      - tt0290654
+      - tt0299977
+      - tt0324242
+      winner:
+      - tt0338564
+    best sound:
+      nominee:
+      - tt0316023
+      - tt0324242
+      - tt0325655
+      - tt0338564
+      winner:
+      - tt0299977
+    best supporting actor:
+      nominee:
+      - nm0864779
+      - nm0874676
+      - nm0938893
+      winner:
+      - nm0938893
+    best supporting actress:
+      nominee:
+      - nm0948112
+      - nm0955471
+      - nm1067699
+      - tt0354593
+      winner:
+      - nm0515002
+    best visual effects:
+      nominee:
+      - tt0282860
+      - tt0284066
+      - tt0325655
+      - tt0338564
+      winner:
+      - tt0299977
+'2004':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0288045
+      - tt0374184
+      - tt0378773
+      - tt0379985
+      winner:
+      - tt0351887
+    best actor:
+      nominee:
+      - nm0156484
+      - nm0490513
+      - nm0628757
+      - nm0945189
+      winner:
+      - nm0490489
+    best actress:
+      nominee:
+      - nm0156444
+      - nm0490500
+      - nm0510950
+      - nm1157324
+      winner:
+      - nm0156444
+    best art direction:
+      nominee:
+      - tt0367174
+      - tt0374184
+      - tt0377923
+      - tt0396030
+      winner:
+      - tt0351887
+    best asian film:
+      nominee:
+      - tt0291032
+      - tt0332639
+      - tt0333764
+      - tt0348568
+      winner:
+      - tt0351817
+    best cinematography:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374339
+      - tt0379985
+      winner:
+      - tt0377923
+    best costume design and make up:
+      nominee:
+      - tt0367174
+      - tt0374184
+      - tt0377923
+      - tt0396030
+      winner:
+      - tt0351887
+    best director:
+      nominee:
+      - nm0150802
+      - nm0232504
+      - nm0490487
+      - nm0538320
+      - nm0864775
+      - nm0906413
+      winner:
+      - nm0864775
+    best film editing:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374184
+      - tt0374339
+      winner:
+      - tt0351887
+    best new artist:
+      nominee:
+      - tt0378773
+      - tt0379874
+      - tt0389845
+      - tt0390272
+      winner:
+      - tt0378773
+    best new director:
+      nominee:
+      - nm0481674
+      - nm1205568
+      winner:
+      - nm1001051
+    best original film score:
+      nominee:
+      - tt0250638
+      - tt0367174
+      - tt0369060
+      - tt0374339
+      winner:
+      - tt0390272
+    best original film song:
+      nominee:
+      - tt0366371
+      - tt0367174
+      - tt0374184
+      - tt0390272
+      winner:
+      - tt0369060
+    best picture:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374339
+      - tt0390272
+      winner:
+      - tt0374184
+    best screenplay:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374339
+      - tt0390272
+      winner:
+      - tt0374184
+    best sound effects:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374184
+      - tt0374339
+      winner:
+      - tt0351887
+    best supporting actor:
+      nominee:
+      - nm0155617
+      - nm0156567
+      - nm0514961
+      - nm0864779
+      winner:
+      - nm0504899
+    best supporting actress:
+      nominee:
+      - nm0387319
+      - nm0516284
+      - nm0667978
+      - nm0803308
+      winner:
+      - nm0387319
+    best visual effects:
+      nominee:
+      - tt0250638
+      - tt0288045
+      - tt0374184
+      - tt0374339
+      winner:
+      - tt0351887
+'2005':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0386005
+      - tt0398373
+      - tt0415380
+      - tt0430772
+      winner:
+      - tt0373074
+    best actor:
+      nominee:
+      - nm0000329
+      - nm0159507
+      - nm0284533
+      - nm0943079
+      winner:
+      - nm0504897
+    best actress:
+      nominee:
+      - nm0151827
+      - nm0156444
+      - nm1157324
+      - nm1228408
+      winner:
+      - nm0955471
+    best art direction:
+      nominee:
+      - nm0354008
+      - nm0938956
+      - tt0373074
+      - tt0415080
+      - tt0420251
+      - tt0436833
+      winner:
+      - tt0212712
+    best asian film:
+      nominee:
+      - tt0363226
+      - tt0385004
+      - tt0400761
+      - tt0439884
+      winner:
+      - tt0364569
+    best cinematography:
+      nominee:
+      - nm0236313
+      - tt0373074
+      - tt0386590
+      - tt0420251
+      - tt0430772
+      winner:
+      - tt0212712
+    best costume design and make up:
+      nominee:
+      - tt0373074
+      - tt0398373
+      - tt0415080
+      - tt0436833
+      winner:
+      - tt0212712
+    best director:
+      nominee:
+      - nm0150802
+      - nm0159507
+      - nm0864775
+      - nm0939182
+      winner:
+      - nm0232504
+    best film editing:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0414931
+      - tt0430772
+      winner:
+      - tt0373074
+    best new artist:
+      nominee:
+      - tt0373074
+      - tt0398373
+      - tt0434762
+      - tt0436833
+      winner:
+      - tt0440939
+    best new director:
+      nominee:
+      - nm1205568
+      - nm1211088
+      winner:
+      - nm1494662
+    best new performer:
+      nominee:
+      - tt0436833
+    best original film score:
+      nominee:
+      - tt0373074
+      - tt0386590
+      - tt0430772
+      - tt0436833
+      winner:
+      - tt0212712
+    best original film song:
+      nominee:
+      - tt0386590
+      - tt0396735
+      - tt0415872
+      - tt0440842
+      winner:
+      - tt0419954
+    best original score:
+      nominee:
+      - tt0436833
+    best picture:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0414931
+      - tt0430772
+      winner:
+      - tt0373074
+    best screenplay:
+      nominee:
+      - nm0497762
+      - tt0212712
+      - tt0373074
+      - tt0420251
+      - tt0440003
+      winner:
+      - tt0430772
+    best sound effects:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0408970
+      - tt0430772
+      winner:
+      - tt0373074
+    best supporting actor:
+      nominee:
+      - nm0504899
+      - nm0943079
+      - nm1167890
+      - nm2185928
+      winner:
+      - nm0950757
+    best supporting actress:
+      nominee:
+      - nm0000499
+      - nm0398883
+      - nm0516284
+      - nm0803308
+      - nm1329115
+      winner:
+      - nm0000499
+    best visual effects:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0398373
+      - tt0434762
+      winner:
+      - tt0373074
+  professional achievement award:
+    professional achievement award:
+      winner:
+      - nm0000329
 '2006':
   hong kong film award:
     best action choreography:
@@ -2202,6 +5099,157 @@
     professional achievement award:
       winner:
       - nm1303282
+'2020':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt10295602
+      - tt10508838
+      - tt11076480
+      - tt8239806
+      winner:
+      - tt2076298
+    best actor:
+      nominee:
+      - nm0465503
+      - nm0477209
+      - nm3725393
+      - nm3846586
+      winner:
+      - nm0156495
+    best actress:
+      nominee:
+      - nm0155618
+      - nm1413739
+      - nm9193136
+      winner:
+      - nm4082296
+    best art direction:
+      nominee:
+      - tt10117402
+      - tt11076480
+      - tt2076298
+      - tt9586294
+      winner:
+      - tt10551420
+    best asian chinese language film:
+      nominee:
+      - tt10805432
+      - tt6864046
+      winner:
+      - tt8020896
+    best cinematography:
+      nominee:
+      - tt10551420
+      - tt11076480
+      - tt11810546
+      - tt2076298
+      winner:
+      - tt9586294
+    best costume & make up design:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt10975520
+      - tt2076298
+      winner:
+      - tt9586294
+    best director:
+      nominee:
+      - nm0948159
+      - nm1040773
+      - nm1794148
+      - nm6257847
+      winner:
+      - nm1229124
+    best film editing:
+      nominee:
+      - tt10975520
+      - tt11070230
+      - tt11076480
+      - tt9586294
+      winner:
+      - tt2076298
+    best new director:
+      nominee:
+      - nm2651387
+      - nm2798536
+      - nm4591002
+      - nm8301057
+      winner:
+      - nm3925655
+    best new performer:
+      nominee:
+      - tt10975520
+      - tt11810546
+      - tt2076298
+      - tt9368628
+      winner:
+      - tt9586294
+    best original film score:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt2076298
+      - tt9586294
+      winner:
+      - tt11070230
+    best original film song:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt11070230
+      - tt8239806
+      winner:
+      - tt9586294
+    best picture:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt10975520
+      - tt9368628
+      winner:
+      - tt9586294
+    best screenplay:
+      nominee:
+      - tt10551420
+      - tt10975520
+      - tt11070230
+      - tt11810546
+      winner:
+      - tt9586294
+    best sound design:
+      nominee:
+      - tt10218664
+      - tt10551420
+      - tt11810546
+      - tt8239806
+      winner:
+      - tt2076298
+    best supporting actor:
+      nominee:
+      - nm0422623
+      - nm0504973
+      - nm3256497
+      - nm5242231
+      winner:
+      - nm0156579
+    best supporting actress:
+      nominee:
+      - nm0667978
+      - nm1218953
+      - nm2082146
+      - nm2598196
+      winner:
+      - nm3697267
+    best visual effects:
+      nominee:
+      - tt10218664
+      - tt10218674
+      - tt10295602
+      - tt10508838
+      winner:
+      - tt8239806
 '2022':
   hong kong film award:
     best action choreography:

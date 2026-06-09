@@ -1,4 +1,916 @@
 # Critics Choice Awards
+'1996':
+  critics choice award:
+    best actor:
+      nominee:
+      - nm0000115
+      winner:
+      - nm0000102
+    best actress:
+      nominee:
+      - nm0000668
+      winner:
+      - nm0000173
+    best director:
+      nominee:
+      - nm0000165
+      winner:
+      - nm0000154
+    best documentary:
+      winner:
+      - tt0109508
+    best family film:
+      winner:
+      - tt0112431
+    best foreign-language film:
+      winner:
+      - tt0110877
+    best picture:
+      nominee:
+      - tt0112384
+      winner:
+      - tt0114388
+    best screenplay:
+      winner:
+      - tt0114388
+    best supporting actor:
+      winner:
+      - nm0000228
+      - nm0000438
+    best supporting actress:
+      winner:
+      - nm0000227
+'1997':
+  critics choice award:
+    best actor:
+      nominee:
+      - nm0000129
+      winner:
+      - nm0001691
+    best actress:
+      nominee:
+      - nm0000473
+      winner:
+      - nm0000531
+    best child performance:
+      nominee:
+      - tt0116329
+      winner:
+      - tt0116695
+    best director:
+      nominee:
+      - nm0001054
+      winner:
+      - nm0005237
+    best documentary:
+      nominee:
+      - tt0117040
+      winner:
+      - tt0118147
+    best family film:
+      nominee:
+      - tt0115433
+      winner:
+      - tt0116329
+    best foreign-language film:
+      nominee:
+      - tt0112769
+      winner:
+      - tt0117477
+    best picture:
+      nominee:
+      - tt0115678
+      - tt0115988
+      - tt0116209
+      - tt0116250
+      - tt0116477
+      - tt0116695
+      - tt0116905
+      - tt0117318
+      - tt0117631
+      winner:
+      - tt0116282
+    best screenplay:
+      nominee:
+      - tt0116282
+      winner:
+      - tt0116209
+    best supporting actor:
+      nominee:
+      - nm0000249
+      - nm0001570
+      winner:
+      - nm0000421
+    best supporting actress:
+      nominee:
+      - nm0001482
+      winner:
+      - nm0000260
+    breakthrough artist:
+      winner:
+      - tt0116695
+  lifetime achievement award:
+    lifetime achievement award:
+      winner:
+      - nm0000002
+'1998':
+  critics choice award:
+    best actor:
+      winner:
+      - nm0000197
+    best actress:
+      winner:
+      - nm0000307
+    best child performance:
+      winner:
+      - tt0119080
+    best director:
+      winner:
+      - nm0000116
+    best documentary:
+      winner:
+      - tt0118540
+    best family film:
+      winner:
+      - tt0118617
+    best foreign-language film:
+      winner:
+      - tt0117615
+    best picture:
+      nominee:
+      - tt0118607
+      - tt0118749
+      - tt0119008
+      - tt0119164
+      - tt0119217
+      - tt0119822
+      - tt0120338
+      - tt0120520
+      - tt0120885
+      winner:
+      - tt0119488
+    best picture made for television:
+      winner:
+      - tt0119838
+    best screenplay, adapted:
+      winner:
+      - tt0119488
+    best screenplay, original:
+      winner:
+      - tt0119217
+    best supporting actor:
+      winner:
+      - nm0000164
+    best supporting actress:
+      winner:
+      - nm0000349
+    breakthrough artist:
+      winner:
+      - tt0119217
+  lifetime achievement award:
+    lifetime achievement award:
+      winner:
+      - nm0936404
+'1999':
+  critics choice award:
+    best actor:
+      winner:
+      - nm0005212
+    best actress:
+      winner:
+      - nm0000949
+    best animated film:
+      winner:
+      - tt0120623
+      - tt0120794
+    best director:
+      winner:
+      - nm0000229
+    best documentary:
+      winner:
+      - tt0141986
+    best family film:
+      winner:
+      - tt0120623
+    best foreign-language film:
+      winner:
+      - tt0118799
+    best picture:
+      nominee:
+      - tt0118799
+      - tt0120324
+      - tt0120382
+      - tt0120684
+      - tt0120780
+      - tt0120789
+      - tt0120863
+      - tt0127536
+      - tt0138097
+      winner:
+      - tt0120815
+    best picture made for television:
+      winner:
+      - tt0120570
+    best score:
+      winner:
+      - tt0120815
+    best screenplay, adapted:
+      winner:
+      - tt0120324
+    best screenplay, original:
+      winner:
+      - tt0138097
+    best song:
+      winner:
+      - tt0120794
+    best supporting actor:
+      winner:
+      - nm0000671
+    best supporting actress:
+      winner:
+      - nm0000260
+      - nm0000870
+    breakthrough artist:
+      winner:
+      - tt0127536
+      - tt0138097
+'2000':
+  critics choice award:
+    best actor:
+      winner:
+      - nm0000128
+    best actress:
+      winner:
+      - nm0005476
+    best animated film:
+      winner:
+      - tt0120363
+    best child performance:
+      winner:
+      - tt0167404
+    best director:
+      winner:
+      - nm0005222
+    best family film:
+      winner:
+      - tt0132477
+    best feature documentary:
+      winner:
+      - tt0186508
+    best foreign-language film:
+      winner:
+      - tt0185125
+    best picture:
+      nominee:
+      - tt0120188
+      - tt0120601
+      - tt0120689
+      - tt0124315
+      - tt0125664
+      - tt0134119
+      - tt0140352
+      - tt0167404
+      - tt0175880
+      winner:
+      - tt0169547
+    best score:
+      winner:
+      - tt0134119
+    best screenplay, adapted:
+      winner:
+      - tt0120689
+    best screenplay, original:
+      winner:
+      - tt0169547
+    best song:
+      winner:
+      - tt0166943
+    best supporting actor:
+      winner:
+      - nm0003817
+    best supporting actress:
+      winner:
+      - nm0001401
+    breakthrough artist:
+      winner:
+      - tt0120188
+      - tt0120601
+'2001':
+  alan j. pakula award:
+    alan j. pakula award:
+      winner:
+      - tt0208874
+  critics choice award:
+    best actor:
+      nominee:
+      - nm0001691
+      winner:
+      - nm0000128
+    best actress:
+      nominee:
+      - nm0001473
+      winner:
+      - nm0000210
+    best animated feature:
+      nominee:
+      - tt0120910
+      - tt0120917
+      - tt0130623
+      - tt0213203
+    best animated film:
+      winner:
+      - tt0120630
+    best child performance:
+      winner:
+      - tt0249462
+    best cinematography:
+      winner:
+      - tt0172495
+    best director:
+      nominee:
+      - nm0000631
+      winner:
+      - nm0001752
+    best family film:
+      winner:
+      - tt0156812
+    best feature documentary:
+      winner:
+      - tt0208261
+    best foreign-language film:
+      winner:
+      - tt0190332
+    best inanimate object:
+      winner:
+      - tt0162222
+    best picture:
+      nominee:
+      - tt0146309
+      - tt0162222
+      - tt0180073
+      - tt0181865
+      - tt0181875
+      - tt0185014
+      - tt0190332
+      - tt0195685
+      - tt0203230
+      - tt0249462
+      winner:
+      - tt0172495
+    best production design:
+      winner:
+      - tt0172495
+    best score:
+      winner:
+      - tt0120755
+      - tt0138749
+      - tt0172495
+    best screenplay, adapted:
+      winner:
+      - tt0181865
+      - tt0185014
+    best screenplay, original:
+      winner:
+      - tt0181875
+    best song:
+      winner:
+      - tt0120917
+    best supporting actor:
+      nominee:
+      - nm0001125
+      winner:
+      - nm0001618
+    best supporting actress:
+      nominee:
+      - nm0005028
+      winner:
+      - nm0000531
+    breakthrough artist:
+      winner:
+      - tt0181875
+'2002':
+  critics choice award:
+    best acting ensemble:
+      nominee:
+      - tt0240772
+      - tt0265666
+      winner:
+      - tt0280707
+    best actor:
+      nominee:
+      - nm0000226
+      - nm0000576
+      winner:
+      - nm0000128
+    best actor in a picture made for television:
+      nominee:
+      - nm0000279
+      - nm0001608
+      winner:
+      - nm0290556
+    best actress:
+      nominee:
+      - nm0000173
+      - nm0000250
+      winner:
+      - nm0000651
+    best actress in a picture made for television:
+      nominee:
+      - nm0000161
+      - nm0000668
+      winner:
+      - nm0001114
+    best animated film:
+      nominee:
+      - tt0198781
+      - tt0243017
+      winner:
+      - tt0126029
+    best composer:
+      nominee:
+      - tt0120824
+      - tt0212720
+      - tt0241527
+      winner:
+      - tt0120737
+    best director:
+      nominee:
+      - nm0001392
+      winner:
+      - nm0000165
+      - nm0525303
+    best family film - live action:
+      nominee:
+      - tt0227538
+      - tt0247638
+      winner:
+      - tt0241527
+    best foreign-language film:
+      nominee:
+      - tt0118694
+      - tt0283509
+      winner:
+      - tt0211915
+    best picture:
+      nominee:
+      - tt0120737
+      - tt0120824
+      - tt0126029
+      - tt0166924
+      - tt0203009
+      - tt0209144
+      - tt0243133
+      - tt0247425
+      - tt0248667
+      winner:
+      - tt0268978
+    best picture made for television:
+      nominee:
+      - tt0185906
+      - tt0244353
+      winner:
+      - tt0250581
+    best screenplay:
+      nominee:
+      - tt0243133
+      - tt0268978
+      winner:
+      - tt0209144
+    best song:
+      nominee:
+      - tt0035423
+      - tt0213149
+      winner:
+      - tt0120737
+      - tt0259711
+    best supporting actor:
+      nominee:
+      - nm0000685
+      - nm0000980
+      winner:
+      - nm0001426
+    best supporting actress:
+      nominee:
+      - nm0000139
+      - nm0000673
+      winner:
+      - nm0000124
+    best young actor/actress:
+      nominee:
+      - nm0005286
+      - nm0705356
+      winner:
+      - nm0266824
+'2003':
+  critics choice award:
+    best acting ensemble:
+      nominee:
+      - tt0259446
+      - tt0274558
+      winner:
+      - tt0299658
+    best actor:
+      nominee:
+      - nm0000245
+      winner:
+      - nm0000197
+      - nm0000358
+    best actress:
+      nominee:
+      - nm0000161
+      - nm0000173
+      - nm0000178
+      winner:
+      - nm0000194
+    best animated feature:
+      nominee:
+      - tt0166813
+      - tt0268380
+      - tt0275847
+      winner:
+      - tt0245429
+    best composer:
+      nominee:
+      - tt0167261
+      - tt0274558
+      winner:
+      - tt0181689
+      - tt0264464
+      - tt0295297
+    best digital acting performance:
+      nominee:
+      - tt0121765
+      - tt0295297
+      winner:
+      - tt0167261
+    best director:
+      nominee:
+      - nm0000217
+      - nm0000591
+      winner:
+      - nm0000229
+    best documentary:
+      nominee:
+      - tt0303353
+      - tt0314725
+      winner:
+      - tt0310793
+    best family film - live action:
+      nominee:
+      - tt0265662
+      - tt0283084
+      winner:
+      - tt0295297
+    best foreign-language film:
+      nominee:
+      - tt0265343
+      - tt0287467
+      winner:
+      - tt0245574
+    best picture:
+      nominee:
+      - tt0167261
+      - tt0217505
+      - tt0253474
+      - tt0257044
+      - tt0257360
+      - tt0264464
+      - tt0268126
+      - tt0274558
+      - tt0297884
+      winner:
+      - tt0299658
+    best picture made for television:
+      nominee:
+      - tt0318908
+      - tt0319758
+      winner:
+      - tt0274468
+    best song:
+      nominee:
+      - tt0145487
+      - tt0282120
+      winner:
+      - tt0298203
+    best supporting actor:
+      nominee:
+      - nm0000056
+      - nm0000547
+      winner:
+      - nm0177933
+    best supporting actress:
+      nominee:
+      - nm0000658
+      - nm0000870
+      winner:
+      - nm0001876
+    best writer:
+      nominee:
+      - tt0257360
+      - tt0259446
+      winner:
+      - tt0268126
+      - tt0270288
+    best young actor/actress:
+      nominee:
+      - nm0388382
+      - nm0396558
+      winner:
+      - nm0001085
+  freedom award:
+    freedom award:
+      winner:
+      - tt0168786
+'2004':
+  critics choice award:
+    best acting ensemble:
+      nominee:
+      - tt0310281
+      - tt0314331
+      - tt0327056
+      winner:
+      - tt0167260
+    best actor:
+      nominee:
+      - nm0000128
+      - nm0000136
+      - nm0000195
+      - nm0001426
+      winner:
+      - nm0000576
+    best actress:
+      nominee:
+      - nm0000124
+      - nm0000173
+      - nm0000473
+      - nm0608090
+      - nm0915208
+      winner:
+      - nm0000234
+    best animated feature:
+      nominee:
+      - tt0286244
+      - tt0328880
+      winner:
+      - tt0266543
+    best composer:
+      nominee:
+      - tt0159365
+      - tt0319061
+      - tt0325710
+      - tt0327056
+      winner:
+      - tt0167260
+    best director:
+      nominee:
+      - nm0000142
+      - nm0000318
+      - nm0001068
+      - nm0006487
+      winner:
+      - nm0001392
+    best documentary:
+      nominee:
+      - tt0297144
+      - tt0317910
+      winner:
+      - tt0342172
+    best family film - live action:
+      nominee:
+      - tt0298228
+      - tt0311289
+      - tt0316396
+      - tt0322330
+      winner:
+      - tt0325980
+    best foreign-language film:
+      nominee:
+      - tt0317248
+      - tt0324133
+      winner:
+      - tt0338135
+    best picture:
+      nominee:
+      - tt0159365
+      - tt0266543
+      - tt0298845
+      - tt0311113
+      - tt0319061
+      - tt0325710
+      - tt0327056
+      - tt0329575
+      - tt0335266
+      winner:
+      - tt0167260
+    best picture made for television:
+      nominee:
+      - tt0337824
+      - tt0383139
+      winner:
+      - tt0318997
+    best song:
+      nominee:
+      - tt0298845
+      - tt0304415
+      - tt0319061
+      - tt0332379
+      winner:
+      - tt0310281
+    best supporting actor:
+      nominee:
+      - nm0000285
+      - nm0001125
+      - nm0079273
+      - nm0913822
+      winner:
+      - nm0000209
+    best supporting actress:
+      nominee:
+      - nm0000456
+      - nm0001315
+      - nm0165101
+      - nm0424060
+      winner:
+      - nm0000250
+    best writer:
+      nominee:
+      - tt0319061
+      - tt0327056
+      - tt0329575
+      - tt0335266
+      winner:
+      - tt0298845
+    best young actor/actress:
+      nominee:
+      - nm0092961
+      - nm0939697
+      - nm1071580
+      winner:
+      - nm1095720
+  lifetime achievement award:
+    lifetime achievement award:
+      winner:
+      - nm0000142
+  passion in film award:
+    passion in film award:
+      winner:
+      - nm0001837
+'2005':
+  critics choice award:
+    best acting ensemble:
+      nominee:
+      - tt0349903
+      - tt0362270
+      - tt0376541
+      winner:
+      - tt0375063
+    best actor:
+      nominee:
+      - nm0000136
+      - nm0000138
+      - nm0000332
+      - nm0000849
+      - nm0316079
+      winner:
+      - nm0004937
+    best actress:
+      nominee:
+      - nm0000235
+      - nm0000701
+      - nm0000906
+      - nm0001767
+      - nm1503432
+      winner:
+      - nm0005476
+    best animated feature:
+      nominee:
+      - tt0298148
+      - tt0338348
+      winner:
+      - tt0317705
+    best composer:
+      nominee:
+      - tt0317705
+      - tt0375063
+      winner:
+      - tt0338751
+    best director:
+      nominee:
+      - nm0000142
+      - nm0000431
+      - nm0286975
+      - nm0668247
+      winner:
+      - nm0000217
+    best documentary feature:
+      nominee:
+      - tt0387412
+      - tt0390521
+      - tt0391024
+      winner:
+      - tt0361596
+    best family film (live action):
+      nominee:
+      - tt0304141
+      - tt0316654
+      - tt0339291
+      - tt0349825
+      winner:
+      - tt0308644
+    best foreign-language film:
+      nominee:
+      - tt0318462
+      - tt0344510
+      - tt0385004
+      - tt0390221
+      winner:
+      - tt0369702
+    best picture:
+      nominee:
+      - tt0293508
+      - tt0308644
+      - tt0338013
+      - tt0338751
+      - tt0350258
+      - tt0362269
+      - tt0369339
+      - tt0395169
+      - tt0405159
+      winner:
+      - tt0375063
+    best picture made for television:
+      nominee:
+      - tt0377972
+      - tt0386792
+      - tt0400435
+      winner:
+      - tt0352520
+    best popular movie:
+      nominee:
+      - tt0317705
+      - tt0335345
+      - tt0372183
+      - tt0374900
+      winner:
+      - tt0316654
+    best song:
+      nominee:
+      - tt0298148
+      - tt0338348
+      winner:
+      - tt0375173
+    best soundtrack:
+      nominee:
+      - tt0333766
+      - tt0352277
+      - tt0363473
+      - tt0375173
+      winner:
+      - tt0350258
+    best supporting actor:
+      nominee:
+      - nm0000151
+      - nm0004937
+      - nm0654110
+      - nm0765597
+      winner:
+      - nm0002006
+    best supporting actress:
+      nominee:
+      - nm0000204
+      - nm0000701
+      - nm0000949
+      - nm0001473
+      winner:
+      - nm0000515
+    best writer:
+      nominee:
+      - tt0308644
+      - tt0338013
+      - tt0338751
+      - tt0362269
+      winner:
+      - tt0375063
+    best young actor:
+      nominee:
+      - nm0014582
+      - nm0705356
+      - nm1080974
+      - nm1533292
+      winner:
+      - nm0383603
+    best young actress:
+      nominee:
+      - nm0115161
+      - nm0266824
+      - nm0517820
+      - nm0914612
+      winner:
+      - nm0002536
+  distinguished achievement in performing arts:
+    distinguished achievement in performing arts:
+      winner:
+      - nm0000129
 '2006':
   critics choice award:
     best acting ensemble:
@@ -2053,6 +2965,246 @@
     lifetime achievement award:
       winner:
       - nm0000126
+'2016':
+  critics choice award:
+    best acting ensemble:
+      nominee:
+      - tt1398426
+      - tt1596363
+      - tt3203606
+      - tt3460252
+      winner:
+      - tt1895587
+    best actor:
+      nominee:
+      - nm0000136
+      - nm0000354
+      - nm0186505
+      - nm1055413
+      - nm1519666
+      winner:
+      - nm0000138
+    best actor in a comedy:
+      nominee:
+      - nm0000134
+      - nm0005458
+      - nm0136797
+      - nm0352778
+      winner:
+      - nm0000288
+    best actor in an action movie:
+      nominee:
+      - nm0000129
+      - nm0185819
+      - nm0695435
+      - nm0748620
+      winner:
+      - nm0362766
+    best actress:
+      nominee:
+      - nm0000234
+      - nm0000949
+      - nm0001648
+      - nm1519680
+      - nm2225369
+      winner:
+      - nm0488953
+    best actress in a comedy:
+      nominee:
+      - nm0005499
+      - nm0275486
+      - nm0565250
+      - nm2225369
+      winner:
+      - nm2154960
+    best actress in an action movie:
+      nominee:
+      - nm0272581
+      - nm0397171
+      - nm1289434
+      - nm2225369
+      winner:
+      - nm0000234
+    best adapted screenplay:
+      nominee:
+      - tt2080374
+      - tt2381111
+      - tt3170832
+      - tt3659388
+      winner:
+      - tt1596363
+    best animated feature:
+      nominee:
+      - tt1979388
+      - tt2401878
+      - tt2452042
+      - tt2872750
+      winner:
+      - tt2096673
+    best art direction:
+      nominee:
+      - tt0810819
+      - tt2381111
+      - tt2402927
+      - tt3659388
+      - tt3682448
+      winner:
+      - tt1392190
+    best cinematography:
+      nominee:
+      - tt1392190
+      - tt2402927
+      - tt3397884
+      - tt3460252
+      - tt3659388
+      winner:
+      - tt1663202
+    best comedy:
+      nominee:
+      - tt1850457
+      - tt2096673
+      - tt2446980
+      - tt3079380
+      - tt3152624
+      winner:
+      - tt1596363
+    best costume design:
+      nominee:
+      - tt0810819
+      - tt1661199
+      - tt2381111
+      - tt2402927
+      winner:
+      - tt1392190
+    best director:
+      nominee:
+      - nm0000229
+      - nm0000631
+      - nm0001331
+      - nm0327944
+      - nm0565336
+      winner:
+      - nm0004306
+    best documentary feature:
+      nominee:
+      - tt3065132
+      - tt3521134
+      - tt4126304
+      - tt4257858
+      - tt4897822
+      winner:
+      - tt2870648
+    best editing:
+      nominee:
+      - tt1596363
+      - tt1663202
+      - tt1895587
+      - tt3659388
+      winner:
+      - tt1392190
+    best foreign language film:
+      nominee:
+      - tt3086442
+      - tt3508840
+      - tt3742378
+      - tt3966404
+      winner:
+      - tt3808342
+    best hair & makeup:
+      nominee:
+      - tt0810819
+      - tt1355683
+      - tt1663202
+      - tt2402927
+      - tt3460252
+      winner:
+      - tt1392190
+    best original screenplay:
+      nominee:
+      - tt0470752
+      - tt2096673
+      - tt3460252
+      - tt3682448
+      winner:
+      - tt1895587
+    best picture:
+      nominee:
+      - tt1392190
+      - tt1596363
+      - tt1663202
+      - tt2381111
+      - tt2402927
+      - tt2488496
+      - tt3170832
+      - tt3397884
+      - tt3659388
+      - tt3682448
+      winner:
+      - tt1895587
+    best sci-fi/horror movie:
+      nominee:
+      - tt0369610
+      - tt1392190
+      - tt3235888
+      - tt3659388
+      winner:
+      - tt0470752
+    best score:
+      nominee:
+      - tt1663202
+      - tt1895587
+      - tt2402927
+      - tt3397884
+      winner:
+      - tt3460252
+    best song:
+      nominee:
+      - tt0903657
+      - tt2322441
+      - tt2379713
+      - tt3312830
+      - tt4185572
+      winner:
+      - tt2820852
+    best supporting actor:
+      nominee:
+      - nm0200452
+      - nm0362766
+      - nm0749263
+      - nm0753314
+      - nm0788335
+      winner:
+      - nm0000230
+    best supporting actress:
+      nominee:
+      - nm0000492
+      - nm0000545
+      - nm0000701
+      - nm1046097
+      - nm1913734
+      winner:
+      - nm2539953
+    best visual effects:
+      nominee:
+      - tt0369610
+      - tt0470752
+      - tt1663202
+      - tt3488710
+      - tt3659388
+      winner:
+      - tt1392190
+    best young actor/actress:
+      nominee:
+      - nm4271336
+      - nm5518972
+      - nm6057785
+      - nm6781688
+      winner:
+      - nm5016878
+  critics' choice mvp award:
+    critics' choice mvp award:
+      winner:
+      - nm2154960
 '2018':
   critics choice award:
     best acting ensemble:
