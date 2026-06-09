@@ -94,35 +94,52 @@ def _parse_awards(props):
     return result
 
 
-def _fetch_event_history(page, event_id):
-    """Fetch the most recent year to get the canonical year list from historyEventEditions.
+def _fetch_current(page, event_id):
+    """Fetch the bare event URL and follow IMDb's server-side redirect to the most recent year.
 
-    Tries CURRENT_YEAR, CURRENT_YEAR-1, CURRENT_YEAR-2 (3 attempts). Returns
-    (event_name, valid_years, error_years, first_year, first_props).
+    Returns (event_name, valid_years, first_year, props).
     valid_years is a set[int] or None when historyEventEditions is absent.
-    On complete failure returns (None, None, error_years, None, None).
+    Returns (None, None, None, None) on any failure.
     """
-    error_years = set()
-    for attempt in range(3):
-        year = CURRENT_YEAR - attempt
-        result = _fetch_year(page, event_id, year)
-        if result is FETCH_ERROR:
-            error_years.add(year)
-            print(f"  history attempt {attempt + 1}/3 failed (year {year})")
-            continue
-        if result is None:
-            print(f"  {year}: no data, trying previous year")
-            continue
-        event_name = result.get("eventName", event_id)
-        hist = result.get("historyEventEditions", [])
-        valid_years = {h["year"] for h in hist} if hist else None
-        if valid_years is None:
-            print(f"  historyEventEditions absent — will use fallback range")
-        else:
-            print(f"  found {len(valid_years)} valid years")
-        return event_name, valid_years, error_years, year, result
-    print(f"  all 3 history attempts failed")
-    return None, None, error_years, None, None
+    bare_url = f"{BASE_URL}/{event_id}/"
+    for attempt in range(2):
+        try:
+            resp = page.goto(bare_url, wait_until="domcontentloaded", timeout=30000)
+            if resp and resp.status == 404:
+                print(f"  event not found (404)")
+                return None, None, None, None
+            page.wait_for_function(
+                "() => !!document.getElementById('__NEXT_DATA__')",
+                timeout=45000,
+            )
+            m_url = re.search(r'/event/\w+/(\d{4})/', page.url)
+            first_year = int(m_url.group(1)) if m_url else None
+            content = page.content()
+            m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.+?)</script>', content, re.DOTALL)
+            if not m:
+                print(f"  no __NEXT_DATA__ after redirect")
+                return None, None, None, None
+            props = json.loads(m.group(1))["props"]["pageProps"]
+            event_name = props.get("eventName", event_id)
+            hist = props.get("historyEventEditions", [])
+            valid_years = {h["year"] for h in hist} if hist else None
+            if valid_years is None:
+                print(f"  historyEventEditions absent — will use fallback range")
+            else:
+                print(f"  found {len(valid_years)} valid years (latest: {first_year})")
+            return event_name, valid_years, first_year, props
+        except Exception as e:
+            if attempt == 0 and "NS_BINDING_ABORTED" in str(e):
+                time.sleep(0.5)
+                continue
+            print(f"  error: {e.__class__.__name__}: {str(e)[:120]}")
+            if "Timeout" not in type(e).__name__:
+                try:
+                    print(f"  page title: {page.title()!r}")
+                    print(f"  snippet: {page.content()[:300]!r}")
+                except Exception:
+                    pass
+            return None, None, None, None
 
 
 def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
@@ -141,30 +158,35 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
             print(f"  warning: corrupt YAML — will re-fetch")
             yaml_data = {}
 
+    # Fetch bare URL — IMDb redirects to most recent ceremony year.
+    # This gives us the actual latest year + historyEventEditions in one request,
+    # for both new events and incremental updates.
+    event_name_current, valid_years, first_year, first_props = _fetch_current(page, event_id)
+    if first_props is None:
+        return set(retry_years)  # preserve existing retries; nothing we can do this run
+
+    if event_name is None:
+        event_name = event_name_current
+
     error_years = set()
     new_years = 0
 
-    if yaml_data:
-        # Incremental: YAML covers history; retry.yml catches errors.
-        # Only check the current year + explicit retry years.
-        to_fetch = {CURRENT_YEAR} | set(retry_years)
-    else:
-        # New event: use historyEventEditions to discover the full year list.
-        event_name_hist, valid_years, error_years, first_year, first_props = \
-            _fetch_event_history(page, event_id)
-        if event_name is None:
-            event_name = event_name_hist
-        if first_props is None:
-            return error_years
+    # Store the current year's data if we don't already have it
+    if first_year is not None and str(first_year) not in yaml_data:
         awards = _parse_awards(first_props)
         if awards:
             yaml_data[str(first_year)] = awards
             new_years += 1
             print(f"  {first_year}: {len(awards)} awards, {sum(len(v) for v in awards.values())} categories")
-        if valid_years is not None:
-            to_fetch = (valid_years | set(retry_years)) - {first_year}
-        else:
-            to_fetch = (set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1)) | set(retry_years)) - {first_year}
+
+    # Determine remaining years to fetch
+    existing_years = {int(k) for k in yaml_data if k.isdigit()}
+    if valid_years is not None:
+        to_fetch = (valid_years - existing_years) | set(retry_years)
+    else:
+        to_fetch = (set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1)) - existing_years) | set(retry_years)
+    if first_year is not None:
+        to_fetch.discard(first_year)
 
     years_to_fetch = sorted(to_fetch, reverse=True)
     consecutive_errors = 0
