@@ -36,4 +36,5 @@ jobs:
           git config user.email "action@github.com"
           git add events/
           git diff --staged --quiet || \
-            (git commit -m "events: update $(date -u +'%Y-%m-%d')" && git push)
+            (git commit -m "events: update $(date -u +'%Y-%m-%d')" && \
+             git pull --rebase origin main && git push)
