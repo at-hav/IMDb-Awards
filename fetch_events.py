@@ -194,8 +194,6 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
 
 
 if __name__ == "__main__":
-    import os
-
     # Force line-buffered output so GHA streams logs in real time
     sys.stdout.reconfigure(line_buffering=True)
 
@@ -210,23 +208,9 @@ if __name__ == "__main__":
 
     with ids_file.open() as f:
         config = yaml.safe_load(f)
-    our_ids = [str(e).split()[0] for e in (config.get("event_ids") or [])]
-
-    # Optionally merge Kometa's event list (set via KOMETA_EVENT_IDS env var in GHA)
-    kometa_ids_path = os.environ.get("KOMETA_EVENT_IDS")
-    if kometa_ids_path:
-        with open(kometa_ids_path) as f:
-            kometa_ids = [str(e).split()[0] for e in (yaml.safe_load(f).get("event_ids") or [])]
-        print(f"Loaded {len(kometa_ids)} events from Kometa, {len(our_ids)} custom events")
-    else:
-        kometa_ids = []
-
-    seen = set()
-    event_ids = []
-    for eid in kometa_ids + our_ids:
-        if eid not in seen:
-            seen.add(eid)
-            event_ids.append(eid)
+    event_ids = list(dict.fromkeys(
+        str(e).split()[0] for e in (config.get("event_ids") or [])
+    ))
 
     if not event_ids:
         print("No event IDs configured")
