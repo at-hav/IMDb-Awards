@@ -50,11 +50,14 @@ def _fetch_year(page, event_id, year):
                 time.sleep(0.5)
                 continue
             print(f"    error: {e.__class__.__name__}: {str(e)[:120]}")
-            try:
-                print(f"    page title: {page.title()!r}")
-                print(f"    snippet: {page.content()[:300]!r}")
-            except Exception:
-                pass
+            # page.title()/content() hang when the WAF challenge JS is still running
+            # after a wait_for_function timeout — skip diagnostics in that case.
+            if "Timeout" not in type(e).__name__:
+                try:
+                    print(f"    page title: {page.title()!r}")
+                    print(f"    snippet: {page.content()[:300]!r}")
+                except Exception:
+                    pass
             return FETCH_ERROR
 
 
@@ -132,7 +135,11 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
         first_line = content.split("\n", 1)[0]
         if first_line.startswith("# "):
             event_name = first_line[2:].strip()
-        yaml_data = yaml.safe_load(content) or {}
+        try:
+            yaml_data = yaml.safe_load(content) or {}
+        except yaml.YAMLError:
+            print(f"  warning: corrupt YAML — will re-fetch")
+            yaml_data = {}
 
     error_years = set()
     new_years = 0
@@ -159,14 +166,24 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
         else:
             to_fetch = (set(range(CURRENT_YEAR - 1, MIN_YEAR - 1, -1)) | set(retry_years)) - {first_year}
 
-    for i, year in enumerate(sorted(to_fetch, reverse=True)):
+    years_to_fetch = sorted(to_fetch, reverse=True)
+    consecutive_errors = 0
+    for i, year in enumerate(years_to_fetch):
         if i > 0:
             time.sleep(random.uniform(0.5, 1.5))
         result = _fetch_year(page, event_id, year)
         if result is FETCH_ERROR:
             error_years.add(year)
             print(f"  {year}: fetch error")
+            consecutive_errors += 1
+            if consecutive_errors >= 3:
+                remaining = years_to_fetch[i + 1:]
+                error_years.update(remaining)
+                if remaining:
+                    print(f"  aborting after 3 consecutive errors — {len(remaining)} years queued for retry")
+                break
             continue
+        consecutive_errors = 0
         if result is None:
             print(f"  {year}: no data")
             continue
@@ -185,10 +202,12 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
         print(f"  {event_id}: up to date")
         return error_years
 
-    with out_path.open("w") as f:
+    tmp_path = out_path.with_suffix(".tmp")
+    with tmp_path.open("w") as f:
         if event_name:
             f.write(f"# {event_name}\n")
         yaml.dump(yaml_data, f, default_flow_style=False, allow_unicode=True, sort_keys=True)
+    tmp_path.replace(out_path)
     print(f"  written: {out_path}")
     return error_years
 
@@ -253,8 +272,13 @@ if __name__ == "__main__":
         for i, eid in enumerate(event_ids):
             print(f"[{eid}]")
             page = ctx.new_page()
-            errors = fetch_event(page, eid, events_dir, set(retry_map.get(eid, [])))
-            page.close()
+            try:
+                errors = fetch_event(page, eid, events_dir, set(retry_map.get(eid, [])))
+            except Exception as e:
+                print(f"  unexpected error: {e.__class__.__name__}: {e}")
+                errors = set(retry_map.get(eid, []))
+            finally:
+                page.close()
             if errors:
                 retry_map[eid] = sorted(errors)
             else:
