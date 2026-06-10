@@ -7,10 +7,9 @@ import json, pathlib, random, re, sys, time, traceback
 from datetime import datetime
 
 try:
-    from playwright.sync_api import sync_playwright
     import yaml
 except ImportError:
-    print("Requirements missing: pip install playwright pyyaml")
+    print("Requirements missing: pip install pyyaml")
     sys.exit(1)
 
 BASE_URL      = "https://www.imdb.com/event"
@@ -235,10 +234,10 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     return error_years
 
 
-def _write_readme(events_dir, retry_map, duration, failed=False):
-    events_dir = pathlib.Path(events_dir)
-    rows = []
-    for yml_path in sorted(events_dir.glob("ev*.yml")):
+def _build_summary(events_dir, retry_map, duration, failed=False):
+    """Machine-readable record of a fetch run: per-event data stats plus run metadata."""
+    events = {}
+    for yml_path in sorted(pathlib.Path(events_dir).glob("ev*.yml")):
         eid = yml_path.stem
         try:
             text = yml_path.read_text(encoding="utf-8")
@@ -250,6 +249,7 @@ def _write_readme(events_dir, retry_map, duration, failed=False):
             data = yaml.safe_load(text) or {}
         except yaml.YAMLError:
             data = {}
+        years = sorted(int(y) for y in data if str(y).isdigit())
         awards = cats = 0
         for yr_val in data.values():
             if not isinstance(yr_val, dict):
@@ -258,39 +258,47 @@ def _write_readme(events_dir, retry_map, duration, failed=False):
             for cat_val in yr_val.values():
                 if isinstance(cat_val, dict):
                     cats += len(cat_val)
-        rows.append((eid, name, awards, cats))
-    rows.sort()
+        events[eid] = {"name": name, "years": years, "awards": awards, "categories": cats}
+    return {
+        "updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "failed": failed,
+        "duration": duration,
+        "retry_years": sum(len(v) for v in retry_map.values()),
+        "retry": {k: sorted(v) for k, v in sorted(retry_map.items())},
+        "events": events,
+    }
 
+
+def _write_summary(events_dir, summary):
+    with (pathlib.Path(events_dir) / "summary.yml").open("w") as f:
+        yaml.dump(summary, f, default_flow_style=None, allow_unicode=True, sort_keys=False)
+
+
+def _write_readme(events_dir, summary):
+    events = summary["events"]
     lines = [
         "# film-events\n\n",
         "IMDb award event data. Auto-updated nightly by GitHub Actions.\n\n",
-        f"## Events ({len(rows)})\n\n",
-        "| Event ID | Name | Awards | Categories |\n",
-        "|---|---|---:|---:|\n",
+        f"## Events ({len(events)})\n\n",
+        "| Event ID | Name | Years | Awards | Categories |\n",
+        "|---|---|---:|---:|---:|\n",
     ]
-    for eid, name, awards, cats in rows:
-        lines.append(f"| [{eid}](events/{eid}.yml) | {name} | {awards} | {cats} |\n")
+    for eid in sorted(events):
+        e = events[eid]
+        lines.append(
+            f"| [{eid}](events/{eid}.yml) | {e['name']} | {len(e['years'])} | {e['awards']} | {e['categories']} |\n"
+        )
 
-    if retry_map:
-        lines.append("\n## Pending Retries\n\n")
-        lines.append("| Event ID | Name |\n")
-        lines.append("|---|---|\n")
-        for eid in sorted(retry_map):
-            yml_path = events_dir / f"{eid}.yml"
-            name = eid
-            if yml_path.exists():
-                try:
-                    first_line = yml_path.read_text(encoding="utf-8").split("\n", 1)[0]
-                    if first_line.startswith("# "):
-                        name = first_line[2:].strip()
-                except Exception:
-                    pass
+    if summary["retry"]:
+        lines.append("\n## Pending Retries\n\n| Event ID | Name |\n|---|---|\n")
+        for eid in sorted(summary["retry"]):
+            name = events[eid]["name"] if eid in events else eid
             lines.append(f"| {eid} | {name} |\n")
 
-    updated = datetime.utcnow().strftime("%B %d, %Y %H:%M UTC")
-    footer = f"**Failed** {updated}" if failed else f"Last updated {updated}"
-    lines.append(f"\n---\n_{footer}, duration {duration}_\n")
-    (events_dir.parent / "README.md").write_text("".join(lines), encoding="utf-8")
+    when = datetime.strptime(summary["updated"], "%Y-%m-%dT%H:%M:%SZ").strftime("%B %d, %Y %H:%M UTC")
+    footer = f"**Failed** {when}" if summary["failed"] else f"Last updated {when}"
+    lines.append(f"\n---\n_{footer}, duration {summary['duration']}_\n")
+    (pathlib.Path(events_dir).parent / "README.md").write_text("".join(lines), encoding="utf-8")
 
 
 if __name__ == "__main__":
@@ -300,6 +308,22 @@ if __name__ == "__main__":
     base_dir   = pathlib.Path(__file__).parent
     events_dir = base_dir / "events"
     events_dir.mkdir(exist_ok=True)
+
+    retry_path = events_dir / "retry.yml"
+    retry_map  = (yaml.safe_load(retry_path.read_text()) if retry_path.exists() else None) or {}
+
+    if "--rebuild-summary" in sys.argv[1:]:
+        summary = _build_summary(events_dir, retry_map, "00:00:00")
+        _write_summary(events_dir, summary)
+        _write_readme(events_dir, summary)
+        print("summary.yml and README.md rebuilt from events on disk")
+        sys.exit(0)
+
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("Requirements missing: pip install playwright")
+        sys.exit(1)
 
     ids_file = base_dir / "event_ids.yml"
     if not ids_file.exists():
@@ -345,14 +369,14 @@ if __name__ == "__main__":
             print("Aborting: WAF may be blocking this runner IP.")
             elapsed = int(time.time() - run_start)
             duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-            _write_readme(events_dir, {}, duration, failed=True)
+            summary = _build_summary(events_dir, retry_map, duration, failed=True)
+            _write_summary(events_dir, summary)
+            _write_readme(events_dir, summary)
             ctx.close()
             browser.close()
             sys.exit(1)
 
         print(f"\nFetching {len(event_ids)} event(s)\n")
-        retry_path = events_dir / "retry.yml"
-        retry_map  = (yaml.safe_load(retry_path.read_text()) if retry_path.exists() else None) or {}
         random.shuffle(event_ids)
         for i, eid in enumerate(event_ids):
             print(f"[{eid}]")
@@ -381,7 +405,9 @@ if __name__ == "__main__":
 
         elapsed = int(time.time() - run_start)
         duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-        _write_readme(events_dir, retry_map, duration)
+        summary = _build_summary(events_dir, retry_map, duration)
+        _write_summary(events_dir, summary)
+        _write_readme(events_dir, summary)
 
         ctx.close()
         browser.close()
