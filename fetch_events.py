@@ -263,7 +263,6 @@ def _build_summary(events_dir, retry_map, duration, failed=False):
         "updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "failed": failed,
         "duration": duration,
-        "retry_years": sum(len(v) for v in retry_map.values()),
         "retry": {k: sorted(v) for k, v in sorted(retry_map.items())},
         "events": events,
     }
