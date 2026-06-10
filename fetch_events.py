@@ -3,7 +3,7 @@
 Fetches award events from IMDb and writes YAML files for sync_awards.
 Uses Firefox via Playwright to handle IMDb's JS-based WAF challenges.
 """
-import json, pathlib, random, re, sys, time
+import json, pathlib, random, re, sys, time, traceback
 from datetime import datetime
 
 try:
@@ -361,7 +361,8 @@ if __name__ == "__main__":
                 errors = fetch_event(page, eid, events_dir, set(retry_map.get(eid, [])))
             except Exception as e:
                 print(f"  unexpected error: {e.__class__.__name__}: {e}")
-                errors = set(retry_map.get(eid, []))
+                traceback.print_exc()
+                errors = set(retry_map.get(eid, [])) or {CURRENT_YEAR}
             finally:
                 page.close()
             if errors:
