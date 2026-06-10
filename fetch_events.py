@@ -257,7 +257,7 @@ def _write_readme(events_dir, retry_map, duration, failed=False):
             for cat_val in yr_val.values():
                 if isinstance(cat_val, dict):
                     cats += len(cat_val)
-        rows.append((name, eid, awards, cats))
+        rows.append((eid, name, awards, cats))
     rows.sort()
 
     lines = [
@@ -267,7 +267,7 @@ def _write_readme(events_dir, retry_map, duration, failed=False):
         "| Event ID | Name | Awards | Categories |\n",
         "|---|---|---:|---:|\n",
     ]
-    for name, eid, awards, cats in rows:
+    for eid, name, awards, cats in rows:
         lines.append(f"| [{eid}](events/{eid}.yml) | {name} | {awards} | {cats} |\n")
 
     if retry_map:
