@@ -7,11 +7,11 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | Event ID | Name | Awards | Categories |
 |---|---|---:|---:|
 | [ev0000001](events/ev0000001.yml) | Ariel Awards, Mexico | 219 | 1453 |
-| [ev0000003](events/ev0000003.yml) | Academy Awards, USA | 494 | 2584 |
+| [ev0000003](events/ev0000003.yml) | Academy Awards, USA | 484 | 2526 |
 | [ev0000025](events/ev0000025.yml) | International Documentary Film Festival Amsterdam (IDFA) | 329 | 392 |
 | [ev0000031](events/ev0000031.yml) | Annecy International Animated Film Festival | 475 | 662 |
 | [ev0000057](events/ev0000057.yml) | Austin Film Festival | 248 | 557 |
-| [ev0000091](events/ev0000091.yml) | Berlin International Film Festival | 1713 | 2814 |
+| [ev0000091](events/ev0000091.yml) | Berlin International Film Festival | 1674 | 2745 |
 | [ev0000123](events/ev0000123.yml) | BAFTA Awards | 603 | 3964 |
 | [ev0000141](events/ev0000141.yml) | Cairo International Film Festival | 332 | 386 |
 | [ev0000147](events/ev0000147.yml) | Cannes Film Festival | 1859 | 2065 |
@@ -52,5 +52,12 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004044](events/ev0004044.yml) | Busan International Film Festival | 248 | 328 |
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 39 | 65 |
 
+## Pending Retries
+
+| Event ID | Name |
+|---|---|
+| ev0000003 | Academy Awards, USA |
+| ev0000091 | Berlin International Film Festival |
+
 ---
-_Last updated June 10, 2026 01:04 UTC, duration 00:05:11_
+_Last updated June 10, 2026 03:24 UTC, duration 02:15:50_
