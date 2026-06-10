@@ -188,7 +188,8 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     if first_year is not None:
         to_fetch.discard(first_year)
 
-    years_to_fetch = sorted(to_fetch, reverse=True)
+    years_to_fetch = list(to_fetch)
+    random.shuffle(years_to_fetch)
     consecutive_errors = 0
     for i, year in enumerate(years_to_fetch):
         if i > 0:
