@@ -162,7 +162,7 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     # for both new events and incremental updates.
     event_name_current, valid_years, first_year, first_props = _fetch_current(page, event_id)
     if first_props is None:
-        return set(retry_years) or {CURRENT_YEAR}  # ensure event stays in retry.yml for visibility
+        return set(retry_years) or {CURRENT_YEAR}  # ensure event stays in the summary retry map for visibility
 
     if event_name is None:
         event_name = event_name_current
@@ -309,8 +309,13 @@ if __name__ == "__main__":
     events_dir = base_dir / "events"
     events_dir.mkdir(exist_ok=True)
 
-    retry_path = events_dir / "retry.yml"
-    retry_map  = (yaml.safe_load(retry_path.read_text()) if retry_path.exists() else None) or {}
+    # Pending retries live in summary.yml; carry them over from the previous run.
+    summary_path = events_dir / "summary.yml"
+    try:
+        prev_summary = (yaml.safe_load(summary_path.read_text()) if summary_path.exists() else None) or {}
+    except yaml.YAMLError:
+        prev_summary = {}
+    retry_map = dict(prev_summary.get("retry") or {})
 
     if "--rebuild-summary" in sys.argv[1:]:
         summary = _build_summary(events_dir, retry_map, "00:00:00")
@@ -397,11 +402,6 @@ if __name__ == "__main__":
                 delay = random.uniform(2, 5)
                 print(f"  pausing {delay:.1f}s")
                 time.sleep(delay)
-
-        if retry_map:
-            retry_path.write_text(yaml.dump(retry_map, default_flow_style=False, sort_keys=True))
-        else:
-            retry_path.unlink(missing_ok=True)
 
         elapsed = int(time.time() - run_start)
         duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
