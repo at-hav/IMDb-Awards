@@ -234,6 +234,64 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     return error_years
 
 
+def _write_readme(events_dir, retry_map, duration, failed=False):
+    events_dir = pathlib.Path(events_dir)
+    rows = []
+    for yml_path in sorted(events_dir.glob("ev*.yml")):
+        eid = yml_path.stem
+        try:
+            text = yml_path.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        first_line = text.split("\n", 1)[0]
+        name = first_line[2:].strip() if first_line.startswith("# ") else eid
+        try:
+            data = yaml.safe_load(text) or {}
+        except yaml.YAMLError:
+            data = {}
+        awards = cats = 0
+        for yr_val in data.values():
+            if not isinstance(yr_val, dict):
+                continue
+            awards += len(yr_val)
+            for cat_val in yr_val.values():
+                if isinstance(cat_val, dict):
+                    cats += len(cat_val)
+        rows.append((name, eid, awards, cats))
+    rows.sort()
+
+    lines = [
+        "# film-events\n\n",
+        "IMDb award event data. Auto-updated nightly by GitHub Actions.\n\n",
+        f"## Events ({len(rows)})\n\n",
+        "| Event ID | Name | Awards | Categories |\n",
+        "|---|---|---:|---:|\n",
+    ]
+    for name, eid, awards, cats in rows:
+        lines.append(f"| [{eid}](events/{eid}.yml) | {name} | {awards} | {cats} |\n")
+
+    if retry_map:
+        lines.append("\n## Pending Retries\n\n")
+        lines.append("| Event ID | Name |\n")
+        lines.append("|---|---|\n")
+        for eid in sorted(retry_map):
+            yml_path = events_dir / f"{eid}.yml"
+            name = eid
+            if yml_path.exists():
+                try:
+                    first_line = yml_path.read_text(encoding="utf-8").split("\n", 1)[0]
+                    if first_line.startswith("# "):
+                        name = first_line[2:].strip()
+                except Exception:
+                    pass
+            lines.append(f"| {eid} | {name} |\n")
+
+    updated = datetime.utcnow().strftime("%B %d, %Y %H:%M UTC")
+    footer = f"**Failed** {updated}" if failed else f"Last updated {updated}"
+    lines.append(f"\n---\n_{footer}, duration {duration}_\n")
+    (events_dir.parent / "README.md").write_text("".join(lines), encoding="utf-8")
+
+
 if __name__ == "__main__":
     # Force line-buffered output so GHA streams logs in real time
     sys.stdout.reconfigure(line_buffering=True)
@@ -263,6 +321,8 @@ if __name__ == "__main__":
         w, h = random.choice(VIEWPORTS)
         ctx = browser.new_context(viewport={"width": w, "height": h})
 
+        run_start = time.time()
+
         # Health check: pre-warm IMDb session and confirm WAF challenge resolves.
         # If the homepage doesn't load, this runner IP is blocked — fail fast.
         print("Health check: loading imdb.com...")
@@ -282,6 +342,9 @@ if __name__ == "__main__":
                 except Exception:
                     pass
             print("Aborting: WAF may be blocking this runner IP.")
+            elapsed = int(time.time() - run_start)
+            duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
+            _write_readme(events_dir, {}, duration, failed=True)
             ctx.close()
             browser.close()
             sys.exit(1)
@@ -289,7 +352,6 @@ if __name__ == "__main__":
         print(f"\nFetching {len(event_ids)} event(s)\n")
         retry_path = events_dir / "retry.yml"
         retry_map  = (yaml.safe_load(retry_path.read_text()) if retry_path.exists() else None) or {}
-
         random.shuffle(event_ids)
         for i, eid in enumerate(event_ids):
             print(f"[{eid}]")
@@ -314,6 +376,10 @@ if __name__ == "__main__":
             retry_path.write_text(yaml.dump(retry_map, default_flow_style=False, sort_keys=True))
         else:
             retry_path.unlink(missing_ok=True)
+
+        elapsed = int(time.time() - run_start)
+        duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
+        _write_readme(events_dir, retry_map, duration)
 
         ctx.close()
         browser.close()
