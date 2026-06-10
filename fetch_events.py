@@ -163,7 +163,7 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     # for both new events and incremental updates.
     event_name_current, valid_years, first_year, first_props = _fetch_current(page, event_id)
     if first_props is None:
-        return set(retry_years)  # preserve existing retries; nothing we can do this run
+        return set(retry_years) or {CURRENT_YEAR}  # ensure event stays in retry.yml for visibility
 
     if event_name is None:
         event_name = event_name_current
