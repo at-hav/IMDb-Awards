@@ -2,7 +2,7 @@ name: Fetch Awards
 
 on:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 9 * * *'   # 02:00 Pacific (PDT); 01:00 in winter (PST)
   workflow_dispatch:
 
 permissions:
