@@ -269,14 +269,14 @@ def _build_summary(events_dir, retry_map, duration, failed=False):
 
 
 def _write_summary(events_dir, summary):
-    with (pathlib.Path(events_dir) / "summary.yml").open("w") as f:
+    with (pathlib.Path(events_dir).parent / "summary.yml").open("w") as f:
         yaml.dump(summary, f, default_flow_style=None, allow_unicode=True, sort_keys=False)
 
 
 def _write_readme(events_dir, summary):
     events = summary["events"]
     lines = [
-        "# film-events\n\n",
+        "# IMDb-Awards\n\n",
         "IMDb award event data. Auto-updated nightly by GitHub Actions.\n\n",
         f"## Events ({len(events)})\n\n",
         "| Event ID | Name | Years | Awards | Categories |\n",
@@ -309,7 +309,7 @@ if __name__ == "__main__":
     events_dir.mkdir(exist_ok=True)
 
     # Pending retries live in summary.yml; carry them over from the previous run.
-    summary_path = events_dir / "summary.yml"
+    summary_path = base_dir / "summary.yml"
     try:
         prev_summary = (yaml.safe_load(summary_path.read_text()) if summary_path.exists() else None) or {}
     except yaml.YAMLError:
