@@ -76,7 +76,7 @@ def _parse_awards(props):
                 entities = nom.get("awardedEntities", {})
 
                 # Film-centric: awardTitles holds tt-IDs directly.
-                for t in entities.get("awardTitles", []):
+                for t in (entities.get("awardTitles") or []):
                     tt_id = t.get("title", {}).get("id", "")
                     if tt_id:
                         ids.append(tt_id)
@@ -88,11 +88,11 @@ def _parse_awards(props):
                         "id":   n["name"]["id"],
                         "name": (n["name"].get("nameText") or {}).get("text", ""),
                     }
-                    for n in entities.get("awardNames", [])
+                    for n in (entities.get("awardNames") or [])
                     if n.get("name", {}).get("id")
                 ]
                 if nm_entries:
-                    for st in entities.get("secondaryAwardTitles", []):
+                    for st in (entities.get("secondaryAwardTitles") or []):
                         tt_id = st.get("title", {}).get("id", "")
                         if tt_id:
                             ids.append(tt_id)
@@ -255,8 +255,9 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     return error_years
 
 
-def _build_summary(events_dir, retry_map, duration, failed=False):
+def _build_summary(events_dir, retry_map, duration, failed=False, prev_names=None):
     """Machine-readable record of a fetch run: per-event data stats plus run metadata."""
+    names = dict(prev_names or {})
     events = {}
     for yml_path in sorted(pathlib.Path(events_dir).glob("ev*.yml")):
         eid = yml_path.stem
@@ -280,10 +281,12 @@ def _build_summary(events_dir, retry_map, duration, failed=False):
                 if isinstance(cat_val, dict):
                     cats += len(cat_val)
         events[eid] = {"name": name, "years": years, "awards": awards, "categories": cats}
+        names[eid] = name
     return {
         "updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "failed": failed,
         "duration": duration,
+        "names": names,
         "retry": {k: sorted(v) for k, v in sorted(retry_map.items())},
         "events": events,
     }
@@ -312,7 +315,7 @@ def _write_readme(events_dir, summary):
     if summary["retry"]:
         lines.append("\n## Pending Retries\n\n| Event ID | Name |\n|---|---|\n")
         for eid in sorted(summary["retry"]):
-            name = events[eid]["name"] if eid in events else eid
+            name = summary["names"].get(eid, eid)
             lines.append(f"| {eid} | {name} |\n")
 
     when = datetime.strptime(summary["updated"], "%Y-%m-%dT%H:%M:%SZ").strftime("%B %d, %Y %H:%M UTC")
@@ -336,9 +339,10 @@ if __name__ == "__main__":
     except yaml.YAMLError:
         prev_summary = {}
     retry_map = dict(prev_summary.get("retry") or {})
+    prev_names = dict(prev_summary.get("names") or {})
 
     if "--rebuild-summary" in sys.argv[1:]:
-        summary = _build_summary(events_dir, retry_map, "00:00:00")
+        summary = _build_summary(events_dir, retry_map, "00:00:00", prev_names=prev_names)
         _write_summary(events_dir, summary)
         _write_readme(events_dir, summary)
         print("summary.yml and README.md rebuilt from events on disk")
@@ -394,7 +398,7 @@ if __name__ == "__main__":
             print("Aborting: WAF may be blocking this runner IP.")
             elapsed = int(time.time() - run_start)
             duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-            summary = _build_summary(events_dir, retry_map, duration, failed=True)
+            summary = _build_summary(events_dir, retry_map, duration, failed=True, prev_names=prev_names)
             _write_summary(events_dir, summary)
             _write_readme(events_dir, summary)
             ctx.close()
@@ -425,7 +429,7 @@ if __name__ == "__main__":
 
         elapsed = int(time.time() - run_start)
         duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-        summary = _build_summary(events_dir, retry_map, duration)
+        summary = _build_summary(events_dir, retry_map, duration, prev_names=prev_names)
         _write_summary(events_dir, summary)
         _write_readme(events_dir, summary)
 
