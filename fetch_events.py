@@ -255,9 +255,8 @@ def fetch_event(page, event_id, events_dir, retry_years=frozenset()):
     return error_years
 
 
-def _build_summary(events_dir, retry_map, duration, failed=False, prev_names=None):
+def _build_summary(events_dir, retry_map, duration, failed=False):
     """Machine-readable record of a fetch run: per-event data stats plus run metadata."""
-    names = dict(prev_names or {})
     events = {}
     for yml_path in sorted(pathlib.Path(events_dir).glob("ev*.yml")):
         eid = yml_path.stem
@@ -281,12 +280,10 @@ def _build_summary(events_dir, retry_map, duration, failed=False, prev_names=Non
                 if isinstance(cat_val, dict):
                     cats += len(cat_val)
         events[eid] = {"name": name, "years": years, "awards": awards, "categories": cats}
-        names[eid] = name
     return {
         "updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "failed": failed,
         "duration": duration,
-        "names": names,
         "retry": {k: sorted(v) for k, v in sorted(retry_map.items())},
         "events": events,
     }
@@ -315,7 +312,7 @@ def _write_readme(events_dir, summary):
     if summary["retry"]:
         lines.append("\n## Pending Retries\n\n| Event ID | Name |\n|---|---|\n")
         for eid in sorted(summary["retry"]):
-            name = summary["names"].get(eid, eid)
+            name = summary["events"].get(eid, {}).get("name", eid)
             lines.append(f"| {eid} | {name} |\n")
 
     when = datetime.strptime(summary["updated"], "%Y-%m-%dT%H:%M:%SZ").strftime("%B %d, %Y %H:%M UTC")
@@ -353,10 +350,8 @@ if __name__ == "__main__":
             name = parts[1].strip() if len(parts) > 1 else ""
             if eid and name:
                 id_to_name[eid] = name
-    prev_names = id_to_name
-
     if "--rebuild-summary" in sys.argv[1:]:
-        summary = _build_summary(events_dir, retry_map, "00:00:00", prev_names=prev_names)
+        summary = _build_summary(events_dir, retry_map, "00:00:00")
         _write_summary(events_dir, summary)
         _write_readme(events_dir, summary)
         print("summary.yml and README.md rebuilt from events on disk")
@@ -409,7 +404,7 @@ if __name__ == "__main__":
             print("Aborting: WAF may be blocking this runner IP.")
             elapsed = int(time.time() - run_start)
             duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-            summary = _build_summary(events_dir, retry_map, duration, failed=True, prev_names=prev_names)
+            summary = _build_summary(events_dir, retry_map, duration, failed=True)
             _write_summary(events_dir, summary)
             _write_readme(events_dir, summary)
             ctx.close()
@@ -466,7 +461,7 @@ if __name__ == "__main__":
 
         elapsed = int(time.time() - run_start)
         duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-        summary = _build_summary(events_dir, retry_map, duration, prev_names=id_to_name)
+        summary = _build_summary(events_dir, retry_map, duration)
         _write_summary(events_dir, summary)
         _write_readme(events_dir, summary)
 
