@@ -414,8 +414,8 @@ if __name__ == "__main__":
         print(f"\nFetching {len(event_ids)} event(s)\n")
         random.shuffle(event_ids)
         for i, eid in enumerate(event_ids):
-            label = id_to_name.get(eid, "")
-            print(f"[{eid}]" + (f"  {label}" if label else ""))
+            event_name = (prev_summary.get("events") or {}).get(eid, {}).get("name", "")
+            print(f"[{eid}]" + (f' - "{event_name}"' if event_name else ""))
             page = ctx.new_page()
             try:
                 errors = fetch_event(page, eid, events_dir, set(retry_map.get(eid, [])))
