@@ -339,7 +339,21 @@ if __name__ == "__main__":
     except yaml.YAMLError:
         prev_summary = {}
     retry_map = dict(prev_summary.get("retry") or {})
-    prev_names = dict(prev_summary.get("names") or {})
+
+    # Parse event names from inline comments in event_ids.yml (e.g. "ev0000003  # Academy Awards").
+    ids_file = base_dir / "event_ids.yml"
+    id_to_name = {}
+    if ids_file.exists():
+        with ids_file.open() as f:
+            id_config = yaml.safe_load(f)
+        for item in (id_config.get("event_ids") or []):
+            s = str(item)
+            parts = s.split("#", 1)
+            eid = parts[0].strip()
+            name = parts[1].strip() if len(parts) > 1 else ""
+            if eid and name:
+                id_to_name[eid] = name
+    prev_names = id_to_name
 
     if "--rebuild-summary" in sys.argv[1:]:
         summary = _build_summary(events_dir, retry_map, "00:00:00", prev_names=prev_names)
@@ -354,15 +368,12 @@ if __name__ == "__main__":
         print("Requirements missing: pip install playwright")
         sys.exit(1)
 
-    ids_file = base_dir / "event_ids.yml"
     if not ids_file.exists():
         print("event_ids.yml not found — nothing to do")
         sys.exit(0)
 
-    with ids_file.open() as f:
-        config = yaml.safe_load(f)
     event_ids = list(dict.fromkeys(
-        str(e).split()[0] for e in (config.get("event_ids") or [])
+        str(e).split()[0] for e in (id_config.get("event_ids") or [])
     ))
 
     if not event_ids:
@@ -408,7 +419,8 @@ if __name__ == "__main__":
         print(f"\nFetching {len(event_ids)} event(s)\n")
         random.shuffle(event_ids)
         for i, eid in enumerate(event_ids):
-            print(f"[{eid}]")
+            label = id_to_name.get(eid, "")
+            print(f"[{eid}]" + (f"  {label}" if label else ""))
             page = ctx.new_page()
             try:
                 errors = fetch_event(page, eid, events_dir, set(retry_map.get(eid, [])))
@@ -427,9 +439,34 @@ if __name__ == "__main__":
                 print(f"  pausing {delay:.1f}s")
                 time.sleep(delay)
 
+        # Update event_ids.yml comments with names learned from YAML headers this run.
+        learned = {}
+        for eid in event_ids:
+            yml = events_dir / f"{eid}.yml"
+            if yml.exists():
+                first_line = yml.read_text(encoding="utf-8").split("\n", 1)[0]
+                if first_line.startswith("# "):
+                    name = first_line[2:].strip()
+                    if name and name != id_to_name.get(eid):
+                        learned[eid] = name
+        if learned:
+            raw = ids_file.read_text(encoding="utf-8")
+            new_lines = []
+            for line in raw.splitlines(keepends=True):
+                stripped = line.lstrip()
+                if stripped.startswith("- "):
+                    eid = stripped[2:].split()[0].split("#")[0].strip()
+                    if eid in learned:
+                        indent = line[: len(line) - len(line.lstrip())]
+                        line = f"{indent}- {eid}  # {learned[eid]}\n"
+                new_lines.append(line)
+            ids_file.write_text("".join(new_lines), encoding="utf-8")
+            id_to_name.update(learned)
+            print(f"Updated {len(learned)} event name(s) in event_ids.yml")
+
         elapsed = int(time.time() - run_start)
         duration = f"{elapsed // 3600:02d}:{(elapsed % 3600) // 60:02d}:{elapsed % 60:02d}"
-        summary = _build_summary(events_dir, retry_map, duration, prev_names=prev_names)
+        summary = _build_summary(events_dir, retry_map, duration, prev_names=id_to_name)
         _write_summary(events_dir, summary)
         _write_readme(events_dir, summary)
 
