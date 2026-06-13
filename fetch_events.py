@@ -69,23 +69,44 @@ def _parse_awards(props):
             node = cat_edge["node"]
             cat = node.get("category")
             cat_key = cat["text"].lower() if cat else award_key
-            winners, nominees = [], []
+            winners, nominees, persons = [], [], {}
             for nom_edge in node.get("nominations", {}).get("edges", []):
                 nom = nom_edge["node"]
                 ids = []
                 entities = nom.get("awardedEntities", {})
+
+                # Film-centric: awardTitles holds tt-IDs directly.
                 for t in entities.get("awardTitles", []):
-                    if "id" in t.get("title", {}):
-                        ids.append(t["title"]["id"])
-                for n in entities.get("awardNames", []):
-                    if "id" in n.get("name", {}):
-                        ids.append(n["name"]["id"])
+                    tt_id = t.get("title", {}).get("id", "")
+                    if tt_id:
+                        ids.append(tt_id)
+
+                # Person-centric: awardNames holds nm-IDs + name text; the
+                # associated film's tt-ID is in secondaryAwardTitles.
+                nm_entries = [
+                    {
+                        "id":   n["name"]["id"],
+                        "name": (n["name"].get("nameText") or {}).get("text", ""),
+                    }
+                    for n in entities.get("awardNames", [])
+                    if n.get("name", {}).get("id")
+                ]
+                if nm_entries:
+                    for st in entities.get("secondaryAwardTitles", []):
+                        tt_id = st.get("title", {}).get("id", "")
+                        if tt_id:
+                            ids.append(tt_id)
+                            if tt_id not in persons:
+                                persons[tt_id] = nm_entries[0]
+
                 (winners if nom.get("isWinner") else nominees).extend(ids)
             entry = {}
             if winners:
                 entry["winner"] = sorted(set(winners))
             if nominees:
                 entry["nominee"] = sorted(set(nominees))
+            if persons:
+                entry["persons"] = persons
             if entry:
                 award_data[cat_key] = entry
         if award_data:
