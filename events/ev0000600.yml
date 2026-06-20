@@ -1,0 +1,4424 @@
+# Seattle International Film Festival
+'1985':
+  golden space needle award:
+    best film:
+      winner:
+      - tt0089424
+'1986':
+  golden space needle award:
+    best director:
+      persons:
+        tt0090576:
+          id: nm0705444
+          name: Fons Rademakers
+      winner:
+      - tt0090576
+    best film:
+      winner:
+      - tt0090576
+'1987':
+  golden space needle award:
+    best film:
+      winner:
+      - tt0089606
+'1988':
+  golden space needle award:
+    best actress:
+      persons:
+        tt0093952:
+          id: nm0299028
+          name: Deborra-Lee Furness
+      winner:
+      - tt0093952
+    best film:
+      winner:
+      - tt0095801
+  new director's showcase award:
+    best director:
+      persons:
+        tt0097857:
+          id: nm0295133
+          name: Adam Friedman
+      winner:
+      - tt0097857
+'1989':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0095513:
+          id: nm0000442
+          name: Rutger Hauer
+      winner:
+      - tt0095513
+    best director:
+      persons:
+        tt0094667:
+          id: nm0233026
+          name: Martin Donovan
+      winner:
+      - tt0094667
+    best film:
+      winner:
+      - tt0094667
+'1990':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0099763:
+          id: nm0740264
+          name: Michael Rooker
+      winner:
+      - tt0099763
+    best actress:
+      persons:
+        tt0096999:
+          id: nm0420953
+          name: Rebecca Jenkins
+      winner:
+      - tt0096999
+    best director:
+      persons:
+        tt0097635:
+          id: nm0000780
+          name: Denys Arcand
+      winner:
+      - tt0097635
+    best film:
+      winner:
+      - tt0100436
+    best short film:
+      winner:
+      - tt0097674
+'1991':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0101595: &id001
+          id: nm0000614
+          name: Alan Rickman
+        tt0103129: *id001
+      winner:
+      - tt0101595
+      - tt0103129
+    best actress:
+      persons:
+        tt0102864:
+          id: nm0005499
+          name: Lily Tomlin
+      winner:
+      - tt0102864
+    best director:
+      persons:
+        tt0092929:
+          id: nm0000425
+          name: Peter Greenaway
+      winner:
+      - tt0092929
+    best documentary:
+      winner:
+      - tt0100332
+    best film:
+      winner:
+      - tt0099266
+      - tt0099669
+    best short film:
+      winner:
+      - tt0156905
+  short film award:
+    live action:
+      nominee:
+      - tt0467524
+'1992':
+  audience award:
+    audience award:
+      winner:
+      - tt0107220
+  golden space needle award:
+    best actor:
+      persons:
+        tt0102832: &id002
+          id: nm0000551
+          name: Dermot Mulroney
+        tt0105810: *id002
+      winner:
+      - tt0102832
+      - tt0105810
+    best actress:
+      persons:
+        tt0100115:
+          id: nm0845270
+          name: Marianne Sägebrecht
+      winner:
+      - tt0100115
+    best director:
+      persons:
+        tt0090563: &id003
+          id: nm0000894
+          name: Jean-Jacques Beineix
+        tt0104473: *id003
+      winner:
+      - tt0090563
+      - tt0104473
+    best documentary:
+      winner:
+      - tt0103882
+    best film:
+      winner:
+      - tt0104473
+    best short:
+      winner:
+      - tt0136773
+    best short film:
+      winner:
+      - tt0101349
+'1993':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0101996: &id004
+          id: nm0000128
+          name: Russell Crowe
+        tt0105275: *id004
+      winner:
+      - tt0101996
+      - tt0105275
+    best actress:
+      persons:
+        tt0107756:
+          id: nm0842770
+          name: Tilda Swinton
+      winner:
+      - tt0107756
+    best director:
+      persons:
+        tt0107156:
+          id: nm0000487
+          name: Ang Lee
+      winner:
+      - tt0107156
+    best documentary:
+      winner:
+      - tt0107974
+    best film:
+      winner:
+      - tt0107156
+    best short film:
+      winner:
+      - tt0104222
+  short film award:
+    narrative:
+      nominee:
+      - tt1003028
+'1994':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0109045:
+          id: nm0000654
+          name: Terence Stamp
+      winner:
+      - tt0109045
+    best actress:
+      persons:
+        tt0110956:
+          id: nm0000211
+          name: Mimi Rogers
+      winner:
+      - tt0110956
+    best director:
+      persons:
+        tt0106341:
+          id: nm0208854
+          name: Rolf de Heer
+      winner:
+      - tt0106341
+    best documentary:
+      winner:
+      - tt0107472
+    best film:
+      winner:
+      - tt0109045
+    best short film:
+      nominee:
+      - tt0111938
+      - tt0333812
+      winner:
+      - tt0108598
+'1995':
+  american independent award:
+    american independent award:
+      winner:
+      - tt0114323
+  golden space needle award:
+    best actor:
+      persons:
+        tt0114594: &id005
+          id: nm0000228
+          name: Kevin Spacey
+        tt0114814: *id005
+      winner:
+      - tt0114594
+      - tt0114814
+    best actress:
+      persons:
+        tt0114681:
+          id: nm0000173
+          name: Nicole Kidman
+      winner:
+      - tt0114681
+    best director:
+      persons:
+        tt0114814:
+          id: nm0001741
+          name: Bryan Singer
+      winner:
+      - tt0114814
+    best documentary:
+      winner:
+      - tt0109508
+    best film:
+      winner:
+      - tt0108906
+    best short film:
+      winner:
+      - tt0114583
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0111421
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt0111205
+'1996':
+  american independent special jury prize:
+    american independent special jury prize:
+      winner:
+      - tt0118163
+  golden space needle award:
+    best actor:
+      persons:
+        tt0118163:
+          id: nm0000352
+          name: Vincent D'Onofrio
+      winner:
+      - tt0118163
+    best actress:
+      persons:
+        tt0109028: &id006
+          id: nm0000666
+          name: Lili Taylor
+        tt0116418: *id006
+        tt0116594: *id006
+      winner:
+      - tt0109028
+      - tt0116418
+      - tt0116594
+    best director:
+      persons:
+        tt0117951:
+          id: nm0000965
+          name: Danny Boyle
+      winner:
+      - tt0117951
+    best documentary:
+      winner:
+      - tt0116589
+    best film:
+      winner:
+      - tt0117951
+    best short film:
+      winner:
+      - tt0157104
+  short film award:
+    live action:
+      nominee:
+      - tt0123222
+'1997':
+  american independent award:
+    american independent award:
+      winner:
+      - tt0116261
+  american independent special jury prize:
+    american independent special jury prize:
+      winner:
+      - tt0119264
+  golden space needle award:
+    best actor:
+      persons:
+        tt0120211:
+          id: nm0000409
+          name: Brendan Fraser
+      winner:
+      - tt0120211
+    best actress:
+      persons:
+        tt0119581:
+          id: nm0000705
+          name: Robin Wright
+      winner:
+      - tt0119581
+    best director:
+      persons:
+        tt0114134:
+          id: nm0000425
+          name: Peter Greenaway
+      winner:
+      - tt0114134
+    best documentary:
+      winner:
+      - tt0119530
+    best film:
+      winner:
+      - tt0117905
+    best short film:
+      winner:
+      - tt0156320
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt0116860
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0116208
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt0115895
+      - tt0117615
+'1998':
+  american independent award:
+    american independent award:
+      winner:
+      - tt0118766
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt0120651
+      - tt0135706
+      persons:
+        tt0120514:
+          id: nm0000410
+          name: Stephen Fry
+        tt0120651: &id007
+          id: nm0253035
+          name: Ron Eldard
+        tt0135706: *id007
+      winner:
+      - tt0120514
+    best actress:
+      persons:
+        tt0118789: &id008
+          id: nm0000207
+          name: Christina Ricci
+        tt0120777: *id008
+      winner:
+      - tt0118789
+      - tt0120777
+    best director:
+      persons:
+        tt0120684:
+          id: nm0174374
+          name: Bill Condon
+      winner:
+      - tt0120684
+    best documentary:
+      winner:
+      - tt0144937
+    best film:
+      winner:
+      - tt0119207
+    best short film:
+      winner:
+      - tt0152447
+  new director's showcase - honorable mention:
+    new director's showcase - honorable mention:
+      winner:
+      - tt0124185
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0143907
+  short filmmaker award:
+    short filmmaker award:
+      winner:
+      - tt0211071
+'1999':
+  american independent award:
+    american independent award:
+      winner:
+      - tt0198406
+    special jury prize:
+      winner:
+      - tt0198715
+  atom films short film award:
+    atom films short film award:
+      winner:
+      - tt0194187
+  atom films short film award - honorable mention:
+    atom films short film award - honorable mention:
+      winner:
+      - tt0154450
+  golden space needle award:
+    best actor:
+      persons:
+        tt0122541:
+          id: nm0000391
+          name: Rupert Everett
+      winner:
+      - tt0122541
+    best actress:
+      persons:
+        tt0198715:
+          id: nm0001453
+          name: Piper Laurie
+      winner:
+      - tt0198715
+    best director:
+      persons:
+        tt0164085:
+          id: nm0000626
+          name: John Sayles
+      winner:
+      - tt0164085
+    best documentary:
+      winner:
+      - tt0186508
+    best film:
+      nominee:
+      - tt0181814
+      winner:
+      - tt0130827
+    best short film:
+      winner:
+      - tt0193690
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt0165546
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0163185
+    special jury prize:
+      winner:
+      - tt0138716
+      - tt0157356
+'2000':
+  atom films short film award:
+    atom films short film award:
+      winner:
+      - tt0295974
+      - tt0296137
+      - tt0323085
+  golden space needle award:
+    best actor:
+      persons:
+        tt0182508:
+          id: nm0001246
+          name: Dan Futterman
+      winner:
+      - tt0182508
+    best actress:
+      persons:
+        tt0174330: &id009
+          id: nm0000882
+          name: Nathalie Baye
+        tt0204709: *id009
+      winner:
+      - tt0174330
+      - tt0204709
+    best director:
+      persons:
+        tt0215369:
+          id: nm0955434
+          name: Yang Zhang
+      winner:
+      - tt0215369
+    best documentary:
+      winner:
+      - tt0250779
+    best film:
+      winner:
+      - tt0215369
+    best short film:
+      nominee:
+      - tt0238556
+      winner:
+      - tt0220575
+  kids flick award:
+    kids flick award:
+      nominee:
+      - tt0204870
+      - tt0296028
+      winner:
+      - tt0290785
+  new american cinema award:
+    best editing:
+      winner:
+      - tt0214277
+    best writer:
+      winner:
+      - tt0200530
+    citation of excellence for ensemble cast performance:
+      winner:
+      - tt0180301
+    new american cinema award:
+      winner:
+      - tt0173999
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0120763
+    special jury prize:
+      winner:
+      - tt0220726
+  short film award:
+    short film award:
+      winner:
+      - tt0239797
+  short film award - honorable mention:
+    short film award - honorable mention:
+      winner:
+      - tt0200780
+      - tt0219964
+'2001':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0248845:
+          id: nm0593463
+          name: John Cameron Mitchell
+      winner:
+      - tt0248845
+    best actress:
+      persons:
+        tt0162346:
+          id: nm0000301
+          name: Thora Birch
+      winner:
+      - tt0162346
+    best director:
+      persons:
+        tt0184791:
+          id: nm0625789
+          name: Tim Blake Nelson
+      winner:
+      - tt0184791
+    best documentary:
+      winner:
+      - tt0264578
+    best film:
+      winner:
+      - tt0192023
+    best short:
+      nominee:
+      - tt0284192
+      winner:
+      - tt0287942
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0261755
+  new american cinema special jury prize:
+    new american cinema special jury prize:
+      winner:
+      - tt0229021
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0203166
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt0251091
+      - tt0260991
+  short film award:
+    live action:
+      nominee:
+      - tt0281132
+'2002':
+  alpha cine filmmaker award:
+    alpha cine filmmaker award:
+      winner:
+      - tt0357144
+  asian trade winds award:
+    asian trade winds award:
+      winner:
+      - tt0306359
+  asian trade winds special jury prize:
+    asian trade winds special jury prize:
+      winner:
+      - tt0292171
+  contemporary world cinema:
+    contemporary world cinema:
+      nominee:
+      - tt0269763
+  golden space needle award:
+    best actor:
+      persons:
+        tt0250258:
+          id: nm0001953
+          name: Moritz Bleibtreu
+      winner:
+      - tt0250258
+    best actress:
+      persons:
+        tt0254686:
+          id: nm0001376
+          name: Isabelle Huppert
+      winner:
+      - tt0254686
+    best director:
+      persons:
+        tt0254455:
+          id: nm0575523
+          name: Julio Medem
+      winner:
+      - tt0254455
+    best documentary:
+      winner:
+      - tt0326095
+    best film:
+      winner:
+      - tt0279064
+    best short:
+      winner:
+      - tt0325579
+  modern digital cinema award:
+    modern digital cinema award:
+      winner:
+      - tt0270197
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0326408
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0300453
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt0297992
+  short film award:
+    narrative:
+      nominee:
+      - tt0280538
+'2003':
+  asian trade winds award:
+    asian trade winds award:
+      winner:
+      - tt0250638
+  asian trade winds award - honorable mention:
+    asian trade winds award - honorable mention:
+      winner:
+      - tt0359942
+  documentary award:
+    documentary award:
+      winner:
+      - tt0343168
+      - tt0363510
+  golden space needle award:
+    best actor:
+      persons:
+        tt0320193:
+          id: nm0812555
+          name: Sul Kyung-gu
+      winner:
+      - tt0320193
+    best actress:
+      persons:
+        tt0320193:
+          id: nm0600668
+          name: Moon So-ri
+      winner:
+      - tt0320193
+    best director:
+      persons:
+        tt0298228:
+          id: nm0138927
+          name: Niki Caro
+      winner:
+      - tt0298228
+    best documentary:
+      winner:
+      - tt0363510
+      - tt0422356
+    best film:
+      winner:
+      - tt0298228
+    best short:
+      winner:
+      - tt0323264
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0285727
+  new american cinema award - honorable mention:
+    new american cinema award - honorable mention:
+      winner:
+      - tt0371843
+      - tt0406674
+  new director's showcase award:
+    best new director:
+      nominee:
+      - tt0379587
+      persons:
+        tt0379587:
+          id: nm1292891
+          name: Jinglei Xu
+    new director's showcase award:
+      winner:
+      - tt0353504
+  short film award:
+    live action:
+      nominee:
+      - tt0372006
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt0339707
+'2004':
+  documentary award:
+    documentary award:
+      winner:
+      - tt0354594
+      - tt0389361
+  golden space needle award:
+    best actor:
+      persons:
+        tt0350193:
+          id: nm0869088
+          name: Luis Tosar
+      winner:
+      - tt0350193
+    best actress:
+      persons:
+        tt0390221:
+          id: nm1503432
+          name: Catalina Sandino Moreno
+      winner:
+      - tt0390221
+    best director:
+      persons:
+        tt0346336:
+          id: nm0320285
+          name: Marco Tullio Giordana
+      winner:
+      - tt0346336
+    best documentary:
+      winner:
+      - tt0388789
+    best film:
+      winner:
+      - tt0352343
+    best short:
+      winner:
+      - tt0402936
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0367587
+      - tt0374639
+  new director's showcase - honorable mention:
+    new director's showcase - honorable mention:
+      winner:
+      - tt0296587
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0364120
+  short film competition award:
+    'best short film: animated':
+      winner:
+      - tt0402250
+    'best short film: live action':
+      winner:
+      - tt0390579
+  short film competition award - special mention:
+    'best short film: live action':
+      winner:
+      - tt0390584
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt0377752
+'2005':
+  audience award:
+    animation:
+      winner:
+      - tt1857756
+  documentary award:
+    documentary award:
+      winner:
+      - tt0454785
+  documentary special jury award:
+    documentary special jury award:
+      winner:
+      - tt0395796
+  golden space needle award:
+    best actor:
+      persons:
+        tt0370986:
+          id: nm0330687
+          name: Joseph Gordon-Levitt
+      winner:
+      - tt0370986
+    best actress:
+      persons:
+        tt0381717:
+          id: nm0000260
+          name: Joan Allen
+      winner:
+      - tt0381717
+    best director:
+      persons:
+        tt0370986:
+          id: nm0000777
+          name: Gregg Araki
+      winner:
+      - tt0370986
+    best documentary:
+      winner:
+      - tt0436613
+    best film:
+      winner:
+      - tt0387914
+    best short:
+      winner:
+      - tt0443616
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0384573
+  new american cinema award - honorable mention:
+    new american cinema award - honorable mention:
+      winner:
+      - tt0436262
+  new american cinema special jury prize:
+    new american cinema special jury prize:
+      winner:
+      - tt0436262
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0445161
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt0385017
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt0420233
+      - tt0442896
+  seattle filmmakers award:
+    seattle filmmakers award:
+      winner:
+      - tt0383965
+      - tt0463028
+  short film competition award:
+    'best short film: animated':
+      winner:
+      - tt0443616
+    'best short film: live action':
+      winner:
+      - tt0443499
+  short film competition special jury award:
+    short film competition special jury award:
+      winner:
+      - tt0442938
+      - tt0443689
+      - tt0464148
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt0436039
+'2006':
+  best short animation:
+    audience award:
+      nominee:
+      - tt0471744
+  documentary award:
+    documentary award:
+      winner:
+      - tt0481348
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt0402763
+      - tt0448124
+      persons:
+        tt0402763:
+          id: nm0850875
+          name: Chris Tashima
+        tt0448124:
+          id: nm0000614
+          name: Alan Rickman
+        tt0468489:
+          id: nm0331516
+          name: Ryan Gosling
+      winner:
+      - tt0468489
+    best actress:
+      nominee:
+      - tt0448124
+      persons:
+        tt0448124:
+          id: nm0000244
+          name: Sigourney Weaver
+        tt0484113:
+          id: nm0330185
+          name: Fiona Gordon
+      winner:
+      - tt0484113
+    best director:
+      persons:
+        tt0477139:
+          id: nm1058247
+          name: Goran Dukic
+      winner:
+      - tt0477139
+    best documentary:
+      winner:
+      - tt0446055
+    best film:
+      winner:
+      - tt0464913
+    best short film:
+      winner:
+      - tt0477656
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0432318
+  new american cinema award - honorable mention:
+    new american cinema award - honorable mention:
+      winner:
+      - tt0464105
+  new director's showcase award:
+    best director:
+      persons:
+        tt0765500:
+          id: nm1014706
+          name: Dong-il Shin
+      winner:
+      - tt0765500
+  short film award:
+    animated film:
+      winner:
+      - tt1105293
+    short film award:
+      winner:
+      - tt0434067
+  short film competition award - special mention:
+    best narrative short:
+      winner:
+      - tt0800350
+  short film competition special jury award:
+    short documentary:
+      winner:
+      - tt0450518
+'2007':
+  golden space needle award:
+    best actor:
+      persons:
+        tt0445691:
+          id: nm0117709
+          name: Daniel Brühl
+      winner:
+      - tt0445691
+    best actress:
+      persons:
+        tt0450188:
+          id: nm0182839
+          name: Marion Cotillard
+      winner:
+      - tt0450188
+    best debut perfomance:
+      winner:
+      - tt0461694
+    best director:
+      persons:
+        tt0497972:
+          id: nm0914058
+          name: Daniel Waters
+      winner:
+      - tt0497972
+    best documentary:
+      nominee:
+      - tt0825671
+      winner:
+      - tt1006867
+    best film:
+      winner:
+      - tt0425326
+    best short:
+      nominee:
+      - tt0972382
+    best short film:
+      winner:
+      - tt0783732
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt0815250
+  heineken red star award:
+    heineken red star award:
+      winner:
+      - tt0423232
+  new american cinema award:
+    new american cinema award:
+      winner:
+      - tt0952682
+  new american cinema special jury prize:
+    new american cinema special jury prize:
+      winner:
+      - tt0760173
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt0473707
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt0808462
+  short film competition award:
+    best animated short:
+      winner:
+      - tt0887734
+  short film competition special jury award:
+    narrative special jury prize:
+      winner:
+      - tt1290078
+    short film:
+      winner:
+      - tt1549020
+    short film competition special jury award:
+      winner:
+      - tt0914369
+  special jury prize:
+    best documentary:
+      winner:
+      - tt0494203
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt0912580
+'2008':
+  audience award:
+    audience award:
+      winner:
+      - tt0969648
+    documentary:
+      nominee:
+      - tt1183701
+  documentary special jury award:
+    documentary competition:
+      winner:
+      - tt1258190
+  golden space needle award:
+    best actor:
+      persons:
+        tt0914797:
+          id: nm0000614
+          name: Alan Rickman
+      winner:
+      - tt0914797
+    best actress:
+      persons:
+        tt0867334:
+          id: nm1567113
+          name: Jessica Chastain
+      winner:
+      - tt0867334
+    best director:
+      persons:
+        tt1017428:
+          id: nm1691239
+          name: Amin Matalqa
+      winner:
+      - tt1017428
+    best film:
+      winner:
+      - tt0910559
+    new american cinema grand jury prize:
+      winner:
+      - tt0993755
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt0495026
+  new american cinema award:
+    grand jury prix:
+      winner:
+      - tt0993755
+    new american cinema award:
+      winner:
+      - tt0993755
+  new american cinema special jury prize:
+    new american cinema special jury prize:
+      winner:
+      - tt1235058
+  new director's showcase award:
+    motion picture:
+      winner:
+      - tt1043749
+  short film competition award:
+    'best short film: live action':
+      nominee:
+      - tt1584702
+  short film competition special jury award:
+    best short film:
+      winner:
+      - tt1095191
+    short film competition special jury award:
+      winner:
+      - tt1127187
+      - tt1367471
+  short film jury award:
+    grand jury prize for best documentary short:
+      winner:
+      - tt1219782
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt0978759
+'2009':
+  best short animation:
+    audience award:
+      nominee:
+      - tt1323520
+  documentary award:
+    documentary award:
+      winner:
+      - tt1370889
+    international competition:
+      nominee:
+      - tt1180311
+      - tt1323518
+  documentary special jury award:
+    documentary competition:
+      winner:
+      - tt1039638
+  futurewave youth jury award:
+    futurewave youth jury award:
+      winner:
+      - tt0492896
+  golden space needle award:
+    best actor:
+      persons:
+        tt1182345:
+          id: nm0005377
+          name: Sam Rockwell
+      winner:
+      - tt1182345
+    best director:
+      persons:
+        tt0887912:
+          id: nm0000941
+          name: Kathryn Bigelow
+      winner:
+      - tt0887912
+    best documentary:
+      winner:
+      - tt1313104
+    best film:
+      winner:
+      - tt1190536
+  new director's showcase award:
+    new director's showcase award:
+      winner:
+      - tt1368439
+  short film award:
+    short film award:
+      winner:
+      - tt1578263
+  short film award - honorable mention:
+    short film award - honorable mention:
+      winner:
+      - tt1255891
+  short film competition award:
+    best animated short:
+      winner:
+      - tt1463486
+    best documentary short film:
+      winner:
+      - tt1353118
+    grand jury award:
+      winner:
+      - tt1299384
+  short film competition special jury award:
+    best short film:
+      winner:
+      - tt1255891
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt1028583
+'2010':
+  american independent special jury prize:
+    american independent special jury prize:
+      winner:
+      - tt1521659
+  documentary award:
+    documentary award:
+      nominee:
+      - tt1692889
+  emerging masters showcase award:
+    emerging masters showcase award:
+      winner:
+      - tt1415290
+  fipresci award:
+    best american film:
+      winner:
+      - tt0775543
+  futurewave youth special jury award:
+    futurewave youth special jury award:
+      winner:
+      - tt1031241
+  golden space needle award:
+    best actor:
+      persons:
+        tt1242422:
+          id: nm0869088
+          name: Luis Tosar
+      winner:
+      - tt1242422
+    best actress:
+      persons:
+        tt1399683:
+          id: nm2225369
+          name: Jennifer Lawrence
+      winner:
+      - tt1399683
+    best director:
+      persons:
+        tt1399683:
+          id: nm0335138
+          name: Debra Granik
+      winner:
+      - tt1399683
+    best documentary:
+      winner:
+      - tt1268204
+      - tt1391092
+      - tt1674046
+    best film:
+      winner:
+      - tt1442519
+    best short film:
+      winner:
+      - tt1567752
+      - tt1640160
+    new american cinema grand jury prize:
+      winner:
+      - tt1580346
+  new american cinema award:
+    grand jury prix:
+      winner:
+      - tt1675841
+  new director's showcase award:
+    special jury prize:
+      winner:
+      - tt1368447
+      - tt1442580
+      - tt1514837
+  short film award:
+    animated film:
+      winner:
+      - tt1671552
+    narrative:
+      nominee:
+      - tt1508968
+  short film competition award:
+    'best short film: animated':
+      winner:
+      - tt1409007
+    'best short film: live action':
+      nominee:
+      - tt1588385
+  short film competition special jury award:
+    narrative special jury prize:
+      winner:
+      - tt1540446
+    short documentary:
+      winner:
+      - tt1644738
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt1338687
+'2011':
+  audience award:
+    documentary:
+      winner:
+      - tt1548303
+  best short animation:
+    audience award:
+      winner:
+      - tt1727587
+  documentary award:
+    documentary award:
+      winner:
+      - tt1445203
+  documentary special jury award:
+    documentary competition:
+      winner:
+      - tt1548303
+      - tt1834234
+  films4families youth jury award:
+    best film:
+      winner:
+      - tt1788364
+  golden space needle award:
+    audience:
+      nominee:
+      - tt1650555
+      winner:
+      - tt1360822
+    best actress:
+      persons:
+        tt1456477:
+          id: nm3114558
+          name: Natasha Petrovic
+      winner:
+      - tt1456477
+    best director:
+      persons:
+        tt0896872:
+          id: nm2326979
+          name: Larysa Kondracki
+      winner:
+      - tt0896872
+    best film:
+      nominee:
+      - tt0896872
+      winner:
+      - tt1648154
+    best short film:
+      winner:
+      - tt1778342
+  new director's showcase award:
+    best director:
+      nominee:
+      - tt1830645
+      persons:
+        tt1830645:
+          id: nm4294548
+          name: Sanjeewa Pushpakumara
+    contemporary world cinema:
+      nominee:
+      - tt1245647
+  short film award:
+    narrative:
+      winner:
+      - tt1733689
+  short film competition award:
+    'best short film: live action':
+      nominee:
+      - tt1585650
+  short film jury award:
+    grand jury prize for best documentary short:
+      winner:
+      - tt1764454
+  short filmmaker award:
+    short filmmaker award:
+      winner:
+      - tt1586733
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt1787660
+'2012':
+  alpha cine filmmaker award:
+    alpha cine filmmaker award:
+      nominee:
+      - tt2104115
+  futurewave shorts audience award:
+    futurewave shorts audience award:
+      winner:
+      - tt1886448
+  futurewave youth jury award:
+    futurewave youth jury award:
+      winner:
+      - tt1621432
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt1734433
+      persons:
+        tt1734433:
+          id: nm0641610
+          name: Matt O'Leary
+        tt2066176:
+          id: nm0001086
+          name: Alan Cumming
+      winner:
+      - tt2066176
+    best actress:
+      nominee:
+      - tt1466054
+      persons:
+        tt1466054:
+          id: nm0001156
+          name: Olympia Dukakis
+        tt1734433:
+          id: nm1512166
+          name: Jamie Chung
+      winner:
+      - tt1734433
+    best director:
+      nominee:
+      - tt1734433
+      persons:
+        tt1734433:
+          id: nm0341722
+          name: Megan Griffiths
+        tt2125435:
+          id: nm1022455
+          name: Benh Zeitlin
+      winner:
+      - tt2125435
+    best documentary:
+      winner:
+      - tt2120152
+    best film:
+      nominee:
+      - tt1734433
+      winner:
+      - tt2066176
+    best short film:
+      nominee:
+      - tt1669629
+  grand jury prize:
+    best documentary:
+      winner:
+      - tt1623727
+  new american cinema award:
+    grand jury prix:
+      winner:
+      - tt2099788
+    new american cinema award:
+      nominee:
+      - tt1858522
+  new director's showcase award:
+    contemporary world cinema:
+      nominee:
+      - tt2095684
+  reel nw award:
+    reel nw award:
+      winner:
+      - tt1734433
+  short film competition award:
+    'best short film: live action':
+      nominee:
+      - tt1881028
+      - tt2308605
+  short film competition special jury award:
+    short documentary:
+      winner:
+      - tt2125581
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt1734433
+'2013':
+  audience award:
+    best film:
+      nominee:
+      - tt2167715
+      - tt2366750
+  documentary award:
+    documentary award:
+      nominee:
+      - tt1785612
+      - tt2186685
+      - tt2233762
+      - tt2489734
+      - tt2499076
+      - tt2515926
+      - tt2578468
+      - tt2600524
+      - tt2995810
+      - tt3149612
+      - tt3666826
+      winner:
+      - tt2282662
+  documentary special jury award:
+    documentary special jury award:
+      winner:
+      - tt2499076
+  films4families youth jury award:
+    films4families youth jury award:
+      winner:
+      - tt1816518
+  futurewave prodigy camp scholarship:
+    futurewave prodigy camp scholarship:
+      nominee:
+      - tt3009508
+      winner:
+      - tt2418812
+  futurewave shorts audience award:
+    futurewave shorts audience award:
+      winner:
+      - tt2327465
+  futurewave wavemaker award:
+    futurewave wavemaker award:
+      winner:
+      - tt2551942
+  futurewave youth jury award:
+    futurewave youth jury award:
+      nominee:
+      - tt2006051
+      - tt2077721
+      - tt2133239
+      - tt2235902
+      - tt2262270
+      - tt2333598
+      - tt2995810
+      winner:
+      - tt1714206
+  futurewave youth special jury award:
+    futurewave youth special jury award:
+      winner:
+      - tt2077721
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt0787442
+      - tt1047011
+      - tt1754795
+      - tt1798291
+      - tt1846492
+      - tt1860359
+      - tt2106476
+      - tt2180463
+      - tt2388637
+      - tt2502518
+      persons:
+        tt0787442:
+          id: nm1846124
+          name: Ali Suliman
+        tt1047011:
+          id: nm0000654
+          name: Terence Stamp
+        tt1754795:
+          id: nm0034390
+          name: Niels Arestrup
+        tt1798291:
+          id: nm1435269
+          name: Paul Eenhoorn
+        tt1846492:
+          id: nm1296102
+          name: Edward Hogg
+        tt1860359:
+          id: nm0873396
+          name: Ivan Trojan
+        tt2073086:
+          id: nm0000342
+          name: James Cromwell
+        tt2106476:
+          id: nm0586568
+          name: Mads Mikkelsen
+        tt2180463:
+          id: nm3437701
+          name: Sabin Tambrea
+        tt2388637:
+          id: nm0000729
+          name: Casey Affleck
+        tt2502518:
+          id: nm0004729
+          name: Michael Beach
+      winner:
+      - tt2073086
+    best actress:
+      nominee:
+      - tt1472464
+      - tt1745686
+      - tt1783422
+      - tt1932767
+      - tt2244877
+      - tt2296697
+      - tt2347569
+      - tt2370248
+      - tt2387806
+      - tt2502518
+      persons:
+        tt1464191:
+          id: nm0608090
+          name: Samantha Morton
+        tt1472464:
+          id: nm0603402
+          name: Jeanne Moreau
+        tt1745686:
+          id: nm0311476
+          name: Martina Gedeck
+        tt1783422:
+          id: nm0477810
+          name: Juliane Köhler
+        tt1932767:
+          id: nm4115623
+          name: Onata Aprile
+        tt2244877:
+          id: nm0696761
+          name: Alma Prica
+        tt2296697:
+          id: nm0917848
+          name: Robin Weigert
+        tt2347569:
+          id: nm1950086
+          name: Greta Gerwig
+        tt2370248:
+          id: nm0488953
+          name: Brie Larson
+        tt2387806:
+          id: nm4430977
+          name: Lisa Tomaschewsky
+        tt2502518:
+          id: nm4250290
+          name: Anna Giles
+      winner:
+      - tt1464191
+    best director:
+      nominee:
+      - tt1860359
+      - tt1937504
+      - tt2094064
+      - tt2106476
+      - tt2318625
+      - tt2333598
+      - tt2366450
+      - tt2370248
+      - tt2502518
+      - tt2670226
+      persons:
+        tt1860359:
+          id: nm0648576
+          name: David Ondříček
+        tt1937504:
+          id: nm0610938
+          name: Andrew Mudge
+        tt2094064:
+          id: nm0923736
+          name: Joss Whedon
+        tt2106476:
+          id: nm0899121
+          name: Thomas Vinterberg
+        tt2318625:
+          id: nm3199492
+          name: Michael Mayer
+        tt2333598:
+          id: nm1515311
+          name: Juan Carlos Maneglia
+        tt2366450:
+          id: nm0001631
+          name: Sarah Polley
+        tt2369047:
+          id: nm0043953
+          name: Nabil Ayouch
+        tt2370248:
+          id: nm2308774
+          name: Destin Daniel Cretton
+        tt2502518:
+          id: nm2011544
+          name: Brady Hall
+        tt2670226:
+          id: nm0258732
+          name: Reha Erdem
+      winner:
+      - tt2369047
+    best documentary:
+      nominee:
+      - tt1619026
+      - tt1785612
+      - tt2076856
+      - tt2186685
+      - tt2204371
+      - tt2215151
+      - tt2326270
+      - tt2545118
+      - tt2689428
+      - tt2897642
+      winner:
+      - tt2396566
+    best film:
+      nominee:
+      - tt1047011
+      - tt1453405
+      - tt1464191
+      - tt1839522
+      - tt1937504
+      - tt2070776
+      - tt2073086
+      - tt2178256
+      - tt2369047
+      - tt2370248
+      winner:
+      - tt2181941
+    best short film:
+      nominee:
+      - tt2131517
+      - tt2173796
+      - tt2252388
+      - tt2316917
+      - tt2354561
+      - tt2404190
+      - tt2413494
+      - tt2458390
+      - tt2475108
+      - tt2619250
+      winner:
+      - tt2447552
+  new american cinema award:
+    new american cinema award:
+      nominee:
+      - tt1639397
+      - tt1823096
+      - tt1937504
+      - tt2009406
+      - tt2104841
+      - tt2112209
+      - tt2271671
+      - tt2327541
+      - tt2366750
+      - tt2407380
+      - tt2543930
+      winner:
+      - tt1650393
+  new director's showcase award:
+    new director's showcase award:
+      nominee:
+      - tt2192582
+      - tt2201063
+      - tt2292844
+      - tt2298384
+      - tt2349298
+      - tt2387455
+      - tt2417550
+      - tt2443734
+      - tt2493318
+      - tt2645142
+      - tt3155542
+      winner:
+      - tt2385101
+  reel nw award:
+    reel nw award:
+      winner:
+      - tt2048708
+  short film award:
+    documentary:
+      nominee:
+      - tt3512618
+  short film competition award:
+    animation:
+      winner:
+      - tt2457146
+    documentary:
+      winner:
+      - tt2206804
+    live action:
+      nominee:
+      - tt2250448
+      - tt2426154
+      - tt2662578
+      winner:
+      - tt2475108
+  short film competition special jury award:
+    animation:
+      winner:
+      - tt2119544
+      - tt2619250
+    documentary:
+      winner:
+      - tt2502336
+    live action:
+      winner:
+      - tt2386720
+      - tt2458390
+      - tt2799748
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt1785612
+'2014':
+  alpha cine filmmaker award:
+    best film:
+      nominee:
+      - tt1545295
+  audience award:
+    best film:
+      nominee:
+      - tt1954315
+      - tt3318220
+      - tt3379508
+    documentary:
+      nominee:
+      - tt2118623
+  documentary award:
+    documentary award:
+      nominee:
+      - tt2358456
+      - tt2395465
+      - tt2607968
+      - tt3105418
+      - tt3122736
+      - tt3164198
+      - tt3213062
+      - tt3539664
+      - tt3546396
+      - tt3696790
+      - tt3743314
+      winner:
+      - tt3197558
+  documentary special jury award:
+    documentary special jury award:
+      winner:
+      - tt3105418
+      - tt3539664
+  films4families youth jury award:
+    films4families youth jury award:
+      nominee:
+      - tt1646971
+      - tt2388821
+      - tt2705326
+      - tt3148834
+      - tt3183630
+      winner:
+      - tt3146360
+  films4families youth special jury award:
+    films4families youth special jury award:
+      winner:
+      - tt2388821
+  futurewave prodigy camp scholarship:
+    futurewave prodigy camp scholarship:
+      winner:
+      - tt3663214
+  futurewave shorts audience award:
+    futurewave shorts audience award:
+      nominee:
+      - tt5765146
+      winner:
+      - tt2318122
+  futurewave wavemaker award:
+    futurewave wavemaker award:
+      winner:
+      - tt3295508
+  futurewave youth jury award:
+    futurewave youth jury award:
+      nominee:
+      - tt2141751
+      - tt2364975
+      - tt2368920
+      - tt2385195
+      - tt2981768
+      - tt3122736
+      - tt3379358
+      winner:
+      - tt2235108
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt2315200
+      - tt3089126
+      - tt3146360
+      - tt3187076
+      persons:
+        tt2315200:
+          id: nm0302916
+          name: Guillaume Gallienne
+        tt3089126:
+          id: nm0809285
+          name: Matt Smith
+        tt3092552:
+          id: nm4221607
+          name: Dawid Ogrodnik
+        tt3146360:
+          id: nm5904498
+          name: Félix Bossuet
+        tt3187076:
+          id: nm0759944
+          name: Igor Samobor
+      winner:
+      - tt3092552
+    best actress:
+      nominee:
+      - tt2353767
+      - tt2476552
+      - tt2718492
+      - tt2910274
+      persons:
+        tt1065073:
+          id: nm0000099
+          name: Patricia Arquette
+        tt2353767:
+          id: nm0000300
+          name: Juliette Binoche
+        tt2476552:
+          id: nm1935952
+          name: Jördis Triebel
+        tt2718492:
+          id: nm0474492
+          name: Agata Kulesza
+        tt2910274:
+          id: nm2809577
+          name: Jenny Slate
+      winner:
+      - tt1065073
+    best director:
+      nominee:
+      - tt2718492
+      - tt2991224
+      - tt3092552
+      - tt3125220
+      persons:
+        tt1065073:
+          id: nm0000500
+          name: Richard Linklater
+        tt2718492:
+          id: nm0667734
+          name: Paweł Pawlikowski
+        tt2991224:
+          id: nm0882203
+          name: Zaza Urushadze
+        tt3092552:
+          id: nm1450964
+          name: Maciej Pieprzyca
+        tt3125220:
+          id: nm2528690
+          name: Sara Colangelo
+      winner:
+      - tt1065073
+    best documentary:
+      nominee:
+      - tt2107850
+      - tt2358456
+      - tt2593392
+      - tt3803818
+      winner:
+      - tt2674040
+    best film:
+      nominee:
+      - tt1646971
+      - tt2582846
+      - tt3092552
+      - tt3324702
+      winner:
+      - tt1065073
+    best short:
+      nominee:
+      - tt3379508
+    best short film:
+      nominee:
+      - tt2940940
+      - tt3201792
+      - tt3228894
+      - tt3381028
+      winner:
+      - tt2730162
+  new american cinema award:
+    grand jury prix:
+      nominee:
+      - tt2390630
+    new american cinema award:
+      nominee:
+      - tt2361602
+      - tt2390630
+      - tt2669336
+      - tt2723576
+      - tt2732080
+      - tt2790182
+      - tt2977090
+      - tt3034016
+      - tt3125220
+      - tt3139538
+      - tt3233972
+      winner:
+      - tt2191880
+  new director's showcase award:
+    new director's showcase award:
+      nominee:
+      - tt1546379
+      - tt2315200
+      - tt2385195
+      - tt2690718
+      - tt2763624
+      - tt2784204
+      - tt2991092
+      - tt3092552
+      - tt3180668
+      - tt3400872
+      - tt3469960
+      winner:
+      - tt3114132
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt2784204
+  seattle web festival award:
+    animation:
+      winner:
+      - tt6899980
+  short film competition award:
+    animation:
+      winner:
+      - tt2656122
+    'best short film: live action':
+      nominee:
+      - tt2891228
+    documentary:
+      nominee:
+      - tt2902316
+      winner:
+      - tt3707576
+    grand jury award:
+      nominee:
+      - tt3379508
+    live action:
+      winner:
+      - tt3101756
+  short film competition special jury award:
+    documentary:
+      winner:
+      - tt3400550
+    live action:
+      winner:
+      - tt3201792
+  short film jury award:
+    best narrative short film:
+      nominee:
+      - tt3379508
+  special jury prize:
+    narrative short:
+      winner:
+      - tt2458390
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt3214592
+'2015':
+  documentary award:
+    documentary award:
+      nominee:
+      - tt2444676
+      - tt2817294
+      - tt2866774
+      - tt3328366
+      - tt3509878
+      - tt3793694
+      - tt4076258
+      - tt4141442
+      - tt4414694
+      - tt4444992
+      winner:
+      - tt3288930
+    international competition:
+      nominee:
+      - tt2442080
+  documentary special jury award:
+    documentary special jury award:
+      winner:
+      - tt2866774
+      - tt3509878
+  films4families youth jury award:
+    films4families youth jury award:
+      nominee:
+      - tt2445178
+      - tt2766268
+      - tt2872750
+      - tt3328716
+      - tt3336368
+      - tt3897760
+      - tt4045488
+      winner:
+      - tt3398268
+  futurewave prodigy camp scholarship:
+    futurewave prodigy camp scholarship:
+      winner:
+      - tt3661370
+      - tt4725616
+  futurewave shorts audience award:
+    futurewave shorts audience award:
+      winner:
+      - tt3661370
+  futurewave wavemaker award:
+    futurewave wavemaker award:
+      winner:
+      - tt4725610
+  futurewave youth jury award:
+    futurewave youth jury award:
+      nominee:
+      - tt2415458
+      - tt2582496
+      - tt2866774
+      - tt3078296
+      - tt3149038
+      - tt3369248
+      - tt3630720
+      - tt3850214
+      - tt4093680
+      winner:
+      - tt2566644
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt3158138
+      - tt3168230
+      - tt3170902
+      - tt3416744
+      persons:
+        tt2192016:
+          id: nm0193295
+          name: Cliff Curtis
+        tt3158138:
+          id: nm3588633
+          name: Victor Andres Turgeon-Trelles
+        tt3168230:
+          id: nm0005212
+          name: Ian McKellen
+        tt3170902:
+          id: nm6849498
+          name: Jacir Eid Al-Hwietat
+        tt3416744:
+          id: nm0781981
+          name: Jason Segel
+      winner:
+      - tt2192016
+    best actress:
+      nominee:
+      - tt2929690
+      - tt3605276
+      - tt3742378
+      - tt4093680
+      persons:
+        tt2764784:
+          id: nm0396125
+          name: Nina Hoss
+        tt2929690:
+          id: nm3202701
+          name: Kalki Koechlin
+        tt3605276:
+          id: nm0639152
+          name: Ghita Nørby
+        tt3742378:
+          id: nm0143252
+          name: Regina Casé
+        tt4093680:
+          id: nm6822222
+          name: Rebecka Josephson
+      winner:
+      - tt2764784
+    best director:
+      nominee:
+      - tt1702429
+      - tt1863192
+      - tt3305316
+      - tt3908598
+      persons:
+        tt1702429:
+          id: nm0000425
+          name: Peter Greenaway
+        tt1863192:
+          id: nm0653768
+          name: George Ovashvili
+        tt2582496:
+          id: nm0004234
+          name: Alfonso Gomez-Rejon
+        tt3305316:
+          id: nm0081540
+          name: Susanne Bier
+        tt3908598:
+          id: nm0664061
+          name: Ross Partridge
+      winner:
+      - tt2582496
+    best documentary:
+      nominee:
+      - tt2817294
+      - tt3288930
+      - tt4076258
+      - tt4335808
+      winner:
+      - tt2866774
+    best film:
+      nominee:
+      - tt1105355
+      - tt2096673
+      - tt2582496
+      - tt2872750
+      winner:
+      - tt2192016
+    best short film:
+      nominee:
+      - tt3669098
+      - tt3868084
+      - tt4362656
+      - tt4443642
+      winner:
+      - tt4421818
+  new american cinema award:
+    new american cinema award:
+      nominee:
+      - tt1105355
+      - tt2507238
+      - tt3118452
+      - tt3185602
+      - tt3302078
+      - tt3847958
+      - tt3899516
+      - tt3978720
+      winner:
+      - tt4089568
+  new director's showcase award:
+    new director's showcase award:
+      nominee:
+      - tt3636528
+      - tt3813916
+      - tt3826834
+      - tt3976280
+      - tt4075508
+      - tt4093680
+      - tt4163094
+      - tt4166142
+      - tt4203016
+      - tt4253322
+      - tt4304364
+      winner:
+      - tt2210769
+  new director's showcase special jury prize:
+    new director's showcase special jury prize:
+      winner:
+      - tt3826834
+  short film award:
+    narrative:
+      nominee:
+      - tt3706488
+  short film competition award:
+    animation:
+      winner:
+      - tt3991054
+    best documentary short film:
+      nominee:
+      - tt4058014
+      - tt4311212
+    best performance:
+      nominee:
+      - tt3683122
+    'best short film: live action':
+      nominee:
+      - tt3683122
+    best sound mix:
+      nominee:
+      - tt3683122
+    documentary:
+      winner:
+      - tt4362656
+    live action:
+      winner:
+      - tt3609780
+  short film competition award - special mention:
+    live action:
+      winner:
+      - tt3630326
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt4335808
+'2016':
+  documentary award:
+    documentary award:
+      nominee:
+      - tt2128701
+      - tt3412684
+      - tt3772612
+      - tt4716680
+      - tt4868972
+      - tt5014322
+      - tt5132230
+      - tt5490440
+      - tt5690906
+      - tt5693890
+      - tt5709762
+      winner:
+      - tt5580250
+  films4families youth jury award:
+    films4families youth jury award:
+      nominee:
+      - tt1856057
+      - tt2262345
+      - tt4083850
+      - tt4088588
+      - tt4283358
+      winner:
+      - tt3401748
+  futurewave youth jury award:
+    best feature film:
+      winner:
+      - tt3955894
+    futurewave youth jury award:
+      nominee:
+      - tt3652862
+      - tt3720382
+      - tt3882000
+      - tt3955894
+      - tt4262174
+      - tt4400174
+      - tt4444438
+      - tt4698684
+      - tt4729990
+      - tt5095770
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt1708135
+      - tt1821657
+      - tt3754940
+      - tt5278836
+      persons:
+        tt1708135:
+          id: nm3041056
+          name: Christian Friedel
+        tt1821657:
+          id: nm0001617
+          name: Lou Diamond Phillips
+        tt3754940:
+          id: nm0201857
+          name: Ricardo Darín
+        tt4080728:
+          id: nm0489858
+          name: Rolf Lassgård
+        tt5278836:
+          id: nm2108840
+          name: Manolo Cruz
+      winner:
+      - tt4080728
+    best actress:
+      nominee:
+      - tt3068194
+      - tt3655972
+      - tt4084744
+      - tt4238858
+      - tt4370784
+      persons:
+        tt3068194:
+          id: nm0000295
+          name: Kate Beckinsale
+        tt3655972:
+          id: nm1298582
+          name: Anna Castillo
+        tt4084744:
+          id: nm2099738
+          name: Yuliya Peresild
+        tt4238858:
+          id: nm7513399
+          name: Royalty Hightower
+        tt4370784:
+          id: nm3650704
+          name: Lou de Laâge
+        tt5278836:
+          id: nm0380164
+          name: Vicky Hernández
+      winner:
+      - tt5278836
+    best director:
+      nominee:
+      - tt1821657
+      - tt3655972
+      - tt3823018
+      - tt4365518
+      - tt4370784
+      persons:
+        tt1821657:
+          id: nm0341722
+          name: Megan Griffiths
+        tt3510480:
+          id: nm1027519
+          name: Javier Ruiz Caldera
+        tt3655972:
+          id: nm0093081
+          name: Icíar Bollaín
+        tt3823018:
+          id: nm1242172
+          name: Rúnar Rúnarsson
+        tt4365518:
+          id: nm1938355
+          name: Elite Zexer
+        tt4370784:
+          id: nm0284774
+          name: Anne Fontaine
+      winner:
+      - tt3510480
+    best documentary:
+      nominee:
+      - tt3917210
+      - tt4868972
+      - tt5132230
+      - tt5142750
+      winner:
+      - tt4632316
+    best film:
+      nominee:
+      - tt3655972
+      - tt3754940
+      - tt3763866
+      - tt4080728
+      - tt4258698
+      - tt4698684
+      - tt4714032
+      winner:
+      - tt3553976
+    best short film:
+      nominee:
+      - tt4962740
+      - tt5020174
+      - tt5021598
+      - tt5176160
+      winner:
+      - tt5595664
+  grand jury prize:
+    best feature film:
+      winner:
+      - tt3955894
+    special jury mention:
+      winner:
+      - tt3990782
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt3529010
+      - tt4288534
+      - tt5210324
+      - tt5374000
+      - tt5467140
+      - tt5546762
+      - tt5736216
+      winner:
+      - tt4846220
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt1821657
+      - tt3180912
+      - tt3434122
+      - tt3510304
+      - tt3662778
+      - tt4250438
+      - tt4444438
+      - tt4687464
+      - tt5432114
+      winner:
+      - tt4835894
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt3147046
+      - tt3280176
+      - tt3823018
+      - tt3828058
+      - tt3876702
+      - tt4210112
+      - tt4246854
+      - tt4246894
+      - tt5070130
+      - tt5095770
+      - tt5278832
+      winner:
+      - tt4365518
+  new directors competition - special jury mention:
+    new directors competition - special jury mention:
+      winner:
+      - tt5095770
+  seattle web festival award:
+    best cinematography:
+      winner:
+      - tt4344166
+    best director:
+      persons:
+        tt4344166:
+          id: nm1791169
+          name: Douglas Rath
+      winner:
+      - tt4344166
+  short film award:
+    animation:
+      winner:
+      - tt5433582
+    documentary:
+      winner:
+      - tt5176160
+    live action:
+      nominee:
+      - tt4865914
+      winner:
+      - tt5262444
+    narrative:
+      nominee:
+      - tt4402098
+      - tt4613788
+      - tt4876644
+  short film award - honorable mention:
+    live action:
+      winner:
+      - tt5756372
+  short film competition award:
+    documentary:
+      nominee:
+      - tt4847592
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt5132230
+'2017':
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt5165878
+      - tt5784734
+      - tt6223974
+      - tt6333082
+      - tt6568868
+      - tt6710658
+      - tt6864538
+      - tt6880408
+      winner:
+      - tt6864496
+  documentary competition award - special mention:
+    documentary competition award - special mention:
+      winner:
+      - tt5165878
+  films4families youth jury award:
+    best film:
+      winner:
+      - tt1227183
+    films4families youth jury award:
+      nominee:
+      - tt4110400
+      - tt4788934
+      - tt5731132
+      - tt6133764
+      - tt6386210
+      - tt6386288
+      winner:
+      - tt1227183
+  futurewave youth jury award:
+    best feature film:
+      nominee:
+      - tt3037164
+      - tt4637598
+      - tt4815122
+      - tt5016946
+      - tt5058014
+      - tt5689590
+      - tt5758404
+      - tt5820466
+      winner:
+      - tt3037164
+      - tt6288250
+    shorts audience award:
+      winner:
+      - tt6088728
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt4826674
+      - tt5133308
+      - tt5186236
+      - tt5540188
+      persons:
+        tt4826674:
+          id: nm0001758
+          name: Timothy Spall
+        tt5133308:
+          id: nm0768614
+          name: Leonardo Sbaraglia
+        tt5168192:
+          id: nm0424302
+          name: Dave Johns
+        tt5186236:
+          id: nm0511277
+          name: Boguslaw Linda
+        tt5540188:
+          id: nm0267241
+          name: Fares Fares
+      winner:
+      - tt5168192
+    best actress:
+      nominee:
+      - tt4135326
+      - tt4356104
+      - tt6057032
+      - tt6288250
+      persons:
+        tt4135326:
+          id: nm3885943
+          name: Sophia Mitri Schloss
+        tt4356104:
+          id: nm7052865
+          name: Elina Vaska
+        tt5287168:
+          id: nm7803801
+          name: Lene Cecilia Sparrok
+        tt6057032:
+          id: nm7146497
+          name: Simone Baker
+        tt6288250:
+          id: nm4359664
+          name: Danielle Macdonald
+      winner:
+      - tt5287168
+    best animated short film:
+      nominee:
+      - tt5554420
+    best director:
+      nominee:
+      - tt5294966
+      - tt5463378
+      - tt6057032
+      - tt6497898
+      persons:
+        tt5133308:
+          id: nm0334824
+          name: Rodrigo Grande
+        tt5294966:
+          id: nm0466153
+          name: Hirokazu Koreeda
+        tt5463378:
+          id: nm2155679
+          name: Mani Haghighi
+        tt6057032:
+          id: nm2014390
+          name: Justin Chon
+        tt6497898:
+          id: nm0887375
+          name: Philippe Van Leeuw
+      winner:
+      - tt5133308
+    best documentary:
+      nominee:
+      - tt5758404
+      - tt6333054
+      - tt6333056
+      - tt6861980
+      winner:
+      - tt6013154
+    best film:
+      nominee:
+      - tt4135326
+      - tt4353996
+      - tt5168192
+      - tt6288250
+      winner:
+      - tt5133308
+    best short film:
+      nominee:
+      - tt5546342
+      - tt5546720
+      - tt5699464
+      - tt6143986
+      winner:
+      - tt7055946
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt5011242
+      - tt5133392
+      - tt5791536
+      - tt5820466
+      - tt6085482
+      - tt6303866
+      - tt6451304
+      winner:
+      - tt5287168
+    best feature screenplay:
+      nominee:
+      - tt6947794
+  grand jury prize - special mention:
+    grand jury prize - special mention:
+      winner:
+      - tt5791536
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt4352404
+      - tt4944596
+      - tt5974422
+      - tt5999770
+      - tt6289724
+      - tt6368132
+      - tt6618178
+      - tt6684810
+      winner:
+      - tt3737944
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt3212026
+      - tt4998222
+      - tt5033018
+      - tt5754992
+      - tt5831402
+      - tt5990474
+      - tt6196754
+      winner:
+      - tt4135326
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt1740683
+      - tt3333036
+      - tt4675370
+      - tt4943706
+      - tt5115004
+      - tt5689590
+      - tt5791884
+      - tt6034028
+      - tt6039442
+      winner:
+      - tt3477762
+  new directors competition - special jury mention:
+    new directors competition - special jury mention:
+      winner:
+      - tt4675370
+  short film award:
+    narrative:
+      nominee:
+      - tt6085838
+  short film competition award:
+    best animated short:
+      winner:
+      - tt6324176
+    'best short film: live action':
+      nominee:
+      - tt5073484
+      - tt5896804
+      - tt5928686
+      winner:
+      - tt5194016
+    documentary:
+      nominee:
+      - tt6090924
+      winner:
+      - tt5776190
+  short film competition award - special mention:
+    best animated short:
+      winner:
+      - tt5510182
+    best documentary short:
+      winner:
+      - tt5355020
+    best narrative short:
+      winner:
+      - tt5032542
+    live action:
+      winner:
+      - tt12025972
+  wavemaker award for excellence in youth filmmaking:
+    wavemaker award for excellence in youth filmmaking:
+      winner:
+      - tt6206278
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt5758404
+'2018':
+  audience award:
+    best film:
+      nominee:
+      - tt7834694
+      winner:
+      - tt7093470
+  china stars best new talent:
+    china stars award:
+      winner:
+      - tt7955712
+  clark legacy award:
+    documentary:
+      winner:
+      - tt7938478
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt3041550
+      - tt4150978
+      - tt4494798
+      - tt5678262
+      - tt6045004
+      - tt6058084
+      - tt6980792
+      - tt7478112
+      winner:
+      - tt7527564
+  films4families youth jury award:
+    best film:
+      nominee:
+      - tt5313906
+      - tt5851904
+      - tt6315872
+      - tt6449336
+      - tt6773742
+      - tt7677228
+      - tt7772412
+      winner:
+      - tt3688342
+  futurewave youth jury award:
+    best feature film:
+      nominee:
+      - tt1553659
+      - tt4912622
+      - tt5678262
+      - tt6088456
+      - tt6257174
+      - tt6270596
+      - tt6504868
+      - tt6641528
+      - tt7013830
+      - tt7014006
+      - tt7527564
+      - tt7545566
+      - tt7690020
+      winner:
+      - tt6910380
+    futurewave youth jury award:
+      winner:
+      - tt14568802
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt3892172
+      - tt6053438
+      - tt6742252
+      - tt7738450
+      persons:
+        tt3892172:
+          id: nm0004936
+          name: Ben Foster
+        tt5991974:
+          id: nm0813691
+          name: Miguel Ángel Solá
+        tt6053438:
+          id: nm0000160
+          name: Ethan Hawke
+        tt6742252:
+          id: nm0147767
+          name: Jakob Cedergren
+        tt7738450:
+          id: nm3526993
+          name: Jim Cummings
+      winner:
+      - tt5991974
+    best actress:
+      nominee:
+      - tt3892172
+      - tt6504868
+      - tt6910380
+      - tt7875464
+      persons:
+        tt3892172:
+          id: nm5057169
+          name: Thomasin McKenzie
+        tt6504868:
+          id: nm3885943
+          name: Sophia Mitri Schloss
+        tt6910380:
+          id: nm5710649
+          name: Rhaechyl Walker
+        tt7014006:
+          id: nm3220568
+          name: Elsie Fisher
+        tt7875464:
+          id: nm9590579
+          name: Ana Brun
+      winner:
+      - tt7014006
+    best director:
+      nominee:
+      - tt3892172
+      - tt5258850
+      - tt5991974
+      - tt6504868
+      persons:
+        tt3892172:
+          id: nm0335138
+          name: Debra Granik
+        tt5258850:
+          id: nm0243355
+          name: Albert Dupontel
+        tt5991974:
+          id: nm1258535
+          name: Pablo Solarz
+        tt6504868:
+          id: nm0341722
+          name: Megan Griffiths
+        tt6742252:
+          id: nm7546166
+          name: Gustav Möller
+      winner:
+      - tt6742252
+    best documentary:
+      nominee:
+      - tt5532368
+      - tt5644050
+      - tt8006926
+      winner:
+      - tt7681902
+    best film:
+      nominee:
+      - tt5699154
+      - tt5991974
+      - tt6793580
+      - tt7772412
+      winner:
+      - tt7014006
+    best short film:
+      nominee:
+      - tt6089978
+      - tt6794478
+      - tt7024468
+      - tt8244404
+      winner:
+      - tt7132658
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt3892172
+      - tt5678262
+      - tt6088456
+      - tt6214084
+      - tt6793280
+      - tt7429708
+      - tt7875464
+      - tt7981260
+      winner:
+      - tt7158582
+  grand jury prize - special mention:
+    grand jury prize - special mention:
+      winner:
+      - tt7875464
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt4912622
+      - tt5693136
+      - tt6793580
+      - tt7013830
+      - tt7115920
+      - tt7272242
+      - tt7620218
+      - tt7875464
+      - tt7943248
+      winner:
+      - tt7467324
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt2951040
+      - tt5176580
+      - tt6504868
+      - tt6641528
+      - tt6729000
+      - tt6910380
+      - tt7946422
+      winner:
+      - tt7738450
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt5668850
+      - tt6155960
+      - tt7148254
+      - tt7297960
+      - tt7336842
+      - tt7761590
+      - tt7772412
+      - tt7893992
+      - tt7914282
+      winner:
+      - tt7476810
+  short film award:
+    narrative:
+      nominee:
+      - tt5771336
+      - tt6923970
+      - tt7040108
+      - tt7139480
+      - tt7258362
+      - tt7657618
+  short film jury award:
+    best documentary short:
+      winner:
+      - tt7896692
+    best narrative short film:
+      winner:
+      - tt7352856
+  special jury prize:
+    animated short:
+      winner:
+      - tt7319504
+    best documentary:
+      winner:
+      - tt4494798
+    best independent episodic:
+      winner:
+      - tt6684326
+    documentary short:
+      winner:
+      - tt7319504
+    ibero american competition:
+      winner:
+      - tt7620218
+    narrative short:
+      winner:
+      - tt6805006
+      - tt7027340
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt5644050
+'2019':
+  audience award:
+    best film:
+      winner:
+      - tt8081060
+  contemporary world cinema:
+    contemporary world cinema:
+      nominee:
+      - tt6590856
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt10374228
+      - tt3223318
+      - tt7228086
+      - tt8150730
+      - tt8804304
+      - tt8901942
+      - tt9083130
+      winner:
+      - tt10254986
+  films4families youth jury award:
+    best film:
+      nominee:
+      - tt5541002
+      - tt6741368
+      - tt7132578
+      - tt7150512
+      - tt7296782
+      - tt7474512
+      winner:
+      - tt9083130
+  futurewave youth jury award:
+    best feature film:
+      nominee:
+      - tt4389006
+      - tt5903926
+      - tt6348410
+      - tt6381456
+      - tt7358154
+      - tt7755856
+      - tt8026554
+      - tt8266310
+      - tt9310544
+      winner:
+      - tt7485508
+  golden space needle award:
+    best actor:
+      nominee:
+      - tt5577494
+      - tt6846432
+      - tt7204348
+      - tt8266310
+      persons:
+        tt5577494:
+          id: nm0388038
+          name: Aldis Hodge
+        tt5581284:
+          id: nm9135381
+          name: Julius Weckauf
+        tt6846432:
+          id: nm9282848
+          name: Rady Gamal
+        tt7204348:
+          id: nm9171644
+          name: Lorenzo Ferro
+        tt8266310:
+          id: nm9196203
+          name: Viveik Kalra
+      winner:
+      - tt5581284
+    best actress:
+      nominee:
+      - tt4068576
+      - tt5577494
+      - tt8553606
+      - tt9120416
+      persons:
+        tt4068576:
+          id: nm4957233
+          name: Aisling Franciosi
+        tt5577494:
+          id: nm0005569
+          name: Alfre Woodard
+        tt8553606:
+          id: nm4241408
+          name: Mimosa Willamo
+        tt8696440:
+          id: nm2337862
+          name: Damla Sönmez
+        tt9120416:
+          id: nm4451784
+          name: Emilie Piponnier
+      winner:
+      - tt8696440
+    best director:
+      nominee:
+      - tt5791098
+      - tt6190456
+      - tt9310544
+      - tt9617456
+      persons:
+        tt5791098:
+          id: nm2108295
+          name: Sameh Zoabi
+        tt6190456:
+          id: nm1902132
+          name: Károly Ujj Mészáros
+        tt9310544:
+          id: nm3374818
+          name: Willem Bosch
+        tt9514970:
+          id: nm4657765
+          name: Ulaa Salim
+        tt9617456:
+          id: nm10408302
+          name: Waad Al-Kateab
+      winner:
+      - tt9514970
+    best documentary:
+      nominee:
+      - tt10374226
+      - tt7724108
+      - tt8879946
+      - tt9129296
+      winner:
+      - tt9083130
+    best film:
+      nominee:
+      - tt5431890
+      - tt7476116
+      - tt8266310
+      - tt8647376
+      winner:
+      - tt5791098
+    best short film:
+      nominee:
+      - tt10450826
+      - tt8164750
+      - tt8928440
+      - tt9542246
+      - tt9902912
+      winner:
+      - tt9746458
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt4389006
+      - tt7313348
+      - tt7605702
+      - tt8512120
+      - tt8587142
+      - tt8751804
+      - tt9068100
+      winner:
+      - tt8951086
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt6731592
+      - tt6799254
+      - tt7482212
+      - tt7485508
+      - tt7666724
+      - tt7825208
+      - tt9358136
+      - tt9784842
+      winner:
+      - tt6708834
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt6690836
+      - tt6886080
+      - tt7358154
+      - tt7957314
+      - tt9133378
+      - tt9318280
+      - tt9614440
+      winner:
+      - tt5117326
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt6151592
+      - tt6210874
+      - tt6835498
+      - tt7475882
+      - tt8305116
+      - tt8461958
+      - tt9514970
+      winner:
+      - tt6822514
+  short film award:
+    animation:
+      nominee:
+      - tt8200722
+      - tt8478236
+      - tt8491744
+      - tt8526074
+      - tt9032798
+      - tt9109086
+      - tt9451744
+      - tt9465738
+      - tt9728404
+      winner:
+      - tt7405892
+    documentary:
+      nominee:
+      - tt8990520
+      - tt9072706
+      winner:
+      - tt9902912
+    live action:
+      nominee:
+      - tt10276792
+      - tt8551848
+    narrative:
+      nominee:
+      - tt7060688
+      - tt7461380
+      - tt7507644
+      - tt7688426
+      - tt8108858
+      - tt8196186
+      - tt8324146
+      - tt8928440
+      - tt9097744
+      - tt9379374
+      - tt9746458
+      winner:
+      - tt7385806
+  special jury prize:
+    animated short:
+      winner:
+      - tt8200722
+    documentary short:
+      winner:
+      - tt8990520
+      - tt9072706
+    ibero american competition:
+      winner:
+      - tt7482212
+    new directors competition:
+      persons:
+        tt7475882:
+          id: nm9326366
+          name: Heather Tsui
+      winner:
+      - tt7475882
+  women in cinema lena sharpe award:
+    women in cinema lena sharpe award:
+      winner:
+      - tt7724108
+'2020':
+  grand jury prize:
+    best feature film:
+      winner:
+      - tt7320482
+    best horror feature film:
+      winner:
+      - tt7320482
+'2021':
+  best short animation:
+    short film animation special jury prize for achievement in puppetry:
+      winner:
+      - tt10933008
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt10676022
+      - tt13630174
+      - tt13648216
+      - tt14030566
+      - tt14030682
+      - tt14303490
+      winner:
+      - tt11394290
+  films4families youth jury award:
+    best film:
+      winner:
+      - tt10734928
+  futurewave shorts audience award:
+    futurewave shorts audience award:
+      winner:
+      - tt14042060
+  futurewave youth jury award:
+    best feature film:
+      nominee:
+      - tt11111232
+      - tt11735544
+      - tt12826940
+      - tt13192640
+      - tt4131756
+      winner:
+      - tt11394340
+  golden space needle award:
+    best documentary:
+      winner:
+      - tt14030682
+    best film:
+      winner:
+      - tt11697844
+    best short film:
+      winner:
+      - tt13421592
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt10676042
+      - tt11114992
+      - tt11697844
+      - tt12801374
+      - tt4131756
+      - tt9093890
+      winner:
+      - tt11753696
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt10632226
+      - tt11111232
+      - tt12450582
+      - tt13648184
+      - tt14303570
+      - tt14303580
+      - tt3548874
+      winner:
+      - tt14303576
+  ibero-american competition special jury prize:
+    outstanding performance:
+      winner:
+      - tt11111232
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt10506876
+      - tt11398346
+      - tt12826940
+      - tt14030510
+      - tt3513522
+      - tt6932766
+      - tt8105636
+      winner:
+      - tt8908432
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt11131944
+      - tt11735544
+      - tt13683566
+      - tt6151224
+      - tt6955210
+      - tt8171236
+      - tt9850050
+      winner:
+      - tt10365870
+  short film award:
+    animation:
+      winner:
+      - tt6838598
+    documentary:
+      nominee:
+      - tt10619790
+      - tt11512636
+      - tt11830320
+      - tt13219556
+      - tt13421592
+      - tt13834698
+      winner:
+      - tt13253166
+    live action:
+      nominee:
+      - tt13660390
+    narrative:
+      nominee:
+      - tt11695844
+      - tt11723026
+      - tt12008698
+      - tt12860262
+      - tt12974818
+      - tt13029028
+      - tt13706810
+      - tt14149788
+      - tt14304790
+      - tt14316042
+      winner:
+      - tt13649406
+  short film competition award:
+    best documentary short film:
+      nominee:
+      - tt13834698
+    'best short film: live action':
+      nominee:
+      - tt10811392
+    live action:
+      nominee:
+      - tt12241006
+  special jury prize:
+    documentary competition:
+      winner:
+      - tt13630174
+    ibero american competition:
+      winner:
+      - tt13648184
+    new american cinema competition:
+      winner:
+      - tt8105636
+    performance:
+      winner:
+      - tt13281862
+'2022':
+  audience award:
+    best film:
+      nominee:
+      - tt13453138
+      - tt14253846
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt11398388
+      - tt14574478
+      - tt15215056
+      - tt15839780
+      - tt19357082
+      - tt19357122
+      - tt2551628
+      winner:
+      - tt13359582
+  futurewave wavemaker award:
+    futurewave wavemaker award:
+      winner:
+      - tt19316720
+  golden space needle award:
+    best director:
+      persons:
+        tt9487526:
+          id: nm3407897
+          name: Horacio Alcala
+      winner:
+      - tt9487526
+    best documentary:
+      winner:
+      - tt16378164
+    best film:
+      winner:
+      - tt15275946
+    best performance:
+      winner:
+      - tt12691830
+    best short film:
+      winner:
+      - tt16225276
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt10779254
+      - tt11795652
+      - tt13817770
+      - tt14927320
+      - tt15010292
+      - tt16227014
+      - tt16378164
+      - tt17041964
+      winner:
+      - tt16315948
+  grand jury prize - special mention:
+    grand jury prize - special mention:
+      winner:
+      - tt16227014
+      - tt17041964
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt13841874
+      - tt14213248
+      - tt14691852
+      - tt14755038
+      - tt15906730
+      - tt17174750
+      - tt9487526
+      winner:
+      - tt14927880
+  ibero-american competition special jury prize:
+    originality of vision:
+      winner:
+      - tt13841874
+  lena sharpe award for persistence of vision:
+    lena sharpe award for persistence of vision:
+      winner:
+      - tt2551628
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt11648994
+      - tt13483866
+      - tt16375578
+      - tt19354162
+      - tt4371958
+      winner:
+      - tt15275946
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt11783988
+      - tt12322986
+      - tt13482806
+      - tt13648856
+      - tt14950912
+      - tt15138462
+      winner:
+      - tt15220294
+  new directors competition - special jury mention:
+    new directors competition - special jury mention:
+      winner:
+      - tt11783988
+      - tt15138462
+  short film award:
+    animation:
+      nominee:
+      - tt11386280
+      - tt13231684
+      - tt14899008
+      - tt15006852
+      - tt15118352
+      - tt15209844
+      - tt15255306
+      - tt16211868
+      winner:
+      - tt14972316
+    documentary:
+      nominee:
+      - tt15389378
+      - tt15463090
+      - tt16914624
+      - tt17680180
+      - tt19299836
+      - tt19299864
+      - tt19358598
+      winner:
+      - tt16225276
+    live action:
+      nominee:
+      - tt15119688
+      winner:
+      - tt14449178
+    narrative:
+      nominee:
+      - tt14643004
+      - tt14690342
+      - tt15119688
+      - tt15599120
+      - tt16392090
+      - tt18484530
+      - tt19036704
+      - tt19300378
+  short film competition award:
+    'best short film: live action':
+      nominee:
+      - tt14965102
+      - tt15083118
+      - tt15599120
+  short film competition special jury award:
+    animation, excellence in directing:
+      winner:
+      - tt15548722
+    live action:
+      winner:
+      - tt15393466
+    short film:
+      winner:
+      - tt15686372
+  special jury prize:
+    best feature film:
+      winner:
+      - tt16227014
+      - tt17041964
+    documentary competition for cinematography:
+      winner:
+      - tt15215056
+    ibero-american competition for originality of vision:
+      winner:
+      - tt13841874
+    new directors competition:
+      persons:
+        tt11783988:
+          id: nm4900399
+          name: C.B. Yi
+        tt15138462:
+          id: nm5065217
+          name: Amil Shivji
+      winner:
+      - tt11783988
+      - tt15138462
+'2023':
+  audience award:
+    best film:
+      nominee:
+      - tt22263540
+  best short animation:
+    audience award:
+      nominee:
+      - tt17277222
+    best animated short film:
+      nominee:
+      - tt19512794
+    best film:
+      nominee:
+      - tt27554968
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt17902724
+      - tt21187598
+      - tt21820452
+      - tt24082520
+      - tt24082622
+      - tt24132176
+      - tt26745680
+      - tt7741736
+      winner:
+      - tt24082466
+  futurewave shorts competition:
+    narrative short:
+      nominee:
+      - tt21299676
+      - tt27440534
+  golden space needle award:
+    best director:
+      nominee:
+      - tt15734582
+      - tt21284442
+      - tt22059648
+      - tt22370990
+      persons:
+        tt15734582:
+          id: nm4807465
+          name: Paul Urkijo Alijo
+        tt17679584:
+          id: nm5685112
+          name: Maryam Touzani
+        tt21284442:
+          id: nm2753071
+          name: Lisa Steen
+        tt22059648:
+          id: nm6355885
+          name: Amarsaikhan Baljinnyam
+        tt22370990:
+          id: nm5434158
+          name: Laha Mebow
+      winner:
+      - tt17679584
+    best documentary:
+      nominee:
+      - tt12318242
+      - tt12716222
+      - tt24082438
+      - tt27454469
+      winner:
+      - tt22802044
+    best film:
+      nominee:
+      - tt13242416
+      - tt17679584
+      - tt21232992
+      - tt22059648
+      winner:
+      - tt20424066
+    best performance:
+      nominee:
+      - tt15282128
+      - tt15837314
+      - tt21284442
+      - tt8591526
+      winner:
+      - tt17679584
+    best short film:
+      nominee:
+      - tt21631716
+      - tt23735236
+      - tt24577180
+      - tt27613430
+      winner:
+      - tt27641528
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt14906708
+      - tt16103266
+      - tt16311444
+      - tt19719904
+      - tt21688772
+      - tt23638090
+      - tt9861230
+      winner:
+      - tt21113962
+    new directors competition:
+      persons:
+        tt19820538:
+          id: nm4772133
+          name: July Jung
+      winner:
+      - tt19820538
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt11488252
+      - tt13866630
+      - tt16907536
+      - tt18115352
+      - tt22335816
+      - tt26448953
+      - tt26591137
+      winner:
+      - tt17078354
+  lena sharpe award for persistence of vision:
+    lena sharpe award for persistence of vision:
+      winner:
+      - tt22802044
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt13242416
+      - tt15837314
+      - tt19891040
+      - tt21284442
+      - tt8591526
+      winner:
+      - tt22777288
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt18072684
+      - tt21378768
+      - tt25161220
+      - tt9317274
+      winner:
+      - tt19820538
+  short film award:
+    animation:
+      winner:
+      - tt24486126
+    documentary:
+      nominee:
+      - tt27613430
+      winner:
+      - tt26218316
+    live action:
+      nominee:
+      - tt21631716
+      - tt23735236
+  short film competition award:
+    animation:
+      nominee:
+      - tt11542496
+      - tt17277222
+      - tt20867674
+      - tt21935070
+      - tt21961490
+      - tt24178880
+      - tt24486242
+      - tt27641139
+      - tt27641170
+      - tt27656292
+    best documentary short film:
+      nominee:
+      - tt26737158
+    'best short film: live action':
+      nominee:
+      - tt24957026
+      - tt27655666
+    documentary:
+      nominee:
+      - tt24577180
+    live action:
+      nominee:
+      - tt18231784
+      - tt21956112
+      - tt23873492
+      - tt25399098
+      - tt26215538
+      winner:
+      - tt21797282
+  special jury prize:
+    documentary competition:
+      winner:
+      - tt24132176
+    documentary short:
+      winner:
+      - tt22078364
+    ibero-american competition:
+      winner:
+      - tt13866630
+    live action short:
+      winner:
+      - tt24957026
+    new american cinema competition:
+      winner:
+      - tt19891040
+    new directors competition:
+      persons:
+        tt21378768:
+          id: nm3604945
+          name: Ahmed Yassin Al Daradji
+      winner:
+      - tt21378768
+    official competition:
+      winner:
+      - tt16311444
+  wavemaker award grand jury prize:
+    wavemaker award grand jury prize:
+      winner:
+      - tt27659779
+  wavemaker award special jury mention:
+    wavemaker award special jury mention:
+      winner:
+      - tt27641025
+  youth jury prize for best futurewave feature:
+    youth jury prize for best futurewave feature:
+      nominee:
+      - tt10261206
+      - tt13242416
+      - tt20424066
+      - tt21232992
+      - tt22868842
+      winner:
+      - tt24082520
+  youth jury prize for best futurewave feature special jury mention:
+    youth jury prize for best futurewave feature special jury mention:
+      winner:
+      - tt22868842
+'2024':
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt27404709
+      - tt27716296
+      - tt27816891
+      - tt28494712
+      - tt28635725
+      - tt29277295
+      - tt30294282
+      winner:
+      - tt30320576
+  documentary competition award - special mention:
+    documentary competition award - special mention:
+      winner:
+      - tt29277295
+  futurewave shorts competition:
+    futurewave:
+      nominee:
+      - tt30516362
+  golden space needle award:
+    best director:
+      nominee:
+      - tt18277182
+      - tt22207786
+      - tt30227076
+      - tt30319503
+      persons:
+        tt18277182:
+          id: nm2568240
+          name: Shuchi Talati
+        tt22207786:
+          id: nm4317824
+          name: Pascal Plante
+        tt30227076:
+          id: nm10340152
+          name: Shiori Itō
+        tt30319503:
+          id: nm7648876
+          name: Sean Wang
+        tt30321095:
+          id: nm3643779
+          name: Kelly O'Sullivan
+      winner:
+      - tt30321095
+    best documentary:
+      nominee:
+      - tt10850320
+      - tt29277295
+      - tt29466730
+      - tt30227076
+      winner:
+      - tt30294282
+    best film:
+      nominee:
+      - tt22054690
+      - tt27722543
+      - tt28613536
+      - tt30321095
+      winner:
+      - tt28479262
+    best performance:
+      nominee:
+      - tt21108294
+      - tt28613536
+      - tt30321095
+      - tt32155974
+      winner:
+      - tt30321095
+    excellence in ensemble acting:
+      winner:
+      - tt28479262
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt27720531
+      - tt28490044
+      - tt30319503
+      - tt30319825
+      - tt30319854
+      - tt30439035
+      winner:
+      - tt26757264
+  grand jury prize - special mention:
+    grand jury prize - special mention:
+      winner:
+      - tt30319854
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt15716284
+      - tt18291892
+      - tt26739127
+      - tt27518776
+      - tt28681319
+      - tt29427529
+      - tt30320410
+      - tt30320521
+      winner:
+      - tt30970632
+  ibero-american competition special jury prize:
+    special jury mention:
+      winner:
+      - tt29427529
+  lena sharpe award for persistence of vision:
+    lena sharpe award for persistence of vision:
+      winner:
+      - tt30227076
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt22170270
+      - tt28613536
+      - tt29426703
+      - tt30309913
+      - tt32155974
+      winner:
+      - tt21824868
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt15245268
+      - tt16611924
+      - tt26218798
+      - tt26255358
+      - tt27907897
+      - tt28772179
+      winner:
+      - tt27816866
+  new directors competition - special jury mention:
+    new directors competition - special jury mention:
+      winner:
+      - tt15245268
+  seattle film critics society feature film award:
+    seattle film critics society feature film award:
+      winner:
+      - tt15574270
+  short film award:
+    animation:
+      nominee:
+      - tt13021784
+      - tt30421212
+      - tt30691398
+      winner:
+      - tt27301377
+    documentary:
+      nominee:
+      - tt31459777
+      - tt32361089
+      winner:
+      - tt26420692
+    narrative:
+      nominee:
+      - tt16150914
+      - tt27102290
+      - tt27612246
+      - tt30835304
+      winner:
+      - tt30420185
+  short film competition award - special mention:
+    narrative:
+      winner:
+      - tt19889406
+  special jury prize:
+    best feature film:
+      winner:
+      - tt14417286
+  youth jury prize for best futurewave feature:
+    youth jury prize for best futurewave feature:
+      nominee:
+      - tt11736478
+      - tt15245268
+      - tt27851949
+      - tt28613536
+      - tt30319503
+      - tt30835407
+'2025':
+  documentary competition award:
+    documentary competition award:
+      nominee:
+      - tt16273116
+      - tt31523252
+      - tt32938050
+      - tt33034110
+      - tt33301408
+      - tt34966678
+      - tt35184636
+      winner:
+      - tt5441290
+  futurewave wavemaker award:
+    futurewave wavemaker award:
+      nominee:
+      - tt35292093
+  golden space needle award:
+    best director:
+      nominee:
+      - tt32086046
+      - tt32843349
+      - tt34966013
+      - tt35515220
+      persons:
+        tt31322753:
+          id: nm4007200
+          name: James Sweeney
+        tt32086046:
+          id: nm2488216
+          name: Boris Lojkine
+        tt32843349:
+          id: nm6872447
+          name: Eva Victor
+        tt34966013:
+          id: nm1713913
+          name: Ryan White
+        tt35515220:
+          id: nm1871001
+          name: Annapurna Sriram
+      winner:
+      - tt31322753
+    best documentary:
+      nominee:
+      - tt28731634
+      - tt31193771
+      - tt33096714
+      - tt34966678
+      winner:
+      - tt34966013
+    best film:
+      nominee:
+      - tt31322753
+      - tt32086046
+      - tt32150360
+      - tt34964187
+      winner:
+      - tt29120447
+    best performance:
+      nominee:
+      - tt29270150
+      - tt32928666
+      - tt32944883
+      - tt33294838
+      winner:
+      - tt32086046
+    best short:
+      nominee:
+      - tt32444952
+    best short film:
+      nominee:
+      - tt32319379
+      - tt33019507
+      - tt35109472
+      - tt36981204
+      winner:
+      - tt36685645
+  grand jury prize:
+    best feature film:
+      nominee:
+      - tt28101159
+      - tt28731634
+      - tt29361963
+      - tt31566788
+      - tt33030375
+      - tt33308903
+      - tt35820422
+      winner:
+      - tt34963731
+  grand jury prize - special mention:
+    best documentary short:
+      winner:
+      - tt36684277
+  ibero american competition:
+    ibero american competition:
+      nominee:
+      - tt20358190
+      - tt27911420
+      - tt29270150
+      - tt29344907
+      - tt33306496
+      - tt34678593
+      - tt35051106
+      winner:
+      - tt26923797
+  ibero-american competition special jury prize:
+    special jury mention:
+      winner:
+      - tt35051106
+  lena sharpe award for persistence of vision:
+    lena sharpe award for persistence of vision:
+      winner:
+      - tt34966678
+  new american cinema competition:
+    new american cinema competition:
+      nominee:
+      - tt17497960
+      - tt32150360
+      - tt32261856
+      - tt32490110
+      - tt35515220
+      winner:
+      - tt32886599
+  new directors competition:
+    new directors competition:
+      nominee:
+      - tt27802514
+      - tt30984809
+      - tt32046117
+      - tt32144178
+      - tt33269198
+      - tt34964187
+      winner:
+      - tt36643091
+  seattle film critics society feature film award:
+    seattle film critics society feature film award:
+      winner:
+      - tt32843349
+  short film award:
+    animation:
+      nominee:
+      - tt32262282
+      - tt32319379
+      - tt33019507
+      - tt33317291
+      - tt34305706
+      - tt35051320
+      - tt35051482
+      - tt35534634
+      - tt35828067
+      - tt35852245
+      - tt36349810
+      - tt36645472
+      - tt36685087
+      winner:
+      - tt35051470
+    documentary:
+      nominee:
+      - tt35109472
+      winner:
+      - tt36686704
+    live action:
+      nominee:
+      - tt27490157
+      - tt36685645
+      - tt36981204
+      winner:
+      - tt36670576
+    narrative:
+      nominee:
+      - tt35381163
+  short film competition award:
+    'best short film: live action':
+      nominee:
+      - tt31937601
+      - tt32444952
+      - tt33084785
+  special jury prize:
+    animated short:
+      winner:
+      - tt35051320
+    documentary competition:
+      winner:
+      - tt35184636
+    ibero american competition:
+      winner:
+      - tt33306496
+    live action short:
+      winner:
+      - tt27490157
+    new directors competition:
+      persons:
+        tt34964187:
+          id: nm4651141
+          name: Georgi M. Unkovski
+      winner:
+      - tt34964187
+    official competition:
+      winner:
+      - tt33030375
+  wavemaker award grand jury prize:
+    wavemaker award grand jury prize:
+      winner:
+      - tt35820422
+'2026':
+  dan ireland prize:
+    dan ireland prize:
+      winner:
+      - tt30833294
+  golden space needle award:
+    best director:
+      persons:
+        tt27811632:
+          id: nm0258221
+          name: Ildikó Enyedi
+      winner:
+      - tt27811632
+    best documentary:
+      winner:
+      - tt39367915
+    best film:
+      winner:
+      - tt36173361
+    best performance:
+      winner:
+      - tt37287335
+    best short:
+      winner:
+      - tt39026969
+  grand jury prize:
+    animated short:
+      winner:
+      - tt39370801
+    documentary competition:
+      nominee:
+      - tt38390390
+      - tt39149951
+      - tt39150043
+      - tt39150922
+      - tt39210397
+      - tt39318287
+      - tt39382829
+      winner:
+      - tt39026593
+    documentary short:
+      winner:
+      - tt39196252
+    iberoamerican competition:
+      winner:
+      - tt39367313
+    live action short:
+      winner:
+      - tt33428943
+    new american cinema competition:
+      nominee:
+      - tt30833294
+      - tt30850718
+      - tt36173361
+      - tt38120535
+      - tt38582631
+      winner:
+      - tt34000545
+    new directors competition:
+      nominee:
+      - tt32362418
+      - tt33522697
+      - tt36591512
+      - tt37645474
+      - tt37651659
+      - tt38125670
+      persons:
+        tt32362418:
+          id: nm4962990
+          name: Shahad Ameen
+        tt33522697:
+          id: nm3838149
+          name: Kai Stänicke
+        tt34424701:
+          id: nm7891074
+          name: Tribeny Rai
+        tt36591512:
+          id: nm2667119
+          name: Sarah Goher
+        tt37645474:
+          id: nm4740952
+          name: Suzannah Mirghani
+        tt37651659:
+          id: nm6347723
+          name: Polen Ly
+        tt38125670:
+          id: nm6159207
+          name: Charlotte Brodthagen
+      winner:
+      - tt34424701
+    official competition:
+      nominee:
+      - tt27811632
+      - tt35513027
+      - tt35636239
+      - tt38980819
+      - tt39150067
+      winner:
+      - tt15284556
+  ibero-american competition special jury prize:
+    special jury mention:
+      winner:
+      - tt37664358
+  lena sharpe award for persistence of vision:
+    lena sharpe award for persistence of vision:
+      winner:
+      - tt38645461
+  seattle film critics society feature film award:
+    seattle film critics society feature film award:
+      winner:
+      - tt37287335
+  short film competition award:
+    'best short film: live action':
+      nominee:
+      - tt38047055
+  special jury prize:
+    animated short:
+      winner:
+      - tt11722252
+      - tt39183773
+      - tt41041558
+    documentary competition:
+      winner:
+      - tt39318287
+    documentary short:
+      winner:
+      - tt39220424
+      - tt40755775
+    live action short:
+      winner:
+      - tt39371318
+    official competition:
+      winner:
+      - tt39150067

@@ -1,5 +1,5 @@
 event_ids:
-- ev0000003  # Academy Awards
+- ev0000003  # Academy Awards, USA
 - ev0000147  # Cannes Film Festival
 - ev0000631  # Sundance Film Festival
 - ev0000681  # Venice Film Festival
@@ -16,31 +16,31 @@ event_ids:
 - ev0000123  # BAFTA Awards
 - ev0000349  # Film Independent Spirit Awards
 - ev0000384  # Karlovy Vary International Film Festival
-- ev0000157  # César Awards
-- ev0000025  # IDFA
+- ev0000157  # César Awards, France
+- ev0000025  # International Documentary Film Festival Amsterdam (IDFA)
 - ev0000230  # European Film Awards
-- ev0000894  # Tribeca Festival
-- ev0000155  # Sitges Film Festival
+- ev0000894  # Tribeca Film Festival
+- ev0000155  # Sitges - Catalonian International Film Festival
 - ev0000655  # Tokyo International Film Festival
 - ev0000612  # Slamdance Film Festival
 - ev0000584  # San Francisco International Film Festival
 - ev0000600  # Seattle International Film Festival
 - ev0001695  # Fantastic Fest
-- ev0000212  # DGA Awards
-- ev0000710  # WGA Awards
+- ev0000212  # Directors Guild of America, USA
+- ev0000710  # Writers Guild of America, USA
 - ev0000031  # Annecy International Animated Film Festival
-- ev0000531  # Producers Guild Awards
+- ev0000531  # PGA Awards
 - ev0000299  # Goya Awards
 - ev0000871  # Sarajevo Film Festival
 - ev0000427  # Melbourne International Film Festival
 - ev0000637  # Sydney Film Festival
-- ev0004901  # BlackStar Film Festival
+- ev0004901  # Blackstar Film Festival
 - ev0000165  # Chicago International Film Festival
 - ev0000203  # David di Donatello Awards
 - ev0000521  # Palm Springs International Film Festival
 - ev0000329  # Hong Kong Film Awards
 - ev0000141  # Cairo International Film Festival
 - ev0000589  # Santa Barbara International Film Festival
-- ev0000001  # Ariel Awards
+- ev0000001  # Ariel Awards, Mexico
 - ev0000057  # Austin Film Festival
 - ev0001535  # Mill Valley Film Festival

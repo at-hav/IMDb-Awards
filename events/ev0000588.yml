@@ -1,0 +1,6732 @@
+# San Sebastián International Film Festival
+'1953':
+  best actor:
+    best actor:
+      winner:
+      - tt0045861
+  best actress:
+    best actress:
+      winner:
+      - tt0045861
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0045608
+  best director:
+    best director:
+      winner:
+      - tt0045843
+  best production design:
+    best production design:
+      winner:
+      - tt0045608
+  grand prize:
+    best film:
+      nominee:
+      - tt0040090
+      - tt0041798
+      - tt0041877
+      - tt0042434
+      - tt0043386
+      - tt0043567
+      - tt0044518
+      - tt0044867
+      - tt0044977
+      - tt0045010
+      - tt0045081
+      - tt0045244
+      - tt0045608
+      - tt0045643
+      - tt0045701
+      - tt0045795
+      - tt0045861
+      - tt0045888
+      - tt0046075
+      - tt0046149
+      - tt0046429
+      - tt0046456
+      - tt0252191
+      winner:
+      - tt0045843
+'1954':
+  best actor:
+    best actor:
+      winner:
+      - tt0047655
+  best actress:
+    best actress:
+      winner:
+      - tt0047335
+  best director:
+    best director:
+      winner:
+      - tt0047335
+  grand prize:
+    best film:
+      nominee:
+      - tt0045662
+      - tt0045942
+      - tt0046008
+      - tt0046023
+      - tt0046053
+      - tt0046539
+      - tt0046789
+      - tt0046893
+      - tt0047250
+      - tt0047335
+      - tt0047390
+      - tt0047505
+      - tt0047655
+      - tt0157717
+      - tt0201413
+      winner:
+      - tt0047489
+'1955':
+  golden seashell:
+    best film:
+      nominee:
+      - tt0045614
+      - tt0046672
+      - tt0046695
+      - tt0046872
+      - tt0046921
+      - tt0047048
+      - tt0047367
+      - tt0047379
+      - tt0048485
+      - tt0048513
+      - tt0048608
+      - tt0157951
+      winner:
+      - tt0047024
+  silver seashell:
+    best feature film using color:
+      winner:
+      - tt0047024
+    best short film using color:
+      winner:
+      - tt0046442
+  special mention:
+    best feature film using color:
+      winner:
+      - tt0047379
+'1956':
+  unofficial award:
+    best actor - foreign film:
+      persons:
+        tt0046819:
+          id: nm0368394
+          name: O.E. Hasse
+      winner:
+      - tt0046819
+    best actor - spanish film:
+      persons:
+        tt0049859:
+          id: nm0167070
+          name: Alberto Closas
+      winner:
+      - tt0049859
+    best actress - foreign film:
+      persons:
+        tt0049207:
+          id: nm0217369
+          name: Luisa Della Noce
+      winner:
+      - tt0049207
+    best cinematography - spanish film:
+      winner:
+      - tt0049599
+    best color cinematography - foreign film:
+      winner:
+      - tt0194263
+    best director - foreign film:
+      persons:
+        tt0049207:
+          id: nm0314584
+          name: Pietro Germi
+      winner:
+      - tt0049207
+    best director - spanish film:
+      persons:
+        tt0049859:
+          id: nm0631370
+          name: José Antonio Nieves Conde
+      winner:
+      - tt0049859
+    best film - foreign film:
+      winner:
+      - tt0049207
+    best film - spanish film:
+      winner:
+      - tt0049859
+    best screenplay - foreign film:
+      winner:
+      - tt0049703
+    best screenplay - spanish film:
+      winner:
+      - tt0049859
+    best short film - spanish film:
+      winner:
+      - tt0124916
+'1957':
+  golden seashell:
+    best short film:
+      winner:
+      - tt0124322
+    golden seashell:
+      winner:
+      - tt0050777
+  ocic award:
+    ocic award:
+      winner:
+      - tt0045903
+  silver seashell:
+    best short film:
+      winner:
+      - tt0206961
+    silver seashell:
+      winner:
+      - tt0045903
+      - tt0050297
+  zulueta prize:
+    best actor:
+      persons:
+        tt0050390:
+          id: nm0889024
+          name: Charles Vanel
+      winner:
+      - tt0050390
+    best actress:
+      persons:
+        tt0050783:
+          id: nm0556399
+          name: Giulietta Masina
+      winner:
+      - tt0050783
+'1958':
+  alma award for best screenplay:
+    alma award for best screenplay:
+      winner:
+      - tt0051598
+  best spanish language film - special mention:
+    best spanish language film - special mention:
+      winner:
+      - tt0201557
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206967
+    golden seashell:
+      winner:
+      - tt0051598
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0052216
+      - tt0052357
+  special mention:
+    best short film:
+      winner:
+      - tt0051505
+      - tt0206770
+  zulueta prize:
+    best actor:
+      persons:
+        tt0052357:
+          id: nm0000071
+          name: James Stewart
+        tt0052365:
+          id: nm0000018
+          name: Kirk Douglas
+      winner:
+      - tt0052357
+      - tt0052365
+    best actress:
+      persons:
+        tt0050753:
+          id: nm0765930
+          name: Jacqueline Sassard
+      winner:
+      - tt0050753
+'1959':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0053238
+  best spanish language short film:
+    best spanish language short film:
+      winner:
+      - tt0207190
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206531
+    golden seashell:
+      winner:
+      - tt0053131
+  ocic award:
+    ocic award:
+      winner:
+      - tt0051374
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0051510
+      - tt0053125
+  special mention:
+    best short film:
+      winner:
+      - tt0053267
+      - tt0206886
+    special mention:
+      winner:
+      - tt0053217
+  unofficial award:
+    special screening:
+      nominee:
+      - tt0453004
+  zulueta prize:
+    best actor:
+      persons:
+        tt0053238:
+          id: nm0551288
+          name: Adolfo Marsillach
+      winner:
+      - tt0053238
+    best actress:
+      persons:
+        tt0053131:
+          id: nm0000030
+          name: Audrey Hepburn
+      winner:
+      - tt0053131
+'1960':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0207103
+  best spanish language short film:
+    best spanish language short film:
+      winner:
+      - tt0206724
+  golden seashell:
+    best film:
+      nominee:
+      - tt0054292
+      winner:
+      - tt0054250
+    best short film:
+      winner:
+      - tt0206747
+      - tt0206927
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0052832
+  special mention:
+    special mention:
+      winner:
+      - tt0053032
+  zulueta prize:
+    best actor:
+      persons:
+        tt0052997:
+          id: nm0000277
+          name: Richard Attenborough
+      winner:
+      - tt0052997
+    best actress:
+      persons:
+        tt0052832:
+          id: nm0940946
+          name: Joanne Woodward
+      winner:
+      - tt0052832
+'1961':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0055426
+  best spanish language short film:
+    best spanish language short film:
+      winner:
+      - tt0207069
+  golden seashell:
+    best short film:
+      winner:
+      - tt0134021
+    golden seashell:
+      winner:
+      - tt0055257
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0053855:
+          id: nm0002085
+          name: Gert Fröbe
+      winner:
+      - tt0053855
+    best actress:
+      persons:
+        tt0055257:
+          id: nm0671186
+          name: Pina Pellicer
+      winner:
+      - tt0055257
+    best director:
+      persons:
+        tt0055012:
+          id: nm0490444
+          name: Alberto Lattuada
+      winner:
+      - tt0055012
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0055245
+'1962':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0055337
+  best spanish language short film:
+    best spanish language short film:
+      winner:
+      - tt0133919
+  golden seashell:
+    best short film:
+      winner:
+      - tt0133919
+    golden seashell:
+      winner:
+      - tt0056107
+  ocic award:
+    ocic award:
+      winner:
+      - tt0056241
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0056673:
+          id: nm0000634
+          name: Peter Sellers
+      winner:
+      - tt0056673
+    best actress:
+      persons:
+        tt0056241:
+          id: nm0000843
+          name: Anne Bancroft
+      winner:
+      - tt0056241
+    best director:
+      persons:
+        tt0055432:
+          id: nm0006615
+          name: Mauro Bolognini
+      winner:
+      - tt0055432
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0054838
+  special mention:
+    best short film:
+      winner:
+      - tt0206703
+      - tt0206883
+'1963':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0056981
+  best spanish language short film:
+    best spanish language short film:
+      winner:
+      - tt0138130
+      - tt0207042
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206658
+    golden seashell:
+      winner:
+      - tt0056210
+  ocic award:
+    ocic award:
+      winner:
+      - tt0055895
+      - tt0241535
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0055895:
+          id: nm0000493
+          name: Jack Lemmon
+      winner:
+      - tt0055895
+    best actress:
+      persons:
+        tt0055895:
+          id: nm0001665
+          name: Lee Remick
+      winner:
+      - tt0055895
+    best director:
+      persons:
+        tt0206569:
+          id: nm0257992
+          name: Robert Enrico
+      winner:
+      - tt0206569
+    best newcomer (revelación):
+      winner:
+      - tt0056981
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0056981
+'1964':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0058695
+  best spanish language short film:
+    best spanish language short film:
+      winner:
+      - tt0207041
+  golden seashell:
+    best short film:
+      winner:
+      - tt0207118
+    golden seashell:
+      winner:
+      - tt0056825
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0193358
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0056843:
+          id: nm0083234
+          name: Maurice Biraud
+        tt0058557:
+          id: nm0000277
+          name: Richard Attenborough
+      winner:
+      - tt0056843
+      - tt0058557
+    best actress:
+      persons:
+        tt0058404:
+          id: nm0001257
+          name: Ava Gardner
+      winner:
+      - tt0058404
+    best director:
+      persons:
+        tt0058695:
+          id: nm0681467
+          name: Miguel Picazo
+      winner:
+      - tt0058695
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0058275
+  special mention:
+    best short film:
+      winner:
+      - tt0207240
+'1965':
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206831
+    golden seashell:
+      winner:
+      - tt0059448
+      - tt0169406
+  ocic award:
+    ocic award:
+      winner:
+      - tt0059540
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0059015:
+          id: nm0000052
+          name: Marcello Mastroianni
+      winner:
+      - tt0059015
+    best actress:
+      persons:
+        tt0059549:
+          id: nm0658339
+          name: Lilli Palmer
+      winner:
+      - tt0059549
+    best director:
+      persons:
+        tt0059015:
+          id: nm0598102
+          name: Mario Monicelli
+      winner:
+      - tt0059015
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0200887
+'1966':
+  golden seashell:
+    best short film:
+      winner:
+      - tt0060532
+    golden seashell:
+      winner:
+      - tt0060532
+  ocic award:
+    ocic award:
+      winner:
+      - tt0060532
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0059555:
+          id: nm0277975
+          name: Frank Finlay
+      winner:
+      - tt0059555
+    best actress:
+      persons:
+        tt0144861:
+          id: nm0757690
+          name: Evangelina Salazar
+      winner:
+      - tt0144861
+    best director:
+      persons:
+        tt0061933:
+          id: nm0006615
+          name: Mauro Bolognini
+      winner:
+      - tt0061933
+  silver seashell:
+    best first work:
+      winner:
+      - tt0059521
+    silver seashell:
+      winner:
+      - tt0207145
+'1967':
+  golden seashell:
+    best film:
+      nominee:
+      - tt0061619
+      winner:
+      - tt0062407
+    best short film:
+      winner:
+      - tt0207008
+  ocic award:
+    ocic award:
+      winner:
+      - tt0061851
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0060395:
+          id: nm0590055
+          name: John Mills
+        tt0060944:
+          id: nm0740067
+          name: Maurice Ronet
+      winner:
+      - tt0060395
+      - tt0060944
+    best actress:
+      persons:
+        tt0060509:
+          id: nm0894024
+          name: Serena Vergano
+      winner:
+      - tt0060509
+    best director:
+      persons:
+        tt0061851:
+          id: nm0605155
+          name: Janusz Morgenstern
+      winner:
+      - tt0061851
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0062370
+      - tt0062462
+'1968':
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206960
+    golden seashell:
+      winner:
+      - tt0063237
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0062985:
+          id: nm0001627
+          name: Sidney Poitier
+        tt0063152:
+          id: nm0723623
+          name: Claude Rich
+      winner:
+      - tt0062985
+      - tt0063152
+    best actress:
+      persons:
+        tt0063485:
+          id: nm0900143
+          name: Monica Vitti
+      winner:
+      - tt0063485
+  silver seashell:
+    best first work:
+      winner:
+      - tt0061793
+    silver seashell:
+      winner:
+      - tt0061579
+      - tt0062058
+'1969':
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206982
+    golden seashell:
+      winner:
+      - tt0064873
+  ocic award:
+    ocic award:
+      winner:
+      - tt0065241
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0063237
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0064576:
+          id: nm0932116
+          name: Nicol Williamson
+      winner:
+      - tt0064576
+    best actress:
+      persons:
+        tt0062655:
+          id: nm0762248
+          name: Stefania Sandrelli
+        tt0063838:
+          id: nm0161524
+          name: Lyudmila Chursina
+      winner:
+      - tt0062655
+      - tt0063838
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0062875
+      - tt0065152
+'1970':
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206725
+    golden seashell:
+      winner:
+      - tt0065618
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0065127:
+          id: nm0810550
+          name: Innokentiy Smoktunovskiy
+        tt0073849:
+          id: nm0490254
+          name: Zoltán Latinovits
+      winner:
+      - tt0065127
+      - tt0073849
+    best actress:
+      persons:
+        tt0064106:
+          id: nm0000804
+          name: Stéphane Audran
+      winner:
+      - tt0064106
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0065703
+      - tt0066358
+  special mention:
+    special mention:
+      winner:
+      - tt0065127
+'1971':
+  golden seashell:
+    best film:
+      nominee:
+      - tt0073221
+      winner:
+      - tt0065772
+    best short film:
+      winner:
+      - tt0152632
+  ocic award:
+    ocic award:
+      winner:
+      - tt0067593
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0065489:
+          id: nm0002094
+          name: Vittorio Gassman
+      winner:
+      - tt0065489
+    best actress:
+      persons:
+        tt0065598:
+          id: nm0096559
+          name: Graciela Borges
+      winner:
+      - tt0065598
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0065671
+      - tt0066515
+      - tt0067803
+  special mention:
+    special mention:
+      winner:
+      - tt0065452
+'1972':
+  golden seashell:
+    best film:
+      nominee:
+      - tt0068786
+      winner:
+      - tt0068642
+    best short film:
+      winner:
+      - tt0206629
+  ocic award:
+    ocic award:
+      winner:
+      - tt0069532
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0068513:
+          id: nm0721073
+          name: Fernando Rey
+        tt0069131:
+          id: nm0867694
+          name: Topol
+      winner:
+      - tt0068513
+      - tt0069131
+    best actress:
+      persons:
+        tt0069131:
+          id: nm0001201
+          name: Mia Farrow
+      winner:
+      - tt0069131
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0069109
+      - tt0172708
+      - tt0195436
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0172708
+'1973':
+  golden seashell:
+    best film:
+      nominee:
+      - tt0070334
+    best short film:
+      winner:
+      - tt0206983
+    golden seashell:
+      winner:
+      - tt0070040
+  ocic award:
+    ocic award:
+      winner:
+      - tt0069824
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0069815:
+          id: nm0893341
+          name: Lino Ventura
+        tt0070720:
+          id: nm0316284
+          name: Giancarlo Giannini
+      winner:
+      - tt0069815
+      - tt0070720
+    best actress:
+      persons:
+        tt0069815:
+          id: nm0264554
+          name: Françoise Fabian
+        tt0070819:
+          id: nm0413559
+          name: Glenda Jackson
+      winner:
+      - tt0069815
+      - tt0070819
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0069492
+      - tt0070510
+      - tt0070819
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0070510
+'1974':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0072302
+  golden seashell:
+    best short film:
+      winner:
+      - tt0136532
+    golden seashell:
+      winner:
+      - tt0069762
+  ocic award:
+    ocic award:
+      winner:
+      - tt0070839
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0175294
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0069762:
+          id: nm0000640
+          name: Martin Sheen
+      winner:
+      - tt0069762
+    best actress:
+      persons:
+        tt0072364:
+          id: nm0000047
+          name: Sophia Loren
+      winner:
+      - tt0072364
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0070056
+      - tt0071238
+      - tt0071443
+  special mention:
+    special mention:
+      winner:
+      - tt0069885
+      - tt0207023
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0071238
+'1975':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0073028
+  golden seashell:
+    best film:
+      nominee:
+      - tt0073195
+      winner:
+      - tt0073028
+    best short film:
+      winner:
+      - tt0206700
+  ocic award:
+    ocic award:
+      winner:
+      - tt0073858
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0072417
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0072890:
+          id: nm0000199
+          name: Al Pacino
+      winner:
+      - tt0072890
+    best actress:
+      persons:
+        tt0072417:
+          id: nm0001687
+          name: Gena Rowlands
+      winner:
+      - tt0072417
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0072417
+      - tt0075140
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0172171
+'1976':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0074793
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206993
+    golden seashell:
+      winner:
+      - tt0073781
+  ocic award:
+    ocic award:
+      winner:
+      - tt0074947
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0075226:
+          id: nm0468865
+          name: Zdzislaw Kozien
+      winner:
+      - tt0075226
+    best actress:
+      persons:
+        tt0074263:
+          id: nm0607609
+          name: Helen Morse
+      winner:
+      - tt0074263
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0072650
+      - tt0072826
+  special mention:
+    special mention:
+      winner:
+      - tt0073660
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0074263
+'1977':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0075616
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206730
+    golden seashell:
+      winner:
+      - tt0076446
+  ocic award:
+    ocic award:
+      winner:
+      - tt0075616
+      - tt0076430
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0075616:
+          id: nm0022765
+          name: Héctor Alterio
+      winner:
+      - tt0075616
+    best actress:
+      persons:
+        tt0076430:
+          id: nm0402895
+          name: Kaki Hunter
+      winner:
+      - tt0076430
+  silver seashell:
+    best director:
+      persons:
+        tt0076430:
+          id: nm0802445
+          name: Bernhard Sinkel
+      winner:
+      - tt0076430
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0075118
+'1978':
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0077181
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206705
+    golden seashell:
+      winner:
+      - tt0075654
+  ocic award:
+    ocic award:
+      winner:
+      - tt0075654
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0076152:
+          id: nm0755364
+          name: José Sacristán
+      winner:
+      - tt0076152
+    best actress:
+      persons:
+        tt0078481:
+          id: nm0000993
+          name: Carol Burnett
+      winner:
+      - tt0078481
+  silver seashell:
+    best director:
+      persons:
+        tt0078298:
+          id: nm0349426
+          name: Manuel Gutiérrez Aragón
+      winner:
+      - tt0078298
+    silver seashell:
+      winner:
+      - tt0078027
+      - tt0176666
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0076336
+'1979':
+  best actor:
+    best actor:
+      nominee:
+      - tt0080140
+  best new director:
+    best new director:
+      winner:
+      - tt0077595
+      - tt0079105
+  best spanish language film:
+    best spanish language film:
+      winner:
+      - tt0084541
+  golden seashell:
+    best film:
+      nominee:
+      - tt0078748
+      - tt0080140
+      winner:
+      - tt0079679
+    best short film:
+      winner:
+      - tt0206824
+  ocic award:
+    ocic award:
+      winner:
+      - tt0080176
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0077165
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0079188:
+          id: nm0897721
+          name: Nelson Villagra
+      winner:
+      - tt0079188
+    best actress:
+      persons:
+        tt0079717:
+          id: nm0079341
+          name: Laura Betti
+      winner:
+      - tt0079717
+  silver seashell:
+    best cinematography and special effects:
+      winner:
+      - tt0078748
+    best director:
+      persons:
+        tt0077165:
+          id: nm0350606
+          name: Pál Gábor
+      winner:
+      - tt0077165
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0079517
+'1980':
+  best new director:
+    best new director:
+      winner:
+      - tt0206004
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0080381
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0079090
+  ocic award:
+    ocic award:
+      winner:
+      - tt0079090
+'1981':
+  best film:
+    best film:
+      nominee:
+      - tt0159570
+  best new director:
+    best new director:
+      winner:
+      - tt0082702
+      - tt0173818
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0086410
+  ocic award:
+    ocic award:
+      winner:
+      - tt0080691
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0082702
+      - tt0082912
+'1982':
+  audience award:
+    european film:
+      nominee:
+      - tt0246844
+  best new director:
+    best new director:
+      winner:
+      - tt0184883
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0083813
+  golden seashell:
+    best film:
+      winner:
+      - tt0083813
+  ocic award:
+    ocic award:
+      winner:
+      - tt0083946
+'1983':
+  best new director:
+    best new director:
+      winner:
+      - tt0085181
+      - tt0088861
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0085370
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0015624
+'1984':
+  best new director:
+    best new director:
+      winner:
+      - tt0089706
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0088311
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0086216
+  ocic award:
+    ocic award:
+      winner:
+      - tt0086216
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0087105
+      - tt0266991
+'1985':
+  best new director:
+    best new director:
+      winner:
+      - tt0090801
+    new directors award:
+      nominee:
+      - tt0140422
+      persons:
+        tt0140422:
+          id: nm0737852
+          name: Orlando Rojas
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0088874
+  golden seashell:
+    golden seashell:
+      winner:
+      - tt0090352
+    short film:
+      winner:
+      - tt0091021
+  ocic award:
+    ocic award:
+      winner:
+      - tt0089881
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0090352:
+          id: nm0803446
+          name: Piotr Siwkiewicz
+      winner:
+      - tt0090352
+    best actress:
+      persons:
+        tt0089115:
+          id: nm0760093
+          name: Mercedes Sampietro
+      winner:
+      - tt0089115
+    best director:
+      persons:
+        tt0085345:
+          id: nm0518363
+          name: Francisco J. Lombardi
+      winner:
+      - tt0085345
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0088954
+      - tt0089624
+  special mention:
+    special mention:
+      winner:
+      - tt0088954
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0090372
+'1986':
+  best new director:
+    best new director:
+      winner:
+      - tt0091214
+      - tt0168737
+  golden seashell:
+    best short film:
+      winner:
+      - tt0206723
+    golden seashell:
+      winner:
+      - tt0091531
+  ocic award:
+    ocic award:
+      winner:
+      - tt0091214
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0092176
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0091261:
+          id: nm0350884
+          name: Ernesto Gómez Cruz
+      winner:
+      - tt0091261
+    best actress:
+      persons:
+        tt0091531:
+          id: nm0596807
+          name: Ángela Molina
+      winner:
+      - tt0091531
+    best director:
+      persons:
+        tt0090336:
+          id: nm0181421
+          name: Axel Corti
+      winner:
+      - tt0090336
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0090561
+      - tt0169085
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0089663
+'1987':
+  best new director:
+    best new director:
+      winner:
+      - tt0092552
+      - tt0093536
+  golden seashell:
+    golden seashell:
+      winner:
+      - tt0094229
+  ocic award:
+    ocic award:
+      winner:
+      - tt0092955
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0092693
+      - tt0094055
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0093458:
+          id: nm0002181
+          name: Imanol Arias
+      winner:
+      - tt0093458
+    best actress:
+      persons:
+        tt0093458:
+          id: nm0000721
+          name: Victoria Abril
+      winner:
+      - tt0093458
+    best director:
+      persons:
+        tt0092794:
+          id: nm0220652
+          name: Dominique Deruddere
+      winner:
+      - tt0092794
+  silver seashell:
+    silver seashell:
+      winner:
+      - tt0092719
+      - tt0095303
+'1988':
+  best new director:
+    best new director:
+      winner:
+      - tt0095633
+  golden seashell:
+    golden seashell:
+      winner:
+      - tt0093674
+  ocic award:
+    ocic award:
+      winner:
+      - tt0095467
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0094624: &id001
+          id: nm0721073
+          name: Fernando Rey
+        tt0095015: *id001
+      winner:
+      - tt0094624
+      - tt0095015
+    best actress:
+      persons:
+        tt0094646:
+          id: nm0511148
+          name: Cipe Lincovsky
+      winner:
+      - tt0094646
+    prize san sebastián:
+      winner:
+      - tt0094773
+      - tt0184756
+  silver seashell:
+    best director:
+      persons:
+        tt0093840:
+          id: nm0840779
+          name: Gonzalo Suárez
+      winner:
+      - tt0093840
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0095467
+'1989':
+  best new director:
+    first films competition:
+      winner:
+      - tt0096745
+      - tt0097860
+  golden seashell:
+    best film:
+      nominee:
+      - tt0098060
+      winner:
+      - tt0097521
+      - tt0097951
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0092337
+      - tt0098528
+  prize san sebastián:
+    best actor:
+      persons:
+        tt0098545:
+          id: nm0073498
+          name: Ari Bery
+      winner:
+      - tt0098545
+    best actress:
+      persons:
+        tt0097302:
+          id: nm0427066
+          name: Mirjana Joković
+      winner:
+      - tt0097302
+    prize san sebastián:
+      winner:
+      - tt0097254
+      - tt0098528
+  silver seashell:
+    best director:
+      persons:
+        tt0168935:
+          id: nm0096901
+          name: Miroslaw Bork
+      winner:
+      - tt0168935
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0097831
+'1990':
+  audience award:
+    best film:
+      nominee:
+      - tt0102476
+  best new director:
+    best new director:
+      winner:
+      - tt0099411
+      - tt0137868
+  ficc award:
+    ficc award:
+      nominee:
+      - tt0102476
+  golden seashell:
+    best film:
+      nominee:
+      - tt0097919
+      - tt0098214
+      - tt0098294
+      - tt0098980
+      - tt0099074
+      - tt0099097
+      - tt0099298
+      - tt0099773
+      - tt0100072
+      - tt0100150
+      - tt0100244
+      - tt0100495
+      - tt0100534
+      - tt0144778
+      - tt0181890
+      - tt0200509
+      winner:
+      - tt0099226
+  ocic award:
+    ocic award:
+      winner:
+      - tt0099226
+      - tt0123319
+  silver seashell:
+    best actor:
+      persons:
+        tt0099226:
+          id: nm0418716
+          name: Mulie Jarju
+      winner:
+      - tt0099226
+    best actress:
+      persons:
+        tt0098294:
+          id: nm0125540
+          name: Margherita Buy
+      winner:
+      - tt0098294
+    best director:
+      persons:
+        tt0100150:
+          id: nm0001054
+          name: Joel Coen
+      winner:
+      - tt0100150
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0098214
+'1991':
+  best film:
+    documentary:
+      nominee:
+      - tt0316082
+  best new director:
+    best new director:
+      winner:
+      - tt0101620
+  documentary award:
+    documentary award:
+      winner:
+      - tt0102133
+      - tt0169404
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0102035
+      - tt0103231
+      - tt0103337
+      - tt0169081
+      winner:
+      - tt0101290
+  ocic award:
+    ocic award:
+      winner:
+      - tt0102986
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0101597
+  silver seashell:
+    best actor:
+      persons:
+        tt0103337:
+          id: nm0784661
+          name: Silu Seppälä
+      winner:
+      - tt0103337
+    best actress:
+      persons:
+        tt0103231:
+          id: nm0299028
+          name: Deborra-Lee Furness
+      winner:
+      - tt0103231
+    best director:
+      persons:
+        tt0102035:
+          id: nm0567680
+          name: Bruce McDonald
+      winner:
+      - tt0102035
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0169081
+'1992':
+  best new director:
+    best new director:
+      winner:
+      - tt0107360
+  documentary award:
+    documentary award:
+      winner:
+      - tt0104537
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0105909
+  golden seashell:
+    best film:
+      nominee:
+      - tt0107220
+    golden seashell:
+      nominee:
+      - tt0105114
+      - tt0105602
+      - tt0105909
+      winner:
+      - tt0104774
+  ocic award:
+    ocic award:
+      winner:
+      - tt0104774
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0107360
+  silver seashell:
+    best actor:
+      persons:
+        tt0105114:
+          id: nm0554929
+          name: Roberto Sosa
+      winner:
+      - tt0105114
+    best actress:
+      persons:
+        tt0105909:
+          id: nm0417370
+          name: Krystyna Janda
+      winner:
+      - tt0105909
+    best director:
+      persons:
+        tt0105602:
+          id: nm0548648
+          name: Goran Markovic
+      winner:
+      - tt0105602
+    silver seashell:
+      winner:
+      - tt0105602
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0105909
+'1993':
+  best new director:
+    best new director:
+      winner:
+      - tt0108652
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0107480
+  golden seashell:
+    best film:
+      nominee:
+      - tt0106245
+      - tt0106742
+      - tt0106901
+      - tt0107084
+      - tt0107165
+      - tt0107291
+      - tt0107480
+      - tt0107508
+      - tt0107771
+      - tt0108279
+      - tt0108359
+      - tt0108638
+      - tt0414954
+      winner:
+      - tt0110894
+      - tt0111072
+  ocic award:
+    ocic award:
+      winner:
+      - tt0108359
+  silver seashell:
+    best actor:
+      persons:
+        tt0107480:
+          id: nm0248364
+          name: Juan Echanove
+      winner:
+      - tt0107480
+    best actress:
+      persons:
+        tt0111072:
+          id: nm0439312
+          name: Niki Karimi
+      winner:
+      - tt0111072
+    best director:
+      persons:
+        tt0108359:
+          id: nm0513371
+          name: Philippe Lioret
+      winner:
+      - tt0108359
+  special mention:
+    special mention:
+      winner:
+      - tt0106245
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0107165
+'1994':
+  best new director:
+    best new director:
+      winner:
+      - tt0109064
+  fernando rey award:
+    fernando rey award:
+      winner:
+      - tt0109699
+  golden seashell:
+    best film:
+      nominee:
+      - tt0109073
+      - tt0109140
+      - tt0109226
+      - tt0109612
+      - tt0109767
+      - tt0109994
+      - tt0110041
+      - tt0110554
+      - tt0110769
+      - tt0110780
+      - tt0111083
+      - tt0111102
+      - tt0111149
+      - tt0111449
+      - tt0111714
+      winner:
+      - tt0109699
+  silver seashell:
+    best actor:
+      persons:
+        tt0109612: &id002
+          id: nm0000849
+          name: Javier Bardem
+        tt0109699: *id002
+      winner:
+      - tt0109612
+      - tt0109699
+    best actress:
+      persons:
+        tt0110769:
+          id: nm0632440
+          name: Jing Ning
+      winner:
+      - tt0110769
+    best director:
+      persons:
+        tt0111149:
+          id: nm0000965
+          name: Danny Boyle
+      winner:
+      - tt0111149
+  special mention:
+    special mention:
+      winner:
+      - tt0109073
+      - tt0110769
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0109994
+      - tt0111102
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0110029
+'1995':
+  best new director:
+    best new director:
+      winner:
+      - tt0117541
+  fernando rey award:
+    fernando rey award:
+      winner:
+      - tt0114354
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0113825
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0110590
+      - tt0111053
+      - tt0112857
+      - tt0113311
+      - tt0113557
+      - tt0113627
+      - tt0113825
+      - tt0113896
+      - tt0113918
+      - tt0113943
+      - tt0114080
+      - tt0114354
+      - tt0114702
+      - tt0116185
+      winner:
+      - tt0113774
+  ocic award:
+    ocic award:
+      winner:
+      - tt0113896
+  silver seashell:
+    best actor:
+      persons:
+        tt0113627:
+          id: nm0000115
+          name: Nicolas Cage
+      winner:
+      - tt0113627
+    best actress:
+      persons:
+        tt0113918:
+          id: nm0000721
+          name: Victoria Abril
+      winner:
+      - tt0113918
+    best director:
+      persons:
+        tt0113627:
+          id: nm0001214
+          name: Mike Figgis
+      winner:
+      - tt0113627
+  special mention:
+    special mention:
+      winner:
+      - tt0113557
+      - tt0113825
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0113918
+'1996':
+  audience award:
+    audience award:
+      winner:
+      - tt0117690
+  best new director:
+    best new director:
+      winner:
+      - tt0116714
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0126612
+  cec award for best screenplay:
+    cec award for best screenplay:
+      winner:
+      - tt0115639
+  fernando rey award:
+    fernando rey award:
+      winner:
+      - tt0117866
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0115822
+      - tt0125994
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0115615
+      - tt0115639
+      - tt0115710
+      - tt0115822
+      - tt0116208
+      - tt0116277
+      - tt0116566
+      - tt0116743
+      - tt0117315
+      - tt0117684
+      - tt0117866
+      - tt0117910
+      - tt0117985
+      - tt0117991
+      - tt0118245
+      - tt0125994
+      winner:
+      - tt0115793
+      - tt0117969
+  ocic award:
+    ocic award:
+      winner:
+      - tt0117684
+  ocic award - honorable mention:
+    ocic award - honorable mention:
+      winner:
+      - tt0117359
+  prize of the jury:
+    best cinematography:
+      winner:
+      - tt0115793
+    prize of the jury:
+      winner:
+      - tt0117315
+  silver seashell:
+    best actor:
+      persons:
+        tt0115710:
+          id: nm0000323
+          name: Michael Caine
+      winner:
+      - tt0115710
+    best actress:
+      persons:
+        tt0117684:
+          id: nm0001903
+          name: Norma Aleandro
+      winner:
+      - tt0117684
+    best director:
+      persons:
+        tt0115615:
+          id: nm0518363
+          name: Francisco J. Lombardi
+      winner:
+      - tt0115615
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0115822
+  special mention:
+    best production design:
+      winner:
+      - tt0115822
+    special mention:
+      winner:
+      - tt0117866
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0116208
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0117690
+'1997':
+  alma award for best screenplay:
+    alma award for best screenplay:
+      winner:
+      - tt0118566
+  best new director:
+    best new director:
+      winner:
+      - tt0126344
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0119297
+      - tt0156247
+      - tt0169574
+  cec award for best screenplay:
+    cec award for best screenplay:
+      winner:
+      - tt0126344
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0119657
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0126344
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0114846
+      - tt0118566
+      - tt0118700
+      - tt0119125
+      - tt0119393
+      - tt0119626
+      - tt0119657
+      - tt0119723
+      - tt0120636
+      - tt0124312
+      - tt0125980
+      - tt0126344
+      - tt0130175
+      - tt0130242
+      winner:
+      - tt0120018
+  ocic award:
+    ocic award:
+      winner:
+      - tt0119164
+      - tt0119657
+      - tt0120636
+  prize of the jury:
+    best cinematography:
+      winner:
+      - tt0119125
+    prize of the jury:
+      winner:
+      - tt0126344
+  silver seashell:
+    best actor:
+      persons:
+        tt0119626:
+          id: nm0527002
+          name: Federico Luppi
+      winner:
+      - tt0119626
+    best actress:
+      persons:
+        tt0118566:
+          id: nm0001046
+          name: Julie Christie
+      winner:
+      - tt0118566
+    best director:
+      persons:
+        tt0120018:
+          id: nm0001031
+          name: Claude Chabrol
+      winner:
+      - tt0120018
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0119657
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0119125
+'1998':
+  alma award for best screenplay:
+    alma award for best screenplay:
+      winner:
+      - tt0146468
+  alma award for best screenplay - honorable mention:
+    alma award for best screenplay - honorable mention:
+      winner:
+      - tt0126734
+  audience award:
+    audience award:
+      winner:
+      - tt0140888
+  best new director:
+    new directors award:
+      persons:
+        tt0181694:
+          id: nm0847210
+          name: Yôichirô Takahashi
+      winner:
+      - tt0181694
+  cec award for best screenplay:
+    cec award for best screenplay:
+      winner:
+      - tt0146468
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0165078
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0146468
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0119517
+      - tt0120148
+      - tt0120684
+      - tt0124198
+      - tt0126734
+      - tt0146468
+      - tt0165078
+      - tt0166287
+      - tt0167925
+      - tt0168682
+      - tt0168734
+      - tt0168813
+      winner:
+      - tt0169364
+  ocic award:
+    ocic award:
+      winner:
+      - tt0126734
+      - tt0168589
+  prize of the jury:
+    best cinematography:
+      winner:
+      - tt0168734
+  silver seashell:
+    best actor:
+      persons:
+        tt0120684:
+          id: nm0005212
+          name: Ian McKellen
+      winner:
+      - tt0120684
+    best actress:
+      persons:
+        tt0167925:
+          id: nm0050210
+          name: Jeanne Balibar
+      winner:
+      - tt0167925
+    best director:
+      persons:
+        tt0146468:
+          id: nm0508208
+          name: Fernando León de Aranoa
+      winner:
+      - tt0146468
+    prize of the jury:
+      winner:
+      - tt0168682
+    special prize of the jury:
+      winner:
+      - tt0120684
+      - tt0126734
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0168682
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0140888
+'1999':
+  audience award:
+    audience award:
+      winner:
+      - tt0186730
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0214608
+  best new director:
+    best new director:
+      winner:
+      - tt0220726
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0210167
+  cec award for best screenplay:
+    cec award for best screenplay:
+      winner:
+      - tt0140397
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0185125
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0180181
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0210389
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0120790
+      - tt0140397
+      - tt0158302
+      - tt0160513
+      - tt0178223
+      - tt0180181
+      - tt0183613
+      - tt0188030
+      - tt0189744
+      - tt0210167
+      - tt0214608
+      - tt0215369
+      - tt0216386
+      - tt0220363
+      - tt0220377
+      - tt0220722
+      winner:
+      - tt0202283
+  ocic award:
+    ocic award:
+      winner:
+      - tt0202283
+      - tt0215369
+  silver seashell:
+    best actor:
+      persons:
+        tt0202283:
+          id: nm0240638
+          name: Jacques Dufilho
+      winner:
+      - tt0202283
+    best actress:
+      persons:
+        tt0216386:
+          id: nm0845209
+          name: Aitana Sánchez-Gijón
+      winner:
+      - tt0216386
+    best director:
+      persons:
+        tt0210167:
+          id: nm0222545
+          name: Michel Deville
+        tt0215369:
+          id: nm0955434
+          name: Yang Zhang
+      winner:
+      - tt0210167
+      - tt0215369
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0210167
+  special mention:
+    special mention:
+      winner:
+      - tt0158302
+      - tt0214608
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0120790
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0160509
+'2000':
+  audience award:
+    audience award:
+      winner:
+      - tt0239695
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0216799
+  best new director:
+    best new director:
+      winner:
+      - tt0239936
+    new directors award:
+      nominee:
+      - tt0242337
+      persons:
+        tt0242337:
+          id: nm0870461
+          name: Mia Trachinger
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0263328
+      - tt0263824
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0255473
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0216799
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0175880
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0255473
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0264584
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0210382
+      - tt0216799
+      - tt0216990
+      - tt0228786
+      - tt0240913
+      - tt0255067
+      - tt0256127
+      - tt0262674
+      - tt0262833
+      winner:
+      - tt0255473
+  ocic award:
+    ocic award:
+      winner:
+      - tt0216799
+      - tt0243794
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0250478
+  silver seashell:
+    best actor:
+      persons:
+        tt0262833:
+          id: nm0107651
+          name: Gianfranco Brero
+      winner:
+      - tt0262833
+    best actress:
+      persons:
+        tt0255067:
+          id: nm0560962
+          name: Carmen Maura
+      winner:
+      - tt0255067
+    best director:
+      persons:
+        tt0251091:
+          id: nm0663711
+          name: Reza Parsa
+      winner:
+      - tt0251091
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0262674
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0262674
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0251091
+'2001':
+  audience award:
+    audience award:
+      winner:
+      - tt0283509
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0295682
+  best new director:
+    best new director:
+      winner:
+      - tt0279765
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0279064
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0252665
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0290591
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0255094
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0290591
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0297107
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0252480
+      - tt0252665
+      - tt0253200
+      - tt0256359
+      - tt0259393
+      - tt0260198
+      - tt0270480
+      - tt0273326
+      - tt0280507
+      - tt0281870
+      - tt0285689
+      - tt0287811
+      - tt0290591
+      - tt0295682
+      - tt0297107
+      - tt0297456
+      - tt0303814
+      winner:
+      - tt0291507
+  made in spanish award:
+    made in spanish award:
+      winner:
+      - tt0301050
+  ocic award:
+    ocic award:
+      winner:
+      - tt0273326
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0274497
+  silver seashell:
+    best actor:
+      persons:
+        tt0297107:
+          id: nm1057875
+          name: Düzgün Ayhan
+      winner:
+      - tt0297107
+    best actress:
+      persons:
+        tt0270480:
+          id: nm0529813
+          name: Pilar López de Ayala
+      winner:
+      - tt0270480
+    best director:
+      persons:
+        tt0260198:
+          id: nm0025534
+          name: Jean-Pierre Améris
+      winner:
+      - tt0260198
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0260198
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0290591
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0279064
+'2002':
+  audience award:
+    competition:
+      winner:
+      - tt0310793
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0332224
+  best new director:
+    best new director:
+      winner:
+      - tt0289786
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0289229
+      - tt0312841
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0329330
+      - tt0332224
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0319769
+  fipresci director of the year:
+    fipresci director of the year:
+      winner:
+      - tt0300214
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0311519
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0319769
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0291988
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0281820
+      - tt0291022
+      - tt0291988
+      - tt0295004
+      - tt0298228
+      - tt0298744
+      - tt0304550
+      - tt0313196
+      - tt0315543
+      - tt0316829
+      - tt0329330
+      - tt0332224
+      - tt0332381
+      - tt0332639
+      - tt0337662
+      - tt0338060
+      - tt0338297
+      winner:
+      - tt0319769
+  made in spanish award:
+    made in spanish award:
+      winner:
+      - tt0316188
+  made in spanish award - special mention:
+    made in spanish award - special mention:
+      winner:
+      - tt0322884
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0338484
+  signis award:
+    signis award:
+      winner:
+      - tt0319769
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt0291988
+  signis future talent award:
+    signis future talent award:
+      winner:
+      - tt0312841
+  silver seashell:
+    best actor:
+      persons:
+        tt0332639:
+          id: nm0514988
+          name: Peiqi Liu
+      winner:
+      - tt0332639
+    best actress:
+      persons:
+        tt0329330:
+          id: nm0760093
+          name: Mercedes Sampietro
+      winner:
+      - tt0329330
+    best director:
+      persons:
+        tt0332639:
+          id: nm0155280
+          name: Kaige Chen
+      winner:
+      - tt0332639
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0338060
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0291988
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0296166
+'2003':
+  arte award:
+    arte award:
+      winner:
+      - tt0387810
+  audience award:
+    audience award:
+      winner:
+      - tt0374546
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0335119
+  best new director:
+    best new director:
+      winner:
+      - tt0353969
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0334575
+      - tt0387681
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0328844
+  c.i.c.a.e. award:
+    c.i.c.a.e. award:
+      winner:
+      - tt0335119
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0350193
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt0382308
+  fipresci director of the year:
+    fipresci director of the year:
+      winner:
+      - tt0366943
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0346094
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0353969
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0312549
+      - tt0328844
+      - tt0335119
+      - tt0339357
+      - tt0340377
+      - tt0345185
+      - tt0350193
+      - tt0353969
+      - tt0361493
+      - tt0365289
+      - tt0366839
+      - tt0376800
+      - tt0379199
+      - tt0379536
+      - tt0384566
+      winner:
+      - tt0379484
+  horizons award:
+    horizons award:
+      winner:
+      - tt0362496
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt0312773
+      - tt0322298
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0348874
+  signis award:
+    signis award:
+      winner:
+      - tt0384566
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt0340377
+      - tt0350193
+  signis future talent award:
+    signis future talent award:
+      winner:
+      - tt0383724
+  silver seashell:
+    best actor:
+      persons:
+        tt0350193:
+          id: nm0869088
+          name: Luis Tosar
+      winner:
+      - tt0350193
+    best actress:
+      persons:
+        tt0350193:
+          id: nm0555403
+          name: Laia Marull
+      winner:
+      - tt0350193
+    silver seashell:
+      winner:
+      - tt0353969
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0312549
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0340377
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0376800
+'2004':
+  arte award:
+    arte award:
+      winner:
+      - tt0364270
+  audience award:
+    audience award:
+      winner:
+      - tt0318462
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0411705
+  best new director:
+    best new director:
+      winner:
+      - tt0375233
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0325675
+  best new screenwriter:
+    best new screenwriter:
+      winner:
+      - tt0424318
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0408056
+  c.i.c.a.e. award:
+    best european film:
+      winner:
+      - tt0408056
+    c.i.c.a.e. award:
+      winner:
+      - tt0364270
+  casa de américa award:
+    casa de américa award:
+      winner:
+      - tt0388703
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0424227
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt0288569
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0360845
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0420548
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0265825
+      - tt0348593
+      - tt0363826
+      - tt0364270
+      - tt0375342
+      - tt0376890
+      - tt0383862
+      - tt0386342
+      - tt0402481
+      - tt0407821
+      - tt0408056
+      - tt0411523
+      - tt0411705
+      - tt0420548
+      - tt0424234
+      - tt0424484
+      winner:
+      - tt0424227
+  horizons award:
+    horizons award:
+      winner:
+      - tt0410288
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt0382621
+      - tt0402417
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0401248
+  signis award:
+    signis award:
+      winner:
+      - tt0402481
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt0365914
+  signis films in progress award:
+    signis films in progress award:
+      winner:
+      - tt0288569
+  signis future talent award:
+    signis future talent award:
+      winner:
+      - tt0364270
+  silver seashell:
+    best actor:
+      persons:
+        tt0386342:
+          id: nm0860947
+          name: Ulrich Thomsen
+      winner:
+      - tt0386342
+    best actress:
+      persons:
+        tt0386342:
+          id: nm0001567
+          name: Connie Nielsen
+      winner:
+      - tt0386342
+    best director:
+      persons:
+        tt0424234:
+          id: nm1292891
+          name: Jinglei Xu
+      winner:
+      - tt0424234
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0364270
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0402481
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0385017
+'2005':
+  audience award:
+    audience award:
+      winner:
+      - tt0384177
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0401808
+  best new director:
+    best new director:
+      winner:
+      - tt0476323
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0479175
+  best new screenwriter:
+    best new screenwriter:
+      winner:
+      - tt0478025
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0477877
+  c.i.c.a.e. award:
+    c.i.c.a.e. award:
+      winner:
+      - tt0409678
+    films in progress:
+      winner:
+      - tt0451966
+  casa de américa award:
+    casa de américa award:
+      winner:
+      - tt0451966
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0436445
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt1002459
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0423866
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0410764
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0288569
+      - tt0397582
+      - tt0401808
+      - tt0410764
+      - tt0412080
+      - tt0420509
+      - tt0423409
+      - tt0424971
+      - tt0426097
+      - tt0436445
+      - tt0443072
+      - tt0444530
+      - tt0448663
+      - tt0449561
+      - tt0456526
+      - tt0461894
+      - tt0476323
+      - tt0477877
+      - tt0477883
+      winner:
+      - tt0406098
+  horizons award:
+    horizons award:
+      winner:
+      - tt0462045
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt0362873
+      - tt0385006
+  international film school meeting award:
+    best film:
+      nominee:
+      - tt13814058
+  made in spanish award:
+    made in spanish award:
+      nominee:
+      - tt0774513
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0456526
+  signis award:
+    signis award:
+      winner:
+      - tt0477883
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt0432325
+  signis films in progress award:
+    documentary:
+      winner:
+      - tt0480631
+    feature film:
+      winner:
+      - tt0425785
+      - tt0451966
+      - tt1002459
+  silver seashell:
+    best actor:
+      persons:
+        tt0461894:
+          id: nm0050749
+          name: Juan José Ballesta
+      winner:
+      - tt0461894
+    best actress:
+      persons:
+        tt0406098:
+          id: nm0312064
+          name: Anna Geislerová
+      winner:
+      - tt0406098
+    best director:
+      persons:
+        tt0401808:
+          id: nm0955434
+          name: Yang Zhang
+      winner:
+      - tt0401808
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0288569
+  tve award:
+    tve award:
+      winner:
+      - tt0483179
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0476431
+  zabaltegi section:
+    competition:
+      nominee:
+      - tt0466916
+'2006':
+  audience award:
+    audience award:
+      winner:
+      - tt0449059
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt0847050
+  best new director:
+    best new director:
+      winner:
+      - tt0454602
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt0828380
+  best new screenwriter:
+    best new screenwriter:
+      winner:
+      - tt0768837
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0412637
+  c.i.c.a.e. award:
+    c.i.c.a.e. award:
+      winner:
+      - tt0460740
+    films in progress:
+      winner:
+      - tt0984175
+  c.i.c.a.e. award - special mention:
+    c.i.c.a.e. award - special mention:
+      winner:
+      - tt0889222
+      - tt1013854
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0424908
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt0813630
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0441909
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0847050
+  golden seashell:
+    golden seashell:
+      nominee:
+      - tt0412637
+      - tt0424908
+      - tt0441774
+      - tt0464038
+      - tt0466561
+      - tt0469754
+      - tt0470587
+      - tt0477331
+      - tt0490499
+      - tt0492492
+      - tt0765266
+      - tt0865438
+      - tt0872202
+      - tt0874953
+      - tt0889222
+      - tt0906743
+      - tt0939911
+      winner:
+      - tt0446370
+      - tt0847050
+  horizons award:
+    horizons award:
+      nominee:
+      - tt0485944
+      winner:
+      - tt0877323
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt0451966
+      - tt0462242
+  panavision award:
+    best film:
+      winner:
+      - tt0858487
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0499019
+  signis award:
+    signis award:
+      winner:
+      - tt0412637
+  silver seashell:
+    best actor:
+      persons:
+        tt0765266:
+          id: nm0225921
+          name: Juan Diego
+      winner:
+      - tt0765266
+    best actress:
+      persons:
+        tt0446370:
+          id: nm0000882
+          name: Nathalie Baye
+      winner:
+      - tt0446370
+    best director:
+      persons:
+        tt0412637:
+          id: nm0001139
+          name: Tom DiCillo
+      winner:
+      - tt0412637
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt0872202
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt0865438
+  tve award:
+    tve award:
+      winner:
+      - tt0808267
+      - tt0984175
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0495040
+  zabaltegi section:
+    competition:
+      nominee:
+      - tt0475224
+      - tt0969705
+'2007':
+  audience award:
+    audience award:
+      winner:
+      - tt0825236
+    european film:
+      winner:
+      - tt0401383
+  best new director:
+    best new director:
+      winner:
+      - tt1260508
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt0829193
+      - tt0862826
+  c.i.c.a.e. award:
+    c.i.c.a.e. award:
+      winner:
+      - tt0940585
+    films in progress:
+      winner:
+      - tt1110212
+  casa de américa award:
+    casa de américa award:
+      winner:
+      - tt1110212
+  cec award for best film:
+    cec award for best film:
+      winner:
+      - tt0838233
+  cinema in motion award:
+    cinema in motion award:
+      winner:
+      - tt1090680
+      - tt1149585
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt1110212
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt1032846
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt1090200
+  golden seashell:
+    best film:
+      nominee:
+      - tt0839773
+      winner:
+      - tt0838233
+    golden seashell:
+      nominee:
+      - tt0780565
+      - tt0810868
+      - tt0862826
+      winner:
+      - tt0838233
+  horizons award:
+    horizons award:
+      nominee:
+      - tt0988065
+      winner:
+      - tt0482901
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt0473697
+      - tt0481320
+  international film school meeting award:
+    international film school meeting award:
+      nominee:
+      - tt1848847
+      winner:
+      - tt1381129
+  prize of the jury:
+    best cinematography:
+      winner:
+      - tt1091616
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0825236
+  signis award:
+    signis award:
+      winner:
+      - tt0838233
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt0870211
+  signis films in progress award:
+    signis films in progress award:
+      winner:
+      - tt1056468
+  silver seashell:
+    best actor:
+      persons:
+        tt0838233:
+          id: nm0642912
+          name: Henry O
+      winner:
+      - tt0838233
+    best actress:
+      persons:
+        tt0862826:
+          id: nm0692391
+          name: Blanca Portillo
+      winner:
+      - tt0862826
+    best director:
+      persons:
+        tt0870211:
+          id: nm0112374
+          name: Nick Broomfield
+      winner:
+      - tt0870211
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt1094627
+  tve award:
+    tve award:
+      winner:
+      - tt0815490
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt1094627
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt0825236
+'2008':
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt1139664
+  best new director:
+    best new director:
+      nominee:
+      - tt1286650
+      winner:
+      - tt1299370
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt1132594
+  casa de américa award:
+    casa de américa award:
+      winner:
+      - tt1331320
+  cinema in motion award:
+    cinema in motion award:
+      winner:
+      - tt1320282
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt1331320
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0469494
+  golden seashell:
+    best film:
+      nominee:
+      - tt0791303
+    golden seashell:
+      nominee:
+      - tt0978759
+      - tt1103193
+      - tt1139664
+      - tt1198410
+      - tt1206285
+      winner:
+      - tt1285130
+  horizons award:
+    horizons award:
+      winner:
+      - tt1110212
+  horizons award - special mention:
+    horizons award - special mention:
+      nominee:
+      - tt1183942
+  international film school meeting award:
+    international film school meeting award:
+      nominee:
+      - tt1171689
+  jury prize:
+    student films:
+      nominee:
+      - tt1361551
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt0497465
+  signis award:
+    signis award:
+      winner:
+      - tt0978759
+  silver seashell:
+    best actor:
+      persons:
+        tt1139664:
+          id: nm0553650
+          name: Oscar Martínez
+      winner:
+      - tt1139664
+    best actress:
+      persons:
+        tt0978759:
+          id: nm0502425
+          name: Melissa Leo
+        tt1285130:
+          id: nm0155098
+          name: Tsilla Chelton
+      winner:
+      - tt0978759
+      - tt1285130
+    best director:
+      persons:
+        tt0791303:
+          id: nm0935863
+          name: Michael Winterbottom
+      winner:
+      - tt0791303
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt1039914
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt0978759
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt1160004
+'2009':
+  audience award:
+    audience award:
+      winner:
+      - tt0929632
+    best european film:
+      winner:
+      - tt1054580
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt1124052
+  best new director:
+    new directors award:
+      persons:
+        tt1235848:
+          id: nm0887375
+          name: Philippe Van Leeuw
+      winner:
+      - tt1235848
+  cinema in motion award:
+    cinema in motion award:
+      winner:
+      - tt1560616
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt1149362
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt1306964
+  golden seashell:
+    best film:
+      nominee:
+      - tt1289449
+      - tt1422184
+    golden seashell:
+      nominee:
+      - tt1305806
+      - tt1451755
+      - tt1504429
+      - tt1509132
+      winner:
+      - tt1124052
+  horizons award:
+    horizons award:
+      nominee:
+      - tt1331129
+      winner:
+      - tt1360866
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt1383604
+  international film school meeting award:
+    best film:
+      winner:
+      - tt3540830
+    international film school meeting award:
+      nominee:
+      - tt1543730
+  sebastian award:
+    sebastian award:
+      nominee:
+      - tt1351734
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt1368491
+  silver seashell:
+    best actor:
+      persons:
+        tt1289449:
+          id: nm1831785
+          name: Pablo Pineda
+      winner:
+      - tt1289449
+    best actress:
+      persons:
+        tt1289449:
+          id: nm0240318
+          name: Lola Dueñas
+      winner:
+      - tt1289449
+    best director:
+      persons:
+        tt1451755:
+          id: nm1503559
+          name: Javier Rebollo
+      winner:
+      - tt1451755
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt1504429
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt0929632
+  tve otra mirada award - special mention:
+    tve otra mirada award - special mention:
+      winner:
+      - tt1451755
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt1410272
+'2010':
+  audience award:
+    best european film:
+      winner:
+      - tt1620785
+    best film:
+      winner:
+      - tt1423894
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt1274636
+  best film:
+    international short film competition:
+      nominee:
+      - tt1764197
+  best new director:
+    new directors award:
+      nominee:
+      - tt1533013
+      - tt1725081
+      persons:
+        tt1533013:
+          id: nm0473329
+          name: Shawn Ku
+        tt1715853:
+          id: nm4047582
+          name: Carlos César Arbeláez
+        tt1725081:
+          id: nm0691223
+          name: Constantin Popescu
+      winner:
+      - tt1715853
+  best new director - special mention:
+    best new director - special mention:
+      winner:
+      - tt1503116
+      - tt1719497
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt1139328
+  golden seashell:
+    best film:
+      nominee:
+      - tt1454523
+      - tt1525915
+      - tt1713439
+      - tt20259142
+      winner:
+      - tt1560970
+  horizons award:
+    horizons award:
+      nominee:
+      - tt1646118
+  international film school meeting award:
+    international film school meeting award:
+      nominee:
+      - tt1529314
+      - tt1699123
+      - tt1757815
+  made in spanish award:
+    best film:
+      nominee:
+      - tt1308111
+    made in spanish award:
+      nominee:
+      - tt1622607
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt1600383
+  silver seashell:
+    best actor:
+      persons:
+        tt1560970:
+          id: nm4100042
+          name: Conor McCarron
+      winner:
+      - tt1560970
+    best actress:
+      persons:
+        tt1454523:
+          id: nm1155977
+          name: Nora Navas
+      winner:
+      - tt1454523
+    best director:
+      persons:
+        tt20259142:
+          id: nm0749914
+          name: Raúl Ruiz
+      winner:
+      - tt20259142
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt1563655
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt1700455
+  youth jury award:
+    youth jury award:
+      nominee:
+      - tt1533013
+'2011':
+  audience award:
+    best film:
+      winner:
+      - tt1655442
+    european film:
+      winner:
+      - tt1772424
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt1821449
+  best new director:
+    best new director:
+      nominee:
+      - tt2009643
+    first films competition:
+      winner:
+      - tt1956669
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt1650453
+  casa de américa award:
+    casa de américa award:
+      winner:
+      - tt1726888
+  cinema in motion award:
+    cinema in motion award:
+      winner:
+      - tt2104115
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt0478304
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt1625155
+  golden seashell:
+    best film:
+      nominee:
+      - tt1592281
+      - tt1625155
+      - tt1629736
+      - tt1638350
+      - tt1661862
+      - tt1688649
+      - tt1700844
+      - tt2042432
+      - tt2086799
+      winner:
+      - tt2007421
+  horizons award:
+    horizons award:
+      nominee:
+      - tt1774531
+      - tt1913002
+      - tt2023367
+      winner:
+      - tt1754078
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt1911600
+      - tt2043879
+  international film students meeting award:
+    international film students meeting award:
+      nominee:
+      - tt1705785
+    nest film students:
+      nominee:
+      - tt2207435
+  panavision award:
+    panavision award:
+      winner:
+      - tt1950166
+  sebastiane award:
+    sebastiane award:
+      winner:
+      - tt1602098
+  short film corner award:
+    short film corner award:
+      winner:
+      - tt1792074
+      - tt1856690
+  silver seashell:
+    best actor:
+      persons:
+        tt1699758:
+          id: nm0434511
+          name: Antonis Kafetzopoulos
+      winner:
+      - tt1699758
+    best actress (mejor actriz):
+      persons:
+        tt1688649:
+          id: nm2725254
+          name: María León
+      winner:
+      - tt1688649
+    best director:
+      persons:
+        tt1699758:
+          id: nm0875072
+          name: Filippos Tsitos
+      winner:
+      - tt1699758
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt1638350
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt1832382
+  tve otra mirada award - special mention:
+    tve otra mirada award - special mention:
+      winner:
+      - tt1625155
+'2012':
+  audience award:
+    audience award:
+      winner:
+      - tt1866249
+    european film:
+      winner:
+      - tt1924394
+  best basque film:
+    best basque film:
+      nominee:
+      - tt1633170
+      - tt2121338
+      - tt2230858
+      - tt2384892
+      - tt2406934
+      - tt2425220
+      - tt2425224
+      - tt2425236
+      - tt2425252
+      winner:
+      - tt2048837
+  cinema in motion award:
+    cinema in motion award:
+      winner:
+      - tt2425506
+      - tt2425520
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt2425486
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt1602620
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt1890391
+  golden seashell:
+    best film:
+      nominee:
+      - tt0787442
+      - tt1396226
+      - tt1556243
+      - tt1764183
+      - tt1772270
+      - tt1850419
+      - tt1854513
+      - tt1890391
+      - tt1951166
+      - tt1990217
+      - tt2343536
+      - tt2379436
+      - tt2425294
+      winner:
+      - tt1964624
+  guipuzcoan blood-donors' association corresponding to the solidarity award:
+    guipuzcoan blood-donors' association corresponding to the solidarity award:
+      winner:
+      - tt1951166
+  horizons award:
+    horizons award:
+      nominee:
+      - tt1666318
+      - tt2125698
+      winner:
+      - tt2125500
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt1663661
+      - tt2368749
+  international film school meeting award:
+    international film school meeting award:
+      nominee:
+      - tt2265271
+      winner:
+      - tt2211602
+  made in spanish award:
+    best film:
+      nominee:
+      - tt1838517
+    made in spanish award:
+      nominee:
+      - tt1986825
+  new directors award:
+    new directors award:
+      nominee:
+      - tt2352524
+  new directors award - special mention:
+    new directors award - special mention:
+      winner:
+      - tt2362062
+      - tt2387455
+  norteado award:
+    norteado award:
+      winner:
+      - tt1826876
+  prize of the jury:
+    best cinematography:
+      winner:
+      - tt1850419
+    best screenplay:
+      winner:
+      - tt1964624
+  sebastiane award:
+    best film:
+      nominee:
+      - tt1298530
+      - tt2191729
+      - tt2219470
+      - tt2251491
+      - tt2355144
+    sebastiane award:
+      winner:
+      - tt2125698
+  signis award:
+    signis award:
+      winner:
+      - tt2379436
+  silver seashell:
+    best actor:
+      nominee:
+      - tt0787442
+      persons:
+        tt0787442:
+          id: nm1846124
+          name: Ali Suliman
+        tt1890391:
+          id: nm0755364
+          name: José Sacristán
+      winner:
+      - tt1890391
+    best actress:
+      persons:
+        tt1772270:
+          id: nm4719588
+          name: Katie Coseni
+        tt1854513:
+          id: nm3475396
+          name: Macarena García
+      winner:
+      - tt1772270
+      - tt1854513
+    best director:
+      persons:
+        tt1990217:
+          id: nm0874096
+          name: Fernando Trueba
+      winner:
+      - tt1990217
+  special mention of the jury:
+    special mention of the jury:
+      winner:
+      - tt0787442
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt1854513
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt2278284
+  tve otra mirada award - special mention:
+    tve otra mirada award - special mention:
+      winner:
+      - tt0787442
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt2333598
+  zabaltegi section:
+    perlas:
+      nominee:
+      - tt0470749
+'2013':
+  audience award:
+    best film:
+      nominee:
+      - tt3175580
+  best cinematography:
+    best cinematography:
+      winner:
+      - tt1718747
+  best film:
+    best film:
+      nominee:
+      - tt1634003
+  best screenplay:
+    best screenplay:
+      winner:
+      - tt2609222
+  fipresci film of the year:
+    fipresci film of the year:
+      winner:
+      - tt2278871
+  golden seashell:
+    best film:
+      nominee:
+      - tt0804463
+      - tt1718747
+      - tt2058107
+      - tt2316411
+      - tt2392326
+      - tt2504404
+      - tt2609222
+      - tt2721712
+      - tt2896036
+      - tt3062242
+      - tt3074796
+      - tt3121050
+      winner:
+      - tt3074610
+  horizons award:
+    horizons award:
+      nominee:
+      - tt2316573
+      winner:
+      - tt2861532
+  irizar award:
+    irizar award:
+      winner:
+      - tt3183716
+    zabaltegi:
+      nominee:
+      - tt2377398
+  kutxa award:
+    best new director:
+      nominee:
+      - tt2388819
+      - tt3112966
+      - tt3175580
+      persons:
+        tt2388819:
+          id: nm3312722
+          name: Mahmut Fazil Coskun
+        tt3074732:
+          id: nm0259574
+          name: Benedikt Erlingsson
+        tt3112966:
+          id: nm2771381
+          name: Michalis Konstantatos
+        tt3175580:
+          id: nm1543906
+          name: Volodymyr Tykhyy
+      winner:
+      - tt3074732
+  new directors award - special mention:
+    new directors award - special mention:
+      nominee:
+      - tt2878574
+  sebastiane award:
+    best film:
+      nominee:
+      - tt0213682
+      - tt2243389
+      - tt2251648
+      - tt2278871
+      - tt3074610
+      winner:
+      - tt0790636
+    best latin american film:
+      winner:
+      - tt2633242
+    special mention:
+      winner:
+      - tt3074610
+  signis award:
+    signis award:
+      winner:
+      - tt2058107
+  silver seashell:
+    best actor:
+      persons:
+        tt2392326:
+          id: nm0000980
+          name: Jim Broadbent
+      winner:
+      - tt2392326
+    best actress:
+      persons:
+        tt2721712:
+          id: nm0959515
+          name: Marian Álvarez
+      winner:
+      - tt2721712
+    best director:
+      persons:
+        tt3118696:
+          id: nm0251774
+          name: Fernando Eimbcke
+      winner:
+      - tt3118696
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt2721712
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt2752200
+  waki.tv audience award:
+    best european film:
+      winner:
+      - tt2194499
+    waki.tv audience award:
+      winner:
+      - tt2331143
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt2504404
+'2014':
+  audience award:
+    audience award:
+      winner:
+      - tt3674140
+    best film:
+      nominee:
+      - tt1863192
+    european film:
+      winner:
+      - tt3011894
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt3253930
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt2278388
+      - tt2718492
+      - tt2758880
+      winner:
+      - tt1065073
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt2764784
+  golden seashell:
+    best film:
+      nominee:
+      - tt1600196
+      - tt1971325
+      - tt2614400
+      - tt2764784
+      - tt3004774
+      - tt3090634
+      - tt3184934
+      - tt3253930
+      - tt3303728
+      - tt3305316
+      - tt3335048
+      - tt3480164
+      - tt3543234
+      - tt3550512
+      - tt3685218
+      - tt3900206
+      winner:
+      - tt3089326
+  horizons award:
+    horizons award:
+      nominee:
+      - tt3474994
+      winner:
+      - tt3499048
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt3403776
+      - tt3751300
+  international film students meeting award:
+    international film students meeting award:
+      nominee:
+      - tt3672906
+      - tt4473396
+      winner:
+      - tt3730322
+  irizar award:
+    best basque film:
+      winner:
+      - tt3626760
+  kutxa award:
+    best new director:
+      nominee:
+      - tt2234537
+      - tt4109568
+      persons:
+        tt2234537:
+          id: nm1681049
+          name: Alexander Nanau
+        tt3958072:
+          id: nm1571492
+          name: Kristina Grozeva
+        tt4109568:
+          id: nm6842552
+          name: Enrique Farías
+      winner:
+      - tt3958072
+  kutxa award - honorable mention:
+    best new director:
+      persons:
+        tt3657970:
+          id: nm3302367
+          name: Juris Kursietis
+      winner:
+      - tt3657970
+  orona award:
+    orona award:
+      winner:
+      - tt4111008
+  prize of the jury:
+    best cinematography:
+      winner:
+      - tt3253930
+    best screenplay:
+      winner:
+      - tt1600196
+  savage cinema prize:
+    documentary:
+      winner:
+      - tt3784160
+  sebastiane award:
+    best film:
+      nominee:
+      - tt2199543
+      - tt2639344
+      - tt2746176
+      - tt3104102
+      - tt3125652
+      - tt3497674
+      - tt3967248
+      winner:
+      - tt3184934
+    best latin american film:
+      nominee:
+      - tt1702014
+      - tt2260850
+      - tt3419662
+      winner:
+      - tt2199543
+  signis award:
+    signis award:
+      winner:
+      - tt3305316
+      - tt3900206
+  silver seashell:
+    best actor:
+      persons:
+        tt3253930:
+          id: nm0349522
+          name: Javier Gutiérrez
+      winner:
+      - tt3253930
+    best actress:
+      persons:
+        tt3335048:
+          id: nm0824785
+          name: Paprika Steen
+      winner:
+      - tt3335048
+    best director:
+      persons:
+        tt3089326:
+          id: nm4209430
+          name: Carlos Vermut
+      winner:
+      - tt3089326
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt3480164
+  torino award:
+    torino award:
+      winner:
+      - tt2706882
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt3655522
+  tve otra mirada award - special mention:
+    tve otra mirada award - special mention:
+      winner:
+      - tt3062880
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt3499048
+'2015':
+  audience award:
+    best european film:
+      winner:
+      - tt3740778
+    best film:
+      winner:
+      - tt3756788
+  best new director:
+    new directors award:
+      nominee:
+      - tt3633992
+      persons:
+        tt3633992:
+          id: nm6085063
+          name: Eugenio Canevari
+  c.i.c.a.e. award:
+    horizontes latinos:
+      winner:
+      - tt4663992
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt3754940
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt5067984
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt3508840
+      - tt3808342
+      - tt4359416
+      winner:
+      - tt1392190
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt4156152
+  golden seashell:
+    best film:
+      nominee:
+      - tt0462335
+      - tt1658801
+      - tt2262161
+      - tt3597510
+      - tt3754940
+      - tt4022440
+      - tt4156152
+      - tt4247492
+      - tt4272866
+      - tt4291590
+      - tt4516324
+      - tt4886362
+      - tt4944620
+      - tt5028834
+      - tt5144140
+      winner:
+      - tt3823018
+  horizons award:
+    horizons award:
+      nominee:
+      - tt3685622
+      - tt3806654
+      - tt3850496
+      - tt4072352
+      - tt4135844
+      - tt4285496
+      - tt4333136
+      - tt4375438
+      - tt4377864
+      - tt4636042
+      - tt4663992
+      - tt4721400
+      - tt4863784
+      winner:
+      - tt3784222
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt4721400
+  international film students meeting award:
+    best film:
+      nominee:
+      - tt9409164
+  irizar award:
+    best basque film:
+      nominee:
+      - tt3867816
+      winner:
+      - tt4944620
+    special mention:
+      winner:
+      - tt3900580
+  jury prize:
+    best cinematography:
+      winner:
+      - tt4291590
+    best screenplay:
+      winner:
+      - tt4022440
+  kutxa award:
+    best new director:
+      nominee:
+      - tt3867816
+      - tt4314094
+      - tt4494956
+      persons:
+        tt3867816:
+          id: nm5277246
+          name: Ben Sharrock
+        tt4314094:
+          id: nm3645185
+          name: Ami-Ro Sköld
+        tt4494956:
+          id: nm3778526
+          name: Hans Christian Berger
+  new directors award:
+    new directors award:
+      nominee:
+      - tt4939866
+  new directors award - special mention:
+    new directors competition:
+      nominee:
+      - tt4920352
+      - tt4949088
+      persons:
+        tt4153324: &id003
+          id: nm2078626
+          name: Sebastián Brahm
+        tt4716184: *id003
+        tt4920352:
+          id: nm2198327
+          name: Valéry Rosier
+        tt4949088:
+          id: nm0875159
+          name: Svetla Tsotsorkova
+      winner:
+      - tt4153324
+      - tt4716184
+  sebastiane award:
+    best film:
+      nominee:
+      - tt3919820
+      - tt4375438
+      - tt4516324
+      - tt4721400
+      - tt4863784
+      - tt5022872
+      winner:
+      - tt1658801
+    best latin american film:
+      nominee:
+      - tt2651370
+      - tt3308106
+      - tt4097612
+      - tt4273104
+      winner:
+      - tt3919820
+  silver seashell:
+    best actor:
+      persons:
+        tt3754940:
+          id: nm0201857
+          name: Ricardo Darín
+      winner:
+      - tt3754940
+    best actress:
+      persons:
+        tt4516324:
+          id: nm3006327
+          name: Yordanka Ariosa
+      winner:
+      - tt4516324
+    best director:
+      persons:
+        tt3597510:
+          id: nm1050098
+          name: Joachim Lafosse
+      winner:
+      - tt3597510
+  special mention of the jury:
+    special mention of the jury:
+      winner:
+      - tt4156152
+  special prize of the jury:
+    euskaraz bizi nahi dut:
+      winner:
+      - tt4975932
+    special prize of the jury:
+      winner:
+      - tt4291590
+  torino award:
+    best film:
+      winner:
+      - tt5047268
+  youth jury award:
+    youth jury award:
+      nominee:
+      - tt4494956
+  zabaltegi section:
+    competition:
+      nominee:
+      - tt2662716
+'2016':
+  arte award:
+    international competition:
+      winner:
+      - tt10658248
+  audience award:
+    best film:
+      winner:
+      - tt5168192
+    city of donostia audience award:
+      nominee:
+      - tt3652526
+      - tt3716530
+      - tt4048272
+      - tt4120176
+      - tt4136084
+      - tt4466490
+      - tt4746484
+      - tt5029608
+      - tt5294966
+    european film:
+      winner:
+      - tt2321405
+  best basque screenplay:
+    best film:
+      nominee:
+      - tt5559552
+  best new director:
+    new directors award:
+      nominee:
+      - tt5564566
+      - tt5786012
+      - tt6357730
+      persons:
+        tt5564566:
+          id: nm8007533
+          name: Yunbo Li
+        tt5786012:
+          id: nm4008066
+          name: Moroco Colman
+        tt6357730:
+          id: nm3152656
+          name: Alexandra Balteanu
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt1713440
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt2401878
+      - tt5247022
+      winner:
+      - tt4048272
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt4291600
+  golden seashell:
+    best film:
+      nominee:
+      - tt0376479
+      - tt1713440
+      - tt3737944
+      - tt4135076
+      - tt4291600
+      - tt4384088
+      - tt4433890
+      - tt4444438
+      - tt4746516
+      - tt4795546
+      - tt4944596
+      - tt5247544
+      - tt5900208
+      - tt5907916
+      - tt5932894
+      - tt6094760
+      winner:
+      - tt5918090
+  horizons award:
+    horizons award:
+      nominee:
+      - tt4650738
+      - tt4778424
+      - tt5265960
+      - tt5541206
+      - tt5623224
+      - tt5986738
+      - tt6298498
+      winner:
+      - tt5070130
+  horizons award - special mention:
+    horizons award - special mention:
+      nominee:
+      - tt4572682
+  international film school meeting award:
+    best film:
+      nominee:
+      - tt14684104
+      winner:
+      - tt5871988
+  international film students meeting award:
+    best film:
+      nominee:
+      - tt7207728
+  irizar award:
+    best basque film:
+      nominee:
+      - tt6431828
+  jury prize:
+    best cinematography:
+      winner:
+      - tt3737944
+    best screenplay:
+      winner:
+      - tt4944596
+  new directors award:
+    new directors award:
+      nominee:
+      - tt3333036
+      - tt4446472
+      - tt5196472
+      - tt5242848
+      - tt5786012
+      - tt5813194
+      - tt5974388
+      - tt6129730
+      - tt6292622
+      winner:
+      - tt5449214
+  new directors award - special mention:
+    new directors competition:
+      persons:
+        tt5196472:
+          id: nm4434761
+          name: Morgan Simon
+      winner:
+      - tt5196472
+  sebastiane award:
+    best film:
+      nominee:
+      - tt2634548
+      - tt4384088
+      - tt4444438
+      - tt4746516
+      - tt4929038
+      - tt5265960
+      - tt5932894
+      - tt5974422
+      - tt6129730
+      winner:
+      - tt5974388
+    best latin american film:
+      nominee:
+      - tt4846220
+      - tt5452964
+      - tt5786632
+      - tt5974422
+      - tt6744860
+      winner:
+      - tt5070130
+  signis award:
+    signis award:
+      winner:
+      - tt4795546
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt3416532
+  silver seashell:
+    best actor:
+      persons:
+        tt1713440:
+          id: nm0273464
+          name: Eduard Fernández
+      winner:
+      - tt1713440
+    best actress:
+      persons:
+        tt5918090:
+          id: nm1549063
+          name: Bingbing Fan
+      winner:
+      - tt5918090
+    best director:
+      persons:
+        tt5907916:
+          id: nm0393254
+          name: Hong Sang-soo
+      winner:
+      - tt5907916
+  solidarity award:
+    solidarity award:
+      winner:
+      - tt4123876
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt3737944
+      - tt4135076
+  tokyo gohan award:
+    best film:
+      winner:
+      - tt5331878
+    tokyo gohan award:
+      nominee:
+      - tt5331878
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt5974388
+  youth jury award:
+    youth jury award:
+      nominee:
+      - tt5786012
+      winner:
+      - tt5974388
+  zabaltegi section:
+    competition:
+      nominee:
+      - tt4929038
+    zabaltegi-tabakalera award:
+      nominee:
+      - tt1714917
+      - tt2392830
+      - tt2634548
+      - tt2649554
+      - tt4144190
+      - tt4842296
+      - tt4929038
+      - tt5103864
+      - tt5133392
+      - tt5466056
+      - tt5652594
+      - tt5732566
+      - tt5894778
+      - tt5950980
+      - tt6237900
+      - tt6257364
+      - tt6259364
+      winner:
+      - tt5275830
+'2017':
+  audience award:
+    audience award:
+      winner:
+      - tt5027774
+    city of donostia audience award:
+      nominee:
+      - tt3741632
+      - tt5109784
+      - tt5208216
+      - tt5304464
+      - tt5462602
+      - tt5607714
+      - tt5649144
+      - tt5726616
+      - tt5727282
+      - tt5742374
+      - tt6002232
+      - tt6135348
+      - tt6304162
+      - tt6410564
+      - tt7219324
+    european film:
+      winner:
+      - tt6002232
+  culinary zinema award:
+    best film:
+      nominee:
+      - tt7321504
+  eroksi youth award:
+    eroksi youth award:
+      winner:
+      - tt7272242
+  fedeora award:
+    fedeora award:
+      winner:
+      - tt7272242
+  fedeora award - special mentiono:
+    fedeora award - special mentiono:
+      winner:
+      - tt8144868
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt3521126
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt4975722
+      - tt5607714
+      winner:
+      - tt5222918
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt5891122
+  golden seashell:
+    best film:
+      nominee:
+      - tt3563262
+      - tt5180888
+      - tt5242548
+      - tt5451244
+      - tt5501158
+      - tt5584756
+      - tt5693136
+      - tt5699154
+      - tt5891122
+      - tt6034966
+      - tt6100122
+      - tt6280810
+      - tt6313378
+      - tt6386168
+      - tt7262052
+      - tt7297954
+      winner:
+      - tt3521126
+  greenpeace - lurra award:
+    greenpeace - lurra award:
+      winner:
+      - tt6322922
+  horizons award:
+    horizons award:
+      nominee:
+      - tt5613066
+      - tt5639354
+      - tt5656980
+      - tt5708028
+      - tt5735802
+      - tt5903232
+      - tt6107102
+      - tt6107516
+      - tt6147512
+      - tt6397762
+      - tt6400280
+      winner:
+      - tt6596454
+  international film students meeting award:
+    best film:
+      nominee:
+      - tt6765934
+      - tt7471990
+      winner:
+      - tt6922692
+    international film students meeting award:
+      nominee:
+      - tt6661190
+  irizar award:
+    best basque film:
+      winner:
+      - tt5693136
+  jury prize:
+    best cinematography:
+      winner:
+      - tt6763252
+    best screenplay:
+      winner:
+      - tt6386168
+  kutxa award:
+    fedeora award:
+      winner:
+      - tt5668850
+    new directors:
+      nominee:
+      - tt5668850
+      persons:
+        tt5668850:
+          id: nm3613729
+          name: Milad Alami
+  new directors award:
+    new directors award:
+      nominee:
+      - tt4729896
+      - tt5072336
+      - tt5492502
+      - tt5668850
+      - tt5752524
+      - tt6193454
+      - tt6194540
+      - tt7135738
+      - tt7189248
+      - tt7272242
+      - tt7297958
+      - tt7297964
+      - tt7297966
+      - tt7478284
+      - tt8144868
+      winner:
+      - tt7124090
+  new directors award - special mention:
+    new directors competition:
+      persons:
+        tt7272242:
+          id: nm2005384
+          name: Laura Mora Ortega
+      winner:
+      - tt7272242
+  sebastiane award:
+    best film:
+      nominee:
+      - tt4830786
+      - tt5492502
+      - tt5639354
+      - tt5726616
+      - tt5808778
+      - tt7262052
+      winner:
+      - tt6135348
+    best latin american film:
+      nominee:
+      - tt5642120
+      - tt6474626
+      - tt6582868
+      - tt7197576
+      winner:
+      - tt5639354
+  sebastiane award - special mention:
+    sebastiane award - special mention:
+      winner:
+      - tt7262052
+  signis award:
+    signis award:
+      winner:
+      - tt5891122
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt5501158
+      - tt7272242
+  silver seashell:
+    best actor:
+      persons:
+        tt5242548:
+          id: nm1896035
+          name: Bogdan Dumitrache
+      winner:
+      - tt5242548
+    best actress:
+      persons:
+        tt7297954:
+          id: nm1078686
+          name: Sofía Gala Castiglione
+      winner:
+      - tt7297954
+    best director:
+      persons:
+        tt7297954:
+          id: nm1318393
+          name: Anahí Berneri
+      winner:
+      - tt7297954
+  special mention:
+    best actress:
+      persons:
+        tt5501158:
+          id: nm9312758
+          name: Anne Gruwez
+      winner:
+      - tt5501158
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt5693136
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt6002232
+  zabaltegi section:
+    competition:
+      nominee:
+      - tt7128868
+      - tt7281188
+    zabaltegi-tabakalera prize:
+      nominee:
+      - tt4995790
+      - tt5642124
+      - tt5868802
+      - tt6142716
+      - tt6209282
+      - tt6462506
+      - tt6519020
+      - tt6532954
+      - tt6777056
+      - tt6777114
+      - tt7115920
+      - tt7133384
+      - tt7336012
+      - tt7456272
+      - tt7524700
+      winner:
+      - tt7290768
+'2018':
+  audience award:
+    best european film:
+      winner:
+      - tt8254556
+    city of donostia audience award:
+      nominee:
+      - tt1213641
+      - tt4971344
+      - tt6040806
+      - tt6155172
+      - tt6386748
+      - tt6543652
+      - tt6900448
+      - tt7112154
+      - tt7204348
+      - tt7298400
+      - tt7342838
+      - tt7349662
+      - tt8254556
+      - tt8267604
+      - tt8269552
+      winner:
+      - tt2967856
+  efads-caaci europe-latin america co-production grant:
+    efads-caaci europe-latin america co-production grant:
+      winner:
+      - tt10767168
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt6485304
+  films in progress award:
+    films in progress award:
+      winner:
+      - tt9358136
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt3409848
+      - tt5027774
+      - tt6543652
+      winner:
+      - tt5776858
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt4827558
+  glocal in progress award:
+    glocal in progress award:
+      winner:
+      - tt7475974
+  golden seashell:
+    best film:
+      nominee:
+      - tt1226837
+      - tt3967878
+      - tt4827558
+      - tt6485304
+      - tt6596418
+      - tt7095482
+      - tt7318102
+      - tt7464188
+      - tt7490368
+      - tt7566518
+      - tt7666250
+      - tt8075202
+      - tt8125842
+      - tt8405810
+      - tt8846198
+      - tt8956390
+      - tt9016006
+      winner:
+      - tt6157294
+  horizons award:
+    horizons award:
+      nominee:
+      - tt5265964
+      - tt6792282
+      - tt7425520
+      - tt7467324
+      - tt7730856
+      - tt7875464
+      - tt7943248
+      - tt8346446
+      - tt8506788
+      - tt9045270
+      winner:
+      - tt8266010
+      - tt8890690
+  irizar award:
+    best basque film:
+      nominee:
+      - tt8938846
+      winner:
+      - tt9057154
+  jury prize:
+    best cinematography:
+      winner:
+      - tt8956390
+    best screenplay:
+      winner:
+      - tt7666250
+      - tt8075202
+  new directors award:
+    new directors award:
+      nominee:
+      - tt5479590
+      - tt6129904
+      - tt7260830
+      - tt7437492
+      - tt7637874
+      - tt7692966
+      - tt8256610
+      - tt8331988
+      - tt8845840
+      - tt8948974
+      - tt9057154
+      winner:
+      - tt6109502
+      - tt9018570
+  orona award:
+    most innovative short film:
+      winner:
+      - tt8883412
+  panavision award:
+    panavision award:
+      nominee:
+      - tt10311938
+  san sebastián-gipuzkoa film commission award:
+    san sebastián-gipuzkoa film commission award:
+      winner:
+      - tt6180770
+  sebastiane award:
+    best film:
+      nominee:
+      - tt7204348
+      - tt7390380
+      - tt7875464
+      - tt7943248
+      - tt8805374
+      winner:
+      - tt8254556
+    best latin american film:
+      nominee:
+      - tt6400166
+      - tt7761590
+      - tt7943248
+      - tt8805374
+      winner:
+      - tt7875464
+  silver seashell:
+    best actor:
+      persons:
+        tt8956390:
+          id: nm0334882
+          name: Darío Grandinetti
+      winner:
+      - tt8956390
+    best actress:
+      persons:
+        tt8125842:
+          id: nm0637259
+          name: Tuva Novotny
+      winner:
+      - tt8125842
+    best director:
+      persons:
+        tt8956390:
+          id: nm3028737
+          name: Benjamín Naishtat
+      winner:
+      - tt8956390
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt9016006
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt7692966
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt6109502
+  zabaltegi-tabakalera prize:
+    zabaltegi-tabakalera prize:
+      nominee:
+      - tt5749596
+      - tt5821220
+      - tt6109168
+      - tt7534342
+      - tt7899264
+      - tt8020896
+      - tt8030700
+      - tt8173728
+      - tt8185182
+      - tt8211570
+      - tt8228460
+      - tt8523764
+      - tt8694588
+      - tt8805374
+      - tt8837018
+      - tt8846072
+      winner:
+      - tt8223304
+  zabaltegi-tabakalera prize - special mention:
+    zabaltegi-tabakalera prize - special mention:
+      winner:
+      - tt8523764
+'2019':
+  audience award:
+    best european film:
+      winner:
+      - tt8359816
+    city of donostia audience award:
+      nominee:
+      - tt10199590
+      - tt10199640
+      - tt1780967
+      - tt4935462
+      - tt5865326
+      - tt6063090
+      - tt6149154
+      - tt6751668
+      - tt7984734
+      - tt8212958
+      - tt8323120
+      - tt8359816
+      - tt8613070
+      - tt8800266
+      - tt8903840
+      - tt9426210
+      - tt9581076
+      winner:
+      - tt8655470
+  best basque screenplay:
+    best basque screenplay:
+      winner:
+      - tt7937168
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt7937168
+  films in progress award:
+    wip latam:
+      winner:
+      - tt11394282
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt5083738
+      - tt6751668
+      - tt8291806
+      winner:
+      - tt6155172
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt7937168
+  glocal in progress award:
+    glocal in progress award:
+      winner:
+      - tt11643264
+    local in progress award:
+      winner:
+      - tt11643264
+  golden seashell:
+    best film:
+      nominee:
+      - tt10384744
+      - tt10394760
+      - tt10441486
+      - tt10815648
+      - tt10867768
+      - tt7374926
+      - tt7737734
+      - tt7818580
+      - tt7937168
+      - tt8489152
+      - tt8620154
+      - tt8717446
+      - tt9067182
+      - tt9426974
+      - tt9451096
+      - tt9699640
+      winner:
+      - tt7611940
+  greenpeace - lurra award:
+    greenpeace - lurra award:
+      winner:
+      - tt5373766
+  guipuzcoan blood-donors' association corresponding to the solidarity award:
+    guipuzcoan blood-donors' association corresponding to the solidarity award:
+      winner:
+      - tt10441486
+  horizons award:
+    horizons award:
+      nominee:
+      - tt10298454
+      - tt10883748
+      - tt10899680
+      - tt4523910
+      - tt6062774
+      - tt6131414
+      - tt7128732
+      - tt7945236
+      - tt9206516
+      - tt9358136
+      - tt9567718
+      winner:
+      - tt9641238
+  horizons award - special mention:
+    best film:
+      winner:
+      - tt10883748
+  international film students meeting award:
+    best film:
+      nominee:
+      - tt6063216
+    nest film students:
+      nominee:
+      - tt11306688
+  irizar award:
+    best basque film:
+      winner:
+      - tt7937168
+  jury prize:
+    best cinematography:
+      winner:
+      - tt7611940
+    best screenplay:
+      winner:
+      - tt7937168
+  made in spanish award:
+    best film:
+      nominee:
+      - tt9303764
+  new directors award:
+    new directors award:
+      nominee:
+      - tt10300174
+      - tt10682604
+      - tt10706676
+      - tt10864024
+      - tt10883740
+      - tt10888514
+      - tt11041136
+      - tt5373766
+      - tt6827652
+      - tt7475974
+      - tt8872580
+      winner:
+      - tt8278754
+  new directors award - special mention:
+    new directors competition:
+      persons:
+        tt11041136:
+          id: nm0875159
+          name: Svetla Tsotsorkova
+      winner:
+      - tt11041136
+  orona award:
+    best student short film:
+      winner:
+      - tt11051908
+  orona award - special mention:
+    orona award - special mention:
+      winner:
+      - tt10471334
+  sebastiane award:
+    best film:
+      nominee:
+      - tt10041438
+      - tt10445364
+      - tt10815648
+      - tt5373766
+      - tt7128732
+      - tt7937168
+      - tt7945236
+      - tt8291806
+      - tt8613070
+      - tt9426974
+      - tt9641238
+      winner:
+      - tt6062774
+    best latin american film:
+      nominee:
+      - tt7666724
+      - tt9356320
+      - tt9654050
+      - tt9777300
+      - tt9789686
+      winner:
+      - tt7128732
+  signis award:
+    signis award:
+      winner:
+      - tt9067182
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt7374926
+  silver seashell:
+    best actor:
+      persons:
+        tt7611940:
+          id: nm1310330
+          name: Bukassa Kabengele
+      winner:
+      - tt7611940
+    best actress:
+      persons:
+        tt8489152:
+          id: nm3036925
+          name: Greta Fernández
+        tt8620154:
+          id: nm0396125
+          name: Nina Hoss
+      winner:
+      - tt8489152
+      - tt8620154
+    best director:
+      persons:
+        tt7937168:
+          id: nm1534594
+          name: Aitor Arregi
+      winner:
+      - tt7937168
+  special mention of the jury:
+    special mention of the jury:
+      winner:
+      - tt7374926
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt7374926
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt10208192
+  zabaltegi-tabakalera prize:
+    zabaltegi-tabakalera prize:
+      nominee:
+      - tt10167480
+      - tt10199586
+      - tt10228168
+      - tt10291112
+      - tt10301380
+      - tt10444992
+      - tt10591492
+      - tt10651850
+      - tt10662466
+      - tt10704124
+      - tt12877368
+      - tt7998848
+      - tt8955616
+      - tt9049280
+      - tt9056192
+      - tt9068100
+      - tt9647768
+      - tt9687476
+      - tt9902526
+      winner:
+      - tt7760890
+  zabaltegi-tabakalera prize - special mention:
+    zabaltegi-tabakalera prize - special mention:
+      winner:
+      - tt10444992
+'2020':
+  audience award:
+    best european film:
+      winner:
+      - tt11394298
+    best film:
+      nominee:
+      - tt11009666
+      - tt11394298
+      - tt11917942
+      - tt12474056
+      - tt12840926
+      - tt7600716
+      - tt7772582
+      - tt9770150
+      - tt9902160
+      winner:
+      - tt10272386
+  best basque screenplay:
+    best basque screenplay:
+      winner:
+      - tt7960322
+  best film:
+    best film:
+      winner:
+      - tt3014618
+  cooperación española award:
+    cooperación española award:
+      winner:
+      - tt11394282
+  dunia ayaso award:
+    dunia ayaso award:
+      nominee:
+      - tt7960322
+      winner:
+      - tt10434142
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt10288566
+  films in progress award:
+    wip europa:
+      winner:
+      - tt11771704
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt10986342
+  golden seashell:
+    best film:
+      nominee:
+      - tt10023172
+      - tt10288566
+      - tt10375470
+      - tt10418630
+      - tt10457128
+      - tt10986342
+      - tt11431570
+      - tt11778272
+      - tt12835240
+      - tt13082008
+      - tt9799640
+      - tt9916362
+      winner:
+      - tt12444572
+  horizons award:
+    horizons award:
+      nominee:
+      - tt11417886
+      - tt11657892
+      - tt11747286
+      - tt12728584
+      - tt12792598
+      - tt12915136
+      - tt13204766
+      - tt8845322
+      winner:
+      - tt11394282
+  horizons award - special mention:
+    horizons award - special mention:
+      winner:
+      - tt11747286
+  irizar award:
+    best basque film:
+      nominee:
+      - tt11123392
+      - tt11176286
+      - tt13023214
+      - tt13084608
+      - tt13117258
+      winner:
+      - tt7960322
+    special mention:
+      winner:
+      - tt13117258
+  jury prize:
+    best cinematography:
+      winner:
+      - tt13082008
+    best screenplay:
+      winner:
+      - tt12444572
+  new directors award:
+    new directors award:
+      nominee:
+      - tt10004368
+      - tt11123278
+      - tt11640118
+      - tt12444426
+      - tt12619110
+      - tt13149262
+      - tt7960322
+      - tt9800048
+      winner:
+      - tt12441410
+  new directors award - special mention:
+    new directors competition:
+      persons:
+        tt12619110:
+          id: nm11701788
+          name: Xingyi Dong
+      winner:
+      - tt12619110
+  orona award:
+    best student short film:
+      nominee:
+      - tt10214566
+      - tt11644574
+      - tt11887594
+      - tt11893528
+      - tt13072856
+      - tt13367330
+      - tt14015094
+      winner:
+      - tt12671760
+  orona award - special mention:
+    orona award - special mention:
+      winner:
+      - tt11644574
+  sebastiane award:
+    best film:
+      nominee:
+      - tt10375470
+      - tt10457128
+      - tt11697820
+      - tt11747286
+      - tt9738716
+      winner:
+      - tt9143112
+    best latin american film:
+      nominee:
+      - tt10523404
+      - tt11719648
+      - tt8217188
+      - tt9187214
+      winner:
+      - tt11747286
+  signis award:
+    signis award:
+      winner:
+      - tt10288566
+  silver seashell:
+    best actor:
+      persons:
+        tt10288566:
+          id: nm0586568
+          name: Mads Mikkelsen
+      winner:
+      - tt10288566
+    best actress:
+      persons:
+        tt12444572:
+          id: nm2099014
+          name: Ia Sukhitashvili
+      winner:
+      - tt12444572
+    best director:
+      persons:
+        tt12444572:
+          id: nm3529555
+          name: Dea Kulumbegashvili
+      winner:
+      - tt12444572
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt11778272
+  tve otra mirada award:
+    tve otra mirada award:
+      winner:
+      - tt7772582
+  youth jury award:
+    youth jury award:
+      nominee:
+      - tt13149262
+      winner:
+      - tt9138170
+  zabaltegi-tabakalera prize:
+    zabaltegi-tabakalera prize:
+      nominee:
+      - tt10132976
+      - tt10540488
+      - tt11333854
+      - tt11646456
+      - tt11652808
+      - tt11697690
+      - tt11697820
+      - tt12185614
+      - tt12315576
+      - tt12594020
+      - tt12792608
+      - tt12801798
+      - tt12937818
+      - tt12974856
+      - tt13020048
+      - tt13057920
+      - tt8448860
+      - tt9220966
+      - tt9313908
+      winner:
+      - tt11625100
+  zabaltegi-tabakalera prize - special mention:
+    zabaltegi-tabakalera prize - special mention:
+      winner:
+      - tt11697690
+'2021':
+  city of donostia audience award:
+    best european film:
+      winner:
+      - tt10088984
+    best film:
+      winner:
+      - tt13204490
+  cooperación española award:
+    cooperación española award:
+      winner:
+      - tt10366574
+  dunia ayaso award:
+    dunia ayaso award:
+      nominee:
+      - tt11892272
+      - tt14077696
+      - tt8422726
+      winner:
+      - tt13764318
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt15398166
+  films in progress award:
+    wip europa industry:
+      winner:
+      - tt11771704
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt10288566
+      - tt14033502
+      - tt14035154
+      - tt8633462
+      winner:
+      - tt9770150
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt15398166
+  golden seashell:
+    best film:
+      nominee:
+      - tt10062338
+      - tt10951972
+      - tt11807888
+      - tt12147360
+      - tt13066182
+      - tt13269616
+      - tt14077696
+      - tt14300376
+      - tt15061856
+      - tt15398166
+      - tt6852178
+      - tt8415986
+      - tt8959680
+      - tt9115530
+      - tt9471660
+      winner:
+      - tt15079124
+  horizons award:
+    horizons award:
+      nominee:
+      - tt11136276
+      - tt12872150
+      - tt13846544
+      - tt13885900
+      - tt14035242
+      - tt14812780
+      - tt15131926
+      - tt15397606
+      - tt9737568
+      winner:
+      - tt10366574
+  irizar award:
+    best basque film:
+      nominee:
+      - tt14703086
+      - tt15378300
+      - tt15399728
+      - tt15399734
+      - tt15399750
+      - tt15399966
+      winner:
+      - tt14077696
+    special mention:
+      nominee:
+      - tt14716094
+  jury prize:
+    best cinematography:
+      winner:
+      - tt8415986
+    best screenplay:
+      winner:
+      - tt6852178
+  nest award:
+    nest award:
+      winner:
+      - tt13599802
+  nest award - special mention:
+    nest award - special mention:
+      winner:
+      - tt16244636
+  new directors award:
+    new directors award:
+      nominee:
+      - tt11389748
+      - tt11771704
+      - tt11881018
+      - tt11958732
+      - tt14598598
+      - tt15397564
+      - tt15399588
+      - tt15399614
+      - tt8422726
+      - tt9159426
+      - tt9660170
+      winner:
+      - tt12526902
+      - tt15399628
+  orona award:
+    best student short film:
+      nominee:
+      - tt14972044
+      - tt14976316
+      - tt15850366
+  rtve-otra mirada award:
+    rtve-otra mirada award:
+      nominee:
+      - tt10088984
+      - tt10944760
+      - tt13269616
+      - tt14077696
+      - tt14775666
+      - tt15061856
+      - tt15079124
+      - tt15119676
+      - tt15399628
+      - tt6823148
+      winner:
+      - tt10366574
+  sebastiane award:
+    best film:
+      nominee:
+      - tt10944760
+      - tt11700260
+      - tt11807888
+      - tt11881018
+      - tt12872150
+      - tt14034966
+      - tt14300376
+      - tt14760792
+      - tt15061856
+      - tt6823148
+      - tt6852178
+      - tt7230750
+      - tt9115530
+      winner:
+      - tt10293406
+    best latin american film:
+      nominee:
+      - tt10632226
+      - tt11525022
+      - tt12872150
+      - tt13841708
+      winner:
+      - tt13846494
+  signis award:
+    signis award:
+      winner:
+      - tt14077696
+      - tt15398166
+  silver seashell:
+    best director:
+      persons:
+        tt13269616:
+          id: nm2042393
+          name: Tea Lindeburg
+      winner:
+      - tt13269616
+    best leading performance:
+      winner:
+      - tt13269616
+      - tt9115530
+    best supporting performance:
+      winner:
+      - tt15398166
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt10062338
+  youth jury award:
+    youth jury award:
+      winner:
+      - tt11389748
+  zabaltegi-tabakalera prize:
+    zabaltegi-tabakalera prize:
+      nominee:
+      - tt10380900
+      - tt11087960
+      - tt14018858
+      - tt14033502
+      - tt14135872
+      - tt14775666
+      - tt14812786
+      - tt14821328
+      - tt15082232
+      - tt15100048
+      - tt15108354
+      - tt15118140
+      - tt15119676
+      - tt15274076
+      - tt15397758
+      - tt6992978
+      - tt8567862
+      winner:
+      - tt14821150
+'2022':
+  city of donostia audience award:
+    best european film:
+      winner:
+      - tt15006566
+    best film:
+      winner:
+      - tt15301048
+  cooperación española award:
+    cooperación española award:
+      winner:
+      - tt11306932
+  dunia ayaso award:
+    dunia ayaso award:
+      winner:
+      - tt10602688
+  dunia ayaso award - special mention:
+    dunia ayaso award - special mention:
+      winner:
+      - tt20112674
+  euskal gidoigileen elkartea award:
+    euskal gidoigileen elkartea award:
+      winner:
+      - tt18317064
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt15399372
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt10293406
+      - tt10370710
+      - tt11271038
+      - tt7322224
+      winner:
+      - tt14039582
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt11069038
+  golden seashell:
+    best film:
+      nominee:
+      - tt10602182
+      - tt10726774
+      - tt11069038
+      - tt11301546
+      - tt13111170
+      - tt13175506
+      - tt13774830
+      - tt13973198
+      - tt14888898
+      - tt15941636
+      - tt17009856
+      - tt18162296
+      - tt18395238
+      - tt21404804
+      - tt22331396
+      - tt9288822
+      winner:
+      - tt15399372
+  greenpeace - lurra award:
+    greenpeace - lurra award:
+      winner:
+      - tt11930126
+  horizons award:
+    horizons award:
+      nominee:
+      - tt11306932
+      - tt13159212
+      - tt14927880
+      - tt16279390
+      - tt19711858
+      - tt19758012
+      - tt19768056
+      - tt19797494
+      - tt21637282
+      - tt21644774
+      - tt21998524
+      winner:
+      - tt21227238
+  irizar award:
+    best basque film:
+      winner:
+      - tt11069038
+  jury prize:
+    best cinematography:
+      winner:
+      - tt11301546
+    best screenplay:
+      winner:
+      - tt22331396
+  new directors award:
+    new directors award:
+      nominee:
+      - tt10602688
+      - tt12390508
+      - tt14760906
+      - tt15628930
+      - tt15670314
+      - tt19630504
+      - tt21391884
+      - tt21407016
+      - tt21413834
+      - tt21968058
+      - tt21973086
+      - tt22184664
+      - tt22299226
+      - tt22331232
+      winner:
+      - tt21877348
+  new directors award - special mention:
+    new directors competition:
+      persons:
+        tt21391884:
+          id: nm8513947
+          name: Parth Saurabh
+      winner:
+      - tt21391884
+  rtve-otra mirada award:
+    rtve-otra mirada award:
+      nominee:
+      - tt12390508
+      - tt13175506
+      - tt14760906
+      - tt15670314
+      winner:
+      - tt11992694
+      - tt20112674
+  sebastiane award:
+    best film:
+      nominee:
+      - tt11301546
+      - tt13702796
+      - tt14336174
+      - tt14722598
+      - tt14927880
+      - tt15468160
+      - tt16279390
+      - tt16965198
+      - tt17009856
+      - tt19711858
+      - tt21637282
+      winner:
+      - tt21413834
+    best latin american film:
+      nominee:
+      - tt15022446
+      - tt16377816
+      - tt19711858
+      - tt9471828
+      winner:
+      - tt14927880
+  signis award:
+    signis award:
+      winner:
+      - tt15399372
+  signis award - special mention:
+    signis award - special mention:
+      winner:
+      - tt13111170
+  silver seashell:
+    best director:
+      persons:
+        tt18395238:
+          id: nm2929057
+          name: Genki Kawamura
+      winner:
+      - tt18395238
+    best leading performance:
+      winner:
+      - tt13175506
+      - tt17009856
+    best supporting performance:
+      winner:
+      - tt15941636
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt13111170
+  youth jury award:
+    best film:
+      nominee:
+      - tt14927880
+    youth jury award:
+      winner:
+      - tt22331232
+  zabaltegi-tabakalera prize:
+    zabaltegi-tabakalera prize:
+      nominee:
+      - tt10399608
+      - tt11409736
+      - tt14300504
+      - tt16378298
+      - tt16445764
+      - tt16909478
+      - tt17280362
+      - tt17309916
+      - tt19770402
+      - tt19781766
+      - tt19844632
+      - tt21220566
+      - tt21226876
+      - tt21378968
+      - tt21638256
+      - tt21919870
+      - tt21922404
+      - tt23181464
+      winner:
+      - tt16965946
+      - tt19623228
+'2023':
+  ateneo guipuzcoano award:
+    best film:
+      winner:
+      - tt28568332
+  best basque film:
+    best basque film:
+      winner:
+      - tt28298233
+  best basque screenplay:
+    best basque screenplay:
+      winner:
+      - tt28298233
+  best screenplay:
+    best screenplay:
+      nominee:
+      - tt13968674
+  city of donostia audience award:
+    best european film:
+      winner:
+      - tt14225838
+    best film:
+      winner:
+      - tt16277242
+  cooperación española award:
+    cooperación española award:
+      winner:
+      - tt11941694
+  culinary zinema award:
+    best film:
+      nominee:
+      - tt14781286
+      winner:
+      - tt19760052
+  dunia ayaso award:
+    dunia ayaso award:
+      winner:
+      - tt21869176
+  euskal gidoigileen elkartea award:
+    euskal gidoigileen elkartea award:
+      winner:
+      - tt28298233
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt26744818
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt11813216
+      - tt14444726
+      winner:
+      - tt21027780
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt13968674
+  golden seashell:
+    best film:
+      nominee:
+      - tt10399660
+      - tt11534720
+      - tt13846540
+      - tt13866866
+      - tt13968674
+      - tt18363072
+      - tt20603054
+      - tt21347764
+      - tt22171832
+      - tt25051484
+      - tt26597953
+      - tt26744818
+      - tt28298233
+      - tt28568332
+      - tt28772179
+      winner:
+      - tt21920634
+  horizons award:
+    horizons award:
+      nominee:
+      - tt10370812
+      - tt13846480
+      - tt15475516
+      - tt15475536
+      - tt22127138
+      - tt24079846
+      - tt26315142
+      - tt26448953
+      - tt27458968
+      - tt28291179
+      - tt9009130
+      winner:
+      - tt22120686
+  irizar award:
+    best basque film:
+      winner:
+      - tt28298233
+  jury prize:
+    best cinematography:
+      winner:
+      - tt22171832
+    best screenplay:
+      winner:
+      - tt13866866
+  made in spanish award:
+    best film:
+      nominee:
+      - tt21880644
+  nest award:
+    nest award:
+      nominee:
+      - tt31080831
+  new directors award:
+    new directors award:
+      nominee:
+      - tt11941694
+      - tt20565932
+      - tt22024112
+      - tt23778430
+      - tt27628616
+      - tt28501652
+      - tt28517189
+      - tt28534120
+      - tt28941406
+      - tt29102612
+      winner:
+      - tt29295178
+  rtve-otra mirada award:
+    rtve-otra mirada award:
+      winner:
+      - tt18363072
+  sebastiane award:
+    best film:
+      nominee:
+      - tt13846480
+      - tt15226194
+      - tt21957904
+      - tt22120686
+      - tt23736044
+      - tt26440619
+      - tt26448981
+      - tt27628616
+      - tt28293875
+      - tt28298233
+      winner:
+      - tt21113962
+    best latin american film:
+      nominee:
+      - tt11488252
+      - tt11713598
+      - tt26904773
+      - tt28717822
+      winner:
+      - tt24577578
+  silver seashell:
+    best director:
+      persons:
+        tt28772179:
+          id: nm15192040
+          name: Tzu-Hui Peng
+      winner:
+      - tt28772179
+    best leading performance:
+      winner:
+      - tt13866866
+      - tt28568332
+    best supporting performance:
+      winner:
+      - tt26744818
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt22171832
+  youth jury award:
+    best film:
+      winner:
+      - tt11941694
+  zabaltegi-tabakalera prize:
+    best film in zabaltegi-tabakalera competition:
+      nominee:
+      - tt10399622
+      - tt11396282
+      - tt13537200
+      - tt16968976
+      - tt18160708
+      - tt18558306
+      - tt20356046
+      - tt21881964
+      - tt26255928
+      - tt26441800
+      - tt26448954
+      - tt26448981
+      - tt27627203
+      - tt27732307
+      - tt27770872
+      - tt27897697
+      - tt28622893
+      - tt28637504
+      - tt28768913
+      - tt28798972
+      - tt28865127
+      - tt28865157
+      winner:
+      - tt28293875
+'2024':
+  ateneo guipuzcoano award:
+    best film:
+      winner:
+      - tt26245982
+  city of donostia audience award:
+    best european film:
+      nominee:
+      - tt20221436
+      winner:
+      - tt32178949
+    city of donostia audience award:
+      winner:
+      - tt30327451
+  cooperación española award:
+    cooperación española award:
+      winner:
+      - tt30320410
+  culinary zinema award:
+    best film:
+      nominee:
+      - tt36534877
+      winner:
+      - tt33507459
+  dunia ayaso award:
+    dunia ayaso award:
+      nominee:
+      - tt13239062
+      - tt26164896
+      - tt26739127
+      - tt26923334
+      - tt31315947
+      winner:
+      - tt21223304
+  eusko label award:
+    best film:
+      winner:
+      - tt33452275
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt26245982
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt18162096
+      - tt21192142
+      - tt28490044
+      - tt32178949
+      winner:
+      - tt14230458
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt32238611
+  golden seashell:
+    best film:
+      nominee:
+      - tt11891850
+      - tt15551346
+      - tt20215234
+      - tt20247888
+      - tt26750774
+      - tt26923334
+      - tt29301380
+      - tt29482291
+      - tt30766504
+      - tt30973261
+      - tt31193791
+      - tt31796256
+      - tt32238611
+      - tt32365122
+      - tt33051716
+      winner:
+      - tt26245982
+  greenpeace - lurra award:
+    greenpeace - lurra award:
+      winner:
+      - tt29623480
+  horizons award:
+    horizons award:
+      nominee:
+      - tt10009608
+      - tt25030744
+      - tt26895377
+      - tt29102354
+      - tt30320410
+      - tt30858110
+      - tt30958042
+      - tt31015461
+      - tt32119337
+      - tt32751209
+      - tt33077007
+      - tt33111403
+      - tt33396193
+      winner:
+      - tt28231777
+  irizar award:
+    best basque film:
+      winner:
+      - tt2390518
+    special mention:
+      winner:
+      - tt33334318
+  jury prize:
+    best cinematography:
+      winner:
+      - tt32238611
+    best screenplay:
+      winner:
+      - tt29482291
+  nest award:
+    nest award:
+      nominee:
+      - tt29253445
+      - tt33295979
+      winner:
+      - tt33507648
+  new directors award:
+    new directors award:
+      nominee:
+      - tt14907564
+      - tt15469016
+      - tt18161082
+      - tt26458495
+      - tt28089996
+      - tt30519830
+      - tt30577569
+      - tt32611911
+      - tt33059610
+      - tt33384288
+      winner:
+      - tt33322041
+      - tt33336813
+  rtve-otra mirada award:
+    rtve-otra mirada award:
+      nominee:
+      - tt20247888
+      - tt28089996
+      - tt30858110
+      - tt30958042
+      - tt31350080
+      winner:
+      - tt30766504
+      - tt32086077
+  sebastiane award:
+    best film:
+      nominee:
+      - tt15574270
+      - tt20221436
+      - tt22694908
+      - tt25030744
+      - tt26458495
+      - tt28155584
+      - tt28231777
+      - tt29102415
+      - tt30858110
+      - tt31315947
+      - tt31918472
+      - tt32751209
+      winner:
+      - tt29102354
+    best latin american film:
+      nominee:
+      - tt22299436
+      - tt26733463
+      - tt29102354
+      winner:
+      - tt32119268
+  signis award:
+    signis award:
+      winner:
+      - tt26923334
+  silver seashell:
+    best director:
+      persons:
+        tt26750774:
+          id: nm3911679
+          name: Pedro Martín-Calero
+        tt30766504:
+          id: nm7831263
+          name: Laura Carreira
+      winner:
+      - tt26750774
+      - tt30766504
+    best leading performance:
+      winner:
+      - tt26923334
+    best supporting performance:
+      winner:
+      - tt29482291
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt31193791
+  youth jury award:
+    best film:
+      winner:
+      - tt18161082
+  zabaltegi-tabakalera prize:
+    best film in zabaltegi-tabakalera competition:
+      nominee:
+      - tt10781034
+      - tt14452174
+      - tt15574270
+      - tt22023622
+      - tt22694908
+      - tt27989261
+      - tt29102244
+      - tt29102415
+      - tt30416258
+      - tt31015216
+      - tt32146402
+      - tt32205749
+      - tt32368371
+      - tt32879719
+      - tt32896678
+      - tt33246838
+      - tt33303524
+      - tt33322107
+      - tt33459377
+      - tt33481969
+      - tt33482020
+      winner:
+      - tt31350080
+      - tt32890076
+'2025':
+  ateneo guipuzcoano award:
+    best film:
+      winner:
+      - tt29567915
+  city of donostia / san sebastian audience award:
+    best european film:
+      winner:
+      - tt29313285
+    city of donostia / san sebastian audience award:
+      nominee:
+      - tt12300742
+      - tt27052428
+      - tt27714581
+      - tt27847051
+      - tt30446847
+      - tt31688586
+      - tt32386654
+      - tt32472708
+      - tt33381401
+      - tt33852162
+      - tt34886821
+      - tt36243564
+      - tt36491653
+      - tt36580119
+      winner:
+      - tt36943034
+  dunia ayaso award:
+    dunia ayaso award:
+      winner:
+      - tt13872628
+      - tt32372983
+  feroz zinemaldia award:
+    feroz zinemaldia award:
+      winner:
+      - tt35513027
+  fipresci film of the year:
+    fipresci film of the year:
+      nominee:
+      - tt27847051
+      - tt31193180
+      - tt32298285
+      - tt8999762
+      winner:
+      - tt14961016
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt35513027
+  golden seashell:
+    best film:
+      nominee:
+      - tt17070412
+      - tt29567915
+      - tt31450976
+      - tt32063098
+      - tt33518607
+      - tt33837526
+      - tt34688195
+      - tt34945265
+      - tt35746682
+      - tt37531036
+      - tt37676219
+      - tt37964037
+      - tt37964046
+      - tt37964058
+      - tt38095263
+      - tt38681496
+      winner:
+      - tt35513027
+  horizons award:
+    horizons award:
+      nominee:
+      - tt15475528
+      - tt22237964
+      - tt30441926
+      - tt34682204
+      - tt35499146
+      - tt37538609
+      - tt37579637
+      - tt9859510
+      winner:
+      - tt36544524
+      - tt36980776
+      - tt38045572
+  irizar award:
+    best basque film:
+      winner:
+      - tt35513027
+  jury prize:
+    best cinematography:
+      winner:
+      - tt31450976
+    best screenplay:
+      winner:
+      - tt37964037
+  new directors award:
+    new directors award:
+      nominee:
+      - tt12222490
+      - tt28623997
+      - tt29714073
+      - tt31948486
+      - tt32050794
+      - tt34424701
+      - tt35456230
+      - tt35716292
+      - tt37674996
+      - tt37804685
+      - tt37813052
+      - tt38037195
+      winner:
+      - tt37980762
+  rtve-otra mirada award:
+    rtve-otra mirada award:
+      nominee:
+      - tt34424701
+      - tt34688195
+      - tt35513027
+      - tt37964058
+      - tt37980762
+      winner:
+      - tt35746682
+      - tt37531036
+  sebastiane award:
+    best film:
+      nominee:
+      - tt13651462
+      - tt18264016
+      - tt22237964
+      - tt26472958
+      - tt32832410
+      - tt33023305
+      - tt33246300
+      - tt34624313
+      - tt35504279
+      - tt37545647
+      - tt38037175
+      - tt38037195
+      winner:
+      - tt34945265
+    best latin american film:
+      nominee:
+      - tt26519955
+      - tt27798033
+      - tt32808757
+      - tt35050890
+      winner:
+      - tt22237964
+  signis award:
+    signis award:
+      winner:
+      - tt35513027
+  silver seashell:
+    best director:
+      persons:
+        tt37964037:
+          id: nm1050098
+          name: Joachim Lafosse
+      winner:
+      - tt37964037
+    best leading performance:
+      winner:
+      - tt34945265
+      - tt37964058
+    best supporting performance:
+      winner:
+      - tt37531036
+  special prize of the jury:
+    special prize of the jury:
+      winner:
+      - tt37676219
+  youth jury award:
+    best film:
+      winner:
+      - tt22237964
+  zabaltegi-tabakalera prize:
+    best film in zabaltegi-tabakalera competition:
+      nominee:
+      - tt13651462
+      - tt29283995
+      - tt32252801
+      - tt32279108
+      - tt33023305
+      - tt34383611
+      - tt35438186
+      - tt35504279
+      - tt35715953
+      - tt36579933
+      - tt36684296
+      - tt36955468
+      - tt37186172
+      - tt37357784
+      - tt37538491
+      - tt37545647
+      - tt37675860
+      - tt38060097
+      winner:
+      - tt28171985

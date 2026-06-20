@@ -1,0 +1,7996 @@
+# Film Independent Spirit Awards
+'1986':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0086979
+      - tt0087150
+      - tt0088680
+      winner:
+      - tt0090209
+    best director:
+      nominee:
+      - tt0090037
+      - tt0090203
+      persons:
+        tt0086979:
+          id: nm0001054
+          name: Joel Coen
+        tt0088680:
+          id: nm0000217
+          name: Martin Scorsese
+        tt0090037:
+          id: nm0159154
+          name: Joyce Chopra
+        tt0090203:
+          id: nm0557751
+          name: Peter Masterson
+      winner:
+      - tt0086979
+      - tt0088680
+    best feature:
+      nominee:
+      - tt0086979
+      - tt0090037
+      - tt0090203
+      winner:
+      - tt0088680
+    best female lead:
+      nominee:
+      - tt0088680
+      - tt0090037
+      - tt0090209
+      winner:
+      - tt0090203
+    best male lead:
+      nominee:
+      - tt0088404
+      - tt0088968
+      - tt0090037
+      winner:
+      - tt0086979
+    best screenplay:
+      nominee:
+      - tt0086979
+      - tt0088680
+      - tt0090037
+      winner:
+      - tt0090203
+  special distinction award:
+    special distinction award:
+      nominee:
+      - tt0087414
+      - tt0089052
+      - tt0089881
+      winner:
+      - tt0089424
+'1987':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0090756
+      - tt0090967
+      - tt0091886
+      - tt0092117
+      winner:
+      - tt0091763
+    best director:
+      nominee:
+      - tt0090756
+      - tt0090967
+      - tt0091886
+      - tt0092005
+      persons:
+        tt0090756:
+          id: nm0000186
+          name: David Lynch
+        tt0090967:
+          id: nm0000464
+          name: Jim Jarmusch
+        tt0091763:
+          id: nm0000231
+          name: Oliver Stone
+        tt0091886:
+          id: nm0000231
+          name: Oliver Stone
+        tt0092005:
+          id: nm0001661
+          name: Rob Reiner
+      winner:
+      - tt0091763
+    best feature:
+      nominee:
+      - tt0090756
+      - tt0090967
+      - tt0091676
+      - tt0091886
+      - tt0092005
+      winner:
+      - tt0091763
+    best female lead:
+      nominee:
+      - tt0089015
+      - tt0090756
+      - tt0091886
+      - tt0091939
+      winner:
+      - tt0090756
+    best first feature:
+      nominee:
+      - tt0090710
+      - tt0091151
+      - tt0091217
+      - tt0092117
+      winner:
+      - tt0091939
+    best male lead:
+      nominee:
+      - tt0090756
+      - tt0090967
+      - tt0091613
+      - tt0091763
+      winner:
+      - tt0091886
+    best screenplay:
+      nominee:
+      - tt0090756
+      - tt0091151
+      - tt0091886
+      - tt0092005
+      winner:
+      - tt0091763
+  special distinction award:
+    special distinction award:
+      nominee:
+      - tt0088650
+      - tt0089656
+      - tt0091538
+      - tt0091578
+      winner:
+      - tt0091867
+'1988':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0092618
+      - tt0092843
+      - tt0093986
+      - tt0094169
+      winner:
+      - tt0093509
+    best director:
+      nominee:
+      - tt0091860
+      - tt0092654
+      - tt0093509
+      - tt0094089
+      persons:
+        tt0091860:
+          id: nm0006853
+          name: Tim Hunter
+        tt0092654:
+          id: nm0564319
+          name: Jim McBride
+        tt0092843:
+          id: nm0001379
+          name: John Huston
+        tt0093509:
+          id: nm0000626
+          name: John Sayles
+        tt0094089:
+          id: nm0001129
+          name: Jonathan Demme
+      winner:
+      - tt0092843
+    best feature:
+      nominee:
+      - tt0092654
+      - tt0092843
+      - tt0093509
+      - tt0094089
+      - tt0094169
+      winner:
+      - tt0091860
+    best female lead:
+      nominee:
+      - tt0092238
+      - tt0093093
+      - tt0094169
+      - tt0094315
+      winner:
+      - tt0092569
+    best first feature:
+      nominee:
+      - tt0092569
+      - tt0093200
+      - tt0093969
+      - tt0094286
+      winner:
+      - tt0092890
+    best foreign film:
+      nominee:
+      - tt0092048
+      - tt0092593
+      - tt0093209
+      - tt0093776
+      winner:
+      - tt0089606
+    best male lead:
+      nominee:
+      - tt0092618
+      - tt0092641
+      - tt0094035
+      - tt0094089
+      winner:
+      - tt0092654
+    best screenplay:
+      nominee:
+      - tt0092569
+      - tt0092843
+      - tt0093509
+      - tt0094089
+      winner:
+      - tt0091860
+    best supporting female:
+      nominee:
+      - tt0093093
+      - tt0093964
+      - tt0094056
+      - tt0094315
+      winner:
+      - tt0092843
+    best supporting male:
+      nominee:
+      - tt0093509
+      - tt0094169
+      - tt0094315
+      winner:
+      - tt0094056
+'1989':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0094027
+      - tt0095649
+      - tt0095835
+      - tt0096219
+      winner:
+      - tt0096332
+    best director:
+      nominee:
+      - tt0095270
+      - tt0095835
+      - tt0096219
+      - tt0096257
+      persons:
+        tt0094027:
+          id: nm0579466
+          name: Ramón Menéndez
+        tt0095270:
+          id: nm0000691
+          name: John Waters
+        tt0095835:
+          id: nm0606483
+          name: David Burton Morris
+        tt0096219:
+          id: nm0000231
+          name: Oliver Stone
+        tt0096257:
+          id: nm0001554
+          name: Errol Morris
+      winner:
+      - tt0094027
+    best feature:
+      nominee:
+      - tt0095270
+      - tt0095835
+      - tt0096257
+      - tt0096289
+      winner:
+      - tt0094027
+    best female lead:
+      nominee:
+      - tt0095270
+      - tt0095690
+      - tt0095916
+      - tt0096424
+      winner:
+      - tt0093029
+    best first feature:
+      nominee:
+      - tt0090766
+      - tt0094869
+      - tt0095903
+      - tt0096424
+      winner:
+      - tt0095690
+    best foreign film:
+      nominee:
+      - tt0093354
+      - tt0094349
+      - tt0095801
+      - tt0096464
+      winner:
+      - tt0093191
+    best male lead:
+      nominee:
+      - tt0094783
+      - tt0095835
+      - tt0096219
+      - tt0096289
+      winner:
+      - tt0094027
+    best screenplay:
+      nominee:
+      - tt0093029
+      - tt0095270
+      - tt0095649
+      - tt0095835
+      winner:
+      - tt0094027
+    best supporting female:
+      nominee:
+      - tt0095270
+      - tt0095903
+      - tt0096424
+      winner:
+      - tt0094027
+    best supporting male:
+      nominee:
+      - tt0093029
+      - tt0095270
+      - tt0095649
+      - tt0096156
+      winner:
+      - tt0094027
+'1990':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0096220
+      - tt0097257
+      - tt0097940
+      - tt0098112
+      winner:
+      - tt0097240
+    best director:
+      nominee:
+      - tt0097240
+      - tt0097940
+      - tt0098325
+      - tt0098528
+      persons:
+        tt0097240:
+          id: nm0001814
+          name: Gus Van Sant
+        tt0097940:
+          id: nm0000464
+          name: Jim Jarmusch
+        tt0098325:
+          id: nm0485273
+          name: Charles Lane
+        tt0098528:
+          id: nm0001700
+          name: Nancy Savoca
+        tt0098724:
+          id: nm0001752
+          name: Steven Soderbergh
+      winner:
+      - tt0098724
+    best feature:
+      nominee:
+      - tt0093165
+      - tt0097240
+      - tt0097940
+      - tt0098528
+      winner:
+      - tt0098724
+    best female lead:
+      nominee:
+      - tt0097240
+      - tt0097493
+      - tt0097940
+      - tt0098528
+      winner:
+      - tt0098724
+    best first feature:
+      nominee:
+      - tt0096220
+      - tt0096744
+      - tt0098112
+      - tt0098325
+      winner:
+      - tt0097493
+    best foreign film:
+      nominee:
+      - tt0093258
+      - tt0095037
+      - tt0095276
+      - tt0095302
+      winner:
+      - tt0097937
+    best male lead:
+      nominee:
+      - tt0098068
+      - tt0098325
+      - tt0098577
+      - tt0098724
+      winner:
+      - tt0097240
+    best screenplay:
+      nominee:
+      - tt0096744
+      - tt0097493
+      - tt0097889
+      - tt0097940
+      winner:
+      - tt0097240
+    best supporting female:
+      nominee:
+      - tt0097240
+      - tt0097889
+      - tt0098261
+      - tt0098300
+      winner:
+      - tt0098724
+    best supporting male:
+      nominee:
+      - tt0097940
+      - tt0098112
+      - tt0098300
+      winner:
+      - tt0097240
+'1991':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0064820
+      - tt0099800
+      - tt0099939
+      - tt0100023
+      winner:
+      - tt0100935
+    best director:
+      nominee:
+      - tt0064820
+      - tt0099763
+      - tt0099800
+      - tt0100436
+      persons:
+        tt0064820:
+          id: nm0736394
+          name: Michael Roemer
+        tt0099763:
+          id: nm0573796
+          name: John McNaughton
+        tt0099800:
+          id: nm0399737
+          name: Reginald Hudlin
+        tt0100436:
+          id: nm0610496
+          name: Allan Moyle
+        tt0100791:
+          id: nm0122344
+          name: Charles Burnett
+      winner:
+      - tt0100791
+    best feature:
+      nominee:
+      - tt0064820
+      - tt0099763
+      - tt0100436
+      - tt0100791
+      winner:
+      - tt0099703
+    best female lead:
+      nominee:
+      - tt0099095
+      - tt0100142
+      - tt0100200
+      - tt0100791
+      winner:
+      - tt0099703
+    best first feature:
+      nominee:
+      - tt0096321
+      - tt0097752
+      - tt0099800
+      - tt0100230
+      winner:
+      - tt0100142
+    best foreign film:
+      nominee:
+      - tt0096908
+      - tt0097108
+      - tt0097694
+      - tt0101003
+      winner:
+      - tt0098725
+    best male lead:
+      nominee:
+      - tt0064820
+      - tt0099763
+      - tt0099800
+      - tt0100436
+      winner:
+      - tt0100791
+    best screenplay:
+      nominee:
+      - tt0064820
+      - tt0099763
+      - tt0100142
+      - tt0100436
+      winner:
+      - tt0100791
+    best supporting female:
+      nominee:
+      - tt0099763
+      - tt0099800
+      - tt0100791
+      winner:
+      - tt0100791
+    best supporting male:
+      nominee:
+      - tt0064820
+      - tt0099763
+      - tt0099800
+      - tt0100935
+      winner:
+      - tt0100049
+  special distinction award:
+    special distinction award:
+      winner:
+      - tt0099348
+'1992':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0102048
+      - tt0102494
+      - tt0102753
+      - tt0105109
+      winner:
+      - tt0102181
+    best director:
+      nominee:
+      - tt0101998
+      - tt0102494
+      - tt0102687
+      - tt0102943
+      persons:
+        tt0101998:
+          id: nm0890687
+          name: Joseph B. Vasquez
+        tt0102494:
+          id: nm0001814
+          name: Gus Van Sant
+        tt0102687:
+          id: nm0001331
+          name: Todd Haynes
+        tt0102753:
+          id: nm0004838
+          name: Martha Coolidge
+        tt0102943:
+          id: nm0000500
+          name: Richard Linklater
+      winner:
+      - tt0102753
+    best feature:
+      nominee:
+      - tt0101588
+      - tt0101998
+      - tt0102048
+      - tt0102494
+      winner:
+      - tt0102753
+    best female lead:
+      nominee:
+      - tt0101510
+      - tt0102757
+      - tt0102864
+      - tt0103143
+      winner:
+      - tt0102103
+    best film music:
+      nominee:
+      - tt0100122
+      - tt0101998
+      - tt0102221
+      - tt0102989
+      winner:
+      - tt0102494
+    best first feature:
+      nominee:
+      - tt0101561
+      - tt0102687
+      - tt0102757
+      - tt0102943
+      winner:
+      - tt0102989
+    best foreign film:
+      nominee:
+      - tt0100024
+      - tt0100476
+      - tt0100757
+      - tt0101765
+      winner:
+      - tt0099040
+    best male lead:
+      nominee:
+      - tt0100519
+      - tt0101998
+      - tt0102753
+      - tt0105109
+      winner:
+      - tt0102494
+    best screenplay:
+      nominee:
+      - tt0100151
+      - tt0101998
+      - tt0102181
+      - tt0102757
+      winner:
+      - tt0102494
+    best supporting female:
+      nominee:
+      - tt0101510
+      - tt0101998
+      - tt0102103
+      - tt0105109
+      winner:
+      - tt0102753
+    best supporting male:
+      nominee:
+      - tt0102048
+      - tt0102741
+      - tt0102989
+      - tt0105109
+      winner:
+      - tt0101588
+'1993':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0099014
+      - tt0102307
+      - tt0104693
+      - tt0105508
+      winner:
+      - tt0102536
+    best director:
+      nominee:
+      - tt0103759
+      - tt0104321
+      - tt0105236
+      - tt0105508
+      persons:
+        tt0102592:
+          id: nm0002083
+          name: Carl Franklin
+        tt0103759:
+          id: nm0001206
+          name: Abel Ferrara
+        tt0104321:
+          id: nm0025978
+          name: Allison Anders
+        tt0105236:
+          id: nm0000233
+          name: Quentin Tarantino
+        tt0105508:
+          id: nm0435788
+          name: Tom Kalin
+      winner:
+      - tt0102592
+    best feature:
+      nominee:
+      - tt0102456
+      - tt0102592
+      - tt0103759
+      - tt0104321
+      winner:
+      - tt0105151
+    best female lead:
+      nominee:
+      - tt0102592
+      - tt0104567
+      - tt0104693
+      - tt0105665
+      winner:
+      - tt0104321
+    best first feature:
+      nominee:
+      - tt0104693
+      - tt0104954
+      - tt0105236
+      - tt0105508
+      winner:
+      - tt0105789
+    best foreign film:
+      nominee:
+      - tt0101640
+      - tt0101658
+      - tt0103176
+      - tt0104454
+      winner:
+      - tt0104036
+    best male lead:
+      nominee:
+      - tt0104073
+      - tt0104693
+      - tt0105508
+      - tt0105885
+      winner:
+      - tt0103759
+    best original score:
+      nominee:
+      - tt0099014
+      - tt0102592
+      - tt0105654
+      - tt0105885
+      winner:
+      - tt0105665
+    best screenplay:
+      nominee:
+      - tt0102307
+      - tt0102443
+      - tt0102592
+      - tt0104321
+      winner:
+      - tt0105789
+    best supporting female:
+      nominee:
+      - tt0102174
+      - tt0104321
+      - tt0105156
+      - tt0105411
+      winner:
+      - tt0105107
+    best supporting male:
+      nominee:
+      - tt0104073
+      - tt0105107
+      - tt0105789
+      winner:
+      - tt0105236
+  special distinction award:
+    special distinction:
+      winner:
+      - tt0104448
+'1994':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0103670
+      - tt0103936
+      - tt0104201
+      - tt0108000
+      winner:
+      - tt0107554
+    best director:
+      nominee:
+      - tt0104783
+      - tt0104815
+      - tt0107156
+      - tt0108000
+      persons:
+        tt0104783:
+          id: nm0001806
+          name: John Turturro
+        tt0104815:
+          id: nm0001675
+          name: Robert Rodriguez
+        tt0107156:
+          id: nm0000487
+          name: Ang Lee
+        tt0108000:
+          id: nm0638033
+          name: Victor Nunez
+        tt0108122:
+          id: nm0000265
+          name: Robert Altman
+      winner:
+      - tt0108122
+    best feature:
+      nominee:
+      - tt0104201
+      - tt0107156
+      - tt0107616
+      - tt0108000
+      winner:
+      - tt0108122
+    best female lead:
+      nominee:
+      - tt0104575
+      - tt0106350
+      - tt0107156
+      - tt0107616
+      winner:
+      - tt0108000
+    best first feature:
+      nominee:
+      - tt0103670
+      - tt0104783
+      - tt0106590
+      - tt0107554
+      winner:
+      - tt0104815
+    best foreign film:
+      nominee:
+      - tt0103994
+      - tt0105197
+      - tt0107653
+      - tt0107756
+      winner:
+      - tt0107822
+    best male lead:
+      nominee:
+      - tt0104201
+      - tt0107152
+      - tt0107156
+      - tt0107554
+      winner:
+      - tt0103670
+    best screenplay:
+      nominee:
+      - tt0106590
+      - tt0107152
+      - tt0107156
+      - tt0108000
+      winner:
+      - tt0108122
+    best supporting female:
+      nominee:
+      - tt0103670
+      - tt0104201
+      - tt0107156
+      - tt0108122
+      winner:
+      - tt0107152
+    best supporting male:
+      nominee:
+      - tt0103670
+      - tt0106350
+      - tt0107220
+      - tt0108000
+      winner:
+      - tt0108410
+'1995':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0108260
+      - tt0109226
+      - tt0110091
+      - tt0111797
+      winner:
+      - tt0109219
+    best debut performance:
+      nominee:
+      - tt0109445
+      - tt0109855
+      - tt0110395
+      - tt0111252
+      winner:
+      - tt0109842
+    best director:
+      nominee:
+      - tt0105226
+      - tt0109579
+      - tt0110588
+      - tt0111797
+      persons:
+        tt0105226:
+          id: nm0001093
+          name: John Dahl
+        tt0109579:
+          id: nm0000591
+          name: Roman Polanski
+        tt0110588:
+          id: nm0748928
+          name: Alan Rudolph
+        tt0110912:
+          id: nm0000233
+          name: Quentin Tarantino
+        tt0111797:
+          id: nm0000487
+          name: Ang Lee
+      winner:
+      - tt0110912
+    best feature:
+      nominee:
+      - tt0109348
+      - tt0110588
+      - tt0111686
+      - tt0111797
+      winner:
+      - tt0110912
+    best female lead:
+      nominee:
+      - tt0110091
+      - tt0110588
+      - tt0111689
+      - tt0111797
+      winner:
+      - tt0110308
+    best first feature:
+      nominee:
+      - tt0106579
+      - tt0108260
+      - tt0109445
+      - tt0110091
+      winner:
+      - tt0111252
+    best first screenplay:
+      nominee:
+      - tt0109293
+      - tt0109445
+      - tt0109855
+      - tt0111689
+      winner:
+      - tt0111252
+    best foreign film:
+      nominee:
+      - tt0106473
+      - tt0107358
+      - tt0108328
+      - tt0110296
+      winner:
+      - tt0111495
+    best male lead:
+      nominee:
+      - tt0110091
+      - tt0110588
+      - tt0110722
+      - tt0111797
+      winner:
+      - tt0110912
+    best screenplay:
+      nominee:
+      - tt0105226
+      - tt0109348
+      - tt0110588
+      - tt0111797
+      winner:
+      - tt0110912
+    best supporting female:
+      nominee:
+      - tt0109226
+      - tt0109913
+      - tt0111252
+      - tt0111590
+      winner:
+      - tt0109348
+    best supporting male:
+      nominee:
+      - tt0109785
+      - tt0109842
+      - tt0110912
+      - tt0111590
+      winner:
+      - tt0109348
+  someone to watch award:
+    someone to watch award:
+      winner:
+      - tt0106579
+  special distinction award:
+    special distinction award:
+      winner:
+      - tt0110057
+'1996':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0110365
+      - tt0110620
+      - tt0114788
+      - tt0114814
+      winner:
+      - tt0113627
+    best debut performance:
+      nominee:
+      - tt0110986
+      - tt0110998
+      - tt0112887
+      - tt0113967
+      winner:
+      - tt0113540
+    best director:
+      nominee:
+      - tt0110620
+      - tt0111112
+      - tt0113158
+      - tt0114323
+      persons:
+        tt0110620:
+          id: nm0021899
+          name: Michael Almereyda
+        tt0111112:
+          id: nm0000626
+          name: John Sayles
+        tt0113158:
+          id: nm0343260
+          name: Ulu Grosbard
+        tt0113627:
+          id: nm0001214
+          name: Mike Figgis
+        tt0114323:
+          id: nm0001331
+          name: Todd Haynes
+      winner:
+      - tt0113627
+    best feature:
+      nominee:
+      - tt0111112
+      - tt0112288
+      - tt0113677
+      - tt0114323
+      winner:
+      - tt0113627
+    best female lead:
+      nominee:
+      - tt0110620
+      - tt0112288
+      - tt0113158
+      - tt0114323
+      winner:
+      - tt0113627
+    best first feature:
+      nominee:
+      - tt0110365
+      - tt0110998
+      - tt0113540
+      - tt0114129
+      winner:
+      - tt0112585
+    best first screenplay:
+      nominee:
+      - tt0110365
+      - tt0110876
+      - tt0110998
+      - tt0113540
+      winner:
+      - tt0114478
+    best foreign film:
+      nominee:
+      - tt0058604
+      - tt0109759
+      - tt0111845
+      - tt0112682
+      winner:
+      - tt0110882
+    best male lead:
+      nominee:
+      - tt0110365
+      - tt0113627
+      - tt0113896
+      - tt0114594
+      winner:
+      - tt0112818
+    best screenplay:
+      nominee:
+      - tt0111112
+      - tt0113627
+      - tt0113677
+      - tt0114323
+      winner:
+      - tt0114814
+    best supporting female:
+      nominee:
+      - tt0110365
+      - tt0112818
+      - tt0113540
+      - tt0113896
+      winner:
+      - tt0113158
+    best supporting male:
+      nominee:
+      - tt0112744
+      - tt0113158
+      - tt0113677
+      - tt0114478
+      winner:
+      - tt0114814
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0109855
+      - tt0110998
+      - tt0112393
+      - tt0116085
+      winner:
+      - tt0115925
+'1997':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0112817
+      - tt0115736
+      - tt0115925
+      - tt0116378
+      winner:
+      - tt0116282
+    best debut performance:
+      nominee:
+      - tt0114906
+      - tt0115632
+      - tt0115633
+      - tt0115847
+      winner:
+      - tt0114906
+    best director:
+      nominee:
+      - tt0114906
+      - tt0115847
+      - tt0116324
+      - tt0116378
+      persons:
+        tt0114906:
+          id: nm0001754
+          name: Todd Solondz
+        tt0115847:
+          id: nm0950001
+          name: Robert M. Young
+        tt0116282:
+          id: nm0001054
+          name: Joel Coen
+        tt0116324:
+          id: nm0751102
+          name: David O. Russell
+        tt0116378:
+          id: nm0001206
+          name: Abel Ferrara
+      winner:
+      - tt0116282
+    best feature:
+      nominee:
+      - tt0112817
+      - tt0114906
+      - tt0116378
+      - tt0116905
+      winner:
+      - tt0116282
+    best female lead:
+      nominee:
+      - tt0115847
+      - tt0116985
+      - tt0118113
+      - tt0118163
+      winner:
+      - tt0116282
+    best first feature:
+      nominee:
+      - tt0115678
+      - tt0116594
+      - tt0116985
+      - tt0117958
+      winner:
+      - tt0117666
+    best first screenplay:
+      nominee:
+      - tt0116414
+      - tt0116985
+      - tt0117958
+      - tt0118163
+      winner:
+      - tt0115678
+    best foreign film:
+      nominee:
+      - tt0109424
+      - tt0110299
+      - tt0115751
+      - tt0117951
+      winner:
+      - tt0117589
+    best male lead:
+      nominee:
+      - tt0115678
+      - tt0116378
+      - tt0116905
+      winner:
+      - tt0116282
+    best screenplay:
+      nominee:
+      - tt0112817
+      - tt0116324
+      - tt0116378
+      - tt0116905
+      winner:
+      - tt0116282
+    best supporting female:
+      nominee:
+      - tt0116324
+      - tt0116418
+      - tt0116985
+      - tt0117603
+      winner:
+      - tt0116905
+    best supporting male:
+      nominee:
+      - tt0112817
+      - tt0114906
+      - tt0116324
+      - tt0118113
+      winner:
+      - tt0115632
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0112345
+      - tt0113535
+      winner:
+      - tt0113241
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0094416
+      - tt0112651
+      - tt0116913
+      - tt0117293
+      winner:
+      - tt0118147
+'1998':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0113241
+      - tt0119256
+      - tt0120244
+      - tt0122994
+      winner:
+      - tt0116743
+    best debut performance:
+      nominee:
+      - tt0109266
+      - tt0117724
+      - tt0120197
+      winner:
+      - tt0119361
+    best director:
+      nominee:
+      - tt0113241
+      - tt0119062
+      - tt0120357
+      - tt0120402
+      persons:
+        tt0113241:
+          id: nm0275244
+          name: Larry Fessenden
+        tt0118632:
+          id: nm0000380
+          name: Robert Duvall
+        tt0119062:
+          id: nm0000694
+          name: Wim Wenders
+        tt0120357:
+          id: nm0001707
+          name: Paul Schrader
+        tt0120402:
+          id: nm0638033
+          name: Victor Nunez
+      winner:
+      - tt0118632
+    best feature:
+      nominee:
+      - tt0118111
+      - tt0118842
+      - tt0119581
+      - tt0120402
+      winner:
+      - tt0118632
+    best female lead:
+      nominee:
+      - tt0118586
+      - tt0119361
+      - tt0119581
+      - tt0120244
+      winner:
+      - tt0118566
+    best first feature:
+      nominee:
+      - tt0119256
+      - tt0119361
+      - tt0120197
+      - tt0122994
+      winner:
+      - tt0119080
+    best first screenplay:
+      nominee:
+      - tt0118901
+      - tt0119256
+      - tt0120197
+      - tt0122994
+      winner:
+      - tt0119361
+    best foreign film:
+      nominee:
+      - tt0112546
+      - tt0114787
+      - tt0117221
+      - tt0118845
+      winner:
+      - tt0120255
+    best male lead:
+      nominee:
+      - tt0115738
+      - tt0118111
+      - tt0119256
+      - tt0120402
+      winner:
+      - tt0118632
+    best screenplay:
+      nominee:
+      - tt0118111
+      - tt0118632
+      - tt0120357
+      - tt0120402
+      winner:
+      - tt0118842
+    best supporting female:
+      nominee:
+      - tt0118632
+      - tt0119581
+      - tt0120402
+      winner:
+      - tt0119080
+    best supporting male:
+      nominee:
+      - tt0119256
+      - tt0119746
+      - tt0120197
+      - tt0120238
+      winner:
+      - tt0118842
+  producers award:
+    producers award:
+      winner:
+      - tt0113241
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0116261
+      - tt0119581
+      winner:
+      - tt0119264
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0119104
+      - tt0120126
+      - tt0126249
+      winner:
+      - tt0119107
+      - tt0122728
+'1999':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0118564
+      - tt0138704
+      - tt0139362
+      - tt0158493
+      winner:
+      - tt0120879
+    best debut performance:
+      nominee:
+      - tt0120835
+      - tt0139615
+      - tt0158792
+      winner:
+      - tt0120321
+    best director:
+      nominee:
+      - tt0118564
+      - tt0120879
+      - tt0147612
+      - tt0150143
+      persons:
+        tt0118564:
+          id: nm0001707
+          name: Paul Schrader
+        tt0120879:
+          id: nm0001331
+          name: Todd Haynes
+        tt0128445:
+          id: nm0027572
+          name: Wes Anderson
+        tt0147612:
+          id: nm0001754
+          name: Todd Solondz
+        tt0150143:
+          id: nm0449868
+          name: Lodge Kerrigan
+      winner:
+      - tt0128445
+    best feature:
+      nominee:
+      - tt0118564
+      - tt0120835
+      - tt0120879
+      - tt0150143
+      winner:
+      - tt0120684
+    best female lead:
+      nominee:
+      - tt0119780
+      - tt0120777
+      - tt0142231
+      - tt0150143
+      winner:
+      - tt0139362
+    best first feature:
+      nominee:
+      - tt0118789
+      - tt0120831
+      - tt0138704
+      - tt0139362
+      winner:
+      - tt0120777
+    best first screenplay:
+      nominee:
+      - tt0119780
+      - tt0120321
+      - tt0120831
+      - tt0139362
+      winner:
+      - tt0138704
+    best foreign film:
+      nominee:
+      - tt0119250
+      - tt0120408
+      - tt0120706
+      - tt0140888
+      winner:
+      - tt0154420
+    best male lead:
+      nominee:
+      - tt0118564
+      - tt0119336
+      - tt0135166
+      - tt0147612
+      winner:
+      - tt0120684
+    best screenplay:
+      nominee:
+      - tt0118564
+      - tt0120176
+      - tt0120684
+      - tt0135166
+      winner:
+      - tt0120777
+    best supporting female:
+      nominee:
+      - tt0120777
+      - tt0120875
+      - tt0126802
+      - tt0139362
+      winner:
+      - tt0120684
+    best supporting male:
+      nominee:
+      - tt0118564
+      - tt0120321
+      - tt0135166
+      - tt0147612
+      winner:
+      - tt0128445
+  producers award:
+    producers award:
+      nominee:
+      - tt0112887
+      - tt0116070
+      - tt0118640
+      - tt0119338
+      - tt0119809
+      - tt0156096
+      winner:
+      - tt0127302
+      - tt0139362
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0117675
+      - tt0118882
+      - tt0142735
+      winner:
+      - tt0125551
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0150290
+      - tt0154893
+      - tt0155004
+      - tt0183024
+      winner:
+      - tt0181786
+'2000':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0162830
+      - tt0168589
+      - tt0181618
+      - tt0192194
+      winner:
+      - tt0138874
+    best debut performance:
+      nominee:
+      - tt0126886
+      - tt0138414
+      - tt0173390
+      - tt0181517
+      winner:
+      - tt0161023
+    best director:
+      nominee:
+      - tt0139239
+      - tt0165854
+      - tt0166896
+      - tt0192194
+      persons:
+        tt0126886:
+          id: nm0668247
+          name: Alexander Payne
+        tt0139239:
+          id: nm0510731
+          name: Doug Liman
+        tt0165854:
+          id: nm0001752
+          name: Steven Soderbergh
+        tt0166896:
+          id: nm0000186
+          name: David Lynch
+        tt0192194:
+          id: nm0005101
+          name: Harmony Korine
+      winner:
+      - tt0126886
+    best feature:
+      nominee:
+      - tt0126250
+      - tt0165854
+      - tt0166896
+      - tt0173390
+      winner:
+      - tt0126886
+    best female lead:
+      nominee:
+      - tt0120613
+      - tt0126886
+      - tt0161023
+      - tt0163889
+      winner:
+      - tt0171804
+    best first feature - over $500,000:
+      nominee:
+      - tt0115005
+      - tt0138874
+      - tt0162830
+      - tt0171804
+      winner:
+      - tt0120601
+    best first feature - under $500,000:
+      nominee:
+      - tt0168589
+      - tt0181618
+      - tt0181868
+      - tt0223027
+      winner:
+      - tt0185937
+    best first screenplay:
+      nominee:
+      - tt0126250
+      - tt0166896
+      - tt0168449
+      - tt0171804
+      winner:
+      - tt0120601
+    best foreign film:
+      nominee:
+      - tt0119743
+      - tt0151568
+      - tt0185125
+      - tt0200071
+      winner:
+      - tt0130827
+    best male lead:
+      nominee:
+      - tt0120601
+      - tt0164085
+      - tt0165854
+      - tt0193837
+      winner:
+      - tt0166896
+    best screenplay:
+      nominee:
+      - tt0120655
+      - tt0133189
+      - tt0160338
+      - tt0165854
+      winner:
+      - tt0126886
+    best supporting female:
+      nominee:
+      - tt0139239
+      - tt0160338
+      - tt0164085
+      - tt0181618
+      winner:
+      - tt0171804
+    best supporting male:
+      nominee:
+      - tt0126250
+      - tt0165854
+      - tt0168449
+      - tt0168501
+      winner:
+      - tt0162360
+  producers award:
+    producers award:
+      nominee:
+      - tt0150941
+      - tt0168589
+      - tt0171804
+      - tt0231212
+      winner:
+      - tt0142393
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0169333
+      - tt0171340
+      - tt0181602
+      winner:
+      - tt0181517
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0181287
+      - tt0181733
+      - tt0241051
+      winner:
+      - tt0239716
+'2001':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0171359
+      - tt0189998
+      - tt0247196
+      - tt0262432
+      winner:
+      - tt0180093
+    best debut performance:
+      nominee:
+      - tt0200530
+      - tt0203230
+      - tt0210299
+      - tt0262432
+      winner:
+      - tt0210075
+    best director:
+      nominee:
+      - tt0180093
+      - tt0200530
+      - tt0218839
+      - tt0247196
+      persons:
+        tt0180093:
+          id: nm0004716
+          name: Darren Aronofsky
+        tt0190332:
+          id: nm0000487
+          name: Ang Lee
+        tt0200530:
+          id: nm0037708
+          name: Miguel Arteta
+        tt0218839:
+          id: nm0001302
+          name: Christopher Guest
+        tt0247196:
+          id: nm0773603
+          name: Julian Schnabel
+      winner:
+      - tt0190332
+    best documentary:
+      nominee:
+      - tt0233687
+      - tt0236447
+      - tt0236576
+      - tt0240912
+      winner:
+      - tt0235327
+    best feature:
+      nominee:
+      - tt0165798
+      - tt0180093
+      - tt0247196
+      - tt0262432
+      winner:
+      - tt0190332
+    best feature - under $500,000:
+      nominee:
+      - tt0212974
+      - tt0228277
+      - tt0234407
+      - tt0242337
+      winner:
+      - tt0200530
+    best female lead:
+      nominee:
+      - tt0199725
+      - tt0202641
+      - tt0203230
+      - tt0208874
+      winner:
+      - tt0180093
+    best first feature:
+      nominee:
+      - tt0181984
+      - tt0199129
+      - tt0199725
+      - tt0210075
+      winner:
+      - tt0203230
+    best first screenplay:
+      nominee:
+      - tt0170691
+      - tt0181984
+      - tt0199129
+      - tt0262432
+      winner:
+      - tt0199725
+    best foreign film:
+      nominee:
+      - tt0118694
+      - tt0141974
+      - tt0169302
+      - tt0259072
+      winner:
+      - tt0168629
+    best male lead:
+      nominee:
+      - tt0152176
+      - tt0186253
+      - tt0199129
+      - tt0203230
+      winner:
+      - tt0247196
+    best screenplay:
+      nominee:
+      - tt0127349
+      - tt0200530
+      - tt0202641
+      - tt0234137
+      winner:
+      - tt0203230
+    best supporting female:
+      nominee:
+      - tt0180093
+      - tt0183659
+      - tt0200530
+      - tt0210299
+      winner:
+      - tt0190332
+    best supporting male:
+      nominee:
+      - tt0170691
+      - tt0199129
+      - tt0208874
+      - tt0219699
+      winner:
+      - tt0189998
+  producers award:
+    producers award:
+      nominee:
+      - tt0119569
+      - tt0119746
+      - tt0181288
+      - tt0234407
+      - tt0249757
+      winner:
+      - tt0156096
+      - tt0236008
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0160616
+      - tt0242337
+      winner:
+      - tt0228277
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0233315
+      - tt0240641
+      - tt0261174
+      winner:
+      - tt0206187
+'2002':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0209144
+      - tt0243759
+      - tt0248845
+      - tt0250323
+      persons:
+        tt0166924:
+          id: nm0005687
+          name: Peter Deming
+        tt0209144:
+          id: nm0002892
+          name: Wally Pfister
+        tt0243759:
+          id: nm0403258
+          name: W. Mott Hupfel III
+        tt0248845:
+          id: nm1054979
+          name: Frank G. DeMarco
+        tt0250323:
+          id: nm0638365
+          name: Giles Nuttgens
+      winner:
+      - tt0166924
+    best debut performance:
+      nominee:
+      - tt0258223
+      - tt0275182
+      - tt0276607
+      - tt0283429
+      persons:
+        tt0242587:
+          id: nm0200452
+          name: Paul Dano
+        tt0258223:
+          id: nm0743931
+          name: Yolonda Ross
+        tt0275182:
+          id: nm0715768
+          name: Ana Reeder
+        tt0276607:
+          id: nm0429888
+          name: Clint Jordan
+        tt0283429:
+          id: nm0962239
+          name: Hilary Howard
+      winner:
+      - tt0242587
+    best director:
+      nominee:
+      - tt0242587
+      - tt0243017
+      - tt0248845
+      - tt0258223
+      persons:
+        tt0209144:
+          id: nm0634240
+          name: Christopher Nolan
+        tt0242587:
+          id: nm0191147
+          name: Michael Cuesta
+        tt0243017:
+          id: nm0000500
+          name: Richard Linklater
+        tt0248845:
+          id: nm0593463
+          name: John Cameron Mitchell
+        tt0258223:
+          id: nm0243109
+          name: Cheryl Dunye
+      winner:
+      - tt0209144
+    best documentary:
+      nominee:
+      - tt0143861
+      - tt0270971
+      - tt0274622
+      - tt0282864
+      persons:
+        tt0143861:
+          id: nm0695629
+          name: Doug Pray
+        tt0270971:
+          id: nm0007189
+          name: Kenneth A. Carlson
+        tt0274622:
+          id: nm0297085
+          name: Susan Froemke
+        tt0275309:
+          id: nm0672769
+          name: Stacy Peralta
+        tt0282864:
+          id: nm0035184
+          name: Justine Shapiro
+      winner:
+      - tt0275309
+    best feature:
+      nominee:
+      - tt0242587
+      - tt0243017
+      - tt0245501
+      - tt0248845
+      persons:
+        tt0209144:
+          id: nm0865189
+          name: Jennifer Todd
+        tt0242587:
+          id: nm0060459
+          name: Rene Bastian
+        tt0243017:
+          id: nm0908323
+          name: Anne Walker-McBay
+        tt0245501:
+          id: nm0368477
+          name: Dan Hassid
+        tt0248845:
+          id: nm0882927
+          name: Christine Vachon
+      winner:
+      - tt0209144
+    best female lead:
+      nominee:
+      - tt0240402
+      - tt0245501
+      - tt0246037
+      - tt0250323
+      persons:
+        tt0240402:
+          id: nm0662504
+          name: Molly Parker
+        tt0245501:
+          id: nm0225332
+          name: Kim Dickens
+        tt0246037:
+          id: nm0913488
+          name: Kerry Washington
+        tt0247425:
+          id: nm0000651
+          name: Sissy Spacek
+        tt0250323:
+          id: nm0842770
+          name: Tilda Swinton
+      winner:
+      - tt0247425
+    best first feature:
+      nominee:
+      - tt0162346
+      - tt0246578
+      - tt0247199
+      - tt0254099
+      persons:
+        tt0162346:
+          id: nm0959062
+          name: Terry Zwigoff
+        tt0246578:
+          id: nm0446819
+          name: Richard Kelly
+        tt0247199:
+          id: nm0063785
+          name: Henry Bean
+        tt0247425:
+          id: nm0276062
+          name: Todd Field
+        tt0254099:
+          id: nm0000492
+          name: Jennifer Jason Leigh
+      winner:
+      - tt0247425
+    best first screenplay:
+      nominee:
+      - tt0242587
+      - tt0246578
+      - tt0248845
+      - tt0254099
+      persons:
+        tt0162346:
+          id: nm0167280
+          name: Daniel Clowes
+        tt0242587:
+          id: nm0753147
+          name: Stephen M. Ryder
+        tt0246578:
+          id: nm0446819
+          name: Richard Kelly
+        tt0248845:
+          id: nm0593463
+          name: John Cameron Mitchell
+        tt0254099:
+          id: nm0000492
+          name: Jennifer Jason Leigh
+      winner:
+      - tt0162346
+    best foreign film:
+      nominee:
+      - tt0203119
+      - tt0203166
+      - tt0245712
+      - tt0246765
+      persons:
+        tt0203119:
+          id: nm0322242
+          name: Jonathan Glazer
+        tt0203166:
+          id: nm0600546
+          name: Lukas Moodysson
+        tt0211915:
+          id: nm0000466
+          name: Jean-Pierre Jeunet
+        tt0245712:
+          id: nm0327944
+          name: Alejandro G. Iñárritu
+        tt0246765:
+          id: nm0669704
+          name: Raoul Peck
+      winner:
+      - tt0211915
+    best male lead:
+      nominee:
+      - tt0242587
+      - tt0246578
+      - tt0247199
+      - tt0248845
+      persons:
+        tt0242587:
+          id: nm0004051
+          name: Brian Cox
+        tt0246578:
+          id: nm0350453
+          name: Jake Gyllenhaal
+        tt0247199:
+          id: nm0331516
+          name: Ryan Gosling
+        tt0247425:
+          id: nm0929489
+          name: Tom Wilkinson
+        tt0248845:
+          id: nm0593463
+          name: John Cameron Mitchell
+      winner:
+      - tt0247425
+    best screenplay:
+      nominee:
+      - tt0243017
+      - tt0247199
+      - tt0247425
+      - tt0285742
+      persons:
+        tt0209144:
+          id: nm0634240
+          name: Christopher Nolan
+        tt0243017:
+          id: nm0000500
+          name: Richard Linklater
+        tt0247199:
+          id: nm0063785
+          name: Henry Bean
+        tt0247425:
+          id: nm0275284
+          name: Robert Festinger
+        tt0285742:
+          id: nm0995906
+          name: Milo Addica
+      winner:
+      - tt0209144
+    best supporting female:
+      nominee:
+      - tt0182000
+      - tt0247199
+      - tt0258223
+      - tt0275719
+      persons:
+        tt0182000:
+          id: nm0876645
+          name: Tamara Tunie
+        tt0209144:
+          id: nm0005251
+          name: Carrie-Anne Moss
+        tt0247199:
+          id: nm0001619
+          name: Summer Phoenix
+        tt0258223:
+          id: nm0568672
+          name: Davenia McFadden
+        tt0275719:
+          id: nm0000235
+          name: Uma Thurman
+      winner:
+      - tt0209144
+    best supporting male:
+      nominee:
+      - tt0242587
+      - tt0245501
+      - tt0254099
+      - tt0261755
+      persons:
+        tt0162346:
+          id: nm0000114
+          name: Steve Buscemi
+        tt0242587:
+          id: nm0443004
+          name: Billy Kay
+        tt0245501:
+          id: nm0000332
+          name: Don Cheadle
+        tt0254099:
+          id: nm0000604
+          name: John C. Reilly
+        tt0261755:
+          id: nm0606541
+          name: Garrett Morris
+      winner:
+      - tt0162346
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0160710
+      - tt0275182
+      - tt0276607
+      - tt0283429
+      winner:
+      - tt0261755
+  producers award:
+    producers award:
+      nominee:
+      - tt0147111
+      - tt0168449
+      - tt0168912
+      - tt0181868
+      - tt0245356
+      - tt0275182
+      winner:
+      - tt0242587
+      - tt0283469
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0120352
+      - tt0212292
+      - tt0246037
+      winner:
+      - tt0276050
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0264476
+      - tt0278102
+      - tt0282864
+      - tt0288114
+      winner:
+      - tt0267563
+'2003':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0272207
+      - tt0295238
+      - tt0302674
+      - tt0308411
+      winner:
+      - tt0297884
+    best debut performance:
+      nominee:
+      - tt0212604
+      - tt0258273
+      - tt0285728
+      - tt0296166
+      winner:
+      - tt0259446
+    best director:
+      nominee:
+      - tt0238321
+      - tt0258273
+      - tt0272207
+      - tt0302674
+      persons:
+        tt0238321:
+          id: nm0741262
+          name: Bernard Rose
+        tt0258273:
+          id: nm0392237
+          name: Nicole Holofcener
+        tt0272207:
+          id: nm0138620
+          name: Joe Carnahan
+        tt0297884:
+          id: nm0001331
+          name: Todd Haynes
+        tt0302674:
+          id: nm0001814
+          name: Gus Van Sant
+      winner:
+      - tt0297884
+    best documentary:
+      nominee:
+      - tt0293088
+      - tt0303321
+      - tt0303348
+      - tt0334416
+      winner:
+      - tt0310793
+    best feature:
+      nominee:
+      - tt0212604
+      - tt0258273
+      - tt0274812
+      - tt0279113
+      winner:
+      - tt0297884
+    best female lead:
+      nominee:
+      - tt0258273
+      - tt0274812
+      - tt0279113
+      - tt0295238
+      winner:
+      - tt0297884
+    best first feature:
+      nominee:
+      - tt0259484
+      - tt0298050
+      - tt0299117
+      - tt0308411
+      winner:
+      - tt0238924
+    best first screenplay:
+      nominee:
+      - tt0264761
+      - tt0280760
+      - tt0290664
+      - tt0308411
+      winner:
+      - tt0274812
+    best foreign film:
+      nominee:
+      - tt0254686
+      - tt0279065
+      - tt0280491
+      - tt0285441
+      winner:
+      - tt0245574
+    best male lead:
+      nominee:
+      - tt0238321
+      - tt0284494
+      - tt0285728
+      - tt0299117
+      winner:
+      - tt0168786
+    best screenplay:
+      nominee:
+      - tt0212604
+      - tt0258273
+      - tt0268690
+      - tt0299117
+      winner:
+      - tt0279113
+    best supporting female:
+      nominee:
+      - tt0168786
+      - tt0212604
+      - tt0284478
+      - tt0290664
+      winner:
+      - tt0258273
+    best supporting male:
+      nominee:
+      - tt0238321
+      - tt0268690
+      - tt0272207
+      - tt0279113
+      winner:
+      - tt0297884
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0238321
+      - tt0266971
+      - tt0284478
+      - tt0285728
+      winner:
+      - tt0295238
+  producers award:
+    producers award:
+      nominee:
+      - tt0113025
+      - tt0264761
+      - tt0298050
+      - tt0342234
+      winner:
+      - tt0258223
+      - tt0296166
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0283387
+      - tt0298050
+      winner:
+      - tt0303374
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0324080
+      - tt0326306
+      - tt0334405
+      winner:
+      - tt0329321
+'2004':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0322659
+      - tt0323944
+      - tt0342916
+      - tt0363589
+      winner:
+      - tt0298845
+    best debut performance:
+      nominee:
+      - tt0315775
+      - tt0316188
+      - tt0342167
+      persons:
+        tt0315775:
+          id: nm1170021
+          name: Janice Richardson
+        tt0316188:
+          id: nm0551441
+          name: Judy Marte
+        tt0328538:
+          id: nm1223023
+          name: Nikki Reed
+        tt0342167:
+          id: nm0447695
+          name: Anna Kendrick
+      winner:
+      - tt0328538
+    best director:
+      nominee:
+      - tt0298845
+      - tt0305206
+      - tt0316188
+      - tt0363589
+      winner:
+      - tt0335266
+    best documentary:
+      nominee:
+      - tt0230512
+      - tt0334029
+      - tt0358647
+      - tt0373175
+      winner:
+      - tt0317910
+    best feature:
+      nominee:
+      - tt0298845
+      - tt0305206
+      - tt0316188
+      - tt0323944
+      winner:
+      - tt0335266
+    best female lead:
+      nominee:
+      - tt0290145
+      - tt0298845
+      - tt0299458
+      - tt0368411
+      persons:
+        tt0290145:
+          id: nm0115671
+          name: Agnes Bruckner
+        tt0298845:
+          id: nm0608090
+          name: Samantha Morton
+        tt0299458:
+          id: nm0221046
+          name: Zooey Deschanel
+        tt0340855:
+          id: nm0000234
+          name: Charlize Theron
+        tt0368411:
+          id: nm0005253
+          name: Elisabeth Moss
+      winner:
+      - tt0340855
+    best first feature:
+      nominee:
+      - tt0315983
+      - tt0328538
+      - tt0337585
+      - tt0342916
+      winner:
+      - tt0340855
+    best first screenplay:
+      nominee:
+      - tt0290145
+      - tt0316188
+      - tt0328538
+      - tt0340855
+      winner:
+      - tt0340377
+    best foreign film:
+      nominee:
+      - tt0286244
+      - tt0300140
+      - tt0317248
+      - tt0318411
+      winner:
+      - tt0298228
+    best male lead:
+      nominee:
+      - tt0305206
+      - tt0315983
+      - tt0324013
+      - tt0340377
+      persons:
+        tt0305206:
+          id: nm0316079
+          name: Paul Giamatti
+        tt0315983:
+          id: nm0001426
+          name: Ben Kingsley
+        tt0324013:
+          id: nm1195855
+          name: Lee Pace
+        tt0335266:
+          id: nm0000195
+          name: Bill Murray
+        tt0340377:
+          id: nm0227759
+          name: Peter Dinklage
+      winner:
+      - tt0335266
+    best screenplay:
+      nominee:
+      - tt0305206
+      - tt0310281
+      - tt0311648
+      - tt0323944
+      winner:
+      - tt0335266
+    best supporting female:
+      nominee:
+      - tt0298408
+      - tt0298845
+      - tt0311648
+      - tt0314630
+      persons:
+        tt0298408:
+          id: nm0000531
+          name: Frances McDormand
+        tt0298845:
+          id: nm0092961
+          name: Sarah Bolger
+        tt0311648:
+          id: nm0165101
+          name: Patricia Clarkson
+        tt0314630:
+          id: nm0204706
+          name: Hope Davis
+        tt0315983:
+          id: nm0013037
+          name: Shohreh Aghdashloo
+      winner:
+      - tt0315983
+    best supporting male:
+      nominee:
+      - tt0298408
+      - tt0305206
+      - tt0323944
+      - tt0324013
+      persons:
+        tt0298408:
+          id: nm0005273
+          name: Alessandro Nivola
+        tt0298845:
+          id: nm0005023
+          name: Djimon Hounsou
+        tt0305206:
+          id: nm0295103
+          name: Judah Friedlander
+        tt0323944:
+          id: nm0765597
+          name: Peter Sarsgaard
+        tt0324013:
+          id: nm0004949
+          name: Troy Garity
+      winner:
+      - tt0298845
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0280477
+      - tt0311648
+      - tt0315775
+      - tt0368411
+      winner:
+      - tt0340377
+  producers award:
+    producers award:
+      nominee:
+      - tt0220343
+      - tt0271537
+      - tt0303816
+      - tt0340161
+      winner:
+      - tt0271020
+      - tt0340377
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0365960
+      - tt0378289
+      winner:
+      - tt0327753
+  special distinction award:
+    special distinction award:
+      winner:
+      - tt0315733
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0342956
+      - tt0359281
+      - tt0373175
+      winner:
+      - tt0383475
+'2005':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0338133
+      - tt0361309
+      - tt0373283
+      - tt0388367
+      winner:
+      - tt0318462
+    best debut performance:
+      nominee:
+      - tt0306597
+      - tt0361127
+      - tt0390384
+      - tt0397613
+      persons:
+        tt0306597:
+          id: nm1107001
+          name: Anthony Mackie
+        tt0318462:
+          id: nm0209404
+          name: Rodrigo de la Serna
+        tt0361127:
+          id: nm1403199
+          name: Hannah Pilkes
+        tt0390384:
+          id: nm1503383
+          name: David Sullivan
+        tt0397613:
+          id: nm0647270
+          name: Louie Olivos Jr.
+      winner:
+      - tt0318462
+    best director:
+      nominee:
+      - tt0318462
+      - tt0367790
+      - tt0390221
+      - tt0390384
+      persons:
+        tt0318462:
+          id: nm0758574
+          name: Walter Salles
+        tt0367790:
+          id: nm0005522
+          name: Mario Van Peebles
+        tt0375063:
+          id: nm0668247
+          name: Alexander Payne
+        tt0390221:
+          id: nm0551358
+          name: Joshua Marston
+        tt0390384:
+          id: nm1503403
+          name: Shane Carruth
+      winner:
+      - tt0375063
+    best documentary:
+      nominee:
+      - tt0372806
+      - tt0388835
+      - tt0390538
+      - tt0398103
+      winner:
+      - tt0387412
+    best feature:
+      nominee:
+      - tt0362269
+      - tt0367790
+      - tt0390221
+      - tt0390384
+      winner:
+      - tt0375063
+    best female lead:
+      nominee:
+      - tt0363579
+      - tt0367587
+      - tt0389235
+      - tt0399901
+      persons:
+        tt0363579:
+          id: nm0267812
+          name: Vera Farmiga
+        tt0367587:
+          id: nm0001718
+          name: Kyra Sedgwick
+        tt0389235:
+          id: nm0551441
+          name: Judy Marte
+        tt0390221:
+          id: nm1503432
+          name: Catalina Sandino Moreno
+        tt0399901:
+          id: nm0253708
+          name: Kimberly Elise
+      winner:
+      - tt0390221
+    best first feature:
+      nominee:
+      - tt0306597
+      - tt0361127
+      - tt0373283
+      - tt0374900
+      winner:
+      - tt0333766
+    best first screenplay:
+      nominee:
+      - tt0306597
+      - tt0333766
+      - tt0390384
+      - tt0397613
+      winner:
+      - tt0390221
+    best foreign film:
+      nominee:
+      - tt0275491
+      - tt0320193
+      - tt0365190
+      - tt0419279
+      winner:
+      - tt0369702
+    best male lead:
+      nominee:
+      - tt0348593
+      - tt0361127
+      - tt0362269
+      - tt0388367
+      persons:
+        tt0348593:
+          id: nm0000313
+          name: Jeff Bridges
+        tt0361127:
+          id: nm0000102
+          name: Kevin Bacon
+        tt0362269:
+          id: nm0000553
+          name: Liam Neeson
+        tt0375063:
+          id: nm0316079
+          name: Paul Giamatti
+        tt0388367:
+          id: nm0004937
+          name: Jamie Foxx
+      winner:
+      - tt0375063
+    best screenplay:
+      nominee:
+      - tt0348593
+      - tt0362269
+      - tt0367790
+      - tt0381681
+      winner:
+      - tt0375063
+    best supporting female:
+      nominee:
+      - tt0379217
+      - tt0390221
+      - tt0397613
+      - tt0399901
+      persons:
+        tt0375063:
+          id: nm0000515
+          name: Virginia Madsen
+        tt0379217:
+          id: nm0000949
+          name: Cate Blanchett
+        tt0390221:
+          id: nm1503450
+          name: Yenny Paola Vega
+        tt0397613:
+          id: nm1183382
+          name: Robin Simmons
+        tt0399901:
+          id: nm0222643
+          name: Loretta Devine
+      winner:
+      - tt0375063
+    best supporting male:
+      nominee:
+      - tt0306597
+      - tt0362269
+      - tt0367587
+      - tt0374900
+      persons:
+        tt0306597:
+          id: nm0733051
+          name: Roger Robinson
+        tt0362269:
+          id: nm0765597
+          name: Peter Sarsgaard
+        tt0367587:
+          id: nm0001644
+          name: Aidan Quinn
+        tt0374900:
+          id: nm0340973
+          name: Jon Gries
+        tt0375063:
+          id: nm0002006
+          name: Thomas Haden Church
+      winner:
+      - tt0375063
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0363579
+      - tt0389235
+      - tt0391513
+      - tt0397613
+      winner:
+      - tt0377091
+  producers award:
+    producers award:
+      nominee:
+      - tt0212974
+      - tt0368089
+      - tt0374900
+      - tt0403598
+      winner:
+      - tt0279113
+      - tt0415978
+      - tt0436607
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0389908
+      - tt0401831
+      winner:
+      - tt0421960
+  special distinction award:
+    special distinction award:
+      winner:
+      - tt0377091
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0388835
+      - tt0388935
+      - tt0391024
+      winner:
+      - tt0388789
+'2006':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0379725
+      - tt0403217
+      - tt0419294
+      - tt0420291
+      winner:
+      - tt0433383
+    best director:
+      nominee:
+      - tt0367089
+      - tt0370986
+      - tt0420015
+      - tt0433383
+      persons:
+        tt0367089:
+          id: nm0000876
+          name: Noah Baumbach
+        tt0370986:
+          id: nm0000777
+          name: Gregg Araki
+        tt0388795:
+          id: nm0000487
+          name: Ang Lee
+        tt0420015:
+          id: nm0006554
+          name: Rodrigo García
+        tt0433383:
+          id: nm0000123
+          name: George Clooney
+      winner:
+      - tt0388795
+    best documentary:
+      nominee:
+      - tt0427312
+      - tt0436728
+      - tt0439810
+      - tt0469589
+      winner:
+      - tt1016268
+    best feature:
+      nominee:
+      - tt0367089
+      - tt0379725
+      - tt0419294
+      - tt0433383
+      winner:
+      - tt0388795
+    best female lead:
+      nominee:
+      - tt0367089
+      - tt0395543
+      - tt0407936
+      - tt0417096
+      persons:
+        tt0367089:
+          id: nm0001473
+          name: Laura Linney
+        tt0395543:
+          id: nm0466861
+          name: Dina Korzun
+        tt0407265:
+          id: nm0005031
+          name: Felicity Huffman
+        tt0407936:
+          id: nm0580924
+          name: S. Epatha Merkerson
+        tt0417096:
+          id: nm1143088
+          name: Cyndi Williams
+      winner:
+      - tt0407265
+    best first feature:
+      nominee:
+      - tt0318761
+      - tt0407265
+      - tt0407936
+      - tt0415978
+      winner:
+      - tt0375679
+    best first screenplay:
+      nominee:
+      - tt0273108
+      - tt0292513
+      - tt0415978
+      - tt0418773
+      winner:
+      - tt0407265
+    best foreign film:
+      nominee:
+      - tt0347048
+      - tt0407246
+      - tt0420260
+      - tt0456149
+      winner:
+      - tt0445620
+    best male lead:
+      nominee:
+      - tt0367089
+      - tt0388795
+      - tt0410097
+      - tt0433383
+      persons:
+        tt0367089:
+          id: nm0001099
+          name: Jeff Daniels
+        tt0379725:
+          id: nm0000450
+          name: Philip Seymour Hoffman
+        tt0388795:
+          id: nm0005132
+          name: Heath Ledger
+        tt0410097:
+          id: nm0005024
+          name: Terrence Howard
+        tt0433383:
+          id: nm0000657
+          name: David Strathairn
+      winner:
+      - tt0379725
+    best screenplay:
+      nominee:
+      - tt0367089
+      - tt0414344
+      - tt0419294
+      - tt0420015
+      winner:
+      - tt0379725
+    best supporting female:
+      nominee:
+      - tt0361693
+      - tt0388795
+      - tt0407095
+      - tt0420015
+      persons:
+        tt0361693:
+          id: nm0350454
+          name: Maggie Gyllenhaal
+        tt0388795:
+          id: nm0931329
+          name: Michelle Williams
+        tt0407095:
+          id: nm0005049
+          name: Allison Janney
+        tt0418773:
+          id: nm0010736
+          name: Amy Adams
+        tt0420015:
+          id: nm0000705
+          name: Robin Wright
+      winner:
+      - tt0418773
+    best supporting male:
+      nominee:
+      - tt0367089
+      - tt0412019
+      - tt0414344
+      - tt0419294
+      persons:
+        tt0367089:
+          id: nm0251986
+          name: Jesse Eisenberg
+        tt0375679:
+          id: nm0000369
+          name: Matt Dillon
+        tt0412019:
+          id: nm0942482
+          name: Jeffrey Wright
+        tt0414344:
+          id: nm0051479
+          name: Firdous Bamji
+        tt0419294:
+          id: nm0001608
+          name: Barry Pepper
+      winner:
+      - tt0375679
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0393109
+      - tt0417096
+      - tt0436689
+      - tt0466857
+      winner:
+      - tt0455929
+  producers award:
+    producers award:
+      nominee:
+      - tt0362004
+      - tt0393109
+      - tt0418773
+      - tt0435623
+      winner:
+      - tt0265343
+      - tt0379725
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0383965
+      - tt0436689
+      winner:
+      - tt0428303
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0436728
+      - tt0470949
+      - tt0492714
+      winner:
+      - tt0452659
+'2007':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0430768
+      - tt0432260
+      - tt0439182
+      - tt0464105
+      winner:
+      - tt0457430
+    best director:
+      nominee:
+      - tt0420087
+      - tt0454792
+      - tt0468489
+      - tt0783238
+      persons:
+        tt0420087:
+          id: nm0000265
+          name: Robert Altman
+        tt0449059:
+          id: nm0206760
+          name: Jonathan Dayton
+        tt0454792:
+          id: nm0001752
+          name: Steven Soderbergh
+        tt0468489:
+          id: nm0281396
+          name: Ryan Fleck
+        tt0783238:
+          id: nm0597673
+          name: Karen Moncrieff
+      winner:
+      - tt0449059
+    best documentary:
+      nominee:
+      - tt0446055
+      - tt0492472
+      - tt0791268
+      - tt4425258
+      winner:
+      - tt0468094
+    best feature:
+      nominee:
+      - tt0416471
+      - tt0457430
+      - tt0468489
+      - tt0783238
+      winner:
+      - tt0449059
+    best female lead:
+      nominee:
+      - tt0382357
+      - tt0425600
+      - tt0428038
+      - tt0470765
+      persons:
+        tt0382357:
+          id: nm0931329
+          name: Michelle Williams
+        tt0425600:
+          id: nm0000705
+          name: Robin Wright
+        tt0428038:
+          id: nm0714147
+          name: Elizabeth Reaser
+        tt0468489:
+          id: nm1560274
+          name: Shareeka Epps
+        tt0470765:
+          id: nm0001573
+          name: Catherine O'Hara
+      winner:
+      - tt0468489
+    best first feature:
+      nominee:
+      - tt0436607
+      - tt0464105
+      - tt0477139
+      - tt0499455
+      winner:
+      - tt0428038
+    best first screenplay:
+      nominee:
+      - tt0435623
+      - tt0468489
+      - tt0473488
+      - tt0477139
+      winner:
+      - tt0449059
+    best foreign film:
+      nominee:
+      - tt0444182
+      - tt0479354
+      - tt0479506
+      - tt0809407
+      winner:
+      - tt0405094
+    best male lead:
+      nominee:
+      - tt0416471
+      - tt0427944
+      - tt0446755
+      - tt0464105
+      persons:
+        tt0416471:
+          id: nm0001845
+          name: Forest Whitaker
+        tt0427944:
+          id: nm0001173
+          name: Aaron Eckhart
+        tt0446755:
+          id: nm0001570
+          name: Edward Norton
+        tt0464105:
+          id: nm1953498
+          name: Ahmad Razvi
+        tt0468489:
+          id: nm0331516
+          name: Ryan Gosling
+      winner:
+      - tt0468489
+    best screenplay:
+      nominee:
+      - tt0425600
+      - tt0436331
+      - tt0443543
+      - tt0446755
+      winner:
+      - tt0427944
+    best supporting female:
+      nominee:
+      - tt0416471
+      - tt0473488
+      - tt0483812
+      - tt0783238
+      persons:
+        tt0416471:
+          id: nm0001315
+          name: Marcia Gay Harden
+        tt0436331:
+          id: nm0000531
+          name: Frances McDormand
+        tt0473488:
+          id: nm0246686
+          name: Melonie Diaz
+        tt0483812:
+          id: nm0848554
+          name: Amber Tamblyn
+        tt0783238:
+          id: nm0002148
+          name: Mary Beth Hurt
+      winner:
+      - tt0436331
+    best supporting male:
+      nominee:
+      - tt0420609
+      - tt0439833
+      - tt0449059
+      - tt0473488
+      persons:
+        tt0420609:
+          id: nm0185819
+          name: Daniel Craig
+        tt0439833:
+          id: nm0000855
+          name: Raymond J. Barry
+        tt0449059:
+          id: nm0000273
+          name: Alan Arkin
+        tt0473488:
+          id: nm1475594
+          name: Channing Tatum
+      winner:
+      - tt0449059
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0417385
+      - tt0439182
+      - tt0468526
+      - tt0758738
+      winner:
+      - tt0451176
+  producers award:
+    producers award:
+      nominee:
+      - tt0408106
+      - tt0468489
+      - tt0499603
+      - tt0844325
+      winner:
+      - tt0367027
+      - tt0376827
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0492463
+      - tt0784977
+      winner:
+      - tt0499455
+  special distinction award:
+    special distinction award:
+      winner:
+      - tt0979899
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0790769
+      - tt0814047
+      winner:
+      - tt0795174
+'2008':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0481797
+      - tt0775529
+      - tt0808357
+      - tt0832971
+      winner:
+      - tt0401383
+    best director:
+      nominee:
+      - tt0368794
+      - tt0467406
+      - tt0775529
+      - tt0842929
+      persons:
+        tt0368794:
+          id: nm0001331
+          name: Todd Haynes
+        tt0401383:
+          id: nm0773603
+          name: Julian Schnabel
+        tt0467406:
+          id: nm0718646
+          name: Jason Reitman
+        tt0775529:
+          id: nm0420982
+          name: Tamara Jenkins
+        tt0842929:
+          id: nm0001814
+          name: Gus Van Sant
+      winner:
+      - tt0401383
+    best documentary:
+      nominee:
+      - tt0832903
+      - tt0841119
+      - tt0841149
+      - tt0925259
+      winner:
+      - tt0790706
+    best feature:
+      nominee:
+      - tt0368794
+      - tt0401383
+      - tt0829459
+      - tt0842929
+      winner:
+      - tt0467406
+    best female lead:
+      nominee:
+      - tt0480269
+      - tt0772157
+      - tt0808357
+      - tt0829459
+      persons:
+        tt0467406:
+          id: nm0680983
+          name: Elliot Page
+        tt0480269:
+          id: nm1092227
+          name: Sienna Miller
+        tt0772157:
+          id: nm0000205
+          name: Parker Posey
+        tt0808357:
+          id: nm2325018
+          name: Tang Wei
+        tt0829459:
+          id: nm0001401
+          name: Angelina Jolie
+      winner:
+      - tt0467406
+    best first feature:
+      nominee:
+      - tt0477078
+      - tt0826547
+      - tt0832971
+      - tt0841044
+      winner:
+      - tt0427470
+    best first screenplay:
+      nominee:
+      - tt0292963
+      - tt0477078
+      - tt0772157
+      - tt0829459
+      winner:
+      - tt0467406
+    best foreign film:
+      nominee:
+      - tt0459880
+      - tt0808417
+      - tt1032846
+      - tt1032856
+      winner:
+      - tt0907657
+    best male lead:
+      nominee:
+      - tt0758784
+      - tt0796368
+      - tt0808357
+      - tt1020936
+      persons:
+        tt0758784:
+          id: nm0001449
+          name: Frank Langella
+        tt0775529:
+          id: nm0000450
+          name: Philip Seymour Hoffman
+        tt0796368:
+          id: nm0000332
+          name: Don Cheadle
+        tt0808357:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt1020936:
+          id: nm2639092
+          name: Pedro Castaneda
+      winner:
+      - tt0775529
+    best screenplay:
+      nominee:
+      - tt0401383
+      - tt0473308
+      - tt0756729
+      - tt0758784
+      winner:
+      - tt0775529
+    best supporting female:
+      nominee:
+      - tt0292963
+      - tt0477078
+      - tt0757361
+      - tt0893331
+      persons:
+        tt0292963:
+          id: nm0000673
+          name: Marisa Tomei
+        tt0368794:
+          id: nm0000949
+          name: Cate Blanchett
+        tt0477078:
+          id: nm0447695
+          name: Anna Kendrick
+        tt0757361:
+          id: nm0000492
+          name: Jennifer Jason Leigh
+        tt0893331:
+          id: nm0687947
+          name: Tamara Podemski
+      winner:
+      - tt0368794
+    best supporting male:
+      nominee:
+      - tt0368794
+      - tt0433416
+      - tt0462504
+      - tt0826547
+      persons:
+        tt0368794:
+          id: nm1634963
+          name: Marcus Carl Franklin
+        tt0433416:
+          id: nm0451234
+          name: Irrfan Khan
+        tt0462504:
+          id: nm0001872
+          name: Steve Zahn
+        tt0796368:
+          id: nm0252230
+          name: Chiwetel Ejiofor
+        tt0826547:
+          id: nm0391063
+          name: Kene Holiday
+      winner:
+      - tt0796368
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0911024
+      - tt0914382
+      - tt0952682
+      - tt0971162
+      winner:
+      - tt1020936
+  producers award:
+    producers award:
+      nominee:
+      - tt0383965
+      - tt0451176
+      - tt0478126
+      - tt0991167
+      winner:
+      - tt0468526
+      - tt0842929
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt0368794
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0970935
+      - tt1031947
+      winner:
+      - tt0990404
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt0762130
+      - tt0847817
+      winner:
+      - tt0912596
+'2009':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt0990404
+      - tt1013753
+      - tt1133989
+      - tt1153690
+      winner:
+      - tt1125849
+    best director:
+      nominee:
+      - tt0978759
+      - tt0990404
+      - tt1084950
+      - tt1153690
+      persons:
+        tt0857191:
+          id: nm0565336
+          name: Tom McCarthy
+        tt0978759:
+          id: nm2581581
+          name: Courtney Hunt
+        tt0990404:
+          id: nm1023919
+          name: Ramin Bahrani
+        tt1084950:
+          id: nm0001129
+          name: Jonathan Demme
+        tt1153690:
+          id: nm0358475
+          name: Lance Hammer
+      winner:
+      - tt0857191
+    best documentary:
+      nominee:
+      - tt1093824
+      - tt1114277
+      - tt1157685
+      - tt1157694
+      winner:
+      - tt1155592
+    best feature:
+      nominee:
+      - tt0978759
+      - tt1084950
+      - tt1152850
+      - tt1153690
+      winner:
+      - tt1125849
+    best female lead:
+      nominee:
+      - tt0787523
+      - tt1084950
+      - tt1152850
+      - tt1153690
+      persons:
+        tt0787523:
+          id: nm1974397
+          name: Summer Bishil
+        tt0978759:
+          id: nm0502425
+          name: Melissa Leo
+        tt1084950:
+          id: nm0004266
+          name: Anne Hathaway
+        tt1152850:
+          id: nm0931329
+          name: Michelle Williams
+        tt1153690:
+          id: nm2743985
+          name: Tarra Riggs
+      winner:
+      - tt0978759
+    best first feature:
+      nominee:
+      - tt0804529
+      - tt0834938
+      - tt1133989
+      - tt1224366
+      winner:
+      - tt0383028
+    best first screenplay:
+      nominee:
+      - tt0978759
+      - tt1082886
+      - tt1084950
+      - tt1153690
+      winner:
+      - tt1013753
+    best foreign film:
+      nominee:
+      - tt0487419
+      - tt0841925
+      - tt0929425
+      - tt0986233
+      winner:
+      - tt1068646
+    best male lead:
+      nominee:
+      - tt0497465
+      - tt0857191
+      - tt0887912
+      - tt1013753
+      persons:
+        tt0497465:
+          id: nm0000849
+          name: Javier Bardem
+        tt0857191:
+          id: nm0420955
+          name: Richard Jenkins
+        tt0887912:
+          id: nm0719637
+          name: Jeremy Renner
+        tt1013753:
+          id: nm0000576
+          name: Sean Penn
+        tt1125849:
+          id: nm0000620
+          name: Mickey Rourke
+      winner:
+      - tt1125849
+    best screenplay:
+      nominee:
+      - tt0379976
+      - tt0383028
+      - tt0834938
+      - tt0990413
+      winner:
+      - tt0497465
+    best supporting female:
+      nominee:
+      - tt0828158
+      - tt0978759
+      - tt1084950
+      persons:
+        tt0497465:
+          id: nm0004851
+          name: Penélope Cruz
+        tt0828158:
+          id: nm0001609
+          name: Rosie Perez
+        tt0978759:
+          id: nm1130728
+          name: Misty Upham
+        tt1084950:
+          id: nm1679669
+          name: Rosemarie DeWitt
+      winner:
+      - tt0497465
+    best supporting male:
+      nominee:
+      - tt0857191
+      - tt0887912
+      - tt0978759
+      - tt1153690
+      persons:
+        tt0857191:
+          id: nm1896736
+          name: Haaz Sleiman
+        tt0887912:
+          id: nm1107001
+          name: Anthony Mackie
+        tt0978759:
+          id: nm1668208
+          name: Charlie McDermott
+        tt1013753:
+          id: nm0290556
+          name: James Franco
+        tt1153690:
+          id: nm2868704
+          name: JimMyron Ross
+      winner:
+      - tt1013753
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0391483
+      - tt0780607
+      - tt0811128
+      - tt1000769
+      winner:
+      - tt0989000
+  producers award:
+    producers award:
+      nominee:
+      - tt0850674
+      - tt0872236
+      - tt1095442
+      - tt1143155
+      winner:
+      - tt0826558
+      - tt0978759
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt0383028
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt1133989
+      - tt1172203
+      winner:
+      - tt1183684
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt1157605
+      - tt1246588
+      winner:
+      - tt1157694
+'2010':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt1095217
+      - tt1127715
+      - tt1127877
+      - tt1143155
+      winner:
+      - tt1019452
+    best director:
+      nominee:
+      - tt0824758
+      - tt1019452
+      - tt1103275
+      - tt1127715
+      persons:
+        tt0824758:
+          id: nm0001355
+          name: Michael Hoffman
+        tt0929632:
+          id: nm0200005
+          name: Lee Daniels
+        tt1019452:
+          id: nm0001053
+          name: Ethan Coen
+        tt1103275:
+          id: nm0336695
+          name: James Gray
+        tt1127715:
+          id: nm1560977
+          name: Cary Joji Fukunaga
+      winner:
+      - tt0929632
+    best documentary:
+      nominee:
+      - tt0489342
+      - tt1286537
+      - tt1286821
+      - tt1326831
+      winner:
+      - tt1157605
+    best feature:
+      nominee:
+      - tt0824758
+      - tt1022603
+      - tt1127715
+      - tt1190858
+      winner:
+      - tt0929632
+    best female lead:
+      nominee:
+      - tt0411323
+      - tt0824758
+      - tt1103275
+      - tt1190858
+      persons:
+        tt0411323:
+          id: nm0004742
+          name: Maria Bello
+        tt0824758:
+          id: nm0000545
+          name: Helen Mirren
+        tt0929632:
+          id: nm2829737
+          name: Gabourey Sidibe
+        tt1103275:
+          id: nm0000569
+          name: Gwyneth Paltrow
+        tt1190858:
+          id: nm2992228
+          name: Nisreen Faour
+      winner:
+      - tt0929632
+    best first feature:
+      nominee:
+      - tt0790712
+      - tt1179904
+      - tt1217426
+      - tt1315981
+      winner:
+      - tt1263670
+    best first screenplay:
+      nominee:
+      - tt1127877
+      - tt1190858
+      - tt1263670
+      - tt1315981
+      winner:
+      - tt0929632
+    best foreign film:
+      nominee:
+      - tt0961066
+      - tt1187044
+      - tt1216496
+      - tt1235166
+      winner:
+      - tt1174732
+    best male lead:
+      nominee:
+      - tt1022603
+      - tt1095442
+      - tt1183921
+      - tt1315981
+      persons:
+        tt1022603:
+          id: nm0330687
+          name: Joseph Gordon-Levitt
+        tt1095442:
+          id: nm2766807
+          name: Souleymane Sy Savane
+        tt1183921:
+          id: nm0004395
+          name: Adam Scott
+        tt1263670:
+          id: nm0000313
+          name: Jeff Bridges
+        tt1315981:
+          id: nm0000147
+          name: Colin Firth
+      winner:
+      - tt1263670
+    best screenplay:
+      nominee:
+      - tt0790712
+      - tt0824758
+      - tt1091722
+      - tt1183921
+      winner:
+      - tt1022603
+    best supporting female:
+      nominee:
+      - tt0790712
+      - tt1097643
+      - tt1114680
+      - tt1127877
+      persons:
+        tt0790712:
+          id: nm0608090
+          name: Samantha Morton
+        tt0929632:
+          id: nm0594898
+          name: Mo'Nique
+        tt1097643:
+          id: nm1461267
+          name: Natalie Press
+        tt1114680:
+          id: nm1985859
+          name: Mia Wasikowska
+        tt1127877:
+          id: nm0466861
+          name: Dina Korzun
+      winner:
+      - tt0929632
+    best supporting male:
+      nominee:
+      - tt0824758
+      - tt1114680
+      - tt1161418
+      - tt1175506
+      persons:
+        tt0790712:
+          id: nm0000437
+          name: Woody Harrelson
+        tt0824758:
+          id: nm0001626
+          name: Christopher Plummer
+        tt1114680:
+          id: nm0571964
+          name: Ray McKinnon
+        tt1161418:
+          id: nm1318596
+          name: Jemaine Clement
+        tt1175506:
+          id: nm1605114
+          name: Christian McKay
+      winner:
+      - tt0790712
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt1143155
+      - tt1189350
+      - tt1228953
+      - tt1270494
+      winner:
+      - tt1334537
+  producers award:
+    producers award:
+      nominee:
+      - tt0902290
+      - tt1172994
+      - tt1186248
+      - tt1339268
+      winner:
+      - tt0770751
+      - tt1294161
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt1019452
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt0963328
+      - tt1270494
+      winner:
+      - tt1217426
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt1333639
+      - tt1339635
+      winner:
+      - tt1337139
+'2011':
+  find your audience award:
+    find your audience award:
+      winner:
+      - tt1391092
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt1234654
+      - tt1334260
+      - tt1399683
+      - tt1570989
+      winner:
+      - tt0947798
+    best director:
+      nominee:
+      - tt0842926
+      - tt0935075
+      - tt1399683
+      - tt1542344
+      persons:
+        tt0842926:
+          id: nm0158966
+          name: Lisa Cholodenko
+        tt0935075:
+          id: nm0593463
+          name: John Cameron Mitchell
+        tt0947798:
+          id: nm0004716
+          name: Darren Aronofsky
+        tt1399683:
+          id: nm0335138
+          name: Debra Granik
+        tt1542344:
+          id: nm0000965
+          name: Danny Boyle
+      winner:
+      - tt0947798
+    best documentary:
+      nominee:
+      - tt1391092
+      - tt1517252
+      - tt1559549
+      - tt1611180
+      winner:
+      - tt1587707
+    best feature:
+      nominee:
+      - tt0842926
+      - tt1234654
+      - tt1399683
+      - tt1542344
+      winner:
+      - tt0947798
+    best female lead:
+      nominee:
+      - tt0842926
+      - tt0935075
+      - tt1120985
+      - tt1234654
+      - tt1399683
+      persons:
+        tt0842926:
+          id: nm0000906
+          name: Annette Bening
+        tt0935075:
+          id: nm0000173
+          name: Nicole Kidman
+        tt0947798:
+          id: nm0000204
+          name: Natalie Portman
+        tt1120985:
+          id: nm0931329
+          name: Michelle Williams
+        tt1234654:
+          id: nm1950086
+          name: Greta Gerwig
+        tt1399683:
+          id: nm2225369
+          name: Jennifer Lawrence
+      winner:
+      - tt0947798
+    best first feature:
+      nominee:
+      - tt0775543
+      - tt1297928
+      - tt1320244
+      - tt1570989
+      winner:
+      - tt1194263
+    best first screenplay:
+      nominee:
+      - tt1150947
+      - tt1278379
+      - tt1502714
+      - tt1522218
+      winner:
+      - tt1570989
+    best foreign film:
+      nominee:
+      - tt0975684
+      - tt1285246
+      - tt1588337
+      - tt1588895
+      winner:
+      - tt1504320
+    best male lead:
+      nominee:
+      - tt0935075
+      - tt1234654
+      - tt1336617
+      - tt1426362
+      persons:
+        tt0935075:
+          id: nm0001173
+          name: Aaron Eckhart
+        tt1234654:
+          id: nm0001774
+          name: Ben Stiller
+        tt1336617:
+          id: nm0000604
+          name: John C. Reilly
+        tt1426362:
+          id: nm2563482
+          name: Ronald Bronstein
+        tt1542344:
+          id: nm0290556
+          name: James Franco
+      winner:
+      - tt1542344
+    best screenplay:
+      nominee:
+      - tt0808526
+      - tt0878835
+      - tt0935075
+      - tt1399683
+      winner:
+      - tt0842926
+    best supporting female:
+      nominee:
+      - tt0808526
+      - tt1121977
+      - tt1278379
+      - tt1320244
+      persons:
+        tt0808526:
+          id: nm0005049
+          name: Allison Janney
+        tt1121977:
+          id: nm0915208
+          name: Naomi Watts
+        tt1278379:
+          id: nm0748189
+          name: Daphne Rubin-Vega
+        tt1320244:
+          id: nm0068042
+          name: Ashley Bell
+        tt1399683:
+          id: nm0225460
+          name: Dale Dickey
+      winner:
+      - tt1399683
+    best supporting male:
+      nominee:
+      - tt0842926
+      - tt1121977
+      - tt1194263
+      - tt1278379
+      persons:
+        tt0842926:
+          id: nm0749263
+          name: Mark Ruffalo
+        tt1121977:
+          id: nm0000168
+          name: Samuel L. Jackson
+        tt1194263:
+          id: nm0000195
+          name: Bill Murray
+        tt1278379:
+          id: nm0651159
+          name: John Ortiz
+        tt1399683:
+          id: nm0370035
+          name: John Hawkes
+      winner:
+      - tt1399683
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt0390185
+      - tt1294161
+      - tt1436560
+      - tt1522218
+      winner:
+      - tt1426362
+  producers award:
+    producers award:
+      nominee:
+      - tt1174042
+      - tt1291125
+      winner:
+      - tt1518812
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt0878835
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt1513755
+      - tt1521080
+      winner:
+      - tt1608285
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt1517252
+      - tt1566405
+      winner:
+      - tt1391092
+'2012':
+  find your audience award:
+    find your audience award:
+      winner:
+      - tt1444337
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt1242599
+      - tt1605783
+      - tt1646981
+      - tt1738366
+      winner:
+      - tt1655442
+    best director:
+      nominee:
+      - tt0780504
+      - tt1033575
+      - tt1532503
+      - tt1675192
+      persons:
+        tt0780504:
+          id: nm0716347
+          name: Nicolas Winding Refn
+        tt1033575:
+          id: nm0668247
+          name: Alexander Payne
+        tt1532503:
+          id: nm0590122
+          name: Mike Mills
+        tt1655442:
+          id: nm0371890
+          name: Michel Hazanavicius
+        tt1675192:
+          id: nm2158772
+          name: Jeff Nichols
+      winner:
+      - tt1655442
+    best documentary:
+      nominee:
+      - tt1621444
+      - tt1674131
+      - tt1733679
+      - tt1787837
+      winner:
+      - tt1319744
+    best feature:
+      nominee:
+      - tt0780504
+      - tt1033575
+      - tt1306980
+      - tt1532503
+      - tt1675192
+      winner:
+      - tt1655442
+    best female lead:
+      nominee:
+      - tt1198199
+      - tt1233334
+      - tt1441326
+      - tt1621426
+      persons:
+        tt1198199:
+          id: nm0024404
+          name: Lauren Ambrose
+        tt1233334:
+          id: nm1323822
+          name: Adepero Oduye
+        tt1441326:
+          id: nm0647634
+          name: Elizabeth Olsen
+        tt1621426:
+          id: nm0006713
+          name: Rachael Harris
+        tt1655420:
+          id: nm0931329
+          name: Michelle Williams
+      winner:
+      - tt1655420
+    best first feature:
+      nominee:
+      - tt1441326
+      - tt1549572
+      - tt1621426
+      - tt1845804
+      winner:
+      - tt1615147
+    best first screenplay:
+      nominee:
+      - tt1477837
+      - tt1549572
+      - tt1615147
+      - tt1687281
+      winner:
+      - tt1306980
+    best international film:
+      nominee:
+      - tt1204340
+      - tt1527186
+      - tt1723811
+      - tt1827512
+      winner:
+      - tt1832382
+    best male lead:
+      nominee:
+      - tt0780504
+      - tt1554091
+      - tt1640548
+      - tt1675192
+      persons:
+        tt0780504:
+          id: nm0331516
+          name: Ryan Gosling
+        tt1554091:
+          id: nm0065007
+          name: Demián Bichir
+        tt1640548:
+          id: nm0000437
+          name: Woody Harrelson
+        tt1655442:
+          id: nm0241121
+          name: Jean Dujardin
+        tt1675192:
+          id: nm0788335
+          name: Michael Shannon
+      winner:
+      - tt1655442
+    best screenplay:
+      nominee:
+      - tt1445520
+      - tt1532503
+      - tt1606392
+      - tt1655442
+      winner:
+      - tt1033575
+    best supporting female:
+      nominee:
+      - tt1306980
+      - tt1525838
+      - tt1602098
+      - tt1675192
+      persons:
+        tt1033575:
+          id: nm0940362
+          name: Shailene Woodley
+        tt1306980:
+          id: nm0001378
+          name: Anjelica Huston
+        tt1525838:
+          id: nm3992614
+          name: Harmony Santana
+        tt1602098:
+          id: nm0005216
+          name: Janet McTeer
+        tt1675192:
+          id: nm1567113
+          name: Jessica Chastain
+      winner:
+      - tt1033575
+    best supporting male:
+      nominee:
+      - tt0780504
+      - tt1441326
+      - tt1477837
+      - tt1605783
+      persons:
+        tt0780504:
+          id: nm0000983
+          name: Albert Brooks
+        tt1441326:
+          id: nm0370035
+          name: John Hawkes
+        tt1477837:
+          id: nm0000604
+          name: John C. Reilly
+        tt1532503:
+          id: nm0001626
+          name: Christopher Plummer
+        tt1605783:
+          id: nm1015684
+          name: Corey Stoll
+      winner:
+      - tt1532503
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt1242599
+      - tt1258201
+      - tt1684628
+      - tt1738366
+      winner:
+      - tt1233334
+  producers award:
+    producers award:
+      nominee:
+      - tt1441326
+      - tt1978480
+      winner:
+      - tt1675192
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt1615147
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt1580021
+      - tt1863323
+      winner:
+      - tt1791687
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt1748043
+      - tt1758576
+      winner:
+      - tt1856109
+'2013':
+  find your audience award:
+    find your audience award:
+      nominee:
+      - tt2245195
+      winner:
+      - tt2062497
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt1127886
+      - tt1748122
+      - tt1855199
+      - tt2017038
+      - tt2088967
+      winner:
+      - tt2125435
+    best director:
+      nominee:
+      - tt1695405
+      - tt1748122
+      - tt2011953
+      - tt2125435
+      persons:
+        tt1045658:
+          id: nm0751102
+          name: David O. Russell
+        tt1695405:
+          id: nm0518123
+          name: Julia Loktev
+        tt1748122:
+          id: nm0027572
+          name: Wes Anderson
+        tt2011953:
+          id: nm0755158
+          name: Ira Sachs
+        tt2125435:
+          id: nm1022455
+          name: Benh Zeitlin
+      winner:
+      - tt1045658
+    best documentary:
+      nominee:
+      - tt1618399
+      - tt2073029
+      - tt2124803
+      - tt2380247
+      winner:
+      - tt2120152
+    best feature:
+      nominee:
+      - tt1704573
+      - tt1748122
+      - tt2011953
+      - tt2125435
+      winner:
+      - tt1045658
+    best female lead:
+      nominee:
+      - tt1211890
+      - tt1677082
+      - tt2063781
+      - tt2125435
+      persons:
+        tt1045658:
+          id: nm2225369
+          name: Jennifer Lawrence
+        tt1211890:
+          id: nm1538675
+          name: Emayatzy Corinealdi
+        tt1677082:
+          id: nm0004802
+          name: Linda Cardellini
+        tt2063781:
+          id: nm0935541
+          name: Mary Elizabeth Winstead
+        tt2125435:
+          id: nm4832920
+          name: Quvenzhané Wallis
+      winner:
+      - tt1045658
+    best first feature:
+      nominee:
+      - tt1748207
+      - tt1862079
+      - tt2139919
+      - tt2219514
+      winner:
+      - tt1659337
+    best first screenplay:
+      nominee:
+      - tt1405365
+      - tt1990314
+      - tt2106739
+      - tt2219514
+      winner:
+      - tt1862079
+    best international film:
+      nominee:
+      - tt1820488
+      - tt1827487
+      - tt2053425
+      - tt2062969
+      winner:
+      - tt1602620
+    best male lead:
+      nominee:
+      - tt0980999
+      - tt1045658
+      - tt1704573
+      - tt1726669
+      - tt2011953
+      persons:
+        tt0980999:
+          id: nm0682495
+          name: Wendell Pierce
+        tt1045658:
+          id: nm0177896
+          name: Bradley Cooper
+        tt1704573:
+          id: nm0085312
+          name: Jack Black
+        tt1726669:
+          id: nm0000190
+          name: Matthew McConaughey
+        tt1866249:
+          id: nm0370035
+          name: John Hawkes
+        tt2011953:
+          id: nm0511892
+          name: Thure Lindhardt
+      winner:
+      - tt1866249
+    best screenplay:
+      nominee:
+      - tt1748122
+      - tt1839492
+      - tt1931533
+      - tt2011953
+      winner:
+      - tt1045658
+    best supporting female:
+      nominee:
+      - tt1211890
+      - tt1742336
+      - tt1748207
+      - tt1971352
+      persons:
+        tt1211890:
+          id: nm0005501
+          name: Lorraine Toussaint
+        tt1742336:
+          id: nm1679669
+          name: Rosemarie DeWitt
+        tt1748207:
+          id: nm1779870
+          name: Brit Marling
+        tt1866249:
+          id: nm0000166
+          name: Helen Hunt
+        tt1971352:
+          id: nm0235652
+          name: Ann Dowd
+      winner:
+      - tt1866249
+    best supporting male:
+      nominee:
+      - tt1211890
+      - tt1748122
+      - tt1855199
+      - tt1931533
+      persons:
+        tt1211890:
+          id: nm0654648
+          name: David Oyelowo
+        tt1748122:
+          id: nm0000246
+          name: Bruce Willis
+        tt1855199:
+          id: nm0671567
+          name: Michael Peña
+        tt1915581:
+          id: nm0000190
+          name: Matthew McConaughey
+        tt1931533:
+          id: nm0005377
+          name: Sam Rockwell
+      winner:
+      - tt1915581
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt1734548
+      - tt1978480
+      - tt2035630
+      - tt2062497
+      winner:
+      - tt1211890
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt2035630
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt2072198
+      - tt2139843
+      winner:
+      - tt2139919
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt2085888
+      - tt2332522
+      winner:
+      - tt1618399
+'2014':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt2007360
+      - tt2017038
+      - tt2042568
+      - tt2101441
+      winner:
+      - tt2024544
+    best director:
+      nominee:
+      - tt1821549
+      - tt1935179
+      - tt2017038
+      - tt2084989
+      persons:
+        tt1821549:
+          id: nm0668247
+          name: Alexander Payne
+        tt1935179:
+          id: nm2158772
+          name: Jeff Nichols
+        tt2017038:
+          id: nm1170855
+          name: J.C. Chandor
+        tt2024544:
+          id: nm2588606
+          name: Steve McQueen
+        tt2084989:
+          id: nm1503403
+          name: Shane Carruth
+      winner:
+      - tt2024544
+    best documentary:
+      nominee:
+      - tt2179053
+      - tt2375605
+      - tt2430104
+      - tt2486682
+      winner:
+      - tt2396566
+    best editing:
+      nominee:
+      - tt2084989
+      - tt2184331
+      - tt2268732
+      - tt2347569
+      winner:
+      - tt2370248
+    best feature:
+      nominee:
+      - tt1821549
+      - tt2017038
+      - tt2042568
+      - tt2347569
+      winner:
+      - tt2024544
+    best female lead:
+      nominee:
+      - tt1714206
+      - tt2209418
+      - tt2332579
+      - tt2370248
+      persons:
+        tt1714206:
+          id: nm0940362
+          name: Shailene Woodley
+        tt2209418:
+          id: nm0000365
+          name: Julie Delpy
+        tt2332579:
+          id: nm0000451
+          name: Gaby Hoffmann
+        tt2334873:
+          id: nm0000949
+          name: Cate Blanchett
+        tt2370248:
+          id: nm0488953
+          name: Brie Larson
+      winner:
+      - tt2334873
+    best first feature:
+      nominee:
+      - tt2027064
+      - tt2184331
+      - tt2258858
+      - tt2296697
+      winner:
+      - tt2334649
+    best first screenplay:
+      nominee:
+      - tt2113075
+      - tt2229499
+      - tt2294677
+      - tt2312890
+      winner:
+      - tt1821549
+    best international film:
+      nominee:
+      - tt2106476
+      - tt2358891
+      - tt2425486
+      - tt2852400
+      winner:
+      - tt2278871
+    best male lead:
+      nominee:
+      - tt1821549
+      - tt2017038
+      - tt2024544
+      - tt2042568
+      - tt2334649
+      persons:
+        tt0790636:
+          id: nm0000190
+          name: Matthew McConaughey
+        tt1821549:
+          id: nm0001136
+          name: Bruce Dern
+        tt2017038:
+          id: nm0000602
+          name: Robert Redford
+        tt2024544:
+          id: nm0252230
+          name: Chiwetel Ejiofor
+        tt2042568:
+          id: nm1209966
+          name: Oscar Isaac
+        tt2334649:
+          id: nm0430107
+          name: Michael B. Jordan
+      winner:
+      - tt0790636
+    best screenplay:
+      nominee:
+      - tt1714206
+      - tt2209418
+      - tt2334873
+      - tt2390361
+      winner:
+      - tt2024544
+    best supporting female:
+      nominee:
+      - tt1821549
+      - tt2247432
+      - tt2334649
+      - tt2334873
+      persons:
+        tt1821549:
+          id: nm0820053
+          name: June Squibb
+        tt2024544:
+          id: nm2143282
+          name: Lupita Nyong'o
+        tt2247432:
+          id: nm0743931
+          name: Yolonda Ross
+        tt2334649:
+          id: nm0246686
+          name: Melonie Diaz
+        tt2334873:
+          id: nm1020089
+          name: Sally Hawkins
+      winner:
+      - tt2024544
+    best supporting male:
+      nominee:
+      - tt1821549
+      - tt2024544
+      - tt2370248
+      - tt2390361
+      persons:
+        tt0790636:
+          id: nm0001467
+          name: Jared Leto
+        tt1821549:
+          id: nm0287182
+          name: Will Forte
+        tt2024544:
+          id: nm1055413
+          name: Michael Fassbender
+        tt2370248:
+          id: nm3147751
+          name: LaKeith Stanfield
+        tt2390361:
+          id: nm0001254
+          name: James Gandolfini
+      winner:
+      - tt0790636
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt2007360
+      - tt2268732
+      - tt2332579
+      - tt2397531
+      winner:
+      - tt1798291
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt1935179
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt2430040
+      - tt2971990
+      winner:
+      - tt2217936
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt2442644
+      - tt3103326
+      winner:
+      - tt2119463
+'2015':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt1020072
+      - tt1951181
+      - tt2326554
+      - tt2328922
+      winner:
+      - tt2562232
+    best director:
+      nominee:
+      - tt1020072
+      - tt2562232
+      - tt2582802
+      - tt3263614
+      persons:
+        tt1020072:
+          id: nm1148550
+          name: Ava DuVernay
+        tt1065073:
+          id: nm0000500
+          name: Richard Linklater
+        tt2562232:
+          id: nm0327944
+          name: Alejandro G. Iñárritu
+        tt2582802:
+          id: nm3227090
+          name: Damien Chazelle
+        tt3263614:
+          id: nm0954655
+          name: David Zellner
+      winner:
+      - tt1065073
+    best documentary:
+      nominee:
+      - tt2920540
+      - tt3263430
+      - tt3455224
+      - tt3674140
+      winner:
+      - tt4044364
+    best editing:
+      nominee:
+      - tt1065073
+      - tt2872718
+      - tt2937898
+      - tt2980592
+      winner:
+      - tt2582802
+    best feature:
+      nominee:
+      - tt1020072
+      - tt1065073
+      - tt2582802
+      - tt2639344
+      winner:
+      - tt2562232
+    best female lead:
+      nominee:
+      - tt1714915
+      - tt1951181
+      - tt2910274
+      - tt3263614
+      persons:
+        tt1714915:
+          id: nm0842770
+          name: Tilda Swinton
+        tt1951181:
+          id: nm0182839
+          name: Marion Cotillard
+        tt2910274:
+          id: nm2809577
+          name: Jenny Slate
+        tt3263614:
+          id: nm0452860
+          name: Rinko Kikuchi
+        tt3316960:
+          id: nm0000194
+          name: Julianne Moore
+      winner:
+      - tt3316960
+    best first feature:
+      nominee:
+      - tt2235108
+      - tt2326554
+      - tt2910274
+      - tt3130776
+      winner:
+      - tt2872718
+    best first screenplay:
+      nominee:
+      - tt2756032
+      - tt3077108
+      - tt3125220
+      - tt3130776
+      winner:
+      - tt2235108
+    best international film:
+      nominee:
+      - tt1441395
+      - tt2121382
+      - tt2802154
+      - tt2852432
+      - tt3612616
+      winner:
+      - tt2718492
+    best male lead:
+      nominee:
+      - tt1020072
+      - tt2402085
+      - tt2639344
+      - tt2872718
+      persons:
+        tt1020072:
+          id: nm0654648
+          name: David Oyelowo
+        tt2402085:
+          id: nm0071275
+          name: André 3000
+        tt2562232:
+          id: nm0000474
+          name: Michael Keaton
+        tt2639344:
+          id: nm0001475
+          name: John Lithgow
+        tt2872718:
+          id: nm0350453
+          name: Jake Gyllenhaal
+      winner:
+      - tt2562232
+    best screenplay:
+      nominee:
+      - tt1126590
+      - tt1714915
+      - tt2639344
+      - tt2937898
+      winner:
+      - tt2872718
+    best supporting female:
+      nominee:
+      - tt1020072
+      - tt2405372
+      - tt2562232
+      - tt2937898
+      persons:
+        tt1020072:
+          id: nm0252238
+          name: Carmen Ejogo
+        tt1065073:
+          id: nm0000099
+          name: Patricia Arquette
+        tt2405372:
+          id: nm5640683
+          name: Andrea Suarez Paz
+        tt2562232:
+          id: nm1297015
+          name: Emma Stone
+        tt2937898:
+          id: nm1567113
+          name: Jessica Chastain
+      winner:
+      - tt1065073
+    best supporting male:
+      nominee:
+      - tt1065073
+      - tt2562232
+      - tt2639344
+      - tt2872718
+      persons:
+        tt1065073:
+          id: nm0000160
+          name: Ethan Hawke
+        tt2562232:
+          id: nm0001570
+          name: Edward Norton
+        tt2582802:
+          id: nm0799777
+          name: J.K. Simmons
+        tt2639344:
+          id: nm0000547
+          name: Alfred Molina
+        tt2872718:
+          id: nm1981893
+          name: Riz Ahmed
+      winner:
+      - tt2582802
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt2287170
+      - tt2328922
+      - tt2359024
+      - tt2407380
+      winner:
+      - tt3283556
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt1791528
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt2326554
+      - tt2635006
+      winner:
+      - tt3666210
+  special distinction award:
+    special distinction award:
+      winner:
+      - tt1100089
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt1096999
+      - tt2379679
+      - tt3593932
+      winner:
+      - tt2732932
+'2016':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt1365050
+      - tt3235888
+      - tt3529656
+      - tt3566788
+      persons:
+        tt1365050:
+          id: nm1560977
+          name: Cary Joji Fukunaga
+        tt2402927:
+          id: nm0005767
+          name: Edward Lachman
+        tt3235888:
+          id: nm1227638
+          name: Mike Gioulakis
+        tt3529656:
+          id: nm1543747
+          name: Reed Morano
+        tt3566788:
+          id: nm4452305
+          name: Joshua James Richards
+      winner:
+      - tt2402927
+    best director:
+      nominee:
+      - tt1365050
+      - tt2401878
+      - tt2402927
+      - tt3235888
+      - tt3824458
+      persons:
+        tt1365050:
+          id: nm1560977
+          name: Cary Joji Fukunaga
+        tt1895587:
+          id: nm0565336
+          name: Tom McCarthy
+        tt2401878:
+          id: nm0442109
+          name: Charlie Kaufman
+        tt2402927:
+          id: nm0001331
+          name: Todd Haynes
+        tt3235888:
+          id: nm1379002
+          name: David Robert Mitchell
+        tt3824458:
+          id: nm0048918
+          name: Sean Baker
+      winner:
+      - tt1895587
+    best documentary:
+      nominee:
+      - tt2545428
+      - tt3518012
+      - tt4082596
+      - tt4370922
+      - tt4935446
+      winner:
+      - tt3521134
+    best editing:
+      nominee:
+      - tt3062414
+      - tt3170832
+      - tt3235888
+      - tt3687186
+      winner:
+      - tt1895587
+    best feature:
+      nominee:
+      - tt1365050
+      - tt2401878
+      - tt2402927
+      - tt3824458
+      winner:
+      - tt1895587
+    best female lead:
+      nominee:
+      - tt2402927
+      - tt3172532
+      - tt3824458
+      persons:
+        tt2402927:
+          id: nm0000949
+          name: Cate Blanchett
+        tt3170832:
+          id: nm0488953
+          name: Brie Larson
+        tt3172532:
+          id: nm2525790
+          name: Bel Powley
+        tt3824458:
+          id: nm6702770
+          name: Kitana Kiki Rodriguez
+      winner:
+      - tt3170832
+    best first feature:
+      nominee:
+      - tt3062414
+      - tt3486542
+      - tt3566788
+      - tt4288636
+      winner:
+      - tt3172532
+    best first screenplay:
+      nominee:
+      - tt2582496
+      - tt3172532
+      - tt3271120
+      - tt3486542
+      winner:
+      - tt3170832
+    best international film:
+      nominee:
+      - tt1883180
+      - tt3655522
+      - tt3966404
+      - tt4285496
+      winner:
+      - tt3808342
+    best male lead:
+      nominee:
+      - tt2349144
+      - tt3416744
+      - tt3486542
+      - tt4288636
+      persons:
+        tt1365050:
+          id: nm6781688
+          name: Abraham Attah
+        tt2349144:
+          id: nm0578853
+          name: Ben Mendelsohn
+        tt3416744:
+          id: nm0781981
+          name: Jason Segel
+        tt3486542:
+          id: nm4626311
+          name: Koudous Seihon
+        tt4288636:
+          id: nm3571592
+          name: Christopher Abbott
+      winner:
+      - tt1365050
+    best screenplay:
+      nominee:
+      - tt2401878
+      - tt2402927
+      - tt2494362
+      - tt3416744
+      persons:
+        tt1895587:
+          id: nm0565336
+          name: Tom McCarthy
+        tt2401878:
+          id: nm0442109
+          name: Charlie Kaufman
+        tt2402927:
+          id: nm0619507
+          name: Phyllis Nagy
+        tt2494362:
+          id: nm0951975
+          name: S. Craig Zahler
+        tt3416744:
+          id: nm0546869
+          name: Donald Margulies
+      winner:
+      - tt1895587
+    best supporting female:
+      nominee:
+      - tt1714843
+      - tt2401878
+      - tt3666210
+      - tt4288636
+      persons:
+        tt1714843:
+          id: nm1677477
+          name: Marin Ireland
+        tt2401878:
+          id: nm0000492
+          name: Jennifer Jason Leigh
+        tt3666210:
+          id: nm0000862
+          name: Robin Bartlett
+        tt3824458:
+          id: nm4924757
+          name: Mya Taylor
+        tt4288636:
+          id: nm0633223
+          name: Cynthia Nixon
+      winner:
+      - tt3824458
+    best supporting male:
+      nominee:
+      - tt0903657
+      - tt2494362
+      - tt2891174
+      - tt3824412
+      persons:
+        tt0903657:
+          id: nm0200452
+          name: Paul Dano
+        tt1365050:
+          id: nm0252961
+          name: Idris Elba
+        tt2494362:
+          id: nm0420955
+          name: Richard Jenkins
+        tt2891174:
+          id: nm0788335
+          name: Michael Shannon
+        tt3824412:
+          id: nm0180984
+          name: Kevin Corrigan
+      winner:
+      - tt1365050
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt3090670
+      - tt3687186
+      - tt3894188
+      - tt3922764
+      winner:
+      - tt4266638
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt1895587
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt2946762
+      - tt3566788
+      winner:
+      - tt3863484
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt4078814
+      - tt4504626
+      winner:
+      - tt3246600
+'2017':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt2815902
+      - tt3510304
+      - tt3721936
+      - tt5225338
+      persons:
+        tt2815902:
+          id: nm0187018
+          name: Lol Crawley
+        tt3510304:
+          id: nm2610382
+          name: Ava Berkofsky
+        tt3721936:
+          id: nm0752811
+          name: Robbie Ryan
+        tt4975722:
+          id: nm0493439
+          name: James Laxton
+        tt5225338:
+          id: nm2779028
+          name: Zach Kuperstein
+      winner:
+      - tt4975722
+    best director:
+      nominee:
+      - tt1619029
+      - tt3721936
+      - tt4468634
+      - tt4669986
+      persons:
+        tt1619029:
+          id: nm1883257
+          name: Pablo Larraín
+        tt3721936:
+          id: nm0036349
+          name: Andrea Arnold
+        tt4468634:
+          id: nm0716980
+          name: Kelly Reichardt
+        tt4669986:
+          id: nm2158772
+          name: Jeff Nichols
+        tt4975722:
+          id: nm1503575
+          name: Barry Jenkins
+      winner:
+      - tt4975722
+    best documentary:
+      nominee:
+      - tt5278928
+      - tt5375040
+      - tt5804038
+      - tt5895028
+      winner:
+      - tt5275892
+    best editing:
+      nominee:
+      - tt1619029
+      - tt2582782
+      - tt4034228
+      - tt4034354
+      winner:
+      - tt4975722
+    best feature:
+      nominee:
+      - tt1619029
+      - tt3721936
+      - tt3850496
+      - tt4034228
+      winner:
+      - tt4975722
+    best female lead:
+      nominee:
+      - tt1619029
+      - tt3721936
+      - tt4385888
+      - tt4669986
+      persons:
+        tt1619029:
+          id: nm0000204
+          name: Natalie Portman
+        tt3716530:
+          id: nm0001376
+          name: Isabelle Huppert
+        tt3721936:
+          id: nm7603745
+          name: Sasha Lane
+        tt4385888:
+          id: nm0000906
+          name: Annette Bening
+        tt4669986:
+          id: nm1550948
+          name: Ruth Negga
+      winner:
+      - tt3716530
+    best first feature:
+      nominee:
+      - tt2815902
+      - tt4034354
+      - tt4158876
+      - tt4238858
+      winner:
+      - tt4263482
+    best first screenplay:
+      nominee:
+      - tt4158876
+      - tt4666726
+      - tt4938050
+      - tt5477566
+      winner:
+      - tt4263482
+    best international film:
+      nominee:
+      - tt3526706
+      - tt4048050
+      - tt4273292
+      - tt5221584
+      winner:
+      - tt4048272
+    best male lead:
+      nominee:
+      - tt3510304
+      - tt3553976
+      - tt3850496
+      - tt4158876
+      persons:
+        tt3510304:
+          id: nm0362873
+          name: David Harewood
+        tt3553976:
+          id: nm0001557
+          name: Viggo Mortensen
+        tt3850496:
+          id: nm0000619
+          name: Tim Roth
+        tt4034228:
+          id: nm0000729
+          name: Casey Affleck
+        tt4158876:
+          id: nm0687146
+          name: Jesse Plemons
+      winner:
+      - tt4034228
+    best screenplay:
+      nominee:
+      - tt2582782
+      - tt4034228
+      - tt4385888
+      - tt4919484
+      winner:
+      - tt4975722
+    best supporting female:
+      nominee:
+      - tt3510304
+      - tt3721936
+      - tt4468634
+      - tt4919484
+      persons:
+        tt3510304:
+          id: nm1731401
+          name: Edwina Findley
+        tt3721936:
+          id: nm2142336
+          name: Riley Keough
+        tt4158876:
+          id: nm0788340
+          name: Molly Shannon
+        tt4468634:
+          id: nm4291409
+          name: Lily Gladstone
+        tt4919484:
+          id: nm1257208
+          name: Paulina García
+      winner:
+      - tt4158876
+    best supporting male:
+      nominee:
+      - tt2056771
+      - tt3652862
+      - tt3721936
+      - tt4034228
+      persons:
+        tt2056771:
+          id: nm0000146
+          name: Ralph Fiennes
+        tt2582782:
+          id: nm0004936
+          name: Ben Foster
+        tt3652862:
+          id: nm0732497
+          name: Craig Robinson
+        tt3721936:
+          id: nm0479471
+          name: Shia LaBeouf
+        tt4034228:
+          id: nm2348627
+          name: Lucas Hedges
+      winner:
+      - tt2582782
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt3510304
+      - tt3717316
+      - tt4210112
+      - tt4305148
+      winner:
+      - tt5254640
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt4975722
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt3503460
+      - tt3973012
+      - tt5254640
+      winner:
+      - tt4238858
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt5278598
+      - tt5737938
+      winner:
+      - tt4079902
+'2018':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt5715874
+      - tt5990474
+      - tt6217608
+      - tt6303866
+      winner:
+      - tt5726616
+    best director:
+      nominee:
+      - tt4846232
+      - tt5649144
+      - tt5726616
+      - tt6217608
+      - tt6802896
+      persons:
+        tt4846232:
+          id: nm1509478
+          name: Benny Safdie
+        tt5052448:
+          id: nm1443502
+          name: Jordan Peele
+        tt5649144:
+          id: nm0048918
+          name: Sean Baker
+        tt5726616:
+          id: nm0345174
+          name: Luca Guadagnino
+        tt6217608:
+          id: nm2125482
+          name: Chloé Zhao
+        tt6802896:
+          id: nm3476432
+          name: Jonas Carpignano
+      winner:
+      - tt5052448
+    best documentary:
+      nominee:
+      - tt6149818
+      - tt6333074
+      - tt6333078
+      - tt6509432
+      winner:
+      - tt5598102
+    best editing:
+      nominee:
+      - tt4846232
+      - tt5052448
+      - tt5726616
+      - tt6217608
+      winner:
+      - tt5580036
+    best feature:
+      nominee:
+      - tt4925292
+      - tt5649144
+      - tt5726616
+      - tt6217608
+      winner:
+      - tt5052448
+    best female lead:
+      nominee:
+      - tt4925292
+      - tt5580036
+      - tt5891122
+      - tt5929750
+      - tt6343058
+      persons:
+        tt4925292:
+          id: nm1519680
+          name: Saoirse Ronan
+        tt5027774:
+          id: nm0000531
+          name: Frances McDormand
+        tt5580036:
+          id: nm3053338
+          name: Margot Robbie
+        tt5891122:
+          id: nm9207314
+          name: Regina Williams
+        tt5929750:
+          id: nm0000161
+          name: Salma Hayek
+        tt6343058:
+          id: nm0855429
+          name: Shinobu Terajima
+      winner:
+      - tt5027774
+    best first feature:
+      nominee:
+      - tt5990474
+      - tt6288250
+      - tt6333086
+      - tt6343058
+      winner:
+      - tt5962210
+    best first screenplay:
+      nominee:
+      - tt3973012
+      - tt4442604
+      - tt5962210
+      - tt5990474
+      winner:
+      - tt5462602
+    best international film:
+      nominee:
+      - tt4291600
+      - tt6135348
+      - tt6213284
+      - tt6304162
+      winner:
+      - tt5639354
+    best male lead:
+      nominee:
+      - tt3521126
+      - tt4846232
+      - tt5052448
+      - tt6303866
+      persons:
+        tt3521126:
+          id: nm0290556
+          name: James Franco
+        tt4846232:
+          id: nm1500155
+          name: Robert Pattinson
+        tt5052448:
+          id: nm2257207
+          name: Daniel Kaluuya
+        tt5726616:
+          id: nm3154303
+          name: Timothée Chalamet
+        tt6303866:
+          id: nm6170168
+          name: Harris Dickinson
+      winner:
+      - tt5726616
+    best screenplay:
+      nominee:
+      - tt5027774
+      - tt5052448
+      - tt5770620
+      - tt5929750
+      winner:
+      - tt4925292
+    best supporting female:
+      nominee:
+      - tt4846232
+      - tt4925292
+      - tt4978710
+      - tt5462602
+      persons:
+        tt4846232:
+          id: nm8982419
+          name: Taliah Webster
+        tt4925292:
+          id: nm0582418
+          name: Laurie Metcalf
+        tt4978710:
+          id: nm0809135
+          name: Lois Smith
+        tt5462602:
+          id: nm0000456
+          name: Holly Hunter
+        tt5580036:
+          id: nm0005049
+          name: Allison Janney
+      winner:
+      - tt5580036
+    best supporting male:
+      nominee:
+      - tt3268340
+      - tt4846232
+      - tt5715874
+      - tt5726616
+      persons:
+        tt3268340:
+          id: nm3060479
+          name: Nnamdi Asomugha
+        tt4846232:
+          id: nm1509478
+          name: Benny Safdie
+        tt5027774:
+          id: nm0005377
+          name: Sam Rockwell
+        tt5715874:
+          id: nm4422686
+          name: Barry Keoghan
+        tt5726616:
+          id: nm2309517
+          name: Armie Hammer
+      winner:
+      - tt5027774
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt4866448
+      - tt5039088
+      - tt6265828
+      - tt6266218
+      winner:
+      - tt5891122
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt2396589
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt5112578
+      - tt6266218
+      persons:
+        tt5112578:
+          id: nm2023590
+          name: Kevin Phillips
+        tt6057032:
+          id: nm2014390
+          name: Justin Chon
+        tt6266218:
+          id: nm3500450
+          name: Amman Abbasi
+      winner:
+      - tt6057032
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt6436888
+      - tt7020700
+      persons:
+        tt6149818:
+          id: nm4046336
+          name: Jonathan Olshefski
+        tt6436888:
+          id: nm1466538
+          name: Jeff Unay
+        tt7020700:
+          id: nm3159896
+          name: Shevaun Mizrahi
+      winner:
+      - tt6149818
+'2019':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt5929754
+      - tt6101602
+      - tt6998518
+      - tt7681824
+      winner:
+      - tt1034415
+    best director:
+      nominee:
+      - tt3892172
+      - tt5536610
+      - tt5742374
+      - tt6053438
+      persons:
+        tt3892172:
+          id: nm0335138
+          name: Debra Granik
+        tt5536610:
+          id: nm0420982
+          name: Tamara Jenkins
+        tt5742374:
+          id: nm0708903
+          name: Lynne Ramsay
+        tt6053438:
+          id: nm0001707
+          name: Paul Schrader
+        tt7125860:
+          id: nm1503575
+          name: Barry Jenkins
+      winner:
+      - tt7125860
+    best documentary:
+      nominee:
+      - tt6634646
+      - tt7472352
+      - tt7476236
+      - tt7519174
+      - tt7689484
+      winner:
+      - tt7681902
+    best editing:
+      nominee:
+      - tt4015500
+      - tt5613484
+      - tt6212478
+      - tt7681824
+      winner:
+      - tt5742374
+    best feature:
+      nominee:
+      - tt3892172
+      - tt5742374
+      - tt6053438
+      - tt7014006
+      winner:
+      - tt7125860
+    best female lead:
+      nominee:
+      - tt5929754
+      - tt6101602
+      - tt6859352
+      - tt7014006
+      - tt7784604
+      persons:
+        tt3750872:
+          id: nm0000335
+          name: Glenn Close
+        tt5929754:
+          id: nm1659547
+          name: Carey Mulligan
+        tt6101602:
+          id: nm8473220
+          name: Helena Howard
+        tt6859352:
+          id: nm0356021
+          name: Regina Hall
+        tt7014006:
+          id: nm3220568
+          name: Elsie Fisher
+        tt7784604:
+          id: nm0001057
+          name: Toni Collette
+      winner:
+      - tt3750872
+    best first feature:
+      nominee:
+      - tt4015500
+      - tt5929754
+      - tt7681824
+      - tt7784604
+      persons:
+        tt4015500:
+          id: nm2060706
+          name: Jennifer Fox
+        tt5688932:
+          id: nm1108556
+          name: Boots Riley
+        tt5929754:
+          id: nm0200452
+          name: Paul Dano
+        tt7681824:
+          id: nm1476102
+          name: Jeremiah Zagar
+        tt7784604:
+          id: nm4170048
+          name: Ari Aster
+      winner:
+      - tt5688932
+    best first screenplay:
+      nominee:
+      - tt4015500
+      - tt4607722
+      - tt5649108
+      - tt6509058
+      persons:
+        tt4015500:
+          id: nm2060706
+          name: Jennifer Fox
+        tt4607722:
+          id: nm0791723
+          name: Quinn Shephard
+        tt5649108:
+          id: nm8083973
+          name: Cory Finley
+        tt6509058:
+          id: nm1357921
+          name: Christina Choe
+        tt7014006:
+          id: nm3102998
+          name: Bo Burnham
+      winner:
+      - tt7014006
+    best international film:
+      nominee:
+      - tt5083738
+      - tt6752992
+      - tt7282468
+      - tt8075192
+      winner:
+      - tt6155172
+    best male lead:
+      nominee:
+      - tt5742374
+      - tt7242142
+      - tt7668870
+      - tt8026554
+      persons:
+        tt5742374:
+          id: nm0001618
+          name: Joaquin Phoenix
+        tt6053438:
+          id: nm0000160
+          name: Ethan Hawke
+        tt7242142:
+          id: nm4377526
+          name: Daveed Diggs
+        tt7668870:
+          id: nm0158626
+          name: John Cho
+        tt8026554:
+          id: nm9641595
+          name: Christian Malheiros
+      winner:
+      - tt6053438
+    best screenplay:
+      nominee:
+      - tt5437928
+      - tt5536610
+      - tt5688932
+      - tt6053438
+      winner:
+      - tt4595882
+    best supporting female:
+      nominee:
+      - tt3892172
+      - tt5536610
+      - tt6509058
+      - tt6884380
+      persons:
+        tt3892172:
+          id: nm5057169
+          name: Thomasin McKenzie
+        tt5536610:
+          id: nm7371202
+          name: Kayli Carter
+        tt6509058:
+          id: nm0810397
+          name: J. Smith-Cameron
+        tt6884380:
+          id: nm0002033
+          name: Tyne Daly
+        tt7125860:
+          id: nm0005093
+          name: Regina King
+      winner:
+      - tt7125860
+    best supporting male:
+      nominee:
+      - tt7014006
+      - tt7349662
+      - tt7681824
+      - tt7689906
+      persons:
+        tt4595882:
+          id: nm0001290
+          name: Richard E. Grant
+        tt7014006:
+          id: nm0357979
+          name: Josh Hamilton
+        tt7349662:
+          id: nm3485845
+          name: Adam Driver
+        tt7681824:
+          id: nm1950004
+          name: Raúl Castillo
+        tt7689906:
+          id: nm0913475
+          name: John David Washington
+      winner:
+      - tt4595882
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt6884380
+      - tt7690016
+      - tt7738450
+      - tt8026554
+      winner:
+      - tt6144092
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt1034415
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt6506276
+      - tt7681824
+      persons:
+        tt6506276:
+          id: nm2031842
+          name: Ioana Uricaru
+        tt7681824:
+          id: nm1476102
+          name: Jeremiah Zagar
+        tt8026554:
+          id: nm2910292
+          name: Alexandre Moratto
+      winner:
+      - tt8026554
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt6634646
+      - tt7689484
+      persons:
+        tt6634646:
+          id: nm8840476
+          name: RaMell Ross
+        tt7476236:
+          id: nm3294913
+          name: Bing Liu
+        tt7689484:
+          id: nm5221728
+          name: Alexandria Bombach
+      winner:
+      - tt7476236
+'2020':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt5503686
+      - tt7692966
+      - tt8151874
+      - tt8772262
+      persons:
+        tt5503686:
+          id: nm1862087
+          name: Todd Banhazl
+        tt7692966:
+          id: nm3575231
+          name: Chananun Chotrungroj
+        tt7984734:
+          id: nm1144916
+          name: Jarin Blaschke
+        tt8151874:
+          id: nm1161987
+          name: Natasha Braier
+        tt8772262:
+          id: nm1850507
+          name: Pawel Pogorzelski
+      winner:
+      - tt7984734
+    best director:
+      nominee:
+      - tt5503686
+      - tt7616148
+      - tt7984734
+      - tt8151874
+      persons:
+        tt5503686:
+          id: nm1032521
+          name: Lorene Scafaria
+        tt5727208:
+          id: nm1509478
+          name: Benny Safdie
+        tt7616148:
+          id: nm1564809
+          name: Julius Onah
+        tt7984734:
+          id: nm3211470
+          name: Robert Eggers
+        tt8151874:
+          id: nm2776774
+          name: Alma Har'el
+      winner:
+      - tt5727208
+    best documentary:
+      nominee:
+      - tt8106566
+      - tt8760684
+      - tt8991268
+      - tt9617456
+      winner:
+      - tt9351980
+    best editing:
+      nominee:
+      - tt4169146
+      - tt7692966
+      - tt7984734
+      - tt8484012
+      winner:
+      - tt5727208
+    best feature:
+      nominee:
+      - tt5577494
+      - tt5727208
+      - tt5827916
+      - tt7653254
+      winner:
+      - tt8637428
+    best female lead:
+      nominee:
+      - tt5577494
+      - tt6705860
+      - tt7942742
+      - tt9275046
+      - tt9318280
+      persons:
+        tt5577494:
+          id: nm0005569
+          name: Alfre Woodard
+        tt6705860:
+          id: nm0005316
+          name: Mary Kay Place
+        tt7549996:
+          id: nm0000250
+          name: Renée Zellweger
+        tt7942742:
+          id: nm0005253
+          name: Elisabeth Moss
+        tt9275046:
+          id: nm0000261
+          name: Karen Allen
+        tt9318280:
+          id: nm2186865
+          name: Hong Chau
+      winner:
+      - tt7549996
+    best first feature:
+      nominee:
+      - tt4353250
+      - tt5952594
+      - tt6705860
+      - tt8637440
+      - tt8743064
+      winner:
+      - tt1489887
+    best first screenplay:
+      nominee:
+      - tt6803046
+      - tt7422822
+      - tt8299768
+      - tt9318280
+      winner:
+      - tt8743064
+    best international film:
+      nominee:
+      - tt10199590
+      - tt6390668
+      - tt6920356
+      - tt7761590
+      - tt8613070
+      winner:
+      - tt6751668
+    best male lead:
+      nominee:
+      - tt4169146
+      - tt5952594
+      - tt7616148
+      - tt7984734
+      persons:
+        tt4169146:
+          id: nm10288838
+          name: Chris Galust
+        tt5727208:
+          id: nm0001191
+          name: Adam Sandler
+        tt5952594:
+          id: nm0774386
+          name: Matthias Schoenaerts
+        tt7616148:
+          id: nm5123156
+          name: Kelvin Harrison Jr.
+        tt7984734:
+          id: nm1500155
+          name: Robert Pattinson
+      winner:
+      - tt5727208
+    best screenplay:
+      nominee:
+      - tt5577494
+      - tt5727208
+      - tt7117594
+      - tt8128188
+      winner:
+      - tt7653254
+    best supporting female:
+      nominee:
+      - tt4169146
+      - tt5503686
+      - tt7616148
+      - tt8652728
+      persons:
+        tt4169146:
+          id: nm10129349
+          name: Lauren 'Lolo' Spencer
+        tt5503686:
+          id: nm0000182
+          name: Jennifer Lopez
+        tt7616148:
+          id: nm0818055
+          name: Octavia Spencer
+        tt8637428:
+          id: nm10289762
+          name: Shuzhen Zhao
+        tt8652728:
+          id: nm5347988
+          name: Taylor Russell
+      winner:
+      - tt8637428
+    best supporting male:
+      nominee:
+      - tt4353250
+      - tt7358154
+      - tt8151874
+      persons:
+        tt4353250:
+          id: nm3718007
+          name: Jonathan Majors
+        tt7358154:
+          id: nm0682495
+          name: Wendell Pierce
+        tt7984734:
+          id: nm0000353
+          name: Willem Dafoe
+        tt8151874:
+          id: nm7415871
+          name: Noah Jupe
+      winner:
+      - tt7984734
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt5176580
+      - tt7358154
+      - tt9133378
+      - tt9275046
+      winner:
+      - tt4169146
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt7653254
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt4353250
+      - tt7692966
+      persons:
+        tt4353250:
+          id: nm7050300
+          name: Joe Talbot
+        tt7692966:
+          id: nm4451190
+          name: Ash Mayfair
+        tt9133378:
+          id: nm2165614
+          name: Rashaad Ernesto Green
+      winner:
+      - tt9133378
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt10011226
+      - tt8099132
+      - tt8119782
+      persons:
+        tt10011226:
+          id: nm1736326
+          name: Davy Rothbart
+        tt7476788:
+          id: nm1446291
+          name: Nadia Shihab
+        tt8099132:
+          id: nm2671965
+          name: Khalik Allah
+        tt8119782:
+          id: nm3560619
+          name: Erick Stoll
+      winner:
+      - tt7476788
+'2021':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt10008784
+      - tt11614912
+      - tt7772582
+      - tt9000224
+      winner:
+      - tt9770150
+    best director:
+      nominee:
+      - tt10633456
+      - tt7772582
+      - tt9231040
+      - tt9620292
+      persons:
+        tt10633456:
+          id: nm1818032
+          name: Lee Isaac Chung
+        tt7772582:
+          id: nm2151374
+          name: Eliza Hittman
+        tt9231040:
+          id: nm0716980
+          name: Kelly Reichardt
+        tt9620292:
+          id: nm2193504
+          name: Emerald Fennell
+        tt9770150:
+          id: nm2125482
+          name: Chloé Zhao
+      winner:
+      - tt9770150
+    best documentary:
+      nominee:
+      - tt10706602
+      - tt11394180
+      - tt11394298
+      - tt11416746
+      winner:
+      - tt8923484
+    best editing:
+      nominee:
+      - tt1051906
+      - tt11388990
+      - tt11568878
+      - tt7772582
+      winner:
+      - tt9770150
+    best ensemble cast in a new scripted series:
+      winner:
+      - tt11204260
+    best feature:
+      nominee:
+      - tt10514222
+      - tt10633456
+      - tt7772582
+      - tt9231040
+      winner:
+      - tt9770150
+    best female lead:
+      nominee:
+      - tt10514222
+      - tt11394158
+      - tt7772582
+      - tt9000224
+      - tt9770150
+      persons:
+        tt10514222:
+          id: nm0205626
+          name: Viola Davis
+        tt11394158:
+          id: nm2718512
+          name: Nicole Beharie
+        tt7772582:
+          id: nm10620978
+          name: Sidney Flanigan
+        tt9000224:
+          id: nm3400186
+          name: Julia Garner
+        tt9620292:
+          id: nm1659547
+          name: Carey Mulligan
+        tt9770150:
+          id: nm0000531
+          name: Frances McDormand
+      winner:
+      - tt9620292
+    best female performance in a new scripted series:
+      nominee:
+      - tt10062292
+      - tt10417836
+      - tt2235759
+      - tt9848536
+      winner:
+      - tt9815454
+    best first feature:
+      nominee:
+      - tt10451852
+      - tt10642834
+      - tt11388990
+      - tt11394158
+      winner:
+      - tt5363618
+    best first screenplay:
+      nominee:
+      - tt11394158
+      - tt11540272
+      - tt8855960
+      - tt9000224
+      winner:
+      - tt9484998
+    best international film:
+      nominee:
+      - tt11423784
+      - tt12564514
+      - tt2762506
+      - tt8132778
+      winner:
+      - tt8633462
+    best male lead:
+      nominee:
+      - tt10008784
+      - tt10514222
+      - tt10633456
+      - tt6571548
+      persons:
+        tt10008784:
+          id: nm1726032
+          name: Rob Morgan
+        tt10514222:
+          id: nm1569276
+          name: Chadwick Boseman
+        tt10633456:
+          id: nm3081796
+          name: Steven Yeun
+        tt5363618:
+          id: nm1981893
+          name: Riz Ahmed
+        tt6571548:
+          id: nm3841091
+          name: Adarsh Gourav
+      winner:
+      - tt5363618
+    best male performance in a new scripted series:
+      nominee:
+      - tt8000674
+      - tt8332438
+      - tt9340526
+      winner:
+      - tt9815454
+    best new non-scripted or documentary series:
+      nominee:
+      - tt10720030
+      - tt11285856
+      - tt11457812
+      - tt11469904
+      winner:
+      - tt12754910
+    best new scripted series:
+      nominee:
+      - tt10680614
+      - tt3464896
+      - tt8000674
+      - tt9815454
+      winner:
+      - tt11204260
+    best screenplay:
+      nominee:
+      - tt10633456
+      - tt7772582
+      - tt8206668
+      - tt9683478
+      winner:
+      - tt9620292
+    best supporting female:
+      nominee:
+      - tt10279362
+      - tt10633456
+      - tt11394158
+      - tt7772582
+      persons:
+        tt10279362:
+          id: nm0536723
+          name: Valerie Mahaffey
+        tt10633456:
+          id: nm0950926
+          name: Youn Yuh-jung
+        tt11394158:
+          id: nm11181322
+          name: Alexis Chikaeze
+        tt7772582:
+          id: nm7867621
+          name: Talia Ryder
+      winner:
+      - tt10633456
+    best supporting male:
+      nominee:
+      - tt10451852
+      - tt10514222
+      - tt9231040
+      persons:
+        tt10451852:
+          id: nm0938950
+          name: Benedict Wong
+        tt10514222:
+          id: nm0231458
+          name: Colman Domingo
+        tt5363618:
+          id: nm0705152
+          name: Paul Raci
+        tt9231040:
+          id: nm4093657
+          name: Orion Lee
+      winner:
+      - tt5363618
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt10313748
+      - tt10702148
+      - tt8943224
+      - tt9016016
+      winner:
+      - tt11568878
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt10612922
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt10008784
+      - tt8906722
+      winner:
+      - tt11380884
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt11905922
+      - tt12238708
+      winner:
+      - tt3547238
+'2022':
+  independent spirit award:
+    best cinematography:
+      nominee:
+      - tt10023286
+      - tt11121664
+      - tt14324296
+      - tt5439812
+      winner:
+      - tt8893974
+    best director:
+      nominee:
+      - tt10986222
+      - tt11131464
+      - tt5439812
+      - tt8550054
+      persons:
+        tt10986222:
+          id: nm0590122
+          name: Mike Mills
+        tt11131464:
+          id: nm4042990
+          name: Lauren Hadaway
+        tt5439812:
+          id: nm1891632
+          name: Janicza Bravo
+        tt8550054:
+          id: nm5679126
+          name: Ninja Thyberg
+        tt9100054:
+          id: nm0350454
+          name: Maggie Gyllenhaal
+      winner:
+      - tt9100054
+    best documentary:
+      nominee:
+      - tt13648230
+      - tt14300912
+      - tt14505430
+      - tt8430054
+      winner:
+      - tt7378922
+    best editing:
+      nominee:
+      - tt10441822
+      - tt11131464
+      - tt14324296
+      - tt8906722
+      winner:
+      - tt5439812
+    best ensemble cast in a new scripted series:
+      winner:
+      - tt13623580
+    best feature:
+      nominee:
+      - tt10986222
+      - tt11131464
+      - tt14324296
+      - tt5439812
+      winner:
+      - tt9100054
+    best female lead:
+      nominee:
+      - tt10121508
+      - tt11131464
+      - tt11285280
+      - tt11304504
+      winner:
+      - tt5439812
+    best female performance in a new scripted series:
+      nominee:
+      - tt10846104
+      - tt11058054
+      - tt11097374
+      - tt9064858
+      winner:
+      - tt6704972
+    best first feature:
+      nominee:
+      - tt10121508
+      - tt11433048
+      - tt3890456
+      - tt6763778
+      winner:
+      - tt14494586
+    best first screenplay:
+      nominee:
+      - tt10121508
+      - tt11389748
+      - tt11433048
+      - tt8998768
+      winner:
+      - tt11003218
+    best international film:
+      nominee:
+      - tt10262648
+      - tt10366574
+      - tt12618926
+      - tt13204490
+      - tt13710226
+      winner:
+      - tt14039582
+    best male lead:
+      nominee:
+      - tt10832274
+      - tt11433048
+      - tt13559026
+      - tt8906722
+      winner:
+      - tt13453006
+    best male performance in a new scripted series:
+      nominee:
+      - tt11058054
+      - tt13406094
+      - tt9064858
+      - tt9140342
+      winner:
+      - tt10919420
+    best new non-scripted or documentary series:
+      nominee:
+      - tt12837188
+      - tt13622188
+      - tt14535092
+      - tt5822740
+      winner:
+      - tt15781474
+    best new scripted series:
+      nominee:
+      - tt10846104
+      - tt11097374
+      - tt6704972
+      - tt9140342
+      winner:
+      - tt13623580
+    best screenplay:
+      nominee:
+      - tt10832274
+      - tt10986222
+      - tt11285280
+      - tt5439812
+      winner:
+      - tt9100054
+    best supporting female:
+      nominee:
+      - tt11131464
+      - tt13453006
+      - tt8550054
+      - tt9100054
+      winner:
+      - tt8893974
+    best supporting male:
+      nominee:
+      - tt11433048
+      - tt11685322
+      - tt3890456
+      - tt5439812
+      winner:
+      - tt10366460
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt11685322
+      - tt13559026
+      - tt13622118
+      - tt7384402
+      winner:
+      - tt11317142
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt11389748
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt11003218
+      - tt11469196
+      winner:
+      - tt11379584
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt10196480
+      - tt13648160
+      winner:
+      - tt13648216
+'2023':
+  independent spirit award:
+    best breakthrough performance:
+      nominee:
+      - tt15257116
+      - tt19770238
+      - tt8174412
+      - tt8434110
+      winner:
+      - tt6710474
+    best cinematography:
+      nominee:
+      - tt11873472
+      - tt18925334
+      - tt19770238
+      - tt8434110
+      persons:
+        tt11873472:
+          id: nm0961869
+          name: Anisia Uzeyman
+        tt14444726:
+          id: nm0389285
+          name: Florian Hoffmeister
+        tt18925334:
+          id: nm0734247
+          name: Eliot Rockett
+        tt19770238:
+          id: nm6026450
+          name: Gregory Oke
+        tt8434110:
+          id: nm0522173
+          name: Hélène Louvart
+      winner:
+      - tt14444726
+    best director:
+      nominee:
+      - tt13669038
+      - tt14444726
+      - tt8110652
+      - tt8633464
+      persons:
+        tt13669038:
+          id: nm0001631
+          name: Sarah Polley
+        tt14444726:
+          id: nm0276062
+          name: Todd Field
+        tt6710474:
+          id: nm3215397
+          name: Daniel Scheinert
+        tt8110652:
+          id: nm0717603
+          name: Halina Reijn
+        tt8633464:
+          id: nm3226379
+          name: Kogonada
+      winner:
+      - tt6710474
+    best documentary:
+      nominee:
+      - tt11398276
+      - tt11398388
+      - tt16377862
+      - tt16377920
+      winner:
+      - tt21374850
+    best editing:
+      nominee:
+      - tt13658076
+      - tt14444726
+      - tt15339456
+      - tt19770238
+      winner:
+      - tt6710474
+    best ensemble cast in a new scripted series:
+      winner:
+      - tt8888462
+    best feature:
+      nominee:
+      - tt10168670
+      - tt13669038
+      - tt13892558
+      - tt14444726
+      winner:
+      - tt6710474
+    best first feature:
+      nominee:
+      - tt13495458
+      - tt15255876
+      - tt15257116
+      - tt8434110
+      winner:
+      - tt19770238
+    best first screenplay:
+      nominee:
+      - tt13650600
+      - tt15218000
+      - tt15257116
+      - tt8110652
+      winner:
+      - tt15255876
+    best international film:
+      nominee:
+      - tt11992694
+      - tt15376894
+      - tt16377714
+      - tt19719836
+      winner:
+      - tt19719976
+    best lead performance:
+      nominee:
+      - tt10168670
+      - tt12655436
+      - tt12691830
+      - tt13495458
+      - tt14444726
+      - tt15255876
+      - tt18925334
+      - tt19770238
+      - tt8129806
+      persons:
+        tt10168670:
+          id: nm5347988
+          name: Taylor Russell
+        tt12655436:
+          id: nm0356021
+          name: Regina Hall
+        tt12691830:
+          id: nm0225460
+          name: Dale Dickey
+        tt13495458:
+          id: nm8937111
+          name: Jeremy Pope
+        tt14444726:
+          id: nm0000949
+          name: Cate Blanchett
+        tt15255876:
+          id: nm2201555
+          name: Aubrey Plaza
+        tt18925334:
+          id: nm5301405
+          name: Mia Goth
+        tt19770238:
+          id: nm8958770
+          name: Paul Mescal
+        tt6710474:
+          id: nm0000706
+          name: Michelle Yeoh
+        tt8129806:
+          id: nm2057859
+          name: Andrea Riseborough
+      winner:
+      - tt6710474
+    best lead performance in a new scripted series:
+      nominee:
+      - tt10574236
+      - tt11041332
+      - tt11212198
+      - tt11280740
+      - tt12530128
+      - tt12759100
+      - tt13847690
+      - tt15875168
+      - tt8681148
+      persons:
+        tt10574236:
+          id: nm2797744
+          name: Himesh Patel
+        tt11041332:
+          id: nm0001491
+          name: Melanie Lynskey
+        tt11212198:
+          id: nm3854199
+          name: KaMillion
+        tt11280740:
+          id: nm0004395
+          name: Adam Scott
+        tt12530128:
+          id: nm4119406
+          name: Sue Ann Pien
+        tt12759100:
+          id: nm3008608
+          name: Bridget Everett
+        tt13847690:
+          id: nm1543989
+          name: Aml Ameen
+        tt14218830:
+          id: nm6708435
+          name: Quinta Brunson
+        tt15875168:
+          id: nm3112453
+          name: Mohammed Amer
+        tt8681148:
+          id: nm0924210
+          name: Ben Whishaw
+      winner:
+      - tt14218830
+    best new non-scripted or documentary series:
+      nominee:
+      - tt16378210
+      - tt20782578
+      - tt20852952
+      - tt23022276
+      winner:
+      - tt10802170
+    best new scripted series:
+      nominee:
+      - tt10574236
+      - tt11280740
+      - tt13847690
+      - tt8888462
+      winner:
+      - tt14452776
+    best screenplay:
+      nominee:
+      - tt11727866
+      - tt13669038
+      - tt14444726
+      - tt8633464
+      winner:
+      - tt6710474
+    best supporting performance:
+      nominee:
+      - tt10168670
+      - tt10192406
+      - tt13495458
+      - tt13658076
+      - tt14444726
+      - tt15255876
+      - tt15257116
+      - tt21833464
+      - tt6710474
+      persons:
+        tt10168670:
+          id: nm0753314
+          name: Mark Rylance
+        tt10192406:
+          id: nm3109964
+          name: Brian Tyree Henry
+        tt13495458:
+          id: nm0005517
+          name: Gabrielle Union
+        tt13658076:
+          id: nm0195421
+          name: Brian d'Arcy James
+        tt14444726:
+          id: nm0396125
+          name: Nina Hoss
+        tt15255876:
+          id: nm0744331
+          name: Theo Rossi
+        tt15257116:
+          id: nm0006958
+          name: Jonathan Tucker
+        tt21833464:
+          id: nm5218990
+          name: Trevante Rhodes
+        tt6710474:
+          id: nm0702841
+          name: Ke Huy Quan
+      winner:
+      - tt6710474
+    best supporting performance in a new scripted series:
+      nominee:
+      - tt10574236
+      - tt11280740
+      - tt12759100
+      - tt14218830
+      - tt14440068
+      - tt14452776
+      - tt8226360
+      - tt9319706
+      persons:
+        tt10574236:
+          id: nm4314990
+          name: Danielle Deadwyler
+        tt11280740:
+          id: nm7436993
+          name: Tramell Tillman
+        tt12759100:
+          id: nm1865598
+          name: Jeff Hiller
+        tt14218830:
+          id: nm7101192
+          name: Janelle James
+        tt14440068:
+          id: nm7374445
+          name: Frankie Quinones
+        tt14452776:
+          id: nm8731249
+          name: Ayo Edebiri
+        tt8226360:
+          id: nm1944645
+          name: Gbemisola Ikumelo
+        tt9319706:
+          id: nm0788340
+          name: Molly Shannon
+      winner:
+      - tt14452776
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt12691830
+      - tt14895716
+      - tt17048276
+      - tt7172590
+      winner:
+      - tt13658076
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt13669038
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt12655436
+      - tt7172590
+      persons:
+        tt10931784:
+          id: nm2762302
+          name: Nikyatu Jusu
+        tt12655436:
+          id: nm8015244
+          name: Adamma Ebo
+        tt7172590:
+          id: nm3367488
+          name: Araceli Lemos
+      winner:
+      - tt10931784
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt14965578
+      - tt16378028
+      persons:
+        tt14965578:
+          id: nm12092127
+          name: Rebeca Huntt
+        tt16358560:
+          id: nm5619058
+          name: Reid Davenport
+        tt16378028:
+          id: nm6921821
+          name: Isabel Castro
+      winner:
+      - tt16358560
+'2024':
+  independent spirit award:
+    best breakthrough performance:
+      nominee:
+      - tt17527468
+      - tt18382328
+      - tt22170270
+      - tt8591526
+      winner:
+      - tt14849194
+    best breakthrough performance in a new scripted series:
+      nominee:
+      - tt13649510
+      - tt14488438
+      - tt15320362
+      - tt8559532
+      winner:
+      - tt3581920
+    best cinematography:
+      nominee:
+      - tt11317110
+      - tt11534720
+      - tt28639049
+      - tt6337816
+      persons:
+        tt11317110:
+          id: nm6394080
+          name: Pablo Lozano
+        tt11534720:
+          id: nm6161200
+          name: Jomo Fray
+        tt14849194:
+          id: nm0117381
+          name: Eigil Bryld
+        tt28639049:
+          id: nm3156166
+          name: Pat Scola
+        tt6337816:
+          id: nm3581145
+          name: Katelin Arizmendi
+      winner:
+      - tt14849194
+    best director:
+      nominee:
+      - tt13651794
+      - tt16252698
+      - tt21192142
+      - tt5198890
+      persons:
+        tt13238346:
+          id: nm10227660
+          name: Celine Song
+        tt13651794:
+          id: nm0001331
+          name: Todd Haynes
+        tt16252698:
+          id: nm0755158
+          name: Ira Sachs
+        tt21192142:
+          id: nm0354091
+          name: Andrew Haigh
+        tt5198890:
+          id: nm4399706
+          name: William Oldroyd
+      winner:
+      - tt13238346
+    best documentary:
+      nominee:
+      - tt15307068
+      - tt22528178
+      - tt22857256
+      - tt7196012
+      winner:
+      - tt27502426
+    best editing:
+      nominee:
+      - tt21232992
+      - tt22964884
+      - tt24146896
+      - tt28639049
+      winner:
+      - tt21440780
+    best ensemble cast in a new scripted series:
+      winner:
+      - tt22074164
+    best feature:
+      nominee:
+      - tt13651794
+      - tt16252698
+      - tt21192142
+      - tt23561236
+      - tt28639049
+      winner:
+      - tt13238346
+    best first feature:
+      nominee:
+      - tt11317110
+      - tt11534720
+      - tt18382328
+      - tt22964884
+      winner:
+      - tt12427158
+    best first screenplay:
+      nominee:
+      - tt11317110
+      - tt21156390
+      - tt21232992
+      - tt22964884
+      winner:
+      - tt13651794
+    best international film:
+      nominee:
+      - tt19623228
+      - tt26315142
+      - tt6315898
+      - tt7160372
+      winner:
+      - tt17009710
+    best lead performance:
+      nominee:
+      - tt12427158
+      - tt13238346
+      - tt13651794
+      - tt16252698
+      - tt19864828
+      - tt21192142
+      - tt6337816
+      - tt9048804
+      persons:
+        tt12427158:
+          id: nm3692520
+          name: Teyana Taylor
+        tt13238346:
+          id: nm2336966
+          name: Greta Lee
+        tt13651794:
+          id: nm0000204
+          name: Natalie Portman
+        tt16252698:
+          id: nm4453291
+          name: Franz Rogowski
+        tt19864828:
+          id: nm1567113
+          name: Jessica Chastain
+        tt21192142:
+          id: nm0778831
+          name: Andrew Scott
+        tt23561236:
+          id: nm0942482
+          name: Jeffrey Wright
+        tt6337816:
+          id: nm6006903
+          name: Trace Lysette
+        tt9048804:
+          id: nm0721332
+          name: Judy Reyes
+      winner:
+      - tt23561236
+    best lead performance in a new scripted series:
+      nominee:
+      - tt13649510
+      - tt14403178
+      - tt14759574
+      - tt14961048
+      - tt15227418
+      - tt17543592
+      - tt17921714
+      - tt18970320
+      - tt3581920
+      persons:
+        tt13649510:
+          id: nm7851611
+          name: Jharrel Jerome
+        tt14403178:
+          id: nm4399227
+          name: Ali Wong
+        tt14759574:
+          id: nm2365811
+          name: Betty Gilpin
+        tt14961048:
+          id: nm6195774
+          name: Dominique Fishback
+        tt15227418:
+          id: nm10128408
+          name: Emma Corrin
+        tt17543592:
+          id: nm1913125
+          name: Ramón Rodríguez
+        tt17921714:
+          id: nm2525790
+          name: Bel Powley
+        tt18970320:
+          id: nm1830380
+          name: Zoe Lister-Jones
+        tt3581920:
+          id: nm8165602
+          name: Bella Ramsey
+      winner:
+      - tt14403178
+    best new non-scripted or documentary series:
+      nominee:
+      - tt21158388
+      - tt23330464
+      - tt24132878
+      - tt28711468
+      winner:
+      - tt6871344
+    best new scripted series:
+      nominee:
+      - tt13649510
+      - tt14488438
+      - tt18970320
+      - tt22074164
+      winner:
+      - tt14403178
+    best screenplay:
+      nominee:
+      - tt13238346
+      - tt14849194
+      - tt17527468
+      - tt9048804
+      winner:
+      - tt23561236
+    best supporting performance:
+      nominee:
+      - tt13651794
+      - tt16252698
+      - tt21232992
+      - tt21867434
+      - tt23561236
+      - tt24146896
+      - tt5198890
+      persons:
+        tt13651794:
+          id: nm6217576
+          name: Charles Melton
+        tt14849194:
+          id: nm5007768
+          name: Da'Vine Joy Randolph
+        tt16252698:
+          id: nm0924210
+          name: Ben Whishaw
+        tt21232992:
+          id: nm5687643
+          name: Noah Galvin
+        tt21867434:
+          id: nm1097351
+          name: Glenn Howerton
+        tt23561236:
+          id: nm0004697
+          name: Erika Alexander
+        tt24146896:
+          id: nm0754416
+          name: Catalina Saavedra
+        tt5198890:
+          id: nm0004266
+          name: Anne Hathaway
+      winner:
+      - tt14849194
+    best supporting performance in a new scripted series:
+      nominee:
+      - tt13623608
+      - tt13649510
+      - tt13911628
+      - tt14961048
+      - tt15677150
+      - tt19050000
+      - tt3581920
+      - tt8559532
+      persons:
+        tt13623608:
+          id: nm1509478
+          name: Benny Safdie
+        tt13649510:
+          id: nm3463325
+          name: Olivia Washington
+        tt13911628:
+          id: nm5730649
+          name: Lewis Pullman
+        tt14961048:
+          id: nm8483808
+          name: Billie Eilish
+        tt15677150:
+          id: nm8374329
+          name: Luke Tennie
+        tt19050000:
+          id: nm4958046
+          name: Jack Farthing
+        tt3581920:
+          id: nm0644406
+          name: Nick Offerman
+        tt8559532:
+          id: nm0692013
+          name: Adina Porter
+      winner:
+      - tt3581920
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt12783826
+      - tt15385142
+      - tt20859464
+      - tt24146896
+      winner:
+      - tt8591526
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt13923216
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt27722061
+      - tt9048804
+      persons:
+        tt22170270:
+          id: nm4532108
+          name: Monica Sorelle
+        tt27722061:
+          id: nm3318260
+          name: Joanna Arnow
+        tt9048804:
+          id: nm3203005
+          name: Lee Moss
+      winner:
+      - tt22170270
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt15468586
+      - tt24079694
+      persons:
+        tt15468586:
+          id: nm6241808
+          name: Jesse Short Bull
+        tt24079694:
+          id: nm5402911
+          name: Sierra Urich
+        tt27480956:
+          id: nm9758648
+          name: Set Hernandez Rongkilyo
+      winner:
+      - tt27480956
+'2025':
+  independent spirit award:
+    best breakthrough performance:
+      nominee:
+      - tt19637052
+      - tt22803220
+      - tt24486184
+      - tt24805832
+      persons:
+        tt18559464:
+          id: nm5204873
+          name: Maisy Stella
+        tt19637052:
+          id: nm6884042
+          name: Katy O'Brian
+        tt22803220:
+          id: nm4317622
+          name: Mason Alexander Park
+        tt24486184:
+          id: nm9094439
+          name: Isaac Krasner
+        tt24805832:
+          id: nm2333606
+          name: Residente
+      winner:
+      - tt18559464
+    best breakthrough performance in a new scripted series:
+      nominee:
+      - tt14404618
+      - tt15571732
+      - tt27982433
+      - tt30321175
+      persons:
+        tt13649112:
+          id: nm2934977
+          name: Jessica Gunning
+        tt14404618:
+          id: nm3954543
+          name: Hoa Xuande
+        tt15571732:
+          id: nm12509469
+          name: Joe Locke
+        tt27982433:
+          id: nm2539782
+          name: Diarra Kilpatrick
+        tt30321175:
+          id: nm8900741
+          name: Megan Stott
+      winner:
+      - tt13649112
+    best cinematography:
+      nominee:
+      - tt10399622
+      - tt19864832
+      - tt28366692
+      - tt6133444
+      winner:
+      - tt23055660
+    best director:
+      nominee:
+      - tt15574270
+      - tt19864832
+      - tt8368368
+      - tt8999762
+      persons:
+        tt15574270:
+          id: nm5313125
+          name: Jane Schoenbrun
+        tt19864832:
+          id: nm2091911
+          name: Alonso Ruizpalacios
+        tt28607951:
+          id: nm0048918
+          name: Sean Baker
+        tt8368368:
+          id: nm4389150
+          name: Ali Abbasi
+        tt8999762:
+          id: nm1227232
+          name: Brady Corbet
+      winner:
+      - tt28607951
+    best documentary:
+      nominee:
+      - tt14452174
+      - tt26773767
+      - tt30319823
+      - tt30342963
+      winner:
+      - tt30953759
+    best editing:
+      nominee:
+      - tt12810074
+      - tt30319503
+      - tt31371971
+      - tt8368368
+      winner:
+      - tt28082769
+    best ensemble cast in a new scripted series:
+      winner:
+      - tt23730262
+    best feature:
+      nominee:
+      - tt15574270
+      - tt17526714
+      - tt23055660
+      - tt28479262
+      winner:
+      - tt28607951
+    best first feature:
+      nominee:
+      - tt15078804
+      - tt15507512
+      - tt24805832
+      - tt28366692
+      winner:
+      - tt30319503
+    best first screenplay:
+      nominee:
+      - tt15078804
+      - tt27722061
+      - tt28366692
+      - tt30319516
+      winner:
+      - tt30319503
+    best international film:
+      nominee:
+      - tt11891850
+      - tt27722543
+      - tt28131427
+      - tt32086077
+      winner:
+      - tt4772188
+    best lead performance:
+      nominee:
+      - tt12349832
+      - tt12810074
+      - tt15574270
+      - tt17526714
+      - tt23778968
+      - tt28479262
+      - tt30321095
+      - tt6133444
+      - tt8368368
+      persons:
+        tt12349832:
+          id: nm9476408
+          name: Hunter Schafer
+        tt12810074:
+          id: nm0010736
+          name: Amy Adams
+        tt15574270:
+          id: nm6819854
+          name: Justice Smith
+        tt17526714:
+          id: nm0000193
+          name: Demi Moore
+        tt23778968:
+          id: nm0820053
+          name: June Squibb
+        tt28479262:
+          id: nm0231458
+          name: Colman Domingo
+        tt28607951:
+          id: nm5700898
+          name: Mikey Madison
+        tt30321095:
+          id: nm1199547
+          name: Keith Kupferer
+        tt6133444:
+          id: nm3629113
+          name: Ryan Destiny
+        tt8368368:
+          id: nm1659221
+          name: Sebastian Stan
+      winner:
+      - tt28607951
+    best lead performance in a new scripted series:
+      nominee:
+      - tt11016042
+      - tt15435876
+      - tt15571732
+      - tt1640719
+      - tt18182112
+      - tt20782190
+      - tt26246248
+      - tt2788316
+      persons:
+        tt11016042:
+          id: nm0778831
+          name: Andrew Scott
+        tt13649112:
+          id: nm6876120
+          name: Richard Gadd
+        tt15435876:
+          id: nm2129662
+          name: Cristin Milioti
+        tt15571732:
+          id: nm1063517
+          name: Kathryn Hahn
+        tt1640719:
+          id: nm4291409
+          name: Lily Gladstone
+        tt18182112:
+          id: nm7088580
+          name: Julio Torres
+        tt20782190:
+          id: nm2755723
+          name: Brian Jordan Alvarez
+        tt26246248:
+          id: nm0000194
+          name: Julianne Moore
+        tt2788316:
+          id: nm0760796
+          name: Hiroyuki Sanada
+      winner:
+      - tt13649112
+    best new non-scripted or documentary series:
+      nominee:
+      - tt11691160
+      - tt29529730
+      - tt29538806
+      - tt30835095
+      winner:
+      - tt17676722
+    best new scripted series:
+      nominee:
+      - tt13649112
+      - tt18182112
+      - tt20782190
+      - tt27982433
+      winner:
+      - tt2788316
+    best screenplay:
+      nominee:
+      - tt15574270
+      - tt18559464
+      - tt21097228
+      - tt28015403
+      winner:
+      - tt21823606
+    best supporting performance:
+      nominee:
+      - tt15507512
+      - tt15574270
+      - tt18277182
+      - tt21097228
+      - tt27722375
+      - tt28479262
+      - tt28607951
+      - tt30319503
+      persons:
+        tt15507512:
+          id: nm4314990
+          name: Danielle Deadwyler
+        tt15574270:
+          id: nm6617420
+          name: Jack Haven
+        tt18277182:
+          id: nm4225184
+          name: Kani Kusruti
+        tt21097228:
+          id: nm3138924
+          name: Adam Pearson
+        tt21823606:
+          id: nm0001085
+          name: Kieran Culkin
+        tt27722375:
+          id: nm0001406
+          name: Carol Kane
+        tt28479262:
+          id: nm13697094
+          name: Clarence Maclin
+        tt28607951:
+          id: nm5426973
+          name: Yura Borisov
+        tt30319503:
+          id: nm0001040
+          name: Joan Chen
+      winner:
+      - tt21823606
+    best supporting performance in a new scripted series:
+      nominee:
+      - tt10732048
+      - tt15571732
+      - tt1640719
+      - tt17677860
+      - tt20782190
+      - tt2788316
+      - tt8773420
+      persons:
+        tt10732048:
+          id: nm2365811
+          name: Betty Gilpin
+        tt13649112:
+          id: nm9927131
+          name: Nava Mau
+        tt15571732:
+          id: nm0526985
+          name: Patti LuPone
+        tt1640719:
+          id: nm6976584
+          name: Chloe Guidry
+        tt17677860:
+          id: nm1550948
+          name: Ruth Negga
+        tt20782190:
+          id: nm0170186
+          name: Enrico Colantoni
+        tt2788316:
+          id: nm0038355
+          name: Tadanobu Asano
+        tt8773420:
+          id: nm0974575
+          name: Brian Tee
+      winner:
+      - tt13649112
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt21651430
+      - tt24486184
+      - tt30321095
+      - tt31371971
+      winner:
+      - tt18277182
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt28491891
+  someone to watch award:
+    someone to watch award:
+      nominee:
+      - tt10399622
+      - tt28569819
+      persons:
+        tt10399622:
+          id: nm9590484
+          name: Thien An Pham
+        tt28569819:
+          id: nm8165077
+          name: Nicholas Colia
+        tt32928666:
+          id: nm5884795
+          name: Sarah Friedland
+      winner:
+      - tt32928666
+  truer than fiction award:
+    truer than fiction award:
+      nominee:
+      - tt30319555
+      - tt30319854
+      persons:
+        tt30319555:
+          id: nm1962852
+          name: Carla Gutierrez
+        tt30319854:
+          id: nm11927478
+          name: Julian Brave NoiseCat
+        tt5637628:
+          id: nm8071777
+          name: Rachel Elizabeth Seed
+      winner:
+      - tt5637628
+'2026':
+  independent spirit award:
+    best breakthrough performance:
+      nominee:
+      - tt21349688
+      - tt32221196
+      - tt32261856
+      - tt35520290
+      persons:
+        tt21349688:
+          id: nm16750033
+          name: Tabatha Zimiga
+        tt32221196:
+          id: nm6855916
+          name: SZA
+        tt32261856:
+          id: nm8048167
+          name: Misha Osherovich
+        tt32792934:
+          id: nm15810236
+          name: Kayo Martin
+        tt35520290:
+          id: nm0488839
+          name: Liz Larsen
+      winner:
+      - tt32792934
+    best breakthrough performance in a new scripted series:
+      nominee:
+      - tt10059166
+      - tt15515490
+      - tt23052950
+      - tt23488694
+      persons:
+        tt10059166:
+          id: nm8773650
+          name: Ernest Kingsley Junior
+        tt15515490:
+          id: nm12149834
+          name: Michael Cooper Jr.
+        tt23052950:
+          id: nm4371284
+          name: Asif Ali
+        tt23488694:
+          id: nm9789526
+          name: Wally Baram
+        tt31806037:
+          id: nm16369583
+          name: Owen Cooper
+      winner:
+      - tt31806037
+    best cinematography:
+      nominee:
+      - tt23172090
+      - tt31434639
+      - tt32119297
+      - tt34250044
+      winner:
+      - tt29768334
+    best director:
+      nominee:
+      - tt18382850
+      - tt32843349
+      - tt34000545
+      - tt34250044
+      persons:
+        tt18382850:
+          id: nm2555469
+          name: Mary Bronstein
+        tt29768334:
+          id: nm3286079
+          name: Clint Bentley
+        tt32843349:
+          id: nm6872447
+          name: Eva Victor
+        tt34000545:
+          id: nm2096544
+          name: Lloyd Lee Choi
+        tt34250044:
+          id: nm0755158
+          name: Ira Sachs
+      winner:
+      - tt29768334
+    best documentary:
+      nominee:
+      - tt33075192
+      - tt34965172
+      - tt34966013
+      - tt37660542
+      winner:
+      - tt34962891
+    best editing:
+      nominee:
+      - tt28332337
+      - tt31434639
+      - tt33247023
+      - tt35521922
+      winner:
+      - tt34819091
+    best ensemble cast in a new scripted series:
+      winner:
+      - tt19381692
+    best feature:
+      nominee:
+      - tt31322753
+      - tt32792934
+      - tt32843349
+      - tt34250044
+      winner:
+      - tt29768334
+    best first feature:
+      nominee:
+      - tt21349688
+      - tt23172090
+      - tt32119297
+      - tt32221196
+      winner:
+      - tt13651462
+    best first screenplay:
+      nominee:
+      - tt30505698
+      - tt32119297
+      - tt32221196
+      - tt35319790
+      winner:
+      - tt13651462
+    best international film:
+      nominee:
+      - tt29344894
+      - tt32083311
+      - tt32298285
+      - tt36544524
+      winner:
+      - tt27847051
+    best lead performance:
+      nominee:
+      - tt13651462
+      - tt27953589
+      - tt29768334
+      - tt31322753
+      - tt32221196
+      - tt32792934
+      - tt32928666
+      - tt34000545
+      - tt34250044
+      persons:
+        tt13651462:
+          id: nm6829691
+          name: Théodore Pellerin
+        tt18382850:
+          id: nm0126284
+          name: Rose Byrne
+        tt27953589:
+          id: nm1935086
+          name: Tessa Thompson
+        tt29768334:
+          id: nm0249291
+          name: Joel Edgerton
+        tt31322753:
+          id: nm3729721
+          name: Dylan O'Brien
+        tt32221196:
+          id: nm1551130
+          name: Keke Palmer
+        tt32792934:
+          id: nm12926372
+          name: Everett Blunck
+        tt32928666:
+          id: nm0149910
+          name: Kathleen Chalfant
+        tt34000545:
+          id: nm0151654
+          name: Chang Chen
+        tt34250044:
+          id: nm0924210
+          name: Ben Whishaw
+      winner:
+      - tt18382850
+    best lead performance in a new scripted series:
+      nominee:
+      - tt13623632
+      - tt15515490
+      - tt16493232
+      - tt23649128
+      - tt27370649
+      - tt30252752
+      - tt31122777
+      - tt31289994
+      - tt31938062
+      persons:
+        tt13623632:
+          id: nm7584896
+          name: Sydney Chandler
+        tt15515490:
+          id: nm7594279
+          name: Lovie Simone
+        tt16493232:
+          id: nm0416694
+          name: Lennie James
+        tt23649128:
+          id: nm0736622
+          name: Seth Rogen
+        tt27370649:
+          id: nm9268179
+          name: Anna Lambe
+        tt30252752:
+          id: nm0931329
+          name: Michelle Williams
+        tt31122777:
+          id: nm9252018
+          name: Lola Petticrew
+        tt31289994:
+          id: nm0000160
+          name: Ethan Hawke
+        tt31806037:
+          id: nm0334318
+          name: Stephen Graham
+        tt31938062:
+          id: nm0001864
+          name: Noah Wyle
+      winner:
+      - tt31806037
+    best new non-scripted or documentary series:
+      nominee:
+      - tt12837376
+      - tt21477490
+      - tt33091679
+      - tt37458027
+      winner:
+      - tt14419140
+    best new scripted series:
+      nominee:
+      - tt15515490
+      - tt16493232
+      - tt27370649
+      - tt28093628
+      winner:
+      - tt31806037
+    best screenplay:
+      nominee:
+      - tt22004186
+      - tt26843513
+      - tt31322753
+      - tt33247023
+      winner:
+      - tt32843349
+    best supporting performance:
+      nominee:
+      - tt13651462
+      - tt22004186
+      - tt26843513
+      - tt27953589
+      - tt29361963
+      - tt31688586
+      - tt32119297
+      - tt34250044
+      - tt4627382
+      persons:
+        tt13651462:
+          id: nm5994098
+          name: Archie Madekwe
+        tt22004186:
+          id: nm3994408
+          name: Jane Levy
+        tt26843513:
+          id: nm5016878
+          name: Jacob Tremblay
+        tt27953589:
+          id: nm0396125
+          name: Nina Hoss
+        tt29361963:
+          id: nm11140905
+          name: Kali Reis
+        tt31688586:
+          id: nm3614913
+          name: Zoey Deutch
+        tt32119297:
+          id: nm7607979
+          name: Haipeng Xu
+        tt32843349:
+          id: nm7609875
+          name: Naomi Ackie
+        tt34250044:
+          id: nm0356017
+          name: Rebecca Hall
+        tt4627382:
+          id: nm0000379
+          name: Kirsten Dunst
+      winner:
+      - tt32843349
+    best supporting performance in a new scripted series:
+      nominee:
+      - tt13623632
+      - tt15515490
+      - tt16493232
+      - tt23052950
+      - tt26670955
+      - tt27995113
+      - tt30252752
+      - tt31938062
+      persons:
+        tt13623632:
+          id: nm1959501
+          name: Babou Ceesay
+        tt15515490:
+          id: nm2837872
+          name: Xosha Roquemore
+        tt16493232:
+          id: nm0048159
+          name: Ariyon Bakare
+        tt23052950:
+          id: nm1567198
+          name: Poorna Jagannathan
+        tt26670955:
+          id: nm0376610
+          name: Stephen McKinley Henderson
+        tt27995113:
+          id: nm0924210
+          name: Ben Whishaw
+        tt30252752:
+          id: nm2809577
+          name: Jenny Slate
+        tt31806037:
+          id: nm8732963
+          name: Erin Doherty
+        tt31938062:
+          id: nm3846175
+          name: Taylor Dearden
+      winner:
+      - tt31806037
+  john cassavetes award:
+    john cassavetes award:
+      nominee:
+      - tt28332337
+      - tt31021863
+      - tt32928666
+      - tt35520290
+      winner:
+      - tt36305675
+  robert altman award:
+    robert altman award:
+      winner:
+      - tt10374610

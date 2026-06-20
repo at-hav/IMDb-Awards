@@ -1,0 +1,819 @@
+# Mill Valley Film Festival
+'2000':
+  mill valley film festival award:
+    best narrative feature:
+      winner:
+      - tt0264916
+'2003':
+  mill valley film festival award:
+    best short film:
+      nominee:
+      - tt1526339
+    mvff award:
+      nominee:
+      - tt0340978
+'2005':
+  audience award:
+    world cinema:
+      nominee:
+      - tt0419712
+  mill valley film festival award:
+    bafta short film award - honorable mention:
+      winner:
+      - tt0486034
+    best actress:
+      persons:
+        tt0407265:
+          id: nm0005031
+          name: Felicity Huffman
+      winner:
+      - tt0407265
+'2006':
+  mill valley film festival award:
+    best short film:
+      nominee:
+      - tt0490473
+      - tt0800156
+      winner:
+      - tt0462475
+'2007':
+  bafta/la short film award:
+    bafta/la short film award:
+      winner:
+      - tt0867608
+    best short film:
+      nominee:
+      - tt0972382
+  mill valley film festival award:
+    best actor:
+      persons:
+        tt0758758:
+          id: nm0386472
+          name: Emile Hirsch
+      winner:
+      - tt0758758
+    best narrative feature:
+      winner:
+      - tt0804522
+    mill valley film festival award:
+      winner:
+      - tt0481580
+'2008':
+  audience award:
+    best documentary:
+      winner:
+      - tt1405357
+  bafta/la short film award:
+    bafta/la short film award:
+      winner:
+      - tt1260388
+  mill valley film festival award:
+    best short film:
+      nominee:
+      - tt0954991
+  spotlight award:
+    spotlight award:
+      winner:
+      - tt1045670
+'2009':
+  audience award:
+    favorite world feature:
+      winner:
+      - tt1174732
+  mill valley film festival award:
+    best film:
+      nominee:
+      - tt1059233
+'2010':
+  audience award:
+    audience favorite:
+      winner:
+      - tt1599369
+  bafta/la short film award:
+    bafta/la certificate of excellence:
+      winner:
+      - tt1597119
+  mill valley film festival award:
+    best narrative feature:
+      winner:
+      - tt1542344
+      - tt1599369
+'2011':
+  audience award:
+    best u.s. feature film:
+      winner:
+      - tt1233334
+      - tt1470859
+    favorite world feature:
+      winner:
+      - tt1655442
+  bafta/la short film award:
+    best short film:
+      winner:
+      - tt1741676
+  spotlight award:
+    spotlight award:
+      winner:
+      - tt1802197
+'2012':
+  audience award:
+    audience favorite:
+      winner:
+      - tt0454876
+    best children's feature film:
+      winner:
+      - tt1446192
+    best documentary:
+      winner:
+      - tt2133367
+    best international children's feature film:
+      winner:
+      - tt1708510
+    best u.s. feature film:
+      winner:
+      - tt1045658
+    best world cinema documentary:
+      winner:
+      - tt2250054
+    children's film:
+      winner:
+      - tt1446192
+    favorite active cinema documentary:
+      winner:
+      - tt2231578
+    favorite active cinema feature:
+      winner:
+      - tt1866249
+    favorite independent world feature:
+      winner:
+      - tt1081975
+    favorite world feature:
+      winner:
+      - tt2032557
+'2013':
+  audience award:
+    active cinema:
+      nominee:
+      - tt3212404
+      winner:
+      - tt2191562
+    animation:
+      winner:
+      - tt2013293
+    audience favorite:
+      winner:
+      - tt2702388
+    children's feature:
+      winner:
+      - tt2245188
+    children's special screening:
+      winner:
+      - tt1859616
+    documentary:
+      nominee:
+      - tt2982902
+      winner:
+      - tt3723828
+    overall favorite:
+      winner:
+      - tt2024544
+    special screening:
+      winner:
+      - tt1883092
+    u.s. cinema:
+      nominee:
+      - tt0790636
+      winner:
+      - tt0816442
+    world cinema:
+      nominee:
+      - tt1196956
+      winner:
+      - tt2431286
+    world cinema independent:
+      nominee:
+      - tt2178256
+      - tt2290113
+      winner:
+      - tt2792348
+  bafta/la short film award:
+    best short film:
+      nominee:
+      - tt2450332
+  spotlight award:
+    spotlight award:
+      winner:
+      - tt0790636
+'2014':
+  audience award:
+    audience favorite:
+      winner:
+      - tt2084970
+      - tt4130028
+    best animation film:
+      winner:
+      - tt2576852
+    best children's feature film:
+      winner:
+      - tt2368672
+      - tt3183630
+    best documentary:
+      nominee:
+      - tt3378038
+    best u.s. feature film:
+      nominee:
+      - tt1872194
+      winner:
+      - tt2582802
+    favorite active cinema documentary:
+      nominee:
+      - tt3740782
+      winner:
+      - tt3238136
+    favorite independent u.s. feature:
+      nominee:
+      - tt2912120
+    favorite independent world feature:
+      nominee:
+      - tt2113681
+      winner:
+      - tt3013258
+    favorite world feature:
+      nominee:
+      - tt3132714
+      winner:
+      - tt2980516
+    us cinema indie gold award:
+      winner:
+      - tt3331028
+    ¡viva el cine!:
+      winner:
+      - tt2896036
+  mill valley film festival award:
+    art of amazing grand prize:
+      winner:
+      - tt4116320
+    best short film:
+      nominee:
+      - tt3135026
+      - tt3672748
+    best youth produced:
+      nominee:
+      - tt3650596
+'2015':
+  audience award:
+    active cinema:
+      nominee:
+      - tt3246410
+      winner:
+      - tt4335520
+    animation:
+      winner:
+      - tt2401878
+    children's filmfest:
+      nominee:
+      - tt2390792
+      winner:
+      - tt3066886
+    documentary:
+      nominee:
+      - tt2505376
+    mind the gap:
+      nominee:
+      - tt2910904
+      winner:
+      - tt3077214
+    mind the gap - documentary:
+      winner:
+      - tt4224328
+    overall favorite:
+      winner:
+      - tt3170832
+    u.s. cinema:
+      nominee:
+      - tt3859076
+      winner:
+      - tt1895587
+    u.s. cinema indie:
+      nominee:
+      - tt3122842
+      winner:
+      - tt3262022
+    valley of the docs:
+      nominee:
+      - tt3576814
+      - tt4797086
+      winner:
+      - tt4770640
+    valley of the docs special mention:
+      winner:
+      - tt4797086
+    world cinema:
+      nominee:
+      - tt3614972
+      - tt3704050
+      winner:
+      - tt2381111
+    world cinema independent:
+      nominee:
+      - tt2211666
+      winner:
+      - tt4392438
+  mill valley film festival award:
+    5@5 shorts:
+      nominee:
+      - tt4311212
+    best narrative feature:
+      nominee:
+      - tt3184798
+'2016':
+  audience award:
+    5@5 shorts:
+      nominee:
+      - tt3906712
+      - tt4190544
+    active cinema:
+      winner:
+      - tt6865478
+    family films:
+      nominee:
+      - tt3906724
+      winner:
+      - tt3401748
+    mind the gap:
+      winner:
+      - tt2936884
+      - tt5691476
+    music:
+      winner:
+      - tt6093094
+    overall favorite:
+      winner:
+      - tt3741834
+    u.s. cinema:
+      nominee:
+      - tt4669986
+      winner:
+      - tt4975722
+    u.s. cinema indie:
+      nominee:
+      - tt3281960
+      winner:
+      - tt4587780
+    valley of the docs:
+      nominee:
+      - tt5069092
+      winner:
+      - tt3882074
+      - tt5142750
+    world cinema:
+      nominee:
+      - tt3841424
+      winner:
+      - tt4080728
+    world cinema independent:
+      nominee:
+      - tt3757648
+      winner:
+      - tt4667788
+    ¡viva el cine!:
+      winner:
+      - tt4326444
+      - tt5719232
+'2017':
+  audience award:
+    5@5 shorts:
+      nominee:
+      - tt6504994
+    mind the gap:
+      winner:
+      - tt5598102
+    overall favorite:
+      winner:
+      - tt2396589
+    u.s. cinema:
+      nominee:
+      - tt4925292
+      winner:
+      - tt4209788
+    u.s. cinema indie:
+      nominee:
+      - tt5047336
+      winner:
+      - tt4157144
+    valley of the docs:
+      nominee:
+      - tt4078252
+      winner:
+      - tt6949868
+    world cinema:
+      nominee:
+      - tt5586052
+      winner:
+      - tt1653665
+    world cinema independent:
+      nominee:
+      - tt5818818
+      winner:
+      - tt6002522
+  mill valley film festival award:
+    best narrative feature:
+      nominee:
+      - tt4673790
+      - tt5047336
+    best short film:
+      nominee:
+      - tt6726286
+'2018':
+  audience award:
+    active cinema:
+      winner:
+      - tt8824242
+    animation:
+      nominee:
+      - tt7350536
+    feature documentary:
+      nominee:
+      - tt5069092
+    overall favorite:
+      winner:
+      - tt6966692
+    u.s. cinema:
+      nominee:
+      - tt7008872
+      winner:
+      - tt5580266
+    u.s. cinema indie:
+      nominee:
+      - tt5431284
+      winner:
+      - tt6907054
+    valley of the docs:
+      nominee:
+      - tt8969332
+      winner:
+      - tt7775622
+    world cinema:
+      nominee:
+      - tt6433456
+      winner:
+      - tt8267604
+    world cinema independent:
+      nominee:
+      - tt6576556
+      - tt8090580
+      winner:
+      - tt7142506
+    ¡viva el cine!:
+      winner:
+      - tt6131208
+  mill valley film festival award:
+    best narrative feature:
+      nominee:
+      - tt7133202
+'2019':
+  audience award:
+    active cinema:
+      winner:
+      - tt9378216
+    family films:
+      winner:
+      - tt8589210
+    mind the gap:
+      winner:
+      - tt4648786
+    mind the gap world cinema:
+      winner:
+      - tt6156138
+    overall favorite:
+      winner:
+      - tt4916630
+    u.s. cinema:
+      winner:
+      - tt8404614
+    u.s. cinema indie:
+      winner:
+      - tt8717446
+    valley of the docs:
+      winner:
+      - tt11125820
+    world cinema:
+      nominee:
+      - tt8096842
+      winner:
+      - tt8291806
+    world cinema independent:
+      winner:
+      - tt7552790
+    ¡viva el cine!:
+      winner:
+      - tt7825208
+  mill valley film festival award:
+    5@5 shorts:
+      nominee:
+      - tt12559640
+    best film:
+      winner:
+      - tt8589210
+    best short film:
+      nominee:
+      - tt7385660
+  mill valley film festival power of cinema award:
+    best film:
+      nominee:
+      - tt34867377
+  spotlight award:
+    spotlight award:
+      winner:
+      - tt1780967
+'2020':
+  audience award:
+    doclands:
+      winner:
+      - tt11017950
+    drive-in:
+      winner:
+      - tt9770150
+    family films:
+      winner:
+      - tt12553244
+    mind the gap:
+      winner:
+      - tt9770150
+    streaming:
+      winner:
+      - tt10272386
+      - tt10612922
+    u.s. cinema:
+      winner:
+      - tt11327514
+    ¡viva el cine!:
+      winner:
+      - tt10948718
+'2021':
+  audience award:
+    active cinema:
+      winner:
+      - tt14623242
+    documentary:
+      winner:
+      - tt9098872
+    family:
+      winner:
+      - tt4853244
+    mind the gap:
+      winner:
+      - tt7243490
+    overall favorite:
+      winner:
+      - tt12789558
+    u.s. cinema:
+      winner:
+      - tt10986222
+    world cinema:
+      winner:
+      - tt9681686
+    ¡viva el cine!:
+      winner:
+      - tt9024096
+  mill valley film festival award:
+    best short film:
+      nominee:
+      - tt13961574
+      - tt14115884
+    best youth produced:
+      nominee:
+      - tt14709506
+  mind the gap award:
+    mind the gap award:
+      nominee:
+      - tt13074056
+  variety screenwriters to watch:
+    variety screenwriters to watch:
+      winner:
+      - tt10644644
+      - tt11012066
+      - tt3811906
+      - tt4595186
+      - tt5302918
+      - tt5439812
+      - tt6217926
+      - tt8721424
+      - tt9620288
+'2022':
+  audience award:
+    documentary:
+      winner:
+      - tt21820452
+    family:
+      winner:
+      - tt19887168
+    mind the gap:
+      winner:
+      - tt13669038
+    overall favorite:
+      winner:
+      - tt14444726
+    u.s. cinema:
+      winner:
+      - tt13833688
+    u.s. cinema indie:
+      winner:
+      - tt13892558
+    world cinema:
+      winner:
+      - tt11813216
+    world cinema - foreign language:
+      winner:
+      - tt9660502
+    ¡viva el cine!:
+      nominee:
+      - tt19710818
+      winner:
+      - tt17677996
+  mill valley film festival power of cinema award:
+    best film:
+      winner:
+      - tt21376776
+  mind the gap award:
+    mind the gap award:
+      winner:
+      - tt13892558
+  variety screenwriters to watch:
+    variety screenwriters to watch:
+      winner:
+      - tt11426572
+      - tt11464446
+      - tt12758486
+      - tt13352968
+      - tt13397574
+      - tt13833688
+      - tt15218000
+      - tt16419074
+      - tt20374502
+      - tt6517788
+'2023':
+  audience award:
+    documentary:
+      winner:
+      - tt33481564
+    family:
+      winner:
+      - tt13365482
+    mind the gap - documentary:
+      winner:
+      - tt16152130
+    mind the gap - narrative:
+      winner:
+      - tt21813994
+    overall favorite:
+      winner:
+      - tt14570440
+    u.s. cinema:
+      winner:
+      - tt14160834
+      - tt23561236
+    world cinema:
+      winner:
+      - tt19760052
+    ¡viva el cine! - documentary:
+      winner:
+      - tt10583596
+    ¡viva el cine! - narrative:
+      winner:
+      - tt16277242
+  mill valley film festival award:
+    best short film:
+      nominee:
+      - tt26598337
+    breakthrough directing:
+      winner:
+      - tt23561236
+    directing:
+      winner:
+      - tt14160834
+      - tt21454134
+    filmmaking:
+      winner:
+      - tt22041854
+    'lifetime achievement: collaboration':
+      winner:
+      - tt13651794
+  mind the gap award:
+    best documentary:
+      nominee:
+      - tt28853268
+    best film:
+      nominee:
+      - tt15388560
+    creation prize:
+      winner:
+      - tt26315142
+    filmmaker of the year:
+      winner:
+      - tt17351924
+'2024':
+  audience award:
+    active cinema:
+      winner:
+      - tt33303798
+    documentary:
+      winner:
+      - tt28440231
+    family:
+      winner:
+      - tt5012320
+    mind the gap - documentary:
+      winner:
+      - tt31937069
+    mind the gap - narrative:
+      winner:
+      - tt28613536
+    overall favorite:
+      winner:
+      - tt20215234
+    u.s. cinema:
+      winner:
+      - tt22022784
+    world cinema:
+      nominee:
+      - tt20779570
+      winner:
+      - tt14961016
+    ¡viva el cine!:
+      winner:
+      - tt20221436
+  mill valley film festival award:
+    acting:
+      winner:
+      - tt12810074
+      - tt15507512
+    animation:
+      winner:
+      - tt23770030
+    breakthrough performance:
+      winner:
+      - tt28607951
+    outstanding ensemble performance:
+      winner:
+      - tt20221436
+  mind the gap award:
+    best film:
+      nominee:
+      - tt5033568
+      winner:
+      - tt32086077
+    creation prize:
+      nominee:
+      - tt27983993
+      winner:
+      - tt32928666
+'2025':
+  audience award:
+    audience favorite:
+      nominee:
+      - tt17045782
+    documentary:
+      winner:
+      - tt34963034
+    family films favorite:
+      winner:
+      - tt22529620
+    independent favorite:
+      winner:
+      - tt36491653
+    mind the gap - documentary:
+      winner:
+      - tt36748956
+    mind the gap - narrative:
+      winner:
+      - tt36591512
+    overall favorite:
+      winner:
+      - tt14905854
+    u.s. cinema favorite:
+      winner:
+      - tt32648803
+    world cinema favorite:
+      winner:
+      - tt32429174
+    ¡viva el cine!:
+      winner:
+      - tt38582631
+  mill valley film festival award:
+    acting:
+      winner:
+      - tt14905854
+      - tt29768334
+      - tt30400277
+      - tt31688586
+  mind the gap award:
+    acting:
+      winner:
+      - tt18382850
+    creation prize:
+      winner:
+      - tt38582631
+    filmmaking:
+      winner:
+      - tt32843349

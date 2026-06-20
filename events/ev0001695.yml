@@ -1,0 +1,356 @@
+# Fantastic Fest
+'2008':
+  next wave award:
+    best short film:
+      nominee:
+      - tt1082109
+'2009':
+  fantastic fest jury award:
+    best fantastic feature:
+      winner:
+      - tt1434618
+  next wave award:
+    best short film:
+      nominee:
+      - tt1377497
+'2012':
+  next wave award:
+    best actor:
+      persons:
+        tt1835955:
+          id: nm1002664
+          name: Michael Eklund
+      winner:
+      - tt1835955
+'2013':
+  fantastic fest jury award:
+    best animated short:
+      nominee:
+      - tt2654412
+      - tt2753048
+    best documentary feature:
+      winner:
+      - tt1935156
+'2014':
+  fantastic fest jury award:
+    best documentary feature:
+      winner:
+      - tt3228302
+    best fantastic feature:
+      nominee:
+      - tt2242176
+  next wave award:
+    best actress:
+      persons:
+        tt3854104:
+          id: nm6591968
+          name: Amy Everson
+      winner:
+      - tt3854104
+    best director award:
+      persons:
+        tt1745787:
+          id: nm2990632
+          name: Myroslav Slaboshpytskyi
+      winner:
+      - tt1745787
+    best picture:
+      nominee:
+      - tt3494584
+  'short fuse: horror shorts':
+    best horror short:
+      winner:
+      - tt3830358
+'2015':
+  fantastic fest jury award:
+    best animated short:
+      winner:
+      - tt2871970
+    best documentary feature:
+      winner:
+      - tt2933794
+    best fantastic feature:
+      nominee:
+      - tt2231349
+    best horror short:
+      winner:
+      - tt4921312
+    fantastic shorts:
+      winner:
+      - tt4419206
+  next wave award:
+    best director award:
+      persons:
+        tt4935418:
+          id: nm3159880
+          name: Can Evrenol
+      winner:
+      - tt4935418
+    best picture:
+      winner:
+      - tt2847438
+  'short fuse: horror shorts':
+    best director:
+      persons:
+        tt4630786:
+          id: nm1841530
+          name: Ryan Spindell
+      winner:
+      - tt4630786
+'2016':
+  audience award:
+    audience award:
+      winner:
+      - tt6044414
+  fantastic fest jury award:
+    best director (action genre):
+      persons:
+        tt6044414:
+          id: nm4254419
+          name: Nabwana I.G.G.
+      winner:
+      - tt6044414
+    best documentary feature:
+      nominee:
+      - tt3512160
+    best picture (horror features):
+      winner:
+      - tt3289956
+  'short fuse: horror shorts':
+    best actress:
+      persons:
+        tt4255318:
+          id: nm1680142
+          name: Najarra Townsend
+      winner:
+      - tt4255318
+'2017':
+  fantastic fest jury award:
+    best director comedy feature:
+      persons:
+        tt6223806:
+          id: nm2619779
+          name: Hafsteinn Gunnar Sigurðsson
+      winner:
+      - tt6223806
+  horror features:
+    best horror feature:
+      winner:
+      - tt3463106
+  next wave award:
+    best picture:
+      winner:
+      - tt5586362
+  'short fuse: horror shorts':
+    best horror short:
+      nominee:
+      - tt5135996
+      - tt7956078
+'2018':
+  fantastic fest jury award:
+    best fantastic feature:
+      nominee:
+      - tt5862296
+      - tt6837282
+    best picture (horror features):
+      winner:
+      - tt7858616
+  next wave award:
+    best picture:
+      nominee:
+      - tt7133202
+  short fuse:
+    short fuse:
+      nominee:
+      - tt11163768
+'2019':
+  audience award:
+    audience award:
+      nominee:
+      - tt2584384
+      - tt8946378
+      winner:
+      - tt6751668
+    documentary feature:
+      nominee:
+      - tt9097270
+  fantastic fest jury award:
+    best documentary feature:
+      nominee:
+      - tt9097270
+    best fantastic feature:
+      nominee:
+      - tt10524364
+  short fuse:
+    best director:
+      persons:
+        tt10093862:
+          id: nm7038607
+          name: Dylan Holmes Williams
+      winner:
+      - tt10093862
+    best picture:
+      winner:
+      - tt10191720
+    special mention:
+      winner:
+      - tt10933008
+'2020':
+  'fantastic fest : shorts with legs':
+    best international short:
+      nominee:
+      - tt7555298
+  fantastic shorts award:
+    fantastic shorts award:
+      nominee:
+      - tt11764874
+'2021':
+  audience award:
+    best horror film:
+      nominee:
+      - tt10362566
+  fantastic fest jury award:
+    best direction:
+      winner:
+      - tt4028464
+    best fantastic feature:
+      winner:
+      - tt10243676
+  fantastic shorts award:
+    best director:
+      persons:
+        tt14714548:
+          id: nm5056163
+          name: Annalise Lockhart
+      winner:
+      - tt14714548
+    best female director:
+      persons:
+        tt8885182:
+          id: nm3233734
+          name: Sassy Mohen
+      winner:
+      - tt8885182
+  main competition award:
+    best director:
+      persons:
+        tt18550140:
+          id: nm4389150
+          name: Ali Abbasi
+      winner:
+      - tt18550140
+  next wave award:
+    best director award:
+      persons:
+        tt10756184:
+          id: nm2699094
+          name: Jean Luc Herbulot
+      winner:
+      - tt10756184
+    best picture:
+      winner:
+      - tt13617580
+    special mention:
+      winner:
+      - tt11263640
+'2022':
+  horror features:
+    best picture:
+      nominee:
+      - tt16540514
+'2023':
+  audience award:
+    best picture:
+      nominee:
+      - tt12484918
+      winner:
+      - tt27432494
+  fantastic shorts award:
+    best picture:
+      winner:
+      - tt28490429
+  horror features:
+    best director:
+      persons:
+        tt26744289:
+          id: nm7146773
+          name: Sébastien Vanicek
+      winner:
+      - tt26744289
+    best picture:
+      winner:
+      - tt26744289
+  main competition award:
+    best director:
+      persons:
+        tt14852624:
+          id: nm1152178
+          name: Robert Morgan
+      winner:
+      - tt14852624
+    best picture:
+      nominee:
+      - tt18110702
+      winner:
+      - tt23061176
+    honorable mention:
+      winner:
+      - tt17006040
+  next wave award:
+    best directors:
+      persons:
+        tt21113810:
+          id: nm2827347
+          name: David Kapac
+      winner:
+      - tt21113810
+    best picture:
+      winner:
+      - tt10994712
+    honorable mention:
+      winner:
+      - tt14807348
+  short fuse:
+    best picture:
+      winner:
+      - tt38820704
+'2024':
+  'fantastic fest : shorts with legs':
+    best international short:
+      nominee:
+      - tt28543086
+    honorable mention:
+      winner:
+      - tt22929076
+  fantastic shorts award:
+    best picture:
+      winner:
+      - tt32323291
+  main competition award:
+    best picture:
+      winner:
+      - tt14186876
+'2025':
+  audience award:
+    best picture:
+      winner:
+      - tt33382323
+  main competition award:
+    best director:
+      persons:
+        tt37403698:
+          id: nm2305479
+          name: Bartosz M. Kowalski
+      winner:
+      - tt37403698
+  next wave award:
+    best director award:
+      persons:
+        tt33382323:
+          id: nm5378650
+          name: Paolo Strippoli
+      winner:
+      - tt33382323
+    special mention:
+      winner:
+      - tt32424400

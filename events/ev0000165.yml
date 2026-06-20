@@ -1,0 +1,9700 @@
+# Chicago International Film Festival
+'1965':
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0057898
+      - tt0057945
+    best feature:
+      nominee:
+      - tt0059246
+      - tt0164319
+      winner:
+      - tt0239567
+    best short film:
+      nominee:
+      - tt0823212
+      - tt0985610
+  silver hugo:
+    best actress:
+      persons:
+        tt0059246:
+          id: nm0716851
+          name: Waheeda Rehman
+      winner:
+      - tt0059246
+'1967':
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0059028
+      - tt0060699
+      - tt0062315
+      - tt0063803
+      - tt0129947
+      winner:
+      - tt0060529
+    best short film:
+      nominee:
+      - tt0059436
+      - tt0062131
+      - tt0178085
+      - tt0209892
+      - tt0232954
+      - tt2056521
+  silver hugo:
+    best actress:
+      persons:
+        tt0062315:
+          id: nm0525073
+          name: Barbara Ludwizanka
+      winner:
+      - tt0062315
+'1968':
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0060375
+      - tt0060718
+      - tt0062041
+      - tt0062947
+      - tt0063576
+      - tt0063709
+      - tt0132890
+      - tt0166140
+      - tt1548619
+      winner:
+      - tt0063342
+    best short film:
+      nominee:
+      - tt0062906
+      - tt0063016
+      - tt0177236
+      - tt0262344
+      - tt1433912
+  silver hugo:
+    best actor:
+      persons:
+        tt0062529:
+          id: nm0669813
+          name: Franciszek Pieczka
+      winner:
+      - tt0062529
+    best short film:
+      nominee:
+      - tt0063417
+'1969':
+  certificate of merit:
+    best short film:
+      nominee:
+      - tt0267570
+  gold hugo:
+    best feature:
+      winner:
+      - tt0064686
+    best short film:
+      winner:
+      - tt0222782
+'1970':
+  certificate of merit:
+    best film:
+      winner:
+      - tt0065448
+  gold hugo:
+    best documentary:
+      winner:
+      - tt0064099
+    best feature:
+      nominee:
+      - tt0064722
+    best short film:
+      nominee:
+      - tt0064076
+      - tt0215787
+      - tt0261710
+      - tt0315199
+      - tt1813211
+    new directors competition:
+      persons:
+        tt0247530:
+          id: nm0062969
+          name: William Bayer
+      winner:
+      - tt0247530
+    unknown:
+      winner:
+      - tt0065798
+  silver hugo:
+    best short film:
+      winner:
+      - tt2048887
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0064781
+'1971':
+  gold hugo:
+    best actor:
+      persons:
+        tt0064105:
+          id: nm0007023
+          name: José Luis López Vázquez
+      winner:
+      - tt0064105
+    best feature:
+      nominee:
+      - tt0055715
+      - tt0064062
+      - tt0064202
+      - tt0064356
+      - tt0065076
+      - tt0065551
+      - tt0065671
+      - tt0065798
+      - tt0066035
+      - tt0066237
+      - tt0066374
+      - tt0066516
+      - tt0066639
+      - tt0095436
+      - tt0188131
+      - tt0212016
+      - tt0257788
+      - tt0266681
+      - tt0275528
+      winner:
+      - tt0067439
+      - tt0067958
+    best short film:
+      nominee:
+      - tt0065751
+      - tt0147031
+      - tt0162976
+      - tt0215784
+      - tt0218877
+      - tt0223346
+      - tt0225544
+      - tt0266585
+      - tt0266762
+      - tt0270930
+      - tt1964720
+      - tt2136855
+      - tt2234129
+      - tt2244917
+  silver hugo:
+    silver hugo:
+      winner:
+      - tt0068021
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0068569
+'1972':
+  gold hugo:
+    best actor:
+      persons:
+        tt0067425:
+          id: nm0007023
+          name: José Luis López Vázquez
+      winner:
+      - tt0067425
+    best feature:
+      nominee:
+      - tt0059063
+      - tt0064553
+      - tt0064703
+      - tt0066842
+      - tt0066855
+      - tt0067028
+      - tt0067227
+      - tt0067425
+      - tt0067649
+      - tt0067667
+      - tt0067949
+      - tt0068894
+      - tt0068955
+      - tt0069078
+      - tt0069215
+      - tt0069293
+      - tt0069325
+      - tt0069477
+      - tt0122844
+      - tt0184839
+      - tt0188961
+      - tt0245974
+      - tt0267650
+      - tt0294645
+      - tt0430374
+'1973':
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0059063
+      - tt0064553
+      - tt0064703
+      - tt0065396
+      - tt0065533
+      - tt0066233
+      - tt0067227
+      - tt0067425
+      - tt0067467
+      - tt0067620
+      - tt0067649
+      - tt0067667
+      - tt0067949
+      - tt0068236
+      - tt0068808
+      - tt0068814
+      - tt0068939
+      - tt0068955
+      - tt0069078
+      - tt0069079
+      - tt0069115
+      - tt0069145
+      - tt0069215
+      - tt0069293
+      - tt0069477
+      - tt0069737
+      - tt0069771
+      - tt0069782
+      - tt0070040
+      - tt0070217
+      - tt0070460
+      - tt0070835
+      - tt0070937
+      - tt0122844
+      - tt0176902
+      - tt0184839
+      - tt0188961
+      - tt0206947
+      - tt0245974
+      - tt0260700
+      - tt0294645
+      - tt0430374
+    best foreign language film:
+      winner:
+      - tt0068955
+    best short film:
+      nominee:
+      - tt0068353
+      - tt0069422
+      - tt0070005
+      - tt0071484
+      - tt0188948
+      - tt0222208
+      - tt0226739
+      - tt0229229
+      - tt0239089
+      - tt0251027
+      - tt0291391
+      - tt0853149
+      - tt0907118
+      - tt1634530
+      - tt1801060
+  silver hugo:
+    best film:
+      winner:
+      - tt0068814
+    best narrative short film:
+      winner:
+      - tt0188948
+'1974':
+  certificate of merit:
+    best short film:
+      winner:
+      - tt0471451
+    documentary short:
+      winner:
+      - tt0818920
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0042436
+      - tt0068604
+      - tt0069687
+      - tt0069885
+      - tt0070424
+      - tt0070466
+      - tt0070847
+      - tt0071105
+      - tt0071219
+      - tt0071282
+      - tt0071521
+      - tt0071649
+      - tt0071786
+      - tt0071964
+      - tt0072030
+      - tt0072201
+      - tt0072320
+      - tt0072333
+      - tt0072406
+      - tt0141746
+      - tt0163109
+      - tt0174001
+      - tt0186835
+      - tt0195436
+      winner:
+      - tt0064815
+    best short film:
+      nominee:
+      - tt0069551
+      - tt0070296
+      - tt0071943
+      - tt0072380
+      - tt0073715
+      - tt0155029
+      - tt0210505
+      - tt0236232
+      - tt0281050
+      - tt0290204
+      - tt0783350
+      - tt0907118
+      - tt1673722
+      - tt1928120
+      - tt1929175
+      winner:
+      - tt3587556
+    gold hugo:
+      winner:
+      - tt0064815
+  silver hugo:
+    best feature:
+      winner:
+      - tt0071141
+    best film:
+      winner:
+      - tt0182258
+'1975':
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt8764152
+    certificate of merit:
+      winner:
+      - tt0207703
+    documentary section 9, history:
+      winner:
+      - tt0252747
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0067619
+      - tt0069690
+      - tt0070009
+      - tt0071088
+      - tt0071324
+      - tt0071406
+      - tt0071483
+      - tt0071587
+      - tt0071691
+      - tt0071751
+      - tt0072190
+      - tt0072241
+      - tt0072843
+      - tt0073028
+      - tt0073034
+      - tt0073243
+      - tt0073272
+      - tt0073293
+      - tt0073383
+      - tt0073486
+      - tt0073488
+      - tt0073501
+      - tt0073765
+      - tt0073948
+      - tt0141352
+      - tt0144290
+      - tt0212359
+    new directors competition:
+      persons:
+        tt0071429:
+          id: nm0230695
+          name: Jacques Doillon
+      winner:
+      - tt0071429
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0072976
+'1976':
+  certificate of merit:
+    best student short:
+      nominee:
+      - tt0429545
+    documentary short:
+      winner:
+      - tt14518914
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0070889
+      - tt0072664
+      - tt0072939
+      - tt0074134
+      - tt0074346
+      - tt0075372
+      - tt0156379
+      - tt0240186
+      - tt0328678
+      - tt1813622
+      - tt1827384
+      - tt2391618
+      - tt2622030
+    best feature:
+      nominee:
+      - tt0071758
+      - tt0071976
+      - tt0072027
+      - tt0072835
+      - tt0073076
+      - tt0073087
+      - tt0073135
+      - tt0073165
+      - tt0073424
+      - tt0073460
+      - tt0074121
+      - tt0074152
+      - tt0074262
+      - tt0074366
+      - tt0074404
+      - tt0074456
+      - tt0074561
+      - tt0074622
+      - tt0074774
+      - tt0074826
+      - tt0074888
+      - tt0074947
+      - tt0074962
+      - tt0075098
+      - tt0075127
+      - tt0075169
+      - tt0076150
+      - tt0128212
+      - tt0131354
+      - tt0133273
+      - tt0139822
+      - tt1877747
+      winner:
+      - tt0073152
+    best short film:
+      nominee:
+      - tt0076181
+      - tt0475665
+      - tt0475759
+      - tt2644072
+  silver hugo:
+    best first feature film:
+      winner:
+      - tt0177653
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0074102
+'1978':
+  bronze hugo:
+    best animated film:
+      winner:
+      - tt1774440
+    best film:
+      winner:
+      - tt0078152
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0077624
+      - tt0163354
+      - tt1768744
+      - tt1772888
+    best feature:
+      nominee:
+      - tt0073876
+      - tt0074156
+      - tt0074220
+      - tt0075228
+      - tt0075303
+      - tt0075633
+      - tt0075649
+      - tt0075667
+      - tt0075747
+      - tt0075963
+      - tt0076097
+      - tt0076122
+      - tt0076128
+      - tt0076179
+      - tt0076280
+      - tt0076446
+      - tt0076476
+      - tt0076613
+      - tt0076727
+      - tt0076919
+      - tt0076953
+      - tt0077265
+      - tt0077403
+      - tt0077427
+      - tt0077473
+      - tt0077501
+      - tt0077509
+      - tt0077539
+      - tt0077547
+      - tt0077566
+      - tt0077581
+      - tt0077615
+      - tt0077651
+      - tt0077774
+      - tt0077964
+      - tt0077993
+      - tt0078008
+      - tt0078150
+      - tt0078276
+      - tt0078324
+      - tt0078467
+      - tt0078480
+      - tt0078536
+      - tt0079665
+      - tt0079742
+      - tt0079759
+      - tt0125040
+      - tt0128725
+      - tt0128906
+      - tt0152703
+      - tt0156058
+      - tt0167382
+      - tt0170738
+      - tt0176666
+      - tt0222032
+      - tt0321179
+      winner:
+      - tt0075616
+    best short film:
+      nominee:
+      - tt0125819
+      - tt0144833
+      - tt0167805
+      - tt0221828
+      - tt0285322
+      - tt0961743
+      - tt1757658
+      - tt2034693
+    gold hugo:
+      winner:
+      - tt0872337
+  gold plaque:
+    fiction shorts:
+      winner:
+      - tt0294715
+  silver hugo:
+    best feature film:
+      winner:
+      - tt0078147
+    best student film:
+      nominee:
+      - tt3079112
+  silver plaque:
+    silver plaque:
+      winner:
+      - tt0402825
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0154753
+'1979':
+  bronze hugo:
+    best film:
+      winner:
+      - tt0077729
+    short subject-drama:
+      winner:
+      - tt0226380
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0079201
+      - tt0079441
+      - tt0079443
+      - tt0189482
+      - tt0205734
+      - tt0211245
+      - tt0238277
+      - tt0245863
+    best feature:
+      nominee:
+      - tt0076619
+      - tt0077123
+      - tt0077139
+      - tt0077149
+      - tt0077202
+      - tt0077371
+      - tt0077438
+      - tt0077457
+      - tt0077751
+      - tt0077783
+      - tt0078030
+      - tt0078057
+      - tt0078186
+      - tt0078507
+      - tt0078720
+      - tt0078794
+      - tt0078830
+      - tt0078850
+      - tt0078857
+      - tt0078870
+      - tt0078915
+      - tt0078954
+      - tt0079010
+      - tt0079083
+      - tt0079203
+      - tt0079442
+      - tt0079443
+      - tt0079447
+      - tt0079504
+      - tt0079517
+      - tt0079519
+      - tt0079581
+      - tt0079648
+      - tt0079907
+      - tt0080118
+      - tt0080140
+      - tt0080165
+      - tt0080176
+      - tt0080662
+      - tt0124002
+      - tt0140281
+      - tt0145957
+      - tt0163324
+      - tt0174108
+      - tt0183152
+      - tt0192213
+      - tt0214591
+      - tt0228255
+      - tt0253366
+      - tt0385907
+      winner:
+      - tt0077165
+    best short film:
+      nominee:
+      - tt0078154
+      - tt0194059
+      - tt1383447
+      winner:
+      - tt0078329
+  gold plaque:
+    gold plaque:
+      winner:
+      - tt0078507
+    'network television production: television series':
+      winner:
+      - tt0076993
+  honorable mention:
+    documentary:
+      winner:
+      - tt9741042
+  silver hugo:
+    best first feature film:
+      winner:
+      - tt0079190
+  silver plaque:
+    'documentary: science/nature':
+      winner:
+      - tt0077259
+'1980':
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt1781061
+    outstanding local television:
+      winner:
+      - tt0300881
+    recreation and sports:
+      winner:
+      - tt1616507
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0079187
+      - tt0080965
+      - tt0081055
+      - tt0181045
+      - tt0181589
+      - tt0189618
+      - tt0210948
+      - tt0215580
+      - tt0250514
+      - tt0404189
+      - tt1864459
+    best feature:
+      nominee:
+      - tt0076247
+      - tt0077695
+      - tt0077884
+      - tt0078075
+      - tt0078784
+      - tt0078797
+      - tt0078894
+      - tt0079208
+      - tt0079359
+      - tt0079405
+      - tt0079413
+      - tt0079473
+      - tt0079619
+      - tt0079702
+      - tt0080082
+      - tt0080380
+      - tt0080447
+      - tt0080705
+      - tt0080735
+      - tt0080913
+      - tt0081011
+      - tt0081012
+      - tt0081051
+      - tt0081079
+      - tt0081182
+      - tt0081274
+      - tt0081299
+      - tt0081621
+      - tt0081686
+      - tt0082182
+      - tt0082225
+      - tt0123928
+      - tt0126139
+      - tt0128164
+      - tt0130834
+      - tt0131441
+      - tt0134633
+      - tt0151037
+      - tt0162867
+      - tt0163051
+      - tt0163054
+      - tt0171158
+      - tt0203639
+      - tt0203761
+      - tt0220773
+      - tt0257802
+      - tt0459131
+      winner:
+      - tt0078763
+    best short film:
+      nominee:
+      - tt0080791
+      - tt0080987
+      - tt0081205
+      - tt0180626
+      - tt0195092
+      - tt0208687
+      - tt0219057
+      - tt0222090
+      - tt0244070
+      - tt0253325
+      - tt0256872
+      - tt0330222
+      - tt0402760
+      - tt1338606
+      - tt1653695
+    documentary:
+      winner:
+      - tt0081053
+  gold plaque:
+    best script:
+      winner:
+      - tt0079924
+  silver hugo:
+    best first feature film:
+      winner:
+      - tt0081820
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0082829
+  special mention:
+    special award:
+      winner:
+      - tt0080700
+'1981':
+  bronze hugo:
+    feature documentary:
+      winner:
+      - tt0149896
+  certificate of merit:
+    student drama category:
+      winner:
+      - tt6648216
+    student narrative short:
+      winner:
+      - tt6648216
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0080167
+      - tt0080679
+      - tt0080713
+      - tt0081988
+      - tt0082106
+      - tt0082315
+      - tt0083206
+      - tt0083525
+      - tt0129283
+      - tt0132082
+      - tt0147845
+      - tt0191285
+      - tt0205948
+      - tt0219717
+      - tt0223299
+      - tt0254543
+      - tt0289173
+      - tt0294955
+      - tt0295596
+      - tt0298284
+      - tt0317409
+      - tt0378036
+      - tt0434184
+      - tt0796612
+      - tt1109457
+      - tt1160931
+      - tt1291126
+      - tt1380226
+      - tt1442194
+      - tt1731979
+      - tt1768742
+      - tt1782564
+      - tt1786746
+      - tt1832431
+      - tt1870454
+      - tt2361513
+    best feature:
+      nominee:
+      - tt0053638
+      - tt0076276
+      - tt0080311
+      - tt0080373
+      - tt0080387
+      - tt0080419
+      - tt0080430
+      - tt0080432
+      - tt0080473
+      - tt0080542
+      - tt0080547
+      - tt0080612
+      - tt0080619
+      - tt0080691
+      - tt0080715
+      - tt0080886
+      - tt0080894
+      - tt0080946
+      - tt0080951
+      - tt0080957
+      - tt0081174
+      - tt0081204
+      - tt0081255
+      - tt0081363
+      - tt0081369
+      - tt0081606
+      - tt0081662
+      - tt0081679
+      - tt0081711
+      - tt0081816
+      - tt0082088
+      - tt0082095
+      - tt0082172
+      - tt0082222
+      - tt0082275
+      - tt0082291
+      - tt0082311
+      - tt0082315
+      - tt0082330
+      - tt0082370
+      - tt0082478
+      - tt0082506
+      - tt0082582
+      - tt0082702
+      - tt0082733
+      - tt0082800
+      - tt0082919
+      - tt0082985
+      - tt0083129
+      - tt0083201
+      - tt0083287
+      - tt0083335
+      - tt0085340
+      - tt0131963
+      - tt0132932
+      - tt0133734
+      - tt0155296
+      - tt0165777
+      - tt0175493
+      - tt0176357
+      - tt0178708
+      - tt0184021
+      - tt0189999
+      - tt0202655
+      - tt0226010
+      - tt0288013
+      - tt0295265
+      - tt1826948
+      winner:
+      - tt0082081
+    best short film:
+      nominee:
+      - tt0081649
+      - tt0082850
+      - tt0084437
+      - tt0189600
+      - tt0218237
+      - tt0261514
+      - tt0280567
+      - tt0305824
+      - tt0406789
+      - tt0844003
+      - tt1109498
+      - tt1268935
+      - tt1344336
+      - tt1773413
+      - tt1781803
+    short film:
+      winner:
+      - tt0133058
+  gold plaque:
+    children's program:
+      winner:
+      - tt0084437
+  silver hugo:
+    best feature film:
+      winner:
+      - tt0081124
+      - tt0082883
+    best first feature film:
+      winner:
+      - tt0082269
+    best short film:
+      winner:
+      - tt0133236
+  silver plaque:
+    documentary:
+      winner:
+      - tt0082012
+    television - children's programs:
+      winner:
+      - tt5317558
+    unknown:
+      winner:
+      - tt0202179
+'1982':
+  french cultural services award:
+    french cultural services award:
+      winner:
+      - tt0303682
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0083633
+      - tt0084127
+      - tt0084728
+      - tt0085544
+      - tt0157918
+      - tt0162157
+      - tt0162269
+      - tt0202844
+      - tt0204601
+      - tt0256171
+      - tt0303682
+      - tt0499662
+      - tt1625324
+    best feature:
+      nominee:
+      - tt0081968
+      - tt0082020
+      - tt0082125
+      - tt0082318
+      - tt0082364
+      - tt0082426
+      - tt0082614
+      - tt0082689
+      - tt0082893
+      - tt0082983
+      - tt0083180
+      - tt0083203
+      - tt0083264
+      - tt0083271
+      - tt0083693
+      - tt0083694
+      - tt0083740
+      - tt0083813
+      - tt0083851
+      - tt0083888
+      - tt0083962
+      - tt0084150
+      - tt0084153
+      - tt0084222
+      - tt0084253
+      - tt0084337
+      - tt0084422
+      - tt0084553
+      - tt0084697
+      - tt0085198
+      - tt0086369
+      - tt0133290
+      - tt0138317
+      - tt0139459
+      - tt0155841
+      - tt0160520
+      - tt0162350
+      - tt0168135
+      - tt0168648
+      - tt0179724
+      - tt0252820
+      - tt0260558
+      winner:
+      - tt0083745
+    best short film:
+      nominee:
+      - tt0083045
+      - tt0083672
+      - tt0084180
+      - tt0084643
+      - tt0084672
+      - tt0134639
+      - tt0149754
+      - tt0195262
+      - tt0251180
+      - tt0265454
+      - tt0269024
+      - tt0278063
+      - tt0314585
+      - tt0478357
+      - tt0486127
+  illinois award:
+    'documentary: art/ humanities':
+      winner:
+      - tt0303682
+  silver hugo:
+    best feature film:
+      nominee:
+      - tt0082729
+    best first feature film:
+      winner:
+      - tt0083697
+    best short film:
+      winner:
+      - tt1470825
+  silver plaque:
+    best short film:
+      winner:
+      - tt0086291
+    documentary art/humanities:
+      winner:
+      - tt0303682
+'1983':
+  bronze hugo:
+    best film:
+      winner:
+      - tt0187980
+    bronze hugo:
+      winner:
+      - tt0125144
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt0238844
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0206679
+      - tt0226007
+      - tt1788346
+    best feature:
+      nominee:
+      - tt0079007
+      - tt0079246
+      - tt0079820
+      - tt0080554
+      - tt0081389
+      - tt0082259
+      - tt0082510
+      - tt0083557
+      - tt0083575
+      - tt0083600
+      - tt0083671
+      - tt0083743
+      - tt0083789
+      - tt0083984
+      - tt0084040
+      - tt0084085
+      - tt0084198
+      - tt0084247
+      - tt0084280
+      - tt0084295
+      - tt0084511
+      - tt0084724
+      - tt0084843
+      - tt0084878
+      - tt0085220
+      - tt0085229
+      - tt0085310
+      - tt0085370
+      - tt0085426
+      - tt0085432
+      - tt0085444
+      - tt0085501
+      - tt0085666
+      - tt0085685
+      - tt0085797
+      - tt0085800
+      - tt0085821
+      - tt0085845
+      - tt0085874
+      - tt0085954
+      - tt0085990
+      - tt0086017
+      - tt0086056
+      - tt0086115
+      - tt0086273
+      - tt0086377
+      - tt0086463
+      - tt0086536
+      - tt0086543
+      - tt0086968
+      - tt0088047
+      - tt0125824
+      - tt0134877
+      - tt0135032
+      - tt0144670
+      - tt0188311
+      - tt0198451
+      - tt0200842
+      - tt0231936
+      - tt0232600
+      - tt0235764
+      - tt0250628
+      - tt0264090
+      - tt0264147
+      - tt0303256
+      - tt0316148
+      - tt0479302
+      - tt0491008
+      winner:
+      - tt0084740
+    best short film:
+      nominee:
+      - tt0180963
+      - tt0193534
+      - tt0216160
+      - tt0282923
+      - tt0299162
+      - tt0337759
+      - tt0400459
+      - tt0407637
+      - tt0407650
+      - tt1524573
+      - tt1590044
+      - tt1798119
+  silver hugo:
+    best feature film:
+      winner:
+      - tt0085893
+    best first feature film:
+      winner:
+      - tt0086589
+'1984':
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0085722
+      - tt0086171
+      - tt0086928
+      - tt0087322
+      - tt0087409
+      - tt0087465
+      - tt0087826
+      - tt0124177
+      - tt0129376
+      - tt0172410
+      - tt0177262
+      - tt0189905
+      - tt0198553
+      - tt0206679
+      - tt0210472
+      - tt0211911
+      - tt0224598
+      - tt0226011
+      - tt0269615
+      - tt0274001
+      - tt0286105
+      - tt0288536
+      - tt0294675
+      - tt0303975
+      - tt0326520
+      - tt0348128
+      - tt0373804
+      - tt0482269
+      - tt0491479
+      - tt1559366
+      - tt1674731
+      - tt1770692
+      - tt1827402
+    best feature:
+      nominee:
+      - tt0076208
+      - tt0082601
+      - tt0082727
+      - tt0083894
+      - tt0084388
+      - tt0085230
+      - tt0085240
+      - tt0085284
+      - tt0085457
+      - tt0085499
+      - tt0085905
+      - tt0085981
+      - tt0086139
+      - tt0086212
+      - tt0086252
+      - tt0086290
+      - tt0086327
+      - tt0086421
+      - tt0086650
+      - tt0086875
+      - tt0086994
+      - tt0087046
+      - tt0087060
+      - tt0087083
+      - tt0087179
+      - tt0087232
+      - tt0087249
+      - tt0087354
+      - tt0087510
+      - tt0087533
+      - tt0087676
+      - tt0087683
+      - tt0087811
+      - tt0087891
+      - tt0088009
+      - tt0088056
+      - tt0088083
+      - tt0088166
+      - tt0088230
+      - tt0088275
+      - tt0088297
+      - tt0088324
+      - tt0088355
+      - tt0088357
+      - tt0088364
+      - tt0088404
+      - tt0088861
+      - tt0088925
+      - tt0089210
+      - tt0089407
+      - tt0089607
+      - tt0128562
+      - tt0129149
+      - tt0138702
+      - tt0144292
+      - tt0146782
+      - tt0147732
+      - tt0175629
+      - tt0176357
+      - tt0193720
+      - tt0267884
+      - tt0269966
+      - tt0300202
+      - tt0301224
+      - tt0310353
+      - tt0379047
+      - tt1215009
+    best film:
+      winner:
+      - tt0085785
+    best short film:
+      nominee:
+      - tt0302696
+      - tt0482290
+  gold plaque:
+    best documentary:
+      winner:
+      - tt0087423
+  silver hugo:
+    best actor:
+      persons:
+        tt0195624:
+          id: nm0709236
+          name: Frank Ramírez
+      winner:
+      - tt0195624
+    best director:
+      persons:
+        tt0087228:
+          id: nm0143129
+          name: David Casci
+      winner:
+      - tt0087228
+    best feature film:
+      winner:
+      - tt0087280
+      - tt0089771
+  silver plaque:
+    best short film:
+      nominee:
+      - tt0269735
+      winner:
+      - tt0087871
+  silver plaque award:
+    documentary:
+      winner:
+      - tt1827369
+'1985':
+  bronze hugo:
+    best animated film:
+      winner:
+      - tt0478395
+    best film:
+      winner:
+      - tt0089739
+    unknown:
+      winner:
+      - tt0478395
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0087049
+      - tt0088857
+      - tt0089460
+      - tt0089507
+      - tt0089535
+      - tt0089666
+      - tt0091514
+      - tt0176247
+      - tt0182930
+      - tt0182938
+      - tt0183786
+      - tt0269760
+      - tt0298365
+      - tt0322831
+      - tt0347129
+      - tt0347654
+      - tt0348412
+      - tt0358071
+      - tt0360360
+      - tt0371090
+      - tt0430270
+      - tt0475177
+      - tt0829433
+      - tt0878136
+      - tt1161446
+      - tt1310395
+      - tt1600666
+      - tt1772910
+      - tt1826634
+      - tt1859463
+      - tt1999139
+      - tt2100654
+    best feature:
+      nominee:
+      - tt0087123
+      - tt0087320
+      - tt0087869
+      - tt0087888
+      - tt0088652
+      - tt0089313
+      - tt0089400
+      - tt0089485
+      - tt0089987
+      - tt0090069
+      - tt0090236
+      - tt0090253
+      - tt0091375
+      - tt0093235
+      - tt0123793
+      winner:
+      - tt0089276
+    best short film:
+      nominee:
+      - tt0087880
+      - tt0088223
+      - tt0088466
+      - tt0088721
+      - tt0088805
+      - tt0089044
+      - tt0089741
+      - tt0089783
+      - tt0089980
+      - tt0090154
+      - tt0124170
+      - tt0191518
+      - tt0194758
+      - tt0195210
+      - tt0216052
+      - tt0224819
+      - tt0226191
+      - tt0251010
+      - tt0269931
+      - tt0298595
+      - tt0326583
+      - tt0341390
+      - tt0356915
+      - tt0359117
+      - tt0379413
+      - tt0391853
+      - tt0392447
+      - tt0406879
+      - tt0434123
+      - tt0457565
+      - tt0471344
+      - tt0476030
+      - tt0985117
+      - tt1580429
+      - tt1948569
+      - tt1970001
+      - tt2042716
+      - tt2112950
+  gold plaque:
+    best short subject film - drama:
+      winner:
+      - tt0191518
+  silver hugo:
+    best first feature film:
+      winner:
+      - tt0090241
+  silver plaque:
+    best film:
+      winner:
+      - tt0090154
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0090171
+'1986':
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0088990
+      - tt0090141
+      - tt0091327
+      - tt0091833
+      - tt0092229
+      - tt0093040
+      - tt0163662
+      - tt0189617
+      - tt0207471
+      - tt0212572
+      - tt0216532
+      - tt0225455
+      - tt0253746
+      - tt0274160
+      - tt0346877
+      - tt0348083
+      - tt0348415
+      - tt0364151
+      - tt0410059
+      - tt0422169
+      - tt1219045
+      - tt1789881
+      - tt1827475
+      - tt2047722
+      - tt2122525
+    best feature:
+      nominee:
+      - tt0088711
+      - tt0088907
+      - tt0088917
+      - tt0089158
+      - tt0089205
+      - tt0089584
+      - tt0089663
+      - tt0089760
+      - tt0089808
+      - tt0089855
+      - tt0090173
+      - tt0090197
+      - tt0090309
+      - tt0090336
+      - tt0090566
+      - tt0090579
+      - tt0090686
+      - tt0090698
+      - tt0090867
+      - tt0090940
+      - tt0090985
+      - tt0091214
+      - tt0091268
+      - tt0091354
+      - tt0091470
+      - tt0091527
+      - tt0091528
+      - tt0091646
+      - tt0091834
+      - tt0091839
+      - tt0091947
+      - tt0092090
+      - tt0092299
+      - tt0092307
+      - tt0162985
+      - tt0250423
+      - tt0342623
+      - tt0847894
+    best short film:
+      nominee:
+      - tt0087662
+      - tt0089225
+      - tt0089612
+      - tt0089878
+      - tt0090614
+      - tt0090615
+      - tt0091787
+      - tt0132952
+      - tt0133132
+      - tt0136722
+      - tt0152371
+      - tt0174834
+      - tt0176597
+      - tt0210705
+      - tt0216003
+      - tt0227133
+      - tt0240553
+      - tt0240637
+      - tt0242422
+      - tt0242590
+      - tt0242687
+      - tt0242775
+      - tt0242803
+      - tt0242925
+      - tt0242974
+      - tt0266305
+      - tt0269352
+      - tt0282652
+      - tt0375558
+      - tt0476542
+      - tt0769544
+      - tt0849434
+      - tt1808298
+      - tt2215535
+      winner:
+      - tt0089225
+    gold hugo:
+      winner:
+      - tt0133132
+  gold plaque:
+    best network television mini-series:
+      winner:
+      - tt0375349
+    best short film:
+      winner:
+      - tt1216472
+  silver hugo:
+    best documentary:
+      winner:
+      - tt1819774
+'1987':
+  certificate of merit:
+    student film - short subject:
+      winner:
+      - tt0227272
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0486184
+    best feature:
+      nominee:
+      - tt0090679
+      - tt0090895
+      - tt0091073
+      - tt0091507
+      - tt0091521
+      - tt0091696
+      - tt0092568
+      - tt0092637
+      - tt0092691
+      - tt0092924
+      - tt0093004
+      - tt0093029
+      - tt0093502
+      - tt0094031
+      - tt0094081
+      - tt0094173
+      - tt0094176
+      - tt0094248
+      - tt0094289
+      - tt0153060
+      - tt0171763
+      winner:
+      - tt0092040
+    best short film:
+      nominee:
+      - tt0090715
+      - tt0093254
+      - tt0095197
+      - tt0174498
+      - tt0242633
+      - tt0242901
+      - tt0355322
+      - tt0370369
+      - tt0414681
+      - tt0479278
+      - tt0487216
+      - tt0985085
+      - tt1996419
+      - tt2285501
+  gold plaque:
+    animated film:
+      winner:
+      - tt0402896
+    documentaries/fine arts:
+      winner:
+      - tt0283136
+    gold plaque:
+      winner:
+      - tt0092899
+  honorable mention:
+    new directors competition:
+      persons:
+        tt2812640:
+          id: nm0224689
+          name: Monty Diamond
+      winner:
+      - tt2812640
+  silver hugo:
+    best actor:
+      persons:
+        tt0093754:
+          id: nm0538513
+          name: Avtandil Makharadze
+      winner:
+      - tt0093754
+  silver plaque:
+    silver plaque:
+      winner:
+      - tt0968333
+    student production - short subject:
+      winner:
+      - tt2635094
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0093754
+'1988':
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt1813582
+    best short film:
+      winner:
+      - tt0095826
+      - tt0097532
+      - tt0194971
+      - tt0227325
+      - tt0293705
+      - tt0317251
+      - tt0421935
+      - tt0836634
+      - tt0940812
+  gold hugo:
+    best animated film:
+      winner:
+      - tt1399070
+    best documentary:
+      nominee:
+      - tt0095918
+      - tt0097403
+      - tt0097772
+      - tt0154244
+      - tt0199762
+      - tt0224808
+      - tt0269042
+      - tt0296033
+      - tt0351087
+      - tt0428245
+      - tt1682361
+      winner:
+      - tt0094416
+      - tt0124217
+    best feature:
+      nominee:
+      - tt0085916
+      - tt0090987
+      - tt0092761
+      - tt0092982
+      - tt0093192
+      - tt0094816
+      - tt0094869
+      - tt0094892
+      - tt0095265
+      - tt0095943
+      - tt0096006
+      - tt0096015
+      - tt0096146
+      - tt0096404
+      - tt0096476
+      - tt0096510
+      - tt0096516
+      - tt0098689
+      - tt0402061
+      winner:
+      - tt0095574
+    best short film:
+      nominee:
+      - tt0093826
+      - tt0094719
+      - tt0094883
+      - tt0095868
+      - tt0120264
+      - tt0170409
+      - tt0242782
+      - tt0243037
+      - tt0269405
+      - tt0279515
+      - tt0280107
+      - tt0287707
+      - tt0302809
+      - tt0352639
+      - tt0352854
+      - tt0388776
+      - tt0439891
+      - tt0457369
+      - tt0495880
+      - tt0887781
+      - tt1203536
+      - tt1262977
+      - tt1285286
+      - tt1743307
+      - tt1773620
+  gold plaque:
+    best documentary:
+      winner:
+      - tt0094925
+      - tt0095408
+      - tt0095892
+      - tt0096255
+      - tt0211124
+    best experimental short film:
+      winner:
+      - tt0464850
+    best short film:
+      winner:
+      - tt0288313
+      - tt0464850
+  silver hugo:
+    best director:
+      persons:
+        tt0096288:
+          id: nm0000766
+          name: Theodoros Angelopoulos
+      winner:
+      - tt0096288
+    best documentary:
+      winner:
+      - tt0099679
+      - tt0352877
+    best feature film:
+      winner:
+      - tt0092880
+    best short film:
+      winner:
+      - tt0098421
+      - tt0407213
+      - tt2016175
+    documentary:
+      winner:
+      - tt0093817
+  silver plaque:
+    best documentary:
+      winner:
+      - tt0094897
+      - tt0095735
+      - tt1632488
+    best short film:
+      winner:
+      - tt0216140
+      - tt0439736
+      - tt0968333
+    short subject - drama:
+      winner:
+      - tt0194971
+    student production - short subject:
+      winner:
+      - tt0227325
+'1989':
+  chicago award:
+    best short film:
+      winner:
+      - tt1370377
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0095127
+      - tt0095137
+      - tt0095386
+      - tt0095467
+      - tt0096128
+      - tt0097361
+      - tt0097614
+      - tt0097635
+      - tt0097695
+      - tt0097702
+      - tt0097955
+      - tt0097986
+      - tt0098253
+      - tt0098368
+      - tt0098684
+      - tt0100842
+      - tt0122234
+      - tt0123919
+      - tt0133965
+      - tt0205991
+      winner:
+      - tt0095244
+    best feature/best of the festival 25th anniversary:
+      winner:
+      - tt0065798
+    best short film:
+      nominee:
+      - tt0094825
+      - tt0096035
+      - tt0096849
+      - tt0097057
+      - tt0097509
+      - tt0097917
+      - tt0098677
+      - tt0108416
+      - tt0136776
+      - tt0140579
+      - tt0180609
+      - tt0189059
+      - tt0215595
+      - tt0216327
+      - tt0216403
+      - tt0217062
+      - tt0226769
+      - tt0227198
+      - tt0238259
+      - tt0242471
+      - tt0246557
+      - tt0265477
+      - tt0266289
+      - tt0269651
+      - tt0279935
+      - tt0280070
+      - tt0280838
+      - tt0290437
+      - tt0296798
+      - tt0312949
+      - tt0313757
+      - tt0324374
+      - tt0351261
+      - tt0380361
+      - tt0388776
+      - tt0389156
+      - tt0410065
+      - tt0439277
+      - tt0467695
+      - tt0482167
+      - tt0485130
+      - tt0489808
+      - tt0824399
+      - tt1226216
+      - tt1242770
+      - tt1262936
+      - tt1285286
+      - tt1392154
+      - tt1452929
+      - tt2114468
+  gold plaque:
+    student drama:
+      winner:
+      - tt0380361
+    television production - feature film made for tv - network special achievement in direction:
+      winner:
+      - tt0103244
+  silver hugo:
+    best actor:
+      persons:
+        tt0095127:
+          id: nm0345708
+          name: Jörg Gudzuhn
+      winner:
+      - tt0095127
+    best feature film:
+      winner:
+      - tt0095872
+      - tt0098287
+    best first feature film:
+      winner:
+      - tt0095937
+  silver plaque:
+    experimental:
+      winner:
+      - tt0467695
+'1990':
+  certificate of merit:
+    religion:
+      winner:
+      - tt0157249
+    unknown:
+      winner:
+      - tt0202179
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0096817
+      - tt0096862
+      - tt0097681
+      - tt0097848
+      - tt0098147
+      - tt0098244
+      - tt0099234
+      - tt0099336
+      - tt0099411
+      - tt0099768
+      - tt0099827
+      - tt0100557
+      - tt0100847
+      - tt0100990
+      - tt0101510
+      - tt0102432
+      winner:
+      - tt0099902
+    best short film:
+      nominee:
+      - tt0098483
+      - tt0102312
+      - tt0216166
+      - tt0331429
+    documentary:
+      winner:
+      - tt1395031
+  gold plaque:
+    best short film:
+      winner:
+      - tt2148082
+    short film:
+      winner:
+      - tt10960280
+  silver hugo:
+    best actress:
+      persons:
+        tt0100557:
+          id: nm0831660
+          name: Lena Stolze
+      winner:
+      - tt0100557
+    best feature film:
+      winner:
+      - tt0084548
+    best first feature film:
+      winner:
+      - tt0090665
+    best short film:
+      winner:
+      - tt0433895
+    documentary:
+      winner:
+      - tt0224580
+  silver plaque:
+    best feature film:
+      winner:
+      - tt0100101
+    best short documentary:
+      winner:
+      - tt0096803
+    'documentary: social/political':
+      winner:
+      - tt0121292
+    silver plaque:
+      winner:
+      - tt0884859
+      - tt1172503
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0098972
+  world peace prize:
+    world peace prize:
+      winner:
+      - tt0099273
+'1991':
+  certificate of merit:
+    best animated short film:
+      nominee:
+      - tt3075854
+    best short film:
+      winner:
+      - tt0217220
+  emerging artist award:
+    emerging artist award:
+      nominee:
+      - tt0101773
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0099120
+      - tt0099352
+      - tt0099673
+      - tt0099950
+      - tt0101324
+      - tt0101337
+      - tt0101504
+      - tt0101658
+      - tt0101765
+      - tt0102131
+      - tt0102693
+      - tt0102823
+      - tt0102843
+      - tt0102855
+      - tt0102899
+      - tt0103138
+      winner:
+      - tt0101700
+    best short film:
+      nominee:
+      - tt0099508
+      - tt0099896
+      - tt0102384
+      - tt0102997
+      - tt0105224
+      - tt0125668
+      - tt0205860
+      - tt0295517
+      - tt0305603
+      - tt0317188
+      - tt0424389
+      - tt1992201
+  gold plaque:
+    best cinematography:
+      winner:
+      - tt0099950
+    best short film:
+      winner:
+      - tt0095571
+      - tt0099382
+      - tt0381691
+    best short subject film - drama:
+      winner:
+      - tt0444538
+    children's program:
+      winner:
+      - tt2014206
+  silver hugo:
+    best director:
+      persons:
+        tt0101317:
+          id: nm0033005
+          name: Vicente Aranda
+      winner:
+      - tt0101317
+    best first feature film:
+      winner:
+      - tt0102721
+    documentary:
+      winner:
+      - tt0211766
+  silver plaque:
+    animation:
+      winner:
+      - tt2014206
+    best short film:
+      winner:
+      - tt0101511
+      - tt0103301
+      - tt0331998
+      - tt5957082
+'1992':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0103994
+  certificate of merit:
+    best short film:
+      winner:
+      - tt0101552
+      - tt0101926
+      - tt0137348
+      - tt0376728
+      - tt1419901
+    best short subject drama:
+      winner:
+      - tt0104032
+  gold hugo:
+    best comedy/satire:
+      winner:
+      - tt0379716
+    best feature:
+      nominee:
+      - tt0099089
+      - tt0103176
+      - tt0103793
+      - tt0104414
+      - tt0104489
+      - tt0104641
+      - tt0105236
+      - tt0105382
+      - tt0105915
+      - tt0128301
+      winner:
+      - tt0105438
+    best short film:
+      nominee:
+      - tt0101468
+      - tt0102786
+      - tt0103725
+      - tt0104032
+      - tt0104536
+      - tt0105010
+      - tt0105134
+      - tt0105311
+      - tt0176103
+      - tt0205855
+      - tt0241397
+      - tt0257005
+      - tt0318603
+      - tt0323286
+      - tt0324233
+      - tt0415170
+      - tt0433024
+      - tt0470153
+      - tt0769774
+      - tt1287345
+      winner:
+      - tt0197581
+    best social/political documentary:
+      winner:
+      - tt0104810
+    gold hugo:
+      winner:
+      - tt0136200
+  gold plaque:
+    animation:
+      winner:
+      - tt0295517
+    best actor:
+      persons:
+        tt0105436:
+          id: nm0430746
+          name: Erland Josephson
+      winner:
+      - tt0105436
+    best actress:
+      persons:
+        tt0101542:
+          id: nm0374685
+          name: Maria Heiskanen
+      winner:
+      - tt0101542
+    best short - humor/satire:
+      winner:
+      - tt0222234
+    best short film:
+      winner:
+      - tt0103844
+      - tt0104908
+      - tt0344819
+    best student documentary short:
+      winner:
+      - tt0286085
+    best supporting actor:
+      persons:
+        tt0104503:
+          id: nm0101604
+          name: Sully Boyar
+      winner:
+      - tt0104503
+    best supporting actress:
+      persons:
+        tt0101753:
+          id: nm0271465
+          name: Maddalena Fellini
+      winner:
+      - tt0101753
+    independent short subject-films & video - dramatic-original:
+      winner:
+      - tt0193286
+  silver hugo:
+    best actor:
+      persons:
+        tt0104503:
+          id: nm0001025
+          name: Seymour Cassel
+      winner:
+      - tt0104503
+    best actress:
+      persons:
+        tt0102816:
+          id: nm0001041
+          name: Maggie Cheung
+      winner:
+      - tt0102816
+    best director:
+      persons:
+        tt0102816:
+          id: nm0477102
+          name: Stanley Kwan
+      winner:
+      - tt0102816
+    best documentary:
+      winner:
+      - tt0217220
+    best documentary feature:
+      winner:
+      - tt0103888
+    best first feature film:
+      winner:
+      - tt0105488
+    best screenplay:
+      winner:
+      - tt0103994
+    best short film:
+      winner:
+      - tt0192267
+      - tt0205719
+      - tt0236695
+  silver plaque:
+    best director:
+      persons:
+        tt0092357:
+          id: nm0003941
+          name: David Winning
+      winner:
+      - tt0092357
+    best documentary:
+      winner:
+      - tt3441158
+    best short film:
+      winner:
+      - tt0101270
+      - tt0102392
+      - tt0188400
+      - tt0238337
+      - tt0482104
+    best short subject drama:
+      winner:
+      - tt0238337
+    best television drama:
+      winner:
+      - tt0092357
+    silver plaque:
+      winner:
+      - tt0104760
+  special jury prize:
+    cinematography:
+      winner:
+      - tt0104046
+    documentary film:
+      winner:
+      - tt0104789
+    special jury award:
+      winner:
+      - tt0104467
+  world peace prize:
+    world peace prize:
+      winner:
+      - tt0102361
+'1993':
+  certificate of merit:
+    animated film:
+      winner:
+      - tt0305603
+    best direction, dramatic series:
+      winner:
+      - tt0101209
+    best short film:
+      winner:
+      - tt0107122
+      - tt0158666
+      - tt0332002
+      - tt1343111
+      - tt2316455
+    short film - animation:
+      winner:
+      - tt0403830
+    short subject film for children:
+      winner:
+      - tt0359553
+    television production documentary - history/biography:
+      winner:
+      - tt1864543
+  gold hugo:
+    best feature:
+      nominee:
+      - tt0101295
+      - tt0106319
+      - tt0106408
+      - tt0106525
+      - tt0106693
+      - tt0106745
+      - tt0107037
+      - tt0107064
+      - tt0107291
+      - tt0107334
+      - tt0107358
+      - tt0107653
+      - tt0108256
+      - tt0108608
+      - tt0261380
+      winner:
+      - tt0104616
+    best history/biography:
+      winner:
+      - tt0104531
+    best short film:
+      nominee:
+      - tt0106692
+      - tt0107765
+      - tt0138627
+      - tt0151517
+      - tt0188508
+      - tt0251745
+      - tt0461267
+      - tt1175298
+      winner:
+      - tt0883364
+      - tt0977218
+  gold plaque:
+    best short - humor/satire:
+      winner:
+      - tt0279780
+    best short film:
+      winner:
+      - tt0105335
+      - tt0124866
+      - tt0143974
+      - tt0807853
+      - tt1020983
+      - tt1836201
+  silver hugo:
+    best actor:
+      persons:
+        tt0104751:
+          id: nm0554929
+          name: Roberto Sosa
+        tt0108170:
+          id: nm0000538
+          name: Colm Meaney
+      winner:
+      - tt0104751
+      - tt0108170
+    best actress:
+      persons:
+        tt0108608:
+          id: nm0802700
+          name: Siqin Gaowa
+      winner:
+      - tt0108608
+    best director:
+      persons:
+        tt0107358:
+          id: nm0862514
+          name: Zhuangzhuang Tian
+      winner:
+      - tt0107358
+    best documentary feature:
+      winner:
+      - tt0107472
+    best first feature film:
+      winner:
+      - tt0106579
+    best screenplay:
+      winner:
+      - tt0108094
+    best short film:
+      winner:
+      - tt0108494
+      - tt0133931
+      - tt0160328
+      - tt0161353
+      - tt0475594
+    best student film:
+      winner:
+      - tt0105099
+    'documentary: social/political':
+      winner:
+      - tt0375812
+  silver plaque:
+    art documentaries:
+      winner:
+      - tt0106744
+    best short film:
+      winner:
+      - tt0106495
+      - tt0107789
+      - tt0107851
+      - tt0298392
+      - tt0313615
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0108394
+'1994':
+  audience choice award:
+    mercedes-benz audience award:
+      winner:
+      - tt0110598
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt0108129
+    best short film:
+      winner:
+      - tt0206122
+    student drama category:
+      winner:
+      - tt0178073
+  gold hugo:
+    best direction, children's television:
+      winner:
+      - tt0103352
+    best documentary:
+      winner:
+      - tt0109934
+      - tt0110738
+    best feature:
+      nominee:
+      - tt0107023
+      - tt0108490
+      - tt0109382
+      - tt0109424
+      - tt0109738
+      - tt0109759
+      - tt0110005
+      - tt0110011
+      - tt0110203
+      - tt0110281
+      - tt0110298
+      - tt0111019
+      - tt0111236
+      winner:
+      - tt0109020
+    best short film:
+      nominee:
+      - tt0106711
+      - tt0107173
+      - tt0107968
+      - tt0108165
+      - tt0108181
+      - tt0108498
+      - tt0109063
+      - tt0109270
+      - tt0110685
+      - tt0110787
+      - tt0111338
+      - tt0111404
+      - tt0111673
+      - tt0179167
+      - tt0194931
+      - tt0196120
+      - tt0206122
+      - tt0229638
+      - tt0229756
+      - tt0283860
+      - tt0317383
+      - tt0317566
+      - tt0346546
+      - tt0359118
+      - tt0400534
+      - tt0418172
+      - tt0759939
+      - tt0852609
+      - tt1016231
+      - tt1792627
+      winner:
+      - tt0205785
+      - tt0226520
+      - tt0399865
+      - tt0475508
+    editing:
+      winner:
+      - tt0110583
+  gold plaque:
+    best cinematography:
+      winner:
+      - tt0111749
+    best documentary:
+      winner:
+      - tt0109308
+      - tt0111188
+    best short film:
+      winner:
+      - tt0108441
+      - tt0109055
+      - tt0111620
+      - tt0132263
+      - tt0317591
+      - tt0327023
+      - tt0400534
+      - tt0937429
+  silver hugo:
+    best actor:
+      persons:
+        tt0106966:
+          id: nm0675751
+          name: Jorge Perugorría
+      winner:
+      - tt0106966
+    best actress:
+      persons:
+        tt0110296:
+          id: nm0734156
+          name: Crissy Rock
+      winner:
+      - tt0110296
+    best documentary:
+      winner:
+      - tt0109749
+    best feature film:
+      winner:
+      - tt0111689
+    best film:
+      winner:
+      - tt0111845
+    best first feature film:
+      winner:
+      - tt0111055
+    best short film:
+      winner:
+      - tt0106446
+      - tt0109181
+      - tt0212210
+    'documentary: social/political':
+      winner:
+      - tt0109462
+    intercom - education:
+      winner:
+      - tt0326621
+  silver plaque:
+    best dramatic short - student:
+      winner:
+      - tt0106495
+    best short film:
+      winner:
+      - tt0109870
+      - tt0109915
+      - tt0126101
+      - tt0190400
+      - tt0210639
+      - tt0985681
+    'documentary: social/political':
+      nominee:
+      - tt1097556
+    environmental:
+      winner:
+      - tt1097556
+'1995':
+  audience choice award:
+    gold plaque:
+      winner:
+      - tt0112379
+      - tt0113828
+    silver plaque:
+      winner:
+      - tt0112619
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt0240148
+    best film:
+      winner:
+      - tt0297626
+    best short film:
+      winner:
+      - tt0241328
+      - tt0249553
+      - tt0803000
+    certificate of merit:
+      winner:
+      - tt1186824
+    documentary:
+      winner:
+      - tt0243449
+    documentary - history / biography:
+      winner:
+      - tt0112657
+    short film:
+      winner:
+      - tt0127911
+      - tt0370621
+    special achievement in direction:
+      winner:
+      - tt0437354
+    technical achievement:
+      winner:
+      - tt0116090
+    television - investigative reporting/news documentary:
+      winner:
+      - tt0114002
+  gold hugo:
+    best direction, children's television:
+      winner:
+      - tt0103352
+    best feature:
+      nominee:
+      - tt0109746
+      - tt0110053
+      - tt0113256
+      - tt0113311
+      - tt0113571
+      - tt0113612
+      - tt0113992
+      - tt0114266
+      - tt0115028
+      - tt0115033
+      - tt0116867
+      - tt0117117
+      - tt0117999
+      winner:
+      - tt0113725
+    best short film:
+      nominee:
+      - tt0108959
+      - tt0109264
+      - tt0111289
+      - tt0114064
+      - tt0114177
+      - tt0114475
+      - tt0126334
+      - tt0171103
+      - tt0185275
+      - tt0226552
+      - tt0239387
+      - tt0263966
+      - tt0269333
+      - tt1703939
+  gold plaque:
+    best documentary:
+      winner:
+      - tt0112373
+      - tt0112832
+    best short film:
+      winner:
+      - tt0113275
+      - tt0166688
+      - tt0249501
+    gold plaque:
+      winner:
+      - tt0110720
+      - tt0244188
+      - tt0759934
+    student film:
+      winner:
+      - tt0804547
+  silver hugo:
+    best actor:
+      persons:
+        tt0113054:
+          id: nm0004462
+          name: Jean-Louis Trintignant
+      winner:
+      - tt0113054
+    best actress:
+      persons:
+        tt0112352:
+          id: nm0093718
+          name: Anna Bonaiuto
+      winner:
+      - tt0112352
+    best arts documentary:
+      winner:
+      - tt0269195
+    best documentary:
+      winner:
+      - tt0113734
+    best first feature film:
+      winner:
+      - tt0111421
+    best screenplay:
+      winner:
+      - tt0112379
+    best short film:
+      winner:
+      - tt0110368
+      - tt0232262
+      - tt0459279
+    silver hugo:
+      winner:
+      - tt0112321
+  silver plaque:
+    best short film:
+      winner:
+      - tt0111690
+      - tt0117897
+    documentary:
+      winner:
+      - tt0114930
+    'documentary: social/political':
+      winner:
+      - tt0114229
+  special jury prize:
+    special jury prize:
+      winner:
+      - tt0112352
+      - tt0113767
+  world peace prize:
+    world peace prize:
+      winner:
+      - tt0113311
+'1996':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0116468
+  certificate of merit:
+    best experimental short film:
+      winner:
+      - tt0112689
+      - tt0417830
+      - tt1194129
+    best narrative short film:
+      winner:
+      - tt0304720
+    best student documentary short:
+      nominee:
+      - tt0136947
+      winner:
+      - tt0113505
+      - tt0168998
+      - tt0307965
+    best student narrative short:
+      winner:
+      - tt0119602
+      - tt0209315
+      - tt0218055
+      - tt0322294
+      - tt0360572
+      - tt0425788
+      - tt1448428
+    best student narrative short film:
+      winner:
+      - tt0139233
+    certificate of merit:
+      winner:
+      - tt0112661
+      - tt0402283
+    documentary short:
+      winner:
+      - tt0112648
+      - tt0113963
+      - tt0116886
+      - tt0119776
+      - tt0125043
+      - tt0163972
+      - tt0214513
+      - tt0266632
+      - tt1765727
+    'special achievement: direction':
+      winner:
+      - tt0124682
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0113286
+      - tt0114728
+      - tt0116344
+      - tt0117075
+      - tt0122453
+    best documentary short:
+      winner:
+      - tt0162648
+      - tt1058034
+    best experimental short film:
+      winner:
+      - tt0984244
+    best feature:
+      nominee:
+      - tt0112474
+      - tt0115067
+      - tt0115600
+      - tt0116555
+      - tt0116563
+      - tt0116714
+      - tt0116729
+      - tt0116882
+      - tt0117684
+      - tt0118044
+      - tt0119845
+    best film:
+      winner:
+      - tt0117477
+    best short film:
+      nominee:
+      - tt0112259
+      - tt0113671
+      - tt0114750
+      - tt0116394
+      - tt0116602
+      - tt0117210
+      - tt0117232
+      - tt0123222
+      - tt0125042
+      - tt0197535
+      - tt0298723
+      - tt0311538
+      - tt0337954
+      - tt0417830
+    best student animated short:
+      winner:
+      - tt0117419
+    best student documentary short:
+      winner:
+      - tt0113798
+    children's film:
+      winner:
+      - tt0124052
+  gold plaque:
+    best documentary:
+      winner:
+      - tt0117346
+      - tt1785483
+    best documentary short:
+      winner:
+      - tt0113248
+      - tt0115805
+    best experimental short film:
+      winner:
+      - tt0268277
+      - tt0304522
+    best film:
+      winner:
+      - tt0113767
+    best international student film:
+      winner:
+      - tt1475172
+    best narrative short film:
+      winner:
+      - tt0178357
+      - tt0179831
+      - tt0268030
+      - tt0311649
+      - tt1240904
+      - tt2093043
+    best special effects:
+      winner:
+      - tt0480600
+    best student live action - under 15 minutes:
+      winner:
+      - tt5057150
+    best student narrative short:
+      winner:
+      - tt0298719
+      - tt0425851
+    children's program:
+      winner:
+      - tt0115877
+    feature length telefilm:
+      winner:
+      - tt0124682
+    gold plaque:
+      winner:
+      - tt0480600
+    humanities:
+      winner:
+      - tt0134916
+    short subject experimental:
+      winner:
+      - tt0115692
+    unknown:
+      winner:
+      - tt0195827
+  short film awards:
+    best documentary short:
+      winner:
+      - tt0115805
+  silver hugo:
+    best actor:
+      persons:
+        tt0116722:
+          id: nm0001172
+          name: Christopher Eccleston
+      winner:
+      - tt0116722
+    best actress:
+      persons:
+        tt0116308:
+          id: nm0000818
+          name: Shabana Azmi
+      winner:
+      - tt0116308
+    best documentary short:
+      winner:
+      - tt0114427
+      - tt0114728
+      - tt0212793
+    best ensemble acting:
+      winner:
+      - tt0117991
+    best experimental short film:
+      winner:
+      - tt0114242
+      - tt0311538
+    best first feature film:
+      winner:
+      - tt0114374
+    best narrative short film:
+      winner:
+      - tt0114583
+      - tt0124052
+      - tt0178214
+    best screenplay:
+      winner:
+      - tt0115468
+    best short film:
+      winner:
+      - tt0177103
+    best student live action short film 15 minutes and over:
+      winner:
+      - tt0214602
+    best student narrative short:
+      winner:
+      - tt0113699
+      - tt0174031
+    best supporting actor:
+      persons:
+        tt0115762:
+          id: nm0605363
+          name: Michael Moriarty
+      winner:
+      - tt0115762
+    experimental:
+      winner:
+      - tt0371818
+  silver plaque:
+    best animated student film:
+      winner:
+      - tt0123860
+    best documentary - arts/humanities:
+      winner:
+      - tt0117907
+    best documentary short:
+      winner:
+      - tt0114674
+      - tt0116556
+      - tt0120045
+      - tt0138052
+    best experimental short film:
+      winner:
+      - tt0117538
+      - tt0117558
+      - tt0118726
+      - tt0277905
+    best narrative short film:
+      winner:
+      - tt0160959
+    best student narrative short:
+      winner:
+      - tt0113468
+    best student narrative short film:
+      winner:
+      - tt0173460
+    best student narrative short film 15 minutes and over:
+      winner:
+      - tt0129015
+    computer imagery, special effects:
+      winner:
+      - tt0413899
+    documentary:
+      winner:
+      - tt0245304
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0117666
+'1997':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0120090
+  certificate of merit:
+    best animated short film:
+      winner:
+      - tt0156104
+      - tt1821639
+    best experimental short film:
+      winner:
+      - tt0137910
+    best narrative short film:
+      nominee:
+      - tt0134315
+      winner:
+      - tt0119200
+      - tt0119387
+      - tt0127362
+      - tt0128047
+      - tt0208102
+    documentary:
+      winner:
+      - tt0245032
+    documentary short:
+      winner:
+      - tt0118042
+      - tt0126828
+      - tt0228763
+      - tt0245032
+      - tt0245529
+      - tt0467499
+    student animated short:
+      winner:
+      - tt0120561
+      - tt0245180
+      - tt0287670
+    student documentary short:
+      winner:
+      - tt0209473
+    student narrative short:
+      winner:
+      - tt1756548
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0120448
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0119574
+  gold hugo:
+    best animated short film:
+      winner:
+      - tt0116574
+    best documentary short:
+      winner:
+      - tt0119561
+    best film:
+      nominee:
+      - tt0115164
+      - tt0116692
+      - tt0116785
+      - tt0118767
+      - tt0119150
+      - tt0119167
+      - tt0119263
+      - tt0119324
+      - tt0119430
+      - tt0119467
+      - tt0119687
+      - tt0119948
+      - tt0120090
+      - tt0120443
+      - tt0120490
+      - tt0120520
+      - tt0120526
+      - tt0123385
+      - tt0123889
+      - tt0127310
+      winner:
+      - tt0120521
+    best narrative short film:
+      winner:
+      - tt0351052
+    best short film:
+      nominee:
+      - tt0112260
+      - tt0116105
+      - tt0159524
+      - tt0176743
+      - tt0205893
+      - tt0206359
+      - tt0211021
+      - tt0255905
+      - tt0369290
+      - tt0480942
+      winner:
+      - tt0305397
+    best student animated short:
+      winner:
+      - tt0388773
+    best student narrative short:
+      winner:
+      - tt0137396
+    best student narrative short film 15 minutes and over:
+      winner:
+      - tt0156758
+    documentary competition:
+      winner:
+      - tt0275353
+    new directors competition:
+      nominee:
+      - tt0116015
+      - tt0117069
+      - tt0117097
+      - tt0118780
+      - tt0119278
+      - tt0119352
+      - tt0119472
+      - tt0119923
+      - tt0120453
+      - tt0127311
+      persons:
+        tt0116015:
+          id: nm0848992
+          name: Sabu
+        tt0117069:
+          id: nm0608879
+          name: Gustavo Mosquera R.
+        tt0117097:
+          id: nm0740760
+          name: Mireia Ros
+        tt0118780:
+          id: nm0585990
+          name: Victor Mignatti
+        tt0119278:
+          id: nm0194191
+          name: Mary Cybulski
+        tt0119352:
+          id: nm0550446
+          name: Joel B. Marsden
+        tt0119472:
+          id: nm0415714
+          name: Thomas Jahn
+        tt0119923:
+          id: nm0747690
+          name: Brigitte Roüan
+        tt0120453:
+          id: nm0539022
+          name: Christophe Malavoy
+        tt0127311:
+          id: nm0952077
+          name: Dervis Zaim
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0209948
+      - tt0254868
+    best animated student film:
+      winner:
+      - tt0123970
+    best documentary short:
+      winner:
+      - tt0116415
+      - tt0118014
+      - tt0118167
+      - tt0118709
+      - tt0119118
+      - tt0130170
+      - tt0170553
+      - tt0224810
+      - tt0226494
+    best experimental short film:
+      winner:
+      - tt0125018
+    best narrative short film:
+      winner:
+      - tt0127505
+      - tt0303927
+    best student animated short:
+      winner:
+      - tt0123970
+    best student documentary short:
+      winner:
+      - tt0116724
+      - tt1766088
+    best student experimental short:
+      winner:
+      - tt0819692
+    best student narrative short:
+      winner:
+      - tt0162345
+    documentary short:
+      winner:
+      - tt0159768
+    intercom competition:
+      winner:
+      - tt0211090
+    narrative shorts under 15 minutes:
+      winner:
+      - tt0159524
+    special mention:
+      winner:
+      - tt0116692
+  silver hugo:
+    best actor:
+      persons:
+        tt0118767:
+          id: nm0091074
+          name: Sergey Bodrov
+      winner:
+      - tt0118767
+    best actress:
+      persons:
+        tt0115164:
+          id: nm0000278
+          name: Pernilla August
+      winner:
+      - tt0115164
+    best animated short film:
+      winner:
+      - tt0440267
+    best cinematography:
+      winner:
+      - tt0120526
+    best director:
+      persons:
+        tt0119167:
+          id: nm0359734
+          name: Michael Haneke
+      winner:
+      - tt0119167
+    best documentary:
+      winner:
+      - tt0139057
+    best documentary short:
+      winner:
+      - tt0120017
+    best narrative short film:
+      winner:
+      - tt0119552
+      - tt0188533
+    best short film:
+      winner:
+      - tt0127001
+    best student narrative short film 15 minutes and over:
+      winner:
+      - tt0127001
+      - tt0163775
+    jury special prize:
+      winner:
+      - tt0119263
+    silver hugo:
+      winner:
+      - tt0120017
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt0120040
+      - tt0160185
+    best documentary short:
+      winner:
+      - tt0124301
+      - tt0126249
+      - tt0127205
+      - tt0129801
+    best experimental short film:
+      winner:
+      - tt0157651
+    best narrative short film:
+      nominee:
+      - tt0117597
+      winner:
+      - tt0116131
+      - tt0177025
+      - tt0196973
+      - tt0259582
+    best student documentary short:
+      winner:
+      - tt0219830
+    best student narrative short:
+      winner:
+      - tt0136612
+      - tt0261020
+    best student narrative short film 15 minutes and over:
+      winner:
+      - tt0119945
+  special jury prize:
+    special jury award:
+      winner:
+      - tt0094173
+'1998':
+  audience choice award:
+    best feature:
+      winner:
+      - tt0120684
+      - tt0142231
+  certificate of merit:
+    best animated student short film:
+      winner:
+      - tt0205305
+    best documentary:
+      winner:
+      - tt0415336
+      - tt0467499
+    best documentary short film:
+      winner:
+      - tt0162044
+      - tt0177303
+      - tt0204940
+    best experimental short film:
+      winner:
+      - tt0154543
+      - tt0205376
+    best narrative short film:
+      nominee:
+      - tt0364327
+      winner:
+      - tt0161915
+      - tt0163754
+      - tt0220285
+      - tt0404006
+      - tt0439742
+      - tt0473349
+      - tt1297800
+      - tt1825943
+    best student experimental short film:
+      winner:
+      - tt0203151
+    best student narrative short film 15 minutes & over:
+      winner:
+      - tt0213535
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0165901
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0155157
+  gold hugo:
+    best animated short:
+      winner:
+      - tt0176141
+    best documentary:
+      nominee:
+      - tt0144801
+      - tt0154893
+      - tt0176093
+      - tt0180286
+      winner:
+      - tt0168462
+    best experimental short film:
+      winner:
+      - tt0119065
+    best feature:
+      nominee:
+      - tt0118834
+      - tt0126735
+      - tt0141874
+      - tt0143751
+      - tt0143907
+      - tt0144029
+      - tt0160027
+      - tt0310975
+      winner:
+      - tt0156610
+    best narrative short film:
+      winner:
+      - tt0122589
+    best short film:
+      nominee:
+      - tt0138082
+      - tt0143295
+      - tt0156024
+      - tt0177349
+      - tt0209917
+      - tt0241737
+      - tt0259231
+      - tt0910912
+    best short narrative - 15 minutes and over:
+      winner:
+      - tt0168977
+    best student narrative short film 15 minutes and over:
+      winner:
+      - tt0206283
+    new directors competition:
+      nominee:
+      - tt0115005
+      - tt0119512
+      - tt0122471
+      - tt0127288
+      - tt0127551
+      - tt0140825
+      - tt0145480
+      - tt0154420
+      - tt0163172
+      - tt0179185
+      persons:
+        tt0115005:
+          id: nm0001040
+          name: Joan Chen
+        tt0119512:
+          id: nm0469103
+          name: Jeroen Krabbé
+        tt0122471:
+          id: nm0827459
+          name: Igor Sterk
+        tt0127288:
+          id: nm0002835
+          name: Adam Bernstein
+        tt0127551:
+          id: nm0408885
+          name: Raul Inglis
+        tt0140825:
+          id: nm0403297
+          name: Hur Jin-ho
+        tt0145480:
+          id: nm0818915
+          name: Fernando Spiner
+        tt0154420:
+          id: nm0899121
+          name: Thomas Vinterberg
+        tt0163172:
+          id: nm0333132
+          name: Naoe Gôzu
+        tt0179185:
+          id: nm0220274
+          name: Denis Dercourt
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0152800
+    best documentary short:
+      winner:
+      - tt0210979
+    best documentary short film:
+      winner:
+      - tt0199105
+    best experimental short film:
+      winner:
+      - tt0220291
+    best feature:
+      winner:
+      - tt0118924
+      - tt0143248
+    best music:
+      winner:
+      - tt0118924
+    best narrative short film:
+      winner:
+      - tt0122498
+      - tt0173216
+    best narrative short film - 15 minutes and over:
+      winner:
+      - tt0140875
+      - tt0183105
+    best student documentary short film:
+      winner:
+      - tt0205357
+    best student narrative short film 15 minutes & over:
+      winner:
+      - tt0157461
+    best student narrative short under 15 minutes:
+      winner:
+      - tt0119096
+      - tt0279790
+    documentaries - television:
+      winner:
+      - tt0467499
+  silver hugo:
+    best actor:
+      persons:
+        tt0174481:
+          id: nm0532458
+          name: Zécarlos Machado
+      winner:
+      - tt0174481
+    best actress:
+      persons:
+        tt0120588:
+          id: nm0553402
+          name: Alessandra Martines
+      winner:
+      - tt0120588
+    best animated short film:
+      winner:
+      - tt0154723
+      - tt0219989
+    best documentary:
+      winner:
+      - tt0166169
+      - tt0168684
+    best experimental short film:
+      winner:
+      - tt0367476
+    best feature:
+      winner:
+      - tt0187809
+    best narrative short film:
+      winner:
+      - tt0162961
+    best narrative short film - 15 minutes and over:
+      winner:
+      - tt0210308
+    jury special prize:
+      winner:
+      - tt0169364
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt0193771
+    best experimental short film:
+      winner:
+      - tt0158514
+    best narrative short film:
+      winner:
+      - tt0162205
+    best narrative short film - 15 minutes and over:
+      winner:
+      - tt0315749
+    best student narrative short under 15 minutes:
+      winner:
+      - tt0210092
+'1999':
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0210268
+  gold hugo:
+    best animated short:
+      winner:
+      - tt0200282
+    best documentary:
+      nominee:
+      - tt0198385
+      - tt0200849
+      - tt0202390
+      - tt0207030
+      - tt0210240
+      - tt0211942
+      winner:
+      - tt0181287
+    best feature:
+      nominee:
+      - tt0136423
+      - tt0164877
+      - tt0176415
+      - tt0177946
+      - tt0178737
+      - tt0199724
+      - tt0208288
+      - tt0208606
+      - tt0210163
+      - tt0210564
+      - tt0210915
+      - tt0212423
+      - tt0214557
+      - tt0236383
+    best film:
+      winner:
+      - tt0210167
+    best international feature:
+      nominee:
+      - tt0244199
+    best short film:
+      nominee:
+      - tt0168810
+      - tt0192156
+      - tt0200282
+      - tt0203050
+      - tt0204897
+      - tt0206325
+      - tt0215257
+      - tt0219414
+      - tt0219493
+      - tt0219725
+      - tt0220617
+      - tt0220761
+      - tt0220967
+      - tt0227362
+      - tt0257924
+      - tt0263251
+      - tt0350518
+      - tt0367986
+      - tt0404471
+      - tt0416257
+      - tt0479284
+      - tt1345516
+      - tt1592288
+    best short narrative - 15 minutes and over:
+      winner:
+      - tt0231083
+    new directors competition:
+      nominee:
+      - tt0126651
+      - tt0128170
+      - tt0155713
+      - tt0162023
+      - tt0162909
+      - tt0166175
+      - tt0176948
+      - tt0185101
+      - tt0190798
+      - tt0191821
+      - tt0203178
+      - tt0211401
+      - tt0218858
+      - tt0253189
+      persons:
+        tt0126651:
+          id: nm0819702
+          name: Alejandro Springall
+        tt0128170:
+          id: nm0705655
+          name: Ed Radtke
+        tt0155713:
+          id: nm0324380
+          name: Glen Goei
+        tt0162023:
+          id: nm0375691
+          name: Veit Helmer
+        tt0162909:
+          id: nm0438438
+          name: Arik Kaplun
+        tt0166175:
+          id: nm0640740
+          name: Damien O'Donnell
+        tt0176948:
+          id: nm0426461
+          name: Dwayne Johnson-Cochran
+        tt0185101:
+          id: nm0038609
+          name: Ash Baron-Cohen
+        tt0190798:
+          id: nm0952583
+          name: Benito Zambrano
+        tt0191821:
+          id: nm0728476
+          name: Lazar Ristovski
+        tt0203178:
+          id: nm0555610
+          name: Frederick Marx
+        tt0211401:
+          id: nm0030681
+          name: Sólveig Anspach
+        tt0218858:
+          id: nm0914940
+          name: Adam Watstein
+        tt0253189:
+          id: nm0225010
+          name: Lav Diaz
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0192145
+    best narrative short film:
+      winner:
+      - tt0194187
+  silver hugo:
+    best actor:
+      persons:
+        tt0201538:
+          id: nm0688143
+          name: Benoît Poelvoorde
+      winner:
+      - tt0201538
+    best actress:
+      persons:
+        tt0171804:
+          id: nm0005476
+          name: Hilary Swank
+      winner:
+      - tt0171804
+    best animated short film:
+      winner:
+      - tt0192392
+      - tt0317193
+    best director:
+      persons:
+        tt0171685:
+          id: nm0708903
+          name: Lynne Ramsay
+      winner:
+      - tt0171685
+    best documentary:
+      winner:
+      - tt0168219
+      - tt0294464
+    best film:
+      winner:
+      - tt0172477
+    best narrative short film:
+      winner:
+      - tt0203158
+    best screenplay:
+      winner:
+      - tt0148103
+  silver intercom award:
+    silver intercom award:
+      winner:
+      - tt6053150
+  silver plaque:
+    best documentary short:
+      winner:
+      - tt0213717
+    intercom special achievement - writing:
+      winner:
+      - tt0149465
+'2000':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0245712
+  certificate of merit:
+    best student animated film:
+      winner:
+      - tt0293262
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0250478
+      - tt0263790
+  gold hugo:
+    best animated short:
+      winner:
+      - tt0234588
+    best documentary:
+      nominee:
+      - tt0229283
+      - tt0240912
+      - tt0243040
+      - tt0258942
+      - tt0269039
+      winner:
+      - tt0247380
+    best feature:
+      nominee:
+      - tt0170635
+      - tt0199129
+      - tt0211359
+      - tt0211714
+      - tt0212897
+      - tt0215965
+      - tt0216800
+      - tt0220631
+      - tt0225535
+      - tt0230921
+      - tt0234217
+      - tt0261546
+    best film:
+      winner:
+      - tt0245712
+    best short film:
+      nominee:
+      - tt0201153
+      - tt0219601
+      - tt0220578
+      - tt0233455
+      - tt0239451
+      - tt0245862
+      - tt0245967
+      - tt0247818
+      - tt0248808
+      - tt0250709
+      - tt0256874
+      - tt0264430
+      - tt0266379
+      - tt0267558
+      - tt0267564
+      - tt0269014
+      - tt0281821
+      - tt0285699
+      - tt0296830
+      - tt0334232
+      - tt0359483
+    best short narrative - 15 minutes and over:
+      winner:
+      - tt0245764
+    best student narrative short film 15 minutes and over:
+      winner:
+      - tt0269572
+    new directors competition:
+      nominee:
+      - tt0202641
+      - tt0203540
+      - tt0208889
+      - tt0213623
+      - tt0224050
+      - tt0230252
+      - tt0237993
+      - tt0242795
+      - tt0243452
+      - tt0243483
+      - tt0258854
+      - tt0259744
+      - tt0262432
+      persons:
+        tt0202641:
+          id: nm0208343
+          name: Raymond De Felitta
+        tt0203540:
+          id: nm0380957
+          name: Joel Hershman
+        tt0208889:
+          id: nm0013750
+          name: Salvador Aguirre
+        tt0213623:
+          id: nm0004541
+          name: David Blair
+        tt0224050:
+          id: nm0574217
+          name: Conor McPherson
+        tt0230252:
+          id: nm0636841
+          name: Frank Novak
+        tt0237993:
+          id: nm0466349
+          name: Baltasar Kormákur
+        tt0242795:
+          id: nm0509852
+          name: Sébastien Lifshitz
+        tt0243452:
+          id: nm0610960
+          name: Kornél Mundruczó
+        tt0243483:
+          id: nm0897674
+          name: Anne Villacèque
+        tt0258854:
+          id: nm0780825
+          name: Carl Seaton
+        tt0259744:
+          id: nm0398836
+          name: Li-Kong Hsu
+        tt0262432:
+          id: nm0337773
+          name: David Gordon Green
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0254365
+    best animated student film:
+      winner:
+      - tt0265681
+    best direction, variety/entertainment:
+      winner:
+      - tt0207933
+    best documentary short:
+      winner:
+      - tt0334662
+    best narrative short film:
+      winner:
+      - tt0301003
+    independent productions - experimental video:
+      winner:
+      - tt0452382
+  silver hugo:
+    best actor:
+      persons:
+        tt0245712:
+          id: nm0248408
+          name: Emilio Echevarría
+      winner:
+      - tt0245712
+    best actress:
+      persons:
+        tt0235841:
+          id: nm0255678
+          name: Hannelore Elsner
+      winner:
+      - tt0235841
+    best director:
+      persons:
+        tt0255195:
+          id: nm0492309
+          name: Clara Law
+      winner:
+      - tt0255195
+    best documentary:
+      winner:
+      - tt0188028
+      - tt0261703
+    best experimental short film:
+      winner:
+      - tt0219964
+    best first film:
+      winner:
+      - tt0260332
+    best short film (15 minutes and over):
+      winner:
+      - tt0289899
+    special jury prize:
+      winner:
+      - tt0259072
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt0245024
+    best narrative short film:
+      winner:
+      - tt0245873
+      - tt0389372
+    best student narrative short:
+      winner:
+      - tt0359089
+'2001':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0211915
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0285848
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0270902
+      - tt0307264
+      - tt0317731
+      - tt0435342
+      winner:
+      - tt0276189
+    best feature:
+      nominee:
+      - tt0206963
+      - tt0217978
+      - tt0233841
+      - tt0234041
+      - tt0240419
+      - tt0243862
+      - tt0246744
+      - tt0247425
+      - tt0264100
+      - tt0280015
+      - tt0284815
+      - tt0288491
+      - tt0297398
+      - tt0299027
+    best film:
+      winner:
+      - tt0243255
+    best short film:
+      nominee:
+      - tt0246954
+      - tt0274525
+      - tt0281906
+      - tt0283326
+      - tt0283569
+      - tt0285539
+      - tt0285713
+      - tt0294607
+      - tt0300931
+      - tt0309121
+      - tt0330813
+      - tt0330955
+      - tt0337683
+      - tt0415321
+      - tt0834921
+      - tt2166189
+    best short narrative:
+      winner:
+      - tt0280591
+      - tt0305571
+    new directors competition:
+      nominee:
+      - tt0212292
+      - tt0217824
+      - tt0228536
+      - tt0236157
+      - tt0239102
+      - tt0246037
+      - tt0246628
+      - tt0246772
+      - tt0251636
+      - tt0279765
+      - tt0285730
+      - tt0286887
+      - tt0303396
+      - tt0304874
+      persons:
+        tt0212292:
+          id: nm0318580
+          name: Michael Gilio
+        tt0217824:
+          id: nm0522393
+          name: Nick Love
+        tt0228536:
+          id: nm0369618
+          name: Jessica Hausner
+        tt0236157:
+          id: nm0792202
+          name: Kirsten Sheridan
+        tt0239102:
+          id: nm0102629
+          name: F.A. Brabec
+        tt0246037:
+          id: nm0204466
+          name: DeMane Davis
+        tt0246628:
+          id: nm0805595
+          name: Neal Slavin
+        tt0246772:
+          id: nm0626686
+          name: Sandra Nettelbeck
+        tt0251636:
+          id: nm0270851
+          name: Ibolya Fekete
+        tt0279765:
+          id: nm0869007
+          name: Gerardo Tort
+        tt0285730:
+          id: nm0994322
+          name: Ya-chuan Hsiao
+        tt0286887:
+          id: nm0619763
+          name: Murali Nair
+        tt0303396:
+          id: nm0155400
+          name: Verónica Chen
+        tt0304874:
+          id: nm0541589
+          name: Kunitoshi Manda
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0289669
+    best documentary:
+      winner:
+      - tt0278102
+    best student documentary short:
+      winner:
+      - tt0266509
+      - tt0303296
+    best student narrative short:
+      winner:
+      - tt0285488
+      - tt0359879
+    documentaries - television:
+      winner:
+      - tt0221428
+    gold plaque:
+      winner:
+      - tt0266509
+  silver hugo:
+    best actor:
+      persons:
+        tt0289054:
+          id: nm0945131
+          name: Kōji Yakusho
+      winner:
+      - tt0289054
+    best actress:
+      persons:
+        tt0269329:
+          id: nm0305368
+          name: Nicole Garcia
+      winner:
+      - tt0269329
+    best director:
+      persons:
+        tt0269746:
+          id: nm0158857
+          name: Tsai Ming-liang
+      winner:
+      - tt0269746
+    best documentary:
+      winner:
+      - tt0305489
+    grand jury prize:
+      winner:
+      - tt0269746
+    silver hugo:
+      winner:
+      - tt0283283
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt0304172
+    best documentary:
+      winner:
+      - tt0278069
+    best experimental short film:
+      winner:
+      - tt0372420
+    best narrative short film:
+      winner:
+      - tt0258226
+    best student animated short:
+      winner:
+      - tt0303412
+    best student narrative short:
+      winner:
+      - tt0212070
+    children's film:
+      winner:
+      - tt0294177
+    documentary:
+      winner:
+      - tt0174031
+    silver plaque:
+      winner:
+      - tt0294177
+  special jury prize:
+    cinematography:
+      winner:
+      - tt0269746
+'2002':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0310793
+    best feature:
+      nominee:
+      - tt0336923
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0315850
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0293685
+      - tt0297439
+      - tt0303297
+      - tt0308514
+      - tt0308672
+      - tt0312959
+      - tt0339890
+      winner:
+      - tt0303394
+    best feature:
+      nominee:
+      - tt0120679
+      - tt0286261
+      - tt0287826
+      - tt0291032
+      - tt0300214
+      - tt0304776
+      - tt0317234
+      - tt0317965
+      - tt0318025
+      - tt0318034
+      - tt0319193
+      - tt0322725
+      - tt0329002
+      - tt0332831
+      - tt0358559
+    best film:
+      winner:
+      - tt0317887
+    best short animated:
+      winner:
+      - tt0318086
+    best short film:
+      nominee:
+      - tt0290193
+      - tt0308407
+      - tt0310673
+      - tt0311005
+      - tt0311728
+      - tt0313685
+      - tt0316034
+      - tt0318708
+      - tt0331226
+      - tt0336535
+      - tt0341066
+      - tt0342007
+      - tt0344903
+      - tt0345440
+      - tt0347477
+      - tt0347902
+      - tt0347970
+      - tt0349736
+      - tt0369211
+      - tt0369287
+      - tt0376157
+      - tt0376647
+      - tt0377924
+      - tt0379863
+      - tt0388536
+      - tt0423870
+      - tt0472488
+      - tt1029108
+    best short narrative:
+      winner:
+      - tt0312994
+    best short narrative - 15 minutes and over:
+      winner:
+      - tt0303367
+    new directors competition:
+      nominee:
+      - tt0118926
+      - tt0240043
+      - tt0245479
+      - tt0280523
+      - tt0284354
+      - tt0289229
+      - tt0290145
+      - tt0306079
+      - tt0309897
+      - tt0310224
+      - tt0310870
+      - tt0314213
+      - tt0332398
+      - tt0332834
+      - tt0333399
+      - tt0346887
+      persons:
+        tt0118926:
+          id: nm0000518
+          name: John Malkovich
+        tt0240043:
+          id: nm0816559
+          name: Carola Spadoni
+        tt0245479:
+          id: nm0001770
+          name: Fisher Stevens
+        tt0280523:
+          id: nm0322479
+          name: Delphine Gleize
+        tt0284354:
+          id: nm0383148
+          name: Sabine Hiebler
+        tt0289229:
+          id: nm0701650
+          name: György Pálfi
+        tt0290145:
+          id: nm0597673
+          name: Karen Moncrieff
+        tt0306079:
+          id: nm0646299
+          name: Annette K. Olesen
+        tt0309897:
+          id: nm1117808
+          name: Juan Carlos Cremata Malberti
+        tt0310224:
+          id: nm0255802
+          name: Bille Eltringham
+        tt0310870:
+          id: nm1137104
+          name: Hao Lui
+        tt0314213:
+          id: nm0224020
+          name: Nina Di Majo
+        tt0332398:
+          id: nm0805238
+          name: Hanna Slak
+        tt0332834:
+          id: nm1248340
+          name: Manijeh Hekmat
+        tt0333399:
+          id: nm1252974
+          name: Nasser Refaie
+        tt0346887:
+          id: nm1300166
+          name: Kyung-jung Joo
+  gold plaque:
+    best documentary:
+      winner:
+      - tt0311320
+    best feature film:
+      winner:
+      - tt0291131
+    best student live action - under 15 minutes:
+      winner:
+      - tt0318071
+    gold plaque:
+      winner:
+      - tt0317226
+  silver hugo:
+    best director:
+      persons:
+        tt0304126:
+          id: nm0237527
+          name: Andreas Dresen
+      winner:
+      - tt0304126
+    best documentary:
+      winner:
+      - tt0327685
+    best ensemble playing:
+      winner:
+      - tt0304126
+    special jury prize:
+      winner:
+      - tt0274428
+  silver plaque:
+    best documentary:
+      winner:
+      - tt0327483
+    best short narrative:
+      winner:
+      - tt0385009
+'2003':
+  audience choice award:
+    gold plaque:
+      winner:
+      - tt0311648
+    silver plaque:
+      winner:
+      - tt0373175
+  certificate of merit:
+    best animated short film:
+      winner:
+      - tt0377770
+    best narrative short film:
+      winner:
+      - tt0363278
+      - tt0382290
+  chicago award:
+    chicago award:
+      winner:
+      - tt0375550
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0296571
+  fipresci prize - special mention:
+    fipresci prize - special mention:
+      winner:
+      - tt0311648
+  gold hugo:
+    best animated film:
+      winner:
+      - tt0351852
+    best documentary:
+      nominee:
+      - tt0279734
+      - tt0358547
+      - tt0366522
+      - tt0367684
+      - tt0373941
+      - tt0380758
+      - tt1693759
+      winner:
+      - tt0373175
+    best feature:
+      nominee:
+      - tt0319821
+      - tt0335426
+      - tt0338706
+      - tt0343524
+      - tt0347105
+      - tt0351461
+      - tt0351817
+      - tt0363303
+      - tt0364093
+      - tt0365289
+      - tt0366304
+      - tt0376746
+      winner:
+      - tt0371280
+    best overall production:
+      winner:
+      - tt0362817
+    best short film:
+      nominee:
+      - tt0334372
+      - tt0343644
+      - tt0344174
+      - tt0350541
+      - tt0363243
+      - tt0364420
+      - tt0367949
+      - tt0368598
+      - tt0370008
+      - tt0375550
+      - tt0376796
+      - tt0377721
+      - tt0378774
+      - tt0379006
+      - tt0386691
+      - tt0386727
+      - tt0387570
+      - tt0387649
+      - tt0403227
+      - tt0404002
+      - tt0407796
+      - tt0408895
+      - tt0457440
+      - tt1883216
+      - tt2235785
+      winner:
+      - tt0363270
+    best student film:
+      winner:
+      - tt0355245
+    new directors competition:
+      nominee:
+      - tt0277184
+      - tt0286244
+      - tt0304229
+      - tt0312773
+      - tt0325826
+      - tt0331338
+      - tt0331698
+      - tt0347207
+      - tt0352464
+      - tt0357127
+      - tt0358670
+      - tt0368805
+      persons:
+        tt0277184:
+          id: nm0703954
+          name: Paul Quinn
+        tt0286244:
+          id: nm0158984
+          name: Sylvain Chomet
+        tt0304229:
+          id: nm0112262
+          name: Sue Brooks
+        tt0312773:
+          id: nm0284677
+          name: José Henrique Fonseca
+        tt0325826:
+          id: nm0072364
+          name: Faouzi Bensaïdi
+        tt0331338:
+          id: nm0423428
+          name: Richard Jobson
+        tt0331698:
+          id: nm0387828
+          name: Christoph Hochhäusler
+        tt0347207:
+          id: nm1145057
+          name: Alejandro Chomski
+        tt0352464:
+          id: nm1364221
+          name: Chan-ok Park
+        tt0357127:
+          id: nm0336486
+          name: Bradley Rust Gray
+        tt0358670:
+          id: nm1212903
+          name: Benedek Fliegauf
+        tt0368805:
+          id: nm0702997
+          name: Costanza Quatriglio
+  gold plaque:
+    best cinematography:
+      winner:
+      - tt0366943
+    best documentary:
+      winner:
+      - tt0368954
+      - tt0377031
+    best documentary short:
+      winner:
+      - tt0379350
+    best feature:
+      winner:
+      - tt0377556
+    'best feature length telefim: drama':
+      winner:
+      - tt0294617
+    best narrative short film:
+      winner:
+      - tt0343668
+      - tt0377494
+    best student narrative short:
+      winner:
+      - tt0399616
+    'documentary: social / political':
+      winner:
+      - tt1978409
+    special achievement in direction:
+      winner:
+      - tt0123816
+      - tt0207933
+  short film awards:
+    competition:
+      nominee:
+      - tt8712614
+  silver hugo:
+    best documentary:
+      winner:
+      - tt0363510
+    best female performance:
+      winner:
+      - tt0335351
+    best male performance:
+      winner:
+      - tt0329388
+    special achievement in direction:
+      winner:
+      - tt0294617
+    special jury prize:
+      winner:
+      - tt0346094
+  silver plaque:
+    best documentary:
+      winner:
+      - tt0379926
+    best experimental short film:
+      winner:
+      - tt0441682
+    'best feature length telefilm: drama':
+      winner:
+      - tt0337634
+    best narrative short film:
+      winner:
+      - tt0353455
+    best student animated short:
+      winner:
+      - tt0387128
+    best student documentary short:
+      winner:
+      - tt1076838
+    best student narrative short:
+      winner:
+      - tt0387353
+      - tt0410368
+    special achievement in direction:
+      winner:
+      - tt0213327
+      - tt0337634
+'2004':
+  certificate of merit:
+    best animated short film:
+      winner:
+      - tt0402250
+      - tt0464643
+    best narrative short film:
+      winner:
+      - tt0418651
+    documentary short:
+      winner:
+      - tt0431168
+  chicago award:
+    chicago award:
+      winner:
+      - tt0470913
+  chicago award - special recognition:
+    chicago award - special recognition:
+      winner:
+      - tt0449616
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0374036
+  gold hugo:
+    best animated short:
+      winner:
+      - tt0324742
+    best documentary:
+      nominee:
+      - tt0352082
+      - tt0390849
+      - tt0402406
+      - tt0409051
+      - tt0412703
+      - tt1776116
+      winner:
+      - tt0388789
+      - tt0482221
+    best feature:
+      nominee:
+      - tt0328990
+      - tt0359254
+      - tt0360130
+      - tt0361127
+      - tt0366137
+      - tt0373024
+      - tt0381668
+      - tt0384344
+      - tt0388348
+      - tt0408664
+      - tt0416991
+      - tt0423277
+      - tt0423310
+      - tt0446930
+    best film:
+      winner:
+      - tt0373981
+    best short film:
+      nominee:
+      - tt0375615
+      - tt0379880
+      - tt0385814
+      - tt0391946
+      - tt0395790
+      - tt0396007
+      - tt0397712
+      - tt0398326
+      - tt0398402
+      - tt0398688
+      - tt0401641
+      - tt0402250
+      - tt0409396
+      - tt0411439
+      - tt0421188
+      - tt0430369
+      - tt0436568
+      - tt0442227
+      - tt0443108
+      - tt0443443
+      - tt0453627
+      - tt0482480
+      - tt0489551
+      - tt0495393
+      - tt0498109
+      - tt0815242
+      - tt0939618
+      - tt0983856
+      - tt1773476
+      winner:
+      - tt0409799
+    best student film:
+      winner:
+      - tt0398326
+    new directors competition:
+      nominee:
+      - tt0325733
+      - tt0353671
+      - tt0374036
+      - tt0397355
+      - tt0398013
+      - tt0401831
+      - tt0402590
+      - tt0402600
+      - tt0405629
+      - tt0415955
+      - tt0423868
+      - tt0437059
+      persons:
+        tt0325733:
+          id: nm0902022
+          name: Achim von Borries
+        tt0353671:
+          id: nm0904406
+          name: Srdjan Vuletic
+        tt0374036:
+          id: nm0147737
+          name: Joseph Cedar
+        tt0397355:
+          id: nm1567011
+          name: Leonardo Di Cesare
+        tt0398013:
+          id: nm1212903
+          name: Benedek Fliegauf
+        tt0401831:
+          id: nm0865101
+          name: Jennifer Todd Reeves
+        tt0402590:
+          id: nm0905081
+          name: Ntshaveni Wa Luruli
+        tt0402600:
+          id: nm8727095
+          name: Zhu Wen
+        tt0405629:
+          id: nm0218022
+          name: Benoît Delépine
+        tt0415955:
+          id: nm0033384
+          name: Danielle Arbid
+        tt0423868:
+          id: nm1715454
+          name: Mohsen Amiryoussefi
+        tt0437059:
+          id: nm0959657
+          name: Iván Ávila Dueñas
+  gold intercom:
+    documentary:
+      winner:
+      - tt6058534
+  gold plaque:
+    best comedy series:
+      winner:
+      - tt0453433
+    best documentary:
+      winner:
+      - tt0395421
+    best dramatic series:
+      winner:
+      - tt0213327
+    best experimental short film:
+      winner:
+      - tt0425396
+    best feature film:
+      winner:
+      - tt0418305
+    feature length telefilm:
+      winner:
+      - tt0374163
+    special achievement in direction:
+      winner:
+      - tt0213327
+    television - investigative reporting/news documentary:
+      winner:
+      - tt0327483
+  honorable mention:
+    new directors competition:
+      persons:
+        tt0424261:
+          id: nm0039537
+          name: Mohamed Asli
+      winner:
+      - tt0424261
+  short film awards:
+    competition:
+      winner:
+      - tt0389336
+  silver hugo:
+    best animated short film:
+      winner:
+      - tt0450415
+    best documentary feature:
+      winner:
+      - tt0426409
+    best ensemble acting:
+      winner:
+      - tt0387151
+    best feature film:
+      winner:
+      - tt0331370
+    best narrative short film:
+      winner:
+      - tt0396957
+    jury special prize:
+      winner:
+      - tt0424227
+    new directors competition:
+      persons:
+        tt0381074:
+          id: nm0629151
+          name: Minh Nguyen-Vo
+      winner:
+      - tt0381074
+    special achievement in direction:
+      winner:
+      - tt0366037
+    special performance event:
+      winner:
+      - tt0383867
+  silver plaque:
+    best documentary:
+      winner:
+      - tt0418181
+    best documentary short:
+      winner:
+      - tt0411719
+    best mini-series:
+      winner:
+      - tt0366037
+'2005':
+  audience choice award:
+    best film:
+      winner:
+      - tt0395972
+  certificate of merit:
+    'special achievement: direction':
+      winner:
+      - tt0213327
+  chicago award - special recognition:
+    chicago award - special recognition:
+      winner:
+      - tt0774513
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0428856
+  gold hugo:
+    best animated film:
+      winner:
+      - tt0459667
+    best documentary:
+      nominee:
+      - tt0404228
+      - tt0436039
+      - tt0436686
+      - tt0436864
+      - tt0452632
+      - tt0468507
+      - tt0475327
+      - tt0496338
+      - tt0774513
+      winner:
+      - tt0444608
+    best feature:
+      nominee:
+      - tt0382806
+      - tt0401808
+      - tt0426627
+      - tt0435479
+      - tt0441761
+      - tt0443072
+      - tt0445694
+      - tt0445760
+      - tt0448663
+      - tt0449561
+      - tt0452778
+      - tt0472521
+      - tt0472832
+      - tt0475263
+      - tt0477585
+      - tt0488832
+      winner:
+      - tt0425278
+    best international feature:
+      nominee:
+      - tt0472521
+      - tt0494901
+    best short film:
+      nominee:
+      - tt0424999
+      - tt0429061
+      - tt0437163
+      - tt0439548
+      - tt0441757
+      - tt0442932
+      - tt0443616
+      - tt0443675
+      - tt0446596
+      - tt0449619
+      - tt0455314
+      - tt0455912
+      - tt0459670
+      - tt0459673
+      - tt0466879
+      - tt0469926
+      - tt0479926
+      - tt0481578
+      - tt0481642
+      - tt0482454
+      - tt0483437
+      - tt0483563
+      - tt0489089
+      - tt0492690
+      - tt0492839
+      - tt0499165
+      - tt0776780
+      - tt0794311
+      - tt0828000
+      - tt0860430
+      - tt0860538
+      - tt0901466
+      - tt0976213
+      winner:
+      - tt0416090
+    best student film:
+      winner:
+      - tt0450254
+    new directors competition:
+      nominee:
+      - tt0367082
+      - tt0398664
+      - tt0406711
+      - tt0412412
+      - tt0413509
+      - tt0418484
+      - tt0428608
+      - tt0444627
+      - tt0451759
+      - tt0457436
+      - tt0461804
+      - tt0466370
+      - tt0486911
+      - tt0781421
+      persons:
+        tt0367082:
+          id: nm0005759
+          name: Lajos Koltai
+        tt0398664:
+          id: nm0812626
+          name: Juan Solanas
+        tt0406711:
+          id: nm0277056
+          name: Benjamin Filipovic
+        tt0412412:
+          id: nm0097785
+          name: Rose Bosch
+        tt0413509:
+          id: nm1062000
+          name: Jérôme Bonnell
+        tt0418484:
+          id: nm1318393
+          name: Anahí Berneri
+        tt0428608:
+          id: nm0007066
+          name: Nanouk Leopold
+        tt0444627:
+          id: nm0387828
+          name: Christoph Hochhäusler
+        tt0451759:
+          id: nm1625202
+          name: Alejandro Valle
+        tt0457436:
+          id: nm1022157
+          name: Alicia Scherson
+        tt0461804:
+          id: nm1928500
+          name: Hao Ning
+        tt0466370:
+          id: nm0904008
+          name: Roland Vranik
+        tt0486911:
+          id: nm0014123
+          name: Mohammad Ahmadi
+        tt0781421:
+          id: nm2209378
+          name: Zhang Lu
+  silver hugo:
+    best actor:
+      persons:
+        tt0425278:
+          id: nm0304097
+          name: Roman Gancarczyk
+      winner:
+      - tt0425278
+    best actress:
+      persons:
+        tt0477877:
+          id: nm0295437
+          name: Inka Friedrich
+      winner:
+      - tt0477877
+    best documentary:
+      winner:
+      - tt0441001
+    best experimental short film:
+      winner:
+      - tt0794313
+    experimental short film:
+      winner:
+      - tt0794313
+    special jury prize:
+      winner:
+      - tt0456149
+    television mini-series drama, 4 hours, english original version:
+      winner:
+      - tt0389608
+  silver plaque:
+    best narrative short film:
+      winner:
+      - tt0484830
+    'documentary: science/nature':
+      winner:
+      - tt0420036
+    narrative short film:
+      winner:
+      - tt0484830
+    'special achievement: direction':
+      winner:
+      - tt0374455
+      - tt0389809
+'2006':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0436697
+    best feature:
+      winner:
+      - tt0444182
+      - tt0478829
+  certificate of merit:
+    best narrative short film:
+      winner:
+      - tt0469842
+  chicago award:
+    chicago award:
+      winner:
+      - tt0872224
+  fipresci prize:
+    fipresci prize:
+      winner:
+      - tt0499455
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0462259
+      - tt0758727
+      - tt0795448
+      - tt0799954
+      - tt0800181
+      - tt0808487
+      - tt0818264
+      winner:
+      - tt0492466
+    best feature:
+      nominee:
+      - tt0386741
+      - tt0419146
+      - tt0450506
+      - tt0452971
+      - tt0461169
+      - tt0461970
+      - tt0477731
+      - tt0479354
+      - tt0480163
+      - tt0494901
+      - tt0498097
+      - tt0772105
+      - tt0809407
+      winner:
+      - tt0845439
+    best international feature:
+      nominee:
+      - tt0475224
+    best short film:
+      nominee:
+      - tt0487145
+      - tt0772929
+      - tt0782866
+      - tt0783661
+      - tt0818125
+      - tt0823470
+      - tt0823653
+      - tt0825668
+      - tt0826174
+      - tt0827515
+      - tt0854152
+      - tt0867201
+      - tt0871003
+      - tt0878698
+      - tt0927578
+      - tt0933357
+      - tt0995818
+      - tt1002461
+      - tt1082046
+      - tt1246581
+      - tt1419641
+      - tt1432071
+      winner:
+      - tt0863074
+    new directors competition:
+      nominee:
+      - tt0402115
+      - tt0425321
+      - tt0439833
+      - tt0450450
+      - tt0451966
+      - tt0463963
+      - tt0476298
+      - tt0480705
+      - tt0495116
+      - tt0499274
+      - tt0765500
+      - tt0805324
+      - tt0893307
+      persons:
+        tt0402115:
+          id: nm0323558
+          name: Krisztina Goda
+        tt0425321:
+          id: nm1441566
+          name: Marwan Hamed
+        tt0439833:
+          id: nm0432420
+          name: Brian Jun
+        tt0450450:
+          id: nm1550132
+          name: Andrey Kravchuk
+        tt0451966:
+          id: nm0889829
+          name: Francisco Vargas
+        tt0463963:
+          id: nm0000665
+          name: D.B. Sweeney
+        tt0476298:
+          id: nm2013191
+          name: Claudia Llosa
+        tt0480705:
+          id: nm2038130
+          name: Anna Kazejak
+        tt0495116:
+          id: nm1235145
+          name: Amir Chamdin
+        tt0499274:
+          id: nm2151556
+          name: Yoon Jong-bin
+        tt0765500:
+          id: nm1014706
+          name: Dong-il Shin
+        tt0805324:
+          id: nm0038604
+          name: Árni Ólafur Ásgeirsson
+        tt0893307:
+          id: nm2438654
+          name: Liang Ying
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0499475
+    best arts documentary:
+      winner:
+      - tt1179828
+    best narrative short film:
+      winner:
+      - tt0468068
+    'educational: child audience':
+      winner:
+      - tt0174418
+    mini-series:
+      winner:
+      - tt0428134
+    'television productions - documentary: social / political':
+      winner:
+      - tt2282609
+  plaque:
+    international film competition:
+      winner:
+      - tt0454931
+      - tt0497986
+      - tt0833422
+  silver hugo:
+    best actor:
+      persons:
+        tt0499101:
+          id: nm0900915
+          name: Jürgen Vogel
+      winner:
+      - tt0499101
+    best actress:
+      persons:
+        tt0820153:
+          id: nm1835909
+          name: Viktoriya Isakova
+      winner:
+      - tt0820153
+    best documentary:
+      winner:
+      - tt0893589
+    best feature film:
+      winner:
+      - tt0410730
+    best narrative short film:
+      winner:
+      - tt0796235
+    best student animated short film:
+      winner:
+      - tt0938591
+    jury special prize:
+      winner:
+      - tt0444182
+  silver plaque:
+    'special achievement: direction':
+      winner:
+      - tt0428134
+      - tt0465342
+  special jury prize:
+    docufest competition:
+      winner:
+      - tt0446055
+      - tt0811136
+    short film:
+      winner:
+      - tt0896525
+'2007':
+  audience choice award:
+    docufest competition:
+      winner:
+      - tt0960792
+    main competition:
+      winner:
+      - tt0421082
+    new directors competition:
+      persons:
+        tt0790709:
+          id: nm2267389
+          name: Carlitos Ruiz Ruiz
+      winner:
+      - tt0790709
+  certificate of merit:
+    'special achievement: direction':
+      winner:
+      - tt0787501
+    television - investigative reporting/news documentary:
+      winner:
+      - tt0876655
+  chicago award:
+    best film:
+      winner:
+      - tt0902342
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt0926347
+      - tt1013854
+      - tt1031928
+      - tt1059802
+      - tt1170348
+      winner:
+      - tt0854678
+    best feature:
+      nominee:
+      - tt0466816
+      - tt0488027
+      - tt0488905
+      - tt0803052
+      - tt0806686
+      - tt0812366
+      - tt0816672
+      - tt0877621
+      - tt0993778
+      - tt1032846
+      winner:
+      - tt0841925
+    best short film:
+      nominee:
+      - tt0800019
+      - tt0824669
+      - tt0835017
+      - tt0893510
+      - tt0953317
+      - tt1039963
+      - tt1059196
+      - tt1062968
+      - tt1084943
+      - tt1135947
+      - tt1168661
+      - tt1230154
+      - tt1239279
+      - tt1259782
+      - tt1279496
+      - tt1374965
+      - tt1762231
+      - tt1795032
+      - tt2167741
+      winner:
+      - tt1075805
+    new director's competition:
+      persons:
+        tt0851191:
+          id: nm0182459
+          name: Saverio Costanzo
+      winner:
+      - tt0851191
+    new directors competition:
+      nominee:
+      - tt0315236
+      - tt0454065
+      - tt0480556
+      - tt0809931
+      - tt0905618
+      - tt0935086
+      - tt0952682
+      - tt0984211
+      - tt1058748
+      - tt1084045
+      - tt1102265
+      persons:
+        tt0315236:
+          id: nm1110037
+          name: Pia Marais
+        tt0454065:
+          id: nm0764591
+          name: Esteban Sapir
+        tt0480556:
+          id: nm0112506
+          name: Simón Bross
+        tt0809931:
+          id: nm1234242
+          name: Matthew Saville
+        tt0905618:
+          id: nm2462311
+          name: Aleksey Mizgiryov
+        tt0935086:
+          id: nm0361135
+          name: Mia Hansen-Løve
+        tt0952682:
+          id: nm2158772
+          name: Jeff Nichols
+        tt0984211:
+          id: nm1014706
+          name: Dong-il Shin
+        tt1058748:
+          id: nm2702141
+          name: Prasanna Jayakody
+        tt1084045:
+          id: nm2742576
+          name: Golam Rabbany Biplob
+        tt1102265:
+          id: nm2438654
+          name: Liang Ying
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt0925146
+    best direction - documentary:
+      winner:
+      - tt1040007
+    best narrative short film:
+      winner:
+      - tt0970523
+    best photography - documentary:
+      winner:
+      - tt0879220
+    documentary short:
+      winner:
+      - tt1127187
+    'documentary: social / political':
+      winner:
+      - tt0901609
+    experimental film:
+      winner:
+      - tt0956291
+    social documentary:
+      winner:
+      - tt0493032
+    television - investigative reporting/news documentary:
+      winner:
+      - tt0876655
+    television cooking series:
+      winner:
+      - tt2334584
+  plaque:
+    international film:
+      winner:
+      - tt0984175
+  silver hugo:
+    best actor:
+      persons:
+        tt0421082:
+          id: nm0727165
+          name: Sam Riley
+      winner:
+      - tt0421082
+    best actress:
+      persons:
+        tt0949564:
+          id: nm0950544
+          name: Yu Nan
+      winner:
+      - tt0949564
+    best animated short film:
+      winner:
+      - tt0887734
+      - tt1023126
+    best documentary:
+      winner:
+      - tt0905979
+    best narrative short film:
+      winner:
+      - tt0947058
+    best screenplay:
+      winner:
+      - tt0421082
+    direction:
+      winner:
+      - tt0445336
+    documentary:
+      winner:
+      - tt1107827
+    educational series:
+      winner:
+      - tt0454749
+    new director:
+      persons:
+        tt0432988:
+          id: nm0054005
+          name: Philippe Barcinski
+      winner:
+      - tt0432988
+    special jury prize:
+      winner:
+      - tt0949564
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt1121969
+    best narrative short film:
+      winner:
+      - tt1092098
+    'special achievement: direction':
+      winner:
+      - tt0475067
+      - tt0805825
+      - tt0896040
+    special jury prize - documentary:
+      winner:
+      - tt0969355
+    television - national news series:
+      winner:
+      - tt0876655
+  special jury prize:
+    documentary:
+      winner:
+      - tt0984213
+'2008':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0914798
+      - tt1010048
+  certificate of merit:
+    documentary:
+      winner:
+      - tt12953190
+  chicago award:
+    chicago award:
+      winner:
+      - tt1152797
+  gold hugo:
+    after dark competition:
+      nominee:
+      - tt0409345
+      - tt0480669
+      - tt0792986
+      - tt1013607
+      - tt1046183
+      - tt1139797
+      - tt1173745
+      - tt1190539
+    best documentary:
+      nominee:
+      - tt1092031
+      - tt1157609
+      - tt1185833
+      - tt1201576
+      - tt1232790
+      - tt1247440
+      - tt1249414
+      - tt1252486
+      - tt1262863
+      - tt1275724
+      - tt1320302
+      - tt1403131
+      winner:
+      - tt1176244
+    best feature:
+      nominee:
+      - tt0903627
+      - tt0910860
+      - tt0961066
+      - tt1020932
+      - tt1027658
+      - tt1080857
+      - tt1103275
+      - tt1152850
+      - tt1172963
+      - tt1173744
+      winner:
+      - tt0986233
+    best short film:
+      nominee:
+      - tt0983242
+      - tt1095181
+      - tt1104104
+      - tt1124043
+      - tt1153701
+      - tt1185265
+      - tt1185664
+      - tt1185677
+      - tt1186815
+      - tt1206007
+      - tt1219782
+      - tt1232785
+      - tt1244592
+      - tt1244622
+      - tt1248891
+      - tt1277146
+      - tt1301129
+      - tt1304579
+      - tt1319581
+      - tt1320307
+      - tt1326146
+      - tt1330017
+      - tt1336245
+      - tt1339622
+      - tt1342989
+      - tt1352375
+      - tt1352832
+      - tt1362368
+      - tt1367213
+      - tt1438475
+      - tt1549943
+      - tt2266759
+      winner:
+      - tt1156321
+    new directors competition:
+      nominee:
+      - tt0804529
+      - tt0977651
+      - tt1039652
+      - tt1068676
+      - tt1133989
+      - tt1146295
+      - tt1153690
+      - tt1178627
+      - tt1179793
+      - tt1281955
+      - tt1293089
+      - tt1431332
+      persons:
+        tt0804529:
+          id: nm1642796
+          name: Alex Rivera
+        tt0977651:
+          id: nm1520897
+          name: Micha Lewinsky
+        tt1039652:
+          id: nm0687751
+          name: Rodrigo Plá
+        tt1068676:
+          id: nm0002611
+          name: Claus Drexel
+        tt1133989:
+          id: nm1503575
+          name: Barry Jenkins
+        tt1136609:
+          id: nm0618690
+          name: Matheus Nachtergaele
+        tt1146295:
+          id: nm1548101
+          name: Aida Begic
+        tt1153690:
+          id: nm0358475
+          name: Lance Hammer
+        tt1178627:
+          id: nm1115569
+          name: Shingo Wakagi
+        tt1179793:
+          id: nm1626419
+          name: Seyfi Teoman
+        tt1281955:
+          id: nm0128754
+          name: Shangjun Cai
+        tt1293089:
+          id: nm1311039
+          name: Vincent Pluss
+        tt1431332:
+          id: nm0994258
+          name: Behnam Behzadi
+      winner:
+      - tt1136609
+    special achievement in cinematography:
+      winner:
+      - tt0961200
+  silver hugo:
+    best actor:
+      persons:
+        tt0986233:
+          id: nm1055413
+          name: Michael Fassbender
+      winner:
+      - tt0986233
+    best actress:
+      persons:
+        tt1146285:
+          id: nm0006689
+          name: Preity G Zinta
+      winner:
+      - tt1146285
+    best documentary:
+      winner:
+      - tt1183701
+      - tt1352379
+    best new director:
+      persons:
+        tt1110272:
+          id: nm0429634
+          name: Jens Jonsson
+        tt1136609:
+          id: nm0618690
+          name: Matheus Nachtergaele
+      winner:
+      - tt1110272
+      - tt1136609
+    best screenplay:
+      winner:
+      - tt0929425
+    direction:
+      winner:
+      - tt1087890
+    docufest:
+      winner:
+      - tt1157605
+    grand jury prize:
+      winner:
+      - tt0938341
+  silver plaque:
+    best screenplay:
+      winner:
+      - tt0929412
+  special mention:
+    best documentary:
+      winner:
+      - tt12953190
+    best short film:
+      winner:
+      - tt1307978
+'2009':
+  audience choice award:
+    audience choice award:
+      winner:
+      - tt0929632
+    feature film:
+      winner:
+      - tt1174732
+    world cinema:
+      winner:
+      - tt1337205
+  chicago award:
+    chicago award:
+      winner:
+      - tt1499967
+  chicago award - special recognition:
+    chicago award - special recognition:
+      winner:
+      - tt1346964
+  gold hugo:
+    after dark competition:
+      nominee:
+      - tt1104814
+      - tt1172994
+      - tt1216496
+      - tt1336006
+      - tt1346961
+      - tt1424043
+    best documentary:
+      nominee:
+      - tt1198121
+      - tt1205497
+      - tt1233611
+      - tt1277936
+      - tt1381085
+      - tt1384779
+      - tt1400357
+      - tt1433528
+      - tt1500516
+      winner:
+      - tt1436000
+    best feature:
+      nominee:
+      - tt1189076
+      - tt1213921
+      - tt1220873
+      - tt1242545
+      - tt1262420
+      - tt1263740
+      - tt1355608
+      - tt1360860
+      - tt1371630
+      - tt1463403
+      winner:
+      - tt1169834
+    best short film:
+      nominee:
+      - tt1133610
+      - tt1294199
+      - tt1315346
+      - tt1323545
+      - tt1336979
+      - tt1337553
+      - tt1344722
+      - tt1375309
+      - tt1377285
+      - tt1381542
+      - tt1382724
+      - tt1434421
+      - tt1437194
+      - tt1451789
+      - tt1458661
+      - tt1469272
+      - tt1471336
+      - tt1485740
+      - tt1486882
+      - tt1493060
+      - tt1520380
+      - tt1520428
+      - tt1563725
+      - tt1602068
+      - tt1606345
+      - tt1625865
+      - tt1726730
+      winner:
+      - tt1327942
+    new directors competition:
+      nominee:
+      - tt1072436
+      - tt1254792
+      - tt1298540
+      - tt1331320
+      - tt1337051
+      - tt1342392
+      - tt1392888
+      - tt1424327
+      - tt1426361
+      persons:
+        tt1072436:
+          id: nm1162033
+          name: Eduardo Valente
+        tt1254792:
+          id: nm1841574
+          name: Áron Mátyássy
+        tt1298540:
+          id: nm0373911
+          name: Kaspar Heidelbach
+        tt1331320:
+          id: nm1574929
+          name: Rigoberto Pérezcano
+        tt1337051:
+          id: nm1717949
+          name: Corneliu Porumboiu
+        tt1342392:
+          id: nm0698322
+          name: Maria Procházková
+        tt1360866:
+          id: nm2254150
+          name: Adrián Biniez
+        tt1392888:
+          id: nm1633015
+          name: Michel Franco
+        tt1424327:
+          id: nm2173202
+          name: Haim Tabakman
+        tt1426361:
+          id: nm1189816
+          name: Kamen Kalev
+      winner:
+      - tt1360866
+  gold plaque:
+    best art direction:
+      winner:
+      - tt1239426
+    best cinematography:
+      winner:
+      - tt1156173
+    best experimental short film:
+      winner:
+      - tt1463486
+    best screenplay:
+      winner:
+      - tt1169834
+    best student short film:
+      winner:
+      - tt1409007
+    best supporting actor:
+      persons:
+        tt1232776:
+          id: nm1055413
+          name: Michael Fassbender
+      winner:
+      - tt1232776
+    best supporting actress:
+      persons:
+        tt1169834:
+          id: nm0364906
+          name: Jossie Thacker
+      winner:
+      - tt1169834
+    direction - docufest:
+      winner:
+      - tt1358885
+    documentary - history/biography:
+      winner:
+      - tt1421043
+    new directors competition:
+      persons:
+        tt1292644:
+          id: nm0581081
+          name: Frédéric Mermoud
+      winner:
+      - tt1292644
+    short film:
+      winner:
+      - tt1402496
+  short film awards:
+    best narrative short:
+      nominee:
+      - tt1385592
+  silver hugo:
+    best actor:
+      persons:
+        tt1156173:
+          id: nm0863599
+          name: Filippo Timi
+      winner:
+      - tt1156173
+    best actress:
+      persons:
+        tt1156173:
+          id: nm0583856
+          name: Giovanna Mezzogiorno
+      winner:
+      - tt1156173
+    best animated short film:
+      winner:
+      - tt1235926
+    best director:
+      persons:
+        tt1156173:
+          id: nm0069166
+          name: Marco Bellocchio
+      winner:
+      - tt1156173
+    best documentary:
+      winner:
+      - tt1152840
+    grand jury prize:
+      winner:
+      - tt1311650
+    jury special prize:
+      winner:
+      - tt1232776
+    miniseries:
+      winner:
+      - tt1050057
+    new directors competition:
+      persons:
+        tt1316064:
+          id: nm0469785
+          name: Judith Krant
+      winner:
+      - tt1316064
+  silver plaque:
+    best feature film:
+      winner:
+      - tt1257579
+  special jury prize:
+    special jury prize:
+      winner:
+      - tt1232776
+  special mention:
+    best documentary:
+      winner:
+      - tt1420544
+    best ensemble cast performance:
+      winner:
+      - tt1299384
+    best short film:
+      winner:
+      - tt1346964
+'2010':
+  certificate of merit:
+    animated film:
+      winner:
+      - tt1655397
+    best direction, dramatic series:
+      winner:
+      - tt1535096
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt1268204
+      - tt1595858
+      - tt1611180
+      - tt1663168
+      - tt1672104
+      - tt1674257
+      winner:
+      - tt0960730
+    best feature:
+      nominee:
+      - tt0417610
+      - tt0460778
+      - tt1020773
+      - tt1322277
+      - tt1339161
+      - tt1470024
+      - tt1599975
+      - tt1606761
+      - tt1646114
+      - tt1653911
+      - tt1655424
+      - tt1712068
+    best film:
+      winner:
+      - tt1588875
+    best short film:
+      nominee:
+      - tt0343054
+      - tt1440758
+      - tt1507909
+      - tt1512253
+      - tt1513204
+      - tt1517241
+      - tt1517770
+      - tt1520428
+      - tt1537365
+      - tt1567676
+      - tt1570462
+      - tt1585616
+      - tt1592753
+      - tt1595627
+      - tt1595846
+      - tt1602004
+      - tt1604210
+      - tt1626150
+      - tt1634870
+      - tt1638927
+      - tt1644738
+      - tt1651913
+      - tt1653056
+      - tt1669587
+      - tt1672120
+      - tt1679283
+      - tt1687945
+      - tt1692878
+      - tt1729501
+      - tt1730354
+      - tt1735491
+      - tt1740021
+      - tt1745876
+      - tt1756423
+      - tt1760948
+      - tt1783738
+      - tt1868084
+      - tt2500892
+      winner:
+      - tt1586733
+    new directors competition:
+      nominee:
+      - tt0920459
+      - tt1174042
+      - tt1307926
+      - tt1331297
+      - tt1425933
+      - tt1496005
+      - tt1507250
+      - tt1600524
+      - tt1646985
+      - tt1679646
+      - tt1740798
+      persons:
+        tt0920459:
+          id: nm0079578
+          name: Antoinette Beumer
+        tt1174042:
+          id: nm1379002
+          name: David Robert Mitchell
+        tt1307926:
+          id: nm3164568
+          name: Carmen Marrón
+        tt1331297:
+          id: nm1959549
+          name: Vardis Marinakis
+        tt1425933:
+          id: nm2756264
+          name: Nick Whitfield
+        tt1496005:
+          id: nm0078465
+          name: Julie Bertuccelli
+        tt1507250:
+          id: nm0994520
+          name: Alicia Duffy
+        tt1600524:
+          id: nm0230859
+          name: Xavier Dolan
+        tt1646985:
+          id: nm1580395
+          name: Katell Quillévéré
+        tt1679646:
+          id: nm3351398
+          name: Anna Fenchenko
+        tt1740798:
+          id: nm0308974
+          name: Roberto Garzelli
+  gold plaque:
+    best direction, feature film:
+      winner:
+      - tt0407852
+    best narrative short film:
+      winner:
+      - tt1658036
+  silver hugo:
+    best actor:
+      persons:
+        tt1639901:
+          id: nm0229105
+          name: Youssouf Djaoro
+      winner:
+      - tt1639901
+    best actress:
+      persons:
+        tt1529572:
+          id: nm1882929
+          name: Liana Liberato
+      winner:
+      - tt1529572
+    best feature film:
+      winner:
+      - tt1576382
+    best screenplay:
+      winner:
+      - tt1639901
+  silver plaque:
+    best documentary - arts/humanities:
+      winner:
+      - tt1553301
+    best feature film:
+      winner:
+      - tt1655424
+    international feature film competition:
+      winner:
+      - tt1655424
+'2011':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt1860355
+    best narrative feature:
+      winner:
+      - tt1630027
+    feature film:
+      nominee:
+      - tt1588398
+  certificate of merit:
+    best documentary:
+      winner:
+      - tt1941516
+    special achievement - low budget:
+      winner:
+      - tt11469954
+  chicago award:
+    chicago award:
+      winner:
+      - tt2063699
+  cineyouth:
+    animation:
+      nominee:
+      - tt1877858
+    drama:
+      nominee:
+      - tt1877790
+  founder's award:
+    founder's award:
+      winner:
+      - tt1655442
+  gold hugo:
+    after dark competition:
+      nominee:
+      - tt1230385
+      - tt1498878
+      - tt1582621
+      - tt1668212
+      - tt1754000
+      - tt1783780
+      - tt1838571
+      - tt1900891
+      winner:
+      - tt1680114
+    best documentary:
+      nominee:
+      - tt1556690
+      - tt1737122
+      - tt1758662
+      - tt1800370
+      - tt1856037
+      - tt1866092
+      - tt1941516
+      - tt1989549
+      - tt2053352
+      - tt2548298
+      - tt2548300
+      winner:
+      - tt1686660
+    best international feature:
+      nominee:
+      - tt1204340
+      - tt1605777
+      - tt1628043
+      - tt1736636
+      - tt1741694
+      - tt1756595
+      - tt1764141
+      - tt1776143
+      - tt1787127
+      - tt1795702
+      - tt1818443
+      - tt1911600
+      - tt1926992
+      - tt1994537
+      winner:
+      - tt1508675
+    best short film:
+      nominee:
+      - tt1646168
+      - tt1666567
+      - tt1673499
+      - tt1687867
+      - tt1706378
+      - tt1717140
+      - tt1733710
+      - tt1735320
+      - tt1753662
+      - tt1762363
+      - tt1763314
+      - tt1764616
+      - tt1769320
+      - tt1776052
+      - tt1776087
+      - tt1782433
+      - tt1785636
+      - tt1791520
+      - tt1806855
+      - tt1811377
+      - tt1816723
+      - tt1817149
+      - tt1843289
+      - tt1850379
+      - tt1851936
+      - tt1853493
+      - tt1856083
+      - tt1861384
+      - tt1877615
+      - tt1881028
+      - tt1894574
+      - tt1895306
+      - tt1895441
+      - tt1907676
+      - tt1910587
+      - tt1914309
+      - tt1924400
+      - tt1928177
+      - tt1929242
+      - tt1931587
+      - tt1964923
+      - tt1997412
+      - tt2023385
+      - tt2023406
+      - tt2048760
+      - tt2048851
+      - tt2063699
+      - tt2106494
+      - tt2281253
+      - tt2549188
+      - tt2549206
+      winner:
+      - tt1725828
+    intercom competition:
+      winner:
+      - tt2549474
+    new directors competition:
+      nominee:
+      - tt1528309
+      - tt1540014
+      - tt1546421
+      - tt1555084
+      - tt1555218
+      - tt1669648
+      - tt1695831
+      - tt1723782
+      - tt1733271
+      - tt1736633
+      - tt1825974
+      - tt1855593
+      - tt1921043
+      - tt2167895
+      persons:
+        tt1528309:
+          id: nm3062277
+          name: Matthew Petock
+        tt1540014:
+          id: nm0042304
+          name: Sam Auster
+        tt1546421:
+          id: nm2132387
+          name: Hagar Ben-Asher
+        tt1555084:
+          id: nm1271328
+          name: Michale Boganim
+        tt1555218:
+          id: nm2336357
+          name: Guy Édoin
+        tt1669648:
+          id: nm3937503
+          name: Karan Gour
+        tt1673392:
+          id: nm1039438
+          name: Zaida Bergroth
+        tt1695831:
+          id: nm1242172
+          name: Rúnar Rúnarsson
+        tt1723782:
+          id: nm2193829
+          name: Kyzza Terrazas
+        tt1733271:
+          id: nm1281416
+          name: Yung-Shing Teng
+        tt1736633:
+          id: nm1258686
+          name: Joachim Trier
+        tt1825974:
+          id: nm0066430
+          name: Kaat Beels
+        tt1855593:
+          id: nm1656208
+          name: Daniel Mitelpunkt
+        tt1921043:
+          id: nm0578080
+          name: Selton Mello
+        tt2167895:
+          id: nm1177753
+          name: Eduardo Nunes
+      winner:
+      - tt1673392
+  gold plaque:
+    best documentary:
+      winner:
+      - tt1800370
+    best short film:
+      winner:
+      - tt1924400
+    best student animated short:
+      winner:
+      - tt2023406
+    best student documentary short:
+      winner:
+      - tt1850379
+    international film poster competition:
+      winner:
+      - tt1381282
+  honorable mention:
+    international film poster competition:
+      winner:
+      - tt1440136
+  silver hugo:
+    after dark competition:
+      winner:
+      - tt1422136
+    best actor:
+      persons:
+        tt1764141:
+          id: nm0444324
+          name: Maged El-Kidwani
+      winner:
+      - tt1764141
+    best actress:
+      persons:
+        tt1204340:
+          id: nm1469236
+          name: Olivia Colman
+      winner:
+      - tt1204340
+    best animated short:
+      winner:
+      - tt1776087
+    best documentary:
+      winner:
+      - tt2053352
+      - tt2117860
+    best documentary short:
+      winner:
+      - tt1735320
+    best feature film:
+      winner:
+      - tt1422136
+      - tt1764141
+    best international feature:
+      winner:
+      - tt1764141
+    best narrative short:
+      winner:
+      - tt1895306
+    best screenplay:
+      winner:
+      - tt1787127
+    educational - youth audience:
+      winner:
+      - tt5918420
+    intercom competition:
+      winner:
+      - tt2549500
+    new directors competition:
+      persons:
+        tt1695831:
+          id: nm1242172
+          name: Rúnar Rúnarsson
+      winner:
+      - tt1695831
+  silver plaque:
+    best documentary:
+      winner:
+      - tt1866092
+    best short film:
+      winner:
+      - tt1914309
+    international film poster competition:
+      winner:
+      - tt1588895
+    'special achievement: editing':
+      winner:
+      - tt1776305
+  special mention:
+    best short film:
+      winner:
+      - tt1853493
+'2012':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt2380247
+    best narrative feature:
+      winner:
+      - tt1441951
+      - tt2066176
+    new directors competition:
+      nominee:
+      - tt2318625
+      - tt2387455
+      persons:
+        tt2318625:
+          id: nm3199492
+          name: Michael Mayer
+        tt2387455:
+          id: nm3929944
+          name: Adrián Saba
+  certificate of merit:
+    best direction, dramatic series:
+      winner:
+      - tt1535096
+  chicago award:
+    chicago award:
+      winner:
+      - tt2253947
+  founder's award:
+    founder's award:
+      winner:
+      - tt1907668
+  gold hugo:
+    after dark competition:
+      nominee:
+      - tt1437358
+      - tt1641975
+      - tt1783732
+      - tt1790869
+      - tt1935785
+      - tt1935896
+      - tt2103217
+      winner:
+      - tt2099556
+    best documentary:
+      nominee:
+      - tt1779076
+      - tt1844735
+      - tt1921040
+      - tt2007418
+      - tt2011265
+      - tt2085910
+      - tt2097844
+      - tt2111478
+      - tt2157192
+      - tt2157194
+      - tt2219470
+      - tt2318701
+      - tt2327430
+      - tt2332522
+      - tt2353807
+      - tt2355144
+      - tt2357003
+      - tt2380247
+      - tt2519468
+      - tt2519480
+      winner:
+      - tt2265577
+    best foreign language film:
+      nominee:
+      - tt2104115
+    best international feature:
+      nominee:
+      - tt1403214
+      - tt1590013
+      - tt1673697
+      - tt1836202
+      - tt1843287
+      - tt1846472
+      - tt1850419
+      - tt1961192
+      - tt2084977
+      - tt2104908
+      - tt2130125
+      - tt2139919
+      - tt2178935
+      - tt2245049
+      - tt2258281
+      - tt2276314
+      - tt2283017
+      - tt2368749
+      - tt2399515
+      winner:
+      - tt2076220
+    best short film:
+      nominee:
+      - tt0072846
+      - tt0073054
+      - tt0276865
+      - tt0399036
+      - tt1815790
+      - tt1934302
+      - tt1937393
+      - tt1950304
+      - tt1950349
+      - tt1978504
+      - tt1988535
+      - tt2004253
+      - tt2009603
+      - tt2049611
+      - tt2051839
+      - tt2069775
+      - tt2082222
+      - tt2087911
+      - tt2088849
+      - tt2091986
+      - tt2098653
+      - tt2098774
+      - tt2106685
+      - tt2123349
+      - tt2125581
+      - tt2125695
+      - tt2126257
+      - tt2156110
+      - tt2159990
+      - tt2182005
+      - tt2186318
+      - tt2231627
+      - tt2233800
+      - tt2233810
+      - tt2241009
+      - tt2241149
+      - tt2243427
+      - tt2249073
+      - tt2251363
+      - tt2308605
+      - tt2322379
+      - tt2330841
+      - tt2342151
+      - tt2365901
+      - tt2366035
+      - tt2368829
+      - tt2372335
+      - tt2374719
+      - tt2519654
+      - tt2519662
+      - tt2519864
+      - tt2519874
+      winner:
+      - tt2235802
+    intercom competition:
+      winner:
+      - tt2519886
+    new directors competition:
+      nominee:
+      - tt1900908
+      - tt1927068
+      - tt1975286
+      - tt2076799
+      - tt2154739
+      - tt2209102
+      - tt2318625
+      - tt2369025
+      - tt2387455
+      - tt2429638
+      persons:
+        tt1756384:
+          id: nm1439333
+          name: Péter Bergendy
+        tt1900908:
+          id: nm1481851
+          name: Maja Milos
+        tt1927068:
+          id: nm1965582
+          name: Filip Marczewski
+        tt1975286:
+          id: nm1642672
+          name: Andrew Williamson
+        tt2076799:
+          id: nm0946346
+          name: Adel Yaraghi
+        tt2154739:
+          id: nm4829388
+          name: Tim Staffel
+        tt2209102:
+          id: nm3944094
+          name: Robert Budina
+        tt2318625:
+          id: nm3199492
+          name: Michael Mayer
+        tt2369025:
+          id: nm3504479
+          name: Juan Andrés Arango Garcia
+        tt2387455:
+          id: nm3929944
+          name: Adrián Saba
+        tt2429638:
+          id: nm0927268
+          name: Katrine Wiedemann
+      winner:
+      - tt1756384
+  gold plaque:
+    best animated short:
+      winner:
+      - tt2159990
+    best dramatic series:
+      winner:
+      - tt2300049
+    best student film:
+      winner:
+      - tt2049611
+    children's program:
+      winner:
+      - tt1819519
+    daytime drama series:
+      winner:
+      - tt1973421
+    intercom competition:
+      winner:
+      - tt2519888
+      - tt2519894
+      - tt2519896
+      - tt2519904
+    special achievement in direction:
+      winner:
+      - tt1558128
+  q hugo award:
+    best feature:
+      nominee:
+      - tt2011953
+      - tt2066176
+      - tt2318625
+  short film awards:
+    competition:
+      winner:
+      - tt1669570
+  silver hugo:
+    after dark competition:
+      winner:
+      - tt1437358
+    best actor:
+      persons:
+        tt2076220:
+          id: nm0491777
+          name: Denis Lavant
+      winner:
+      - tt2076220
+    best actress:
+      persons:
+        tt1590013:
+          id: nm0804643
+          name: Ulla Skoog
+      winner:
+      - tt1590013
+    best animated short:
+      winner:
+      - tt2372335
+    best cinematography:
+      winner:
+      - tt2076220
+    best documentary:
+      winner:
+      - tt1921040
+    best documentary short:
+      winner:
+      - tt2125581
+    best narrative/live action short:
+      winner:
+      - tt2087911
+    new directors competition:
+      persons:
+        tt1741246:
+          id: nm0423177
+          name: Zdenek Jiráský
+      winner:
+      - tt1741246
+    special jury prize:
+      winner:
+      - tt2368749
+    special mention:
+      winner:
+      - tt2399515
+  silver plaque:
+    best narrative/live action short:
+      winner:
+      - tt2123349
+    documentary:
+      winner:
+      - tt1700449
+    special achievement - low budget:
+      winner:
+      - tt2256877
+    'special achievement: direction':
+      winner:
+      - tt1558128
+  special mention:
+    best narrative/life action short:
+      winner:
+      - tt2051839
+  television award:
+    best television series:
+      winner:
+      - tt2168400
+'2013':
+  audience choice award:
+    audience choice award:
+      nominee:
+      - tt2776106
+    best documentary feature:
+      winner:
+      - tt2405792
+    best film:
+      nominee:
+      - tt2924590
+  certificate of merit:
+    'special achievement: direction':
+      winner:
+      - tt1713938
+  chicago award:
+    best short film:
+      winner:
+      - tt2523500
+    special award:
+      winner:
+      - tt2650954
+  founder's award:
+    best feature:
+      winner:
+      - tt2353767
+  gold hugo:
+    after dark competition:
+      nominee:
+      - tt1954315
+      - tt2111392
+      - tt2281159
+      - tt2309224
+      - tt2383068
+      - tt2436516
+      - tt2822400
+      winner:
+      - tt2389182
+    best documentary:
+      nominee:
+      - tt2499412
+      - tt2555386
+      - tt2621714
+      - tt2837866
+      - tt2901760
+      - tt3135012
+      winner:
+      - tt2530112
+      - tt2711708
+    best feature:
+      nominee:
+      - tt1883179
+      - tt2359024
+      - tt2392326
+      - tt2395421
+      - tt2637978
+      - tt2665206
+      - tt3119416
+      winner:
+      - tt2875926
+    best film:
+      nominee:
+      - tt1798108
+    best international feature:
+      nominee:
+      - tt2167715
+    best short film:
+      nominee:
+      - tt2173658
+      - tt2200322
+      - tt2242274
+      - tt2247154
+      - tt2315756
+      - tt2319977
+      - tt2357395
+      - tt2382000
+      - tt2404148
+      - tt2455654
+      - tt2458756
+      - tt2465066
+      - tt2477188
+      - tt2488206
+      - tt2508572
+      - tt2537514
+      - tt2555760
+      - tt2557556
+      - tt2558656
+      - tt2579978
+      - tt2664906
+      - tt2764044
+      - tt2781526
+      - tt2870252
+      - tt2905962
+      - tt2917438
+      - tt2920072
+      - tt3004842
+      - tt3012998
+      - tt3020956
+      - tt3045040
+      - tt3120982
+      - tt3663600
+      - tt3759462
+    new directors competition:
+      nominee:
+      - tt2232594
+      - tt2298416
+      - tt2309708
+      - tt2357461
+      - tt2494834
+      - tt2582320
+      - tt2594950
+      - tt2736074
+      - tt3042458
+      - tt3256764
+      persons:
+        tt2042583:
+          id: nm0004033
+          name: Diego Quemada-Diez
+        tt2232594:
+          id: nm1032435
+          name: Yannis Sakaridis
+        tt2298416:
+          id: nm1580395
+          name: Katell Quillévéré
+        tt2309708:
+          id: nm0282933
+          name: Roberto Flores Prieto
+        tt2357461:
+          id: nm0000420
+          name: Valeria Golino
+        tt2494834:
+          id: nm0265235
+          name: Karin Fahlén
+        tt2582320:
+          id: nm1490813
+          name: Rick Ostermann
+        tt2594950:
+          id: nm4021775
+          name: Yuriy Bykov
+        tt2736074:
+          id: nm2745760
+          name: Jahmil X.T. Qubeka
+        tt3042458:
+          id: nm1421529
+          name: John A. Rangel
+        tt3256764:
+          id: nm6012564
+          name: Moisés Sepúlveda
+      winner:
+      - tt2042583
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt2348076
+    best experimental short film:
+      winner:
+      - tt2788990
+    best student live action - under 15 minutes:
+      winner:
+      - tt2922078
+    mini-series:
+      winner:
+      - tt2753872
+    'television productions - documentary: social / political':
+      winner:
+      - tt2265441
+  silver hugo:
+    best actor:
+      persons:
+        tt2113820:
+          id: nm0927240
+          name: Robert Więckiewicz
+      winner:
+      - tt2113820
+    best actress:
+      persons:
+        tt1798108:
+          id: nm0107529
+          name: Nadeshda Brennicke
+      winner:
+      - tt1798108
+    best animated short film:
+      winner:
+      - tt2512764
+    best cinematography:
+      winner:
+      - tt2369205
+    best director:
+      persons:
+        tt2659190:
+          id: nm1062000
+          name: Jérôme Bonnell
+      winner:
+      - tt2659190
+    best documentary short:
+      winner:
+      - tt2661352
+    best student film:
+      winner:
+      - tt2948872
+    jury special prize:
+      winner:
+      - tt2691722
+    new directors competition:
+      persons:
+        tt3092552:
+          id: nm1450964
+          name: Maciej Pieprzyca
+      winner:
+      - tt3092552
+    'short film competition: live action':
+      winner:
+      - tt2433014
+  silver plaque:
+    best short film:
+      winner:
+      - tt2656122
+  special jury prize:
+    documentary film:
+      winner:
+      - tt2437696
+  special mention:
+    acting:
+      winner:
+      - tt2324384
+    best animated short:
+      winner:
+      - tt2898702
+    best documentary:
+      winner:
+      - tt2893194
+    'short film competition: live action':
+      winner:
+      - tt2865272
+    special award:
+      winner:
+      - tt2650954
+'2014':
+  artistic achievement award:
+    artistic achievement award:
+      winner:
+      - tt3125324
+  audience choice award:
+    audience choice award:
+      nominee:
+      - tt2112337
+      - tt2710942
+      - tt3148952
+      winner:
+      - tt2113681
+    best narrative english-language feature:
+      winner:
+      - tt2084970
+  chicago award:
+    best film:
+      winner:
+      - tt2352434
+  emerging artist award:
+    emerging artist award:
+      winner:
+      - tt3125324
+  founder's award:
+    best actor:
+      persons:
+        tt2562232:
+          id: nm0000474
+          name: Michael Keaton
+      winner:
+      - tt2562232
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt1949515
+      - tt2842450
+      - tt2851090
+      - tt3527010
+      - tt3798522
+      - tt3907314
+      winner:
+      - tt2624396
+    best feature:
+      nominee:
+      - tt1730764
+      - tt2121382
+      - tt2531168
+      - tt3019620
+      - tt3260622
+      - tt3267784
+      - tt3310280
+      - tt3469910
+      - tt3483588
+      - tt3509804
+      - tt3516158
+      - tt3560686
+      - tt3661798
+      - tt3671480
+      winner:
+      - tt3966942
+    best short film:
+      nominee:
+      - tt1837009
+      - tt2380090
+      - tt2719602
+      - tt2723216
+      - tt2760492
+      - tt2914716
+      - tt2963658
+      - tt3005654
+      - tt3032274
+      - tt3044432
+      - tt3082632
+      - tt3170982
+      - tt3195532
+      - tt3197500
+      - tt3230362
+      - tt3249896
+      - tt3278420
+      - tt3333202
+      - tt3334028
+      - tt3342184
+      - tt3347482
+      - tt3348194
+      - tt3391858
+      - tt3406926
+      - tt3453988
+      - tt3453996
+      - tt3465402
+      - tt3465528
+      - tt3469108
+      - tt3484826
+      - tt3505434
+      - tt3540058
+      - tt3545814
+      - tt3566532
+      - tt3608338
+      - tt3608726
+      - tt3609780
+      - tt3628596
+      - tt3688944
+      - tt3703546
+      - tt3706488
+      - tt3711912
+      - tt3758364
+      - tt3798268
+      - tt3799132
+      - tt3815708
+      - tt3838912
+      - tt3854136
+      - tt4150096
+      - tt4190774
+      winner:
+      - tt3596968
+    gold hugo:
+      nominee:
+      - tt2465578
+    new directors competition:
+      nominee:
+      - tt2287719
+      - tt2531168
+      - tt3399032
+      - tt3854234
+      persons:
+        tt2287719:
+          id: nm3322221
+          name: Juan Francisco Olea
+        tt2531168:
+          id: nm3696504
+          name: Simon Blake
+        tt3399032:
+          id: nm4717125
+          name: Arnold de Parscau
+        tt3854234:
+          id: nm0994416
+          name: Sebastián Schindel
+        tt4026914:
+          id: nm2585445
+          name: Ronnie Sandahl
+      winner:
+      - tt4026914
+  gold plaque:
+    best art direction:
+      winner:
+      - tt2465578
+    best costume design:
+      winner:
+      - tt3360038
+    best experimental short film:
+      winner:
+      - tt3622108
+    best narrative short film:
+      winner:
+      - tt2780806
+    best student short film:
+      winner:
+      - tt3438990
+    special jury prize:
+      winner:
+      - tt2769730
+      - tt3203054
+    special mention:
+      winner:
+      - tt3254876
+    television - investigative reporting/news documentary:
+      winner:
+      - tt3610980
+  q hugo award:
+    best feature:
+      winner:
+      - tt3186946
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt2777420:
+          id: nm0702024
+          name: Jorge Pérez Solano
+      winner:
+      - tt2777420
+  silver hugo:
+    best actor:
+      persons:
+        tt1798243:
+          id: nm0947338
+          name: Anton Yelchin
+      winner:
+      - tt1798243
+    best actress:
+      persons:
+        tt3958098:
+          id: nm0001036
+          name: Geraldine Chaplin
+      winner:
+      - tt3958098
+    best animated short film:
+      winner:
+      - tt3350724
+    best cinematography:
+      winner:
+      - tt3346824
+    best director:
+      persons:
+        tt3409392:
+          id: nm0803066
+          name: Abderrahmane Sissako
+      winner:
+      - tt3409392
+    best documentary short:
+      winner:
+      - tt2902316
+    best narrative/live action short:
+      winner:
+      - tt3685760
+    best screenplay:
+      winner:
+      - tt3062880
+    best short film:
+      winner:
+      - tt2902316
+    new directors competition:
+      persons:
+        tt3569978:
+          id: nm2135674
+          name: Asaf Korman
+      winner:
+      - tt3569978
+    special jury prize:
+      winner:
+      - tt3717390
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt3688966
+    best narrative/live action short:
+      winner:
+      - tt3246862
+    'documentary: history/biography':
+      winner:
+      - tt3162794
+    feature length telefilm:
+      winner:
+      - tt2934916
+    student produced program:
+      winner:
+      - tt3000744
+  silver q hugo award:
+    '"documentary: history/biography"':
+      winner:
+      - tt3560728
+    best feature:
+      winner:
+      - tt3452948
+  special mention:
+    best animated short:
+      winner:
+      - tt3759448
+    best short film:
+      winner:
+      - tt3483780
+      - tt3493858
+'2015':
+  audience choice award:
+    audience choice award:
+      nominee:
+      - tt3311988
+      - tt3409440
+      winner:
+      - tt3672582
+    best documentary feature:
+      winner:
+      - tt4897822
+    best film:
+      nominee:
+      - tt5165342
+    best narrative english-language feature:
+      winner:
+      - tt1895587
+    best narrative foreign-language feature:
+      winner:
+      - tt3966404
+    best short film:
+      nominee:
+      - tt4519842
+      winner:
+      - tt3672582
+  bronze plaque:
+    short film awards:
+      winner:
+      - tt4692622
+  certificate of merit:
+    best animated series:
+      winner:
+      - tt2196584
+  chicago award:
+    best film:
+      winner:
+      - tt4175088
+  cineyouth:
+    drama:
+      nominee:
+      - tt4333140
+  gold hugo:
+    best documentary:
+      nominee:
+      - tt3144276
+      - tt3344712
+      - tt3398628
+      - tt3735686
+      - tt3790720
+      - tt3838154
+      - tt3845142
+      - tt3903322
+      - tt4082370
+      - tt4125856
+      - tt4144582
+      - tt4175088
+      - tt4336186
+      - tt4363672
+      - tt4372118
+      - tt4576318
+      - tt4624228
+      - tt4677300
+      - tt4834764
+      - tt4897822
+      - tt4935446
+      - tt4936064
+      - tt4952770
+      - tt4957736
+      - tt5532258
+      winner:
+      - tt4176462
+    best feature:
+      nominee:
+      - tt3013610
+      - tt3430416
+      - tt3544082
+      - tt3702720
+      - tt3740778
+      - tt3850496
+      - tt4000936
+      - tt4048050
+      - tt4298958
+      - tt4358230
+      - tt4375438
+      - tt4381400
+      - tt4482858
+      - tt4515684
+      - tt4899406
+      winner:
+      - tt3828378
+    best narrative short film:
+      winner:
+      - tt3672606
+    best short film:
+      nominee:
+      - tt3711918
+      - tt3762982
+      - tt4219826
+      - tt4552226
+      - tt4692622
+      winner:
+      - tt3672606
+    new directors competition:
+      nominee:
+      - tt3044584
+      - tt3422094
+      - tt3503460
+      - tt3522138
+      - tt3686990
+      - tt3695986
+      - tt3823018
+      - tt3917118
+      - tt4072352
+      - tt4134782
+      - tt4150494
+      - tt4636046
+      - tt4817256
+      persons:
+        tt3044584:
+          id: nm1897610
+          name: Vahid Hakimzadeh
+        tt3422094:
+          id: nm1381358
+          name: Celso R. García
+        tt3503460:
+          id: nm1452752
+          name: Claire Carré
+        tt3522138:
+          id: nm3628911
+          name: Patrick Underwood
+        tt3686990:
+          id: nm1191388
+          name: Francisco Varone
+        tt3695986:
+          id: nm1492406
+          name: Guilherme Coelho
+        tt3823018:
+          id: nm1242172
+          name: Rúnar Rúnarsson
+        tt3917118:
+          id: nm0310539
+          name: Jake Gavin
+        tt4072352:
+          id: nm0215938
+          name: Salvador del Solar
+        tt4134782:
+          id: nm1155349
+          name: Björn Hlynur Haraldsson
+        tt4150494:
+          id: nm3281319
+          name: Magnus von Horn
+        tt4636046:
+          id: nm5304764
+          name: Ida Panahandeh
+        tt4817256:
+          id: nm1411830
+          name: Marcin Koszalka
+        tt5029106:
+          id: nm5879608
+          name: Peng Fei Song
+      winner:
+      - tt5029106
+  gold plaque:
+    best documentary short:
+      nominee:
+      - tt4456746
+    documentary short:
+      winner:
+      - tt4637156
+    mini-series:
+      winner:
+      - tt3326054
+    special mention:
+      winner:
+      - tt4082370
+  q hugo award:
+    best feature:
+      winner:
+      - tt2402927
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt4636046:
+          id: nm5304764
+          name: Ida Panahandeh
+      winner:
+      - tt4636046
+  silver hugo:
+    best actor:
+      persons:
+        tt3828378:
+          id: nm6615040
+          name: Jules Gauzelin
+      winner:
+      - tt3828378
+    best actress:
+      persons:
+        tt3702720:
+          id: nm1227053
+          name: Lizzie Brocheré
+      winner:
+      - tt3702720
+    best animated short:
+      winner:
+      - tt4636108
+    best director:
+      persons:
+        tt4375438:
+          id: nm1883257
+          name: Pablo Larraín
+      winner:
+      - tt4375438
+    institutional/corporate identity:
+      winner:
+      - tt6178570
+    live action short:
+      winner:
+      - tt4705224
+    new directors competition:
+      persons:
+        tt3823018:
+          id: nm1242172
+          name: Rúnar Rúnarsson
+      winner:
+      - tt3823018
+    special jury prize:
+      winner:
+      - tt4381400
+  silver plaque:
+    best animated short film:
+      winner:
+      - tt4516050
+    best art direction:
+      winner:
+      - tt4048050
+    best cinematography:
+      winner:
+      - tt3702720
+    best documentary:
+      winner:
+      - tt2412748
+    best ensemble:
+      winner:
+      - tt4375438
+    best narrative short film:
+      winner:
+      - tt4421754
+      - tt4692622
+    best screenplay:
+      winner:
+      - tt4375438
+  silver q hugo award:
+    best feature:
+      winner:
+      - tt3703836
+  world cinema/out-look competition:
+    best film:
+      nominee:
+      - tt3185602
+'2016':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt5804038
+    best narrative feature:
+      winner:
+      - tt3741834
+      - tt4975722
+    best short film:
+      winner:
+      - tt5116560
+  chicago award:
+    best film:
+      winner:
+      - tt4630204
+  cineyouth:
+    best documentary:
+      winner:
+      - tt5957266
+  gold hugo:
+    best feature:
+      nominee:
+      - tt3082854
+      - tt4120176
+      - tt4551318
+      - tt4621872
+      - tt4666726
+      - tt4698584
+      - tt4874206
+      - tt4936450
+      - tt5133392
+      - tt5186714
+      - tt5294966
+      - tt5333110
+      - tt5369484
+      - tt5712152
+      - tt5936692
+      winner:
+      - tt4466490
+    best film:
+      nominee:
+      - tt4895668
+    documentary competition:
+      nominee:
+      - tt4630204
+      - tt4716560
+      - tt5068628
+      - tt5136148
+      - tt5529828
+      - tt5952526
+      - tt5993224
+      - tt6151812
+      winner:
+      - tt4970324
+    live action short:
+      winner:
+      - tt5717648
+    new directors competition:
+      nominee:
+      - tt3037164
+      - tt4131594
+      - tt4572682
+      - tt4613254
+      - tt5011242
+      - tt5093990
+      - tt5325492
+      - tt5466056
+      - tt5559356
+      - tt5625068
+      - tt5834036
+      - tt5974422
+      - tt6151714
+      - tt6151774
+      persons:
+        tt3037164:
+          id: nm2000966
+          name: Attila Till
+        tt4131594:
+          id: nm3867078
+          name: Jonas Rothlaender
+        tt4572682:
+          id: nm5313613
+          name: Ana Cristina Barragán
+        tt4613254:
+          id: nm2003134
+          name: Guðmundur Arnar Guðmundsson
+        tt4771932:
+          id: nm3123366
+          name: Juho Kuosmanen
+        tt5011242:
+          id: nm5411339
+          name: Mohamed Ben Attia
+        tt5093990:
+          id: nm4632782
+          name: Shahrbanoo Sadat
+        tt5325492:
+          id: nm3545127
+          name: Xander Robin
+        tt5466056:
+          id: nm3849758
+          name: Marília Rocha
+        tt5559356:
+          id: nm3929944
+          name: Adrián Saba
+        tt5625068:
+          id: nm2152554
+          name: Federico Cecchetti
+        tt5834036:
+          id: nm0257471
+          name: Yan England
+        tt5974422:
+          id: nm2013865
+          name: Carlos Lechuga
+        tt6151714:
+          id: nm1032435
+          name: Yannis Sakaridis
+        tt6151774:
+          id: nm0946346
+          name: Adel Yaraghi
+      winner:
+      - tt4771932
+    short film awards - live action:
+      nominee:
+      - tt5570956
+      - tt5648102
+  gold plaque:
+    best animated short film:
+      winner:
+      - tt5559726
+    best documentary short:
+      winner:
+      - tt4543414
+  q hugo award:
+    best feature:
+      winner:
+      - tt4613254
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt3037164:
+          id: nm2000966
+          name: Attila Till
+      winner:
+      - tt3037164
+  short film awards:
+    competition:
+      nominee:
+      - tt3696922
+      - tt4553690
+      - tt5674686
+      - tt5719046
+  silver hugo:
+    best actor:
+      persons:
+        tt4936450:
+          id: nm0864458
+          name: Adrian Titieni
+      winner:
+      - tt4936450
+    best actress:
+      persons:
+        tt4666726:
+          id: nm0356017
+          name: Rebecca Hall
+      winner:
+      - tt4666726
+    best animated short:
+      winner:
+      - tt5444462
+    best art direction:
+      winner:
+      - tt5936692
+    best cinematography:
+      winner:
+      - tt5936692
+    best director:
+      persons:
+        tt4466490:
+          id: nm1090998
+          name: Cristi Puiu
+      winner:
+      - tt4466490
+    best documentary:
+      winner:
+      - tt5068628
+    best screenplay:
+      winner:
+      - tt4936450
+    best short film:
+      winner:
+      - tt5144092
+    new directors competition:
+      persons:
+        tt4131594:
+          id: nm3867078
+          name: Jonas Rothlaender
+      winner:
+      - tt4131594
+    special jury prize:
+      winner:
+      - tt5186714
+  silver q hugo award:
+    best feature:
+      winner:
+      - tt5096628
+  world cinema/out-look competition:
+    best film:
+      nominee:
+      - tt5337986
+'2017':
+  53rd chicago international tv award:
+    non-fiction program:
+      winner:
+      - tt5151716
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt5836866
+    best film:
+      nominee:
+      - tt6240976
+    best narrative english-language feature:
+      winner:
+      - tt5301662
+    best narrative foreign-language feature:
+      winner:
+      - tt5027162
+  chicago award:
+    best film:
+      winner:
+      - tt6053440
+  gold hugo:
+    after dark competition:
+      nominee:
+      - tt5586362
+    best animated short:
+      nominee:
+      - tt6531506
+      winner:
+      - tt6652404
+    best documentary:
+      nominee:
+      - tt6116682
+      - tt6220252
+      - tt6436254
+      - tt6483258
+      - tt6532954
+      - tt6777114
+      - tt7028250
+      - tt7753990
+      winner:
+      - tt6744624
+    best documentary short:
+      winner:
+      - tt5529618
+    best feature:
+      nominee:
+      - tt4432006
+      - tt4935898
+      - tt5222918
+      - tt5795086
+      - tt5980798
+      - tt6134000
+      - tt6161300
+      - tt6206880
+      - tt6304046
+      - tt6444838
+      - tt6596796
+      - tt6776462
+      - tt6952604
+      - tt7106928
+      winner:
+      - tt6386168
+    best narrative short:
+      winner:
+      - tt6466046
+    best short film:
+      nominee:
+      - tt5876724
+      - tt6841582
+      - tt7003952
+    best short narrative - 15 minutes and over:
+      nominee:
+      - tt5915824
+    new directors competition:
+      nominee:
+      - tt2302416
+      - tt4830786
+      - tt5492260
+      - tt5668850
+      - tt5873216
+      - tt5903232
+      - tt6107516
+      - tt6596454
+      - tt7128066
+      - tt7148254
+      - tt7224496
+      - tt7233012
+      - tt7272242
+      - tt7411742
+      - tt7411828
+      persons:
+        tt2302416:
+          id: nm2941662
+          name: Dipesh Jain
+        tt4830786:
+          id: nm3409787
+          name: Ofir Raul Graizer
+        tt5492260:
+          id: nm1279669
+          name: Kathleen Hepburn
+        tt5668850:
+          id: nm3613729
+          name: Milad Alami
+        tt5873216:
+          id: nm4354445
+          name: Anahita Ghazvinizadeh
+        tt5903232:
+          id: nm4407467
+          name: Natalia Garagiola
+        tt6107516:
+          id: nm2271584
+          name: Gustavo Rondón Córdova
+        tt6207878:
+          id: nm7522225
+          name: Vahid Jalilvand
+        tt6596454:
+          id: nm1888700
+          name: Marcela Said
+        tt7128066:
+          id: nm3202398
+          name: Andrei Cretulescu
+        tt7148254:
+          id: nm9137659
+          name: Ana Urushadze
+        tt7224496:
+          id: nm3648488
+          name: Alireza Khatami
+        tt7233012:
+          id: nm0534813
+          name: Ruth Mader
+        tt7272242:
+          id: nm2005384
+          name: Laura Mora Ortega
+        tt7411742:
+          id: nm1601642
+          name: Olivier Meys
+        tt7411828:
+          id: nm4240768
+          name: Maciej Sobieszczanski
+      winner:
+      - tt6207878
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt4830786
+      - tt5517708
+      - tt5635086
+      - tt5873216
+      - tt6012792
+      - tt6053440
+      - tt6220252
+      - tt6304046
+      winner:
+      - tt6135348
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt7272242:
+          id: nm2005384
+          name: Laura Mora Ortega
+      winner:
+      - tt7272242
+  short film awards:
+    best narrative short:
+      nominee:
+      - tt6088728
+    competition:
+      nominee:
+      - tt5073484
+      - tt6959620
+  silver hugo:
+    best actor:
+      persons:
+        tt6952604:
+          id: nm1336790
+          name: Aleksandr Yatsenko
+      winner:
+      - tt6952604
+    best actress:
+      persons:
+        tt7106928:
+          id: nm0591858
+          name: Jowita Budnik
+      winner:
+      - tt7106928
+    best art direction:
+      winner:
+      - tt6134000
+    best cinematography:
+      winner:
+      - tt4432006
+    best director:
+      persons:
+        tt7106928:
+          id: nm1732806
+          name: Joanna Kos-Krauze
+      winner:
+      - tt7106928
+    best documentary:
+      winner:
+      - tt6220252
+    best screenplay:
+      winner:
+      - tt6776462
+    best short film:
+      winner:
+      - tt7003952
+    individual commercials:
+      winner:
+      - tt6793844
+    new directors competition:
+      persons:
+        tt5668850:
+          id: nm3613729
+          name: Milad Alami
+      winner:
+      - tt5668850
+    special jury prize:
+      winner:
+      - tt5980798
+  silver plaque:
+    best animated short:
+      winner:
+      - tt6488386
+    best documentary short:
+      winner:
+      - tt6017358
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt5635086
+  special mention:
+    best documentary short:
+      winner:
+      - tt6725178
+    best narrative/life action short:
+      winner:
+      - tt6395008
+  world cinema/out-look competition:
+    best film:
+      nominee:
+      - tt7252000
+'2018':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt4009728
+    best foreign-language feature:
+      winner:
+      - tt6433456
+    best narrative english-language feature:
+      winner:
+      - tt5580266
+    best short film:
+      winner:
+      - tt8184736
+  chicago award:
+    best short film:
+      winner:
+      - tt7520776
+  founder's award:
+    best feature:
+      winner:
+      - tt1226837
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt7765100
+      - tt7820926
+      - tt7845394
+      - tt7855990
+      - tt8233516
+      - tt8677116
+      winner:
+      - tt7375186
+    best documentary:
+      nominee:
+      - tt4009728
+      - tt4568960
+      - tt4886144
+      - tt5795282
+      - tt7135738
+      - tt7364566
+      - tt7385124
+      - tt7606162
+      - tt7754564
+      - tt8106584
+      - tt8116574
+      - tt8236398
+      - tt8749074
+      - tt8758548
+      - tt8804284
+      - tt8904630
+      - tt8917792
+      - tt9020228
+      winner:
+      - tt9001548
+    best documentary short:
+      nominee:
+      - tt7227484
+      - tt7290058
+      - tt7855744
+      - tt8069782
+      - tt8085136
+      - tt8515188
+      winner:
+      - tt9433046
+    best feature:
+      nominee:
+      - tt5501104
+      - tt6386748
+      - tt6675244
+      - tt6705860
+      - tt7250056
+      - tt7298400
+      - tt7377132
+      - tt7523180
+      - tt7538958
+      - tt7555774
+      - tt8462858
+      - tt8696440
+      - tt8726008
+      - tt8726098
+      - tt8917752
+      winner:
+      - tt6752992
+    best narrative short:
+      nominee:
+      - tt7010770
+    best narrative short film:
+      nominee:
+      - tt6797650
+      - tt7132658
+      - tt7281172
+      - tt7333086
+      - tt7475988
+      - tt7554976
+      - tt7561610
+      - tt7855856
+      - tt7913020
+      - tt7937264
+      - tt8140128
+      - tt8296620
+      - tt8340880
+      - tt8342492
+      - tt8371960
+      - tt8582050
+      - tt8908824
+      winner:
+      - tt7941206
+    new directors competition:
+      nominee:
+      - tt3180548
+      - tt6238798
+      - tt6396074
+      - tt6799254
+      - tt6822514
+      - tt7502234
+      - tt7537960
+      - tt7999960
+      - tt8473532
+      - tt8660416
+      - tt8845840
+      - tt9020130
+      persons:
+        tt3180548:
+          id: nm1220383
+          name: Morgan Bushe
+        tt6238798:
+          id: nm2145551
+          name: Meritxell Colell
+        tt6396074:
+          id: nm4851216
+          name: Joël Karekezi
+        tt6799254:
+          id: nm2314567
+          name: Natalia Cabral
+        tt6822514:
+          id: nm1523568
+          name: Arturo Infante
+        tt7502234:
+          id: nm8202045
+          name: Andréa Bescond
+        tt7537960:
+          id: nm5411339
+          name: Mohamed Ben Attia
+        tt7692966:
+          id: nm4451190
+          name: Ash Mayfair
+        tt7999960:
+          id: nm1461831
+          name: Xavi Sala
+        tt8473532:
+          id: nm9866779
+          name: Mostafa Sayari
+        tt8660416:
+          id: nm2383616
+          name: Amikam Kovner
+        tt8845840:
+          id: nm3770347
+          name: Nataliya Meshchaninova
+        tt9020130:
+          id: nm10132283
+          name: Gaopeng Tang
+      winner:
+      - tt7692966
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt6999052
+      - tt7008872
+      - tt7534054
+      - tt7925066
+      - tt8286894
+      - tt8307082
+      winner:
+      - tt7761590
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt7502234:
+          id: nm8202045
+          name: Andréa Bescond
+      winner:
+      - tt7502234
+  silver hugo:
+    best actor:
+      persons:
+        tt7523180:
+          id: nm0159802
+          name: Jesper Christensen
+      winner:
+      - tt7523180
+    best actress:
+      persons:
+        tt7298400:
+          id: nm0955504
+          name: Tao Zhao
+      winner:
+      - tt7298400
+    best animated short film:
+      winner:
+      - tt8677116
+    best director:
+      persons:
+        tt7298400:
+          id: nm0422605
+          name: Jia Zhang-ke
+      winner:
+      - tt7298400
+    best documentary:
+      winner:
+      - tt7754564
+      - tt8116574
+    best documentary short:
+      winner:
+      - tt7855744
+    best narrative short film:
+      winner:
+      - tt7475988
+    best screenplay:
+      winner:
+      - tt7555774
+    new directors competition:
+      persons:
+        tt6396074:
+          id: nm4851216
+          name: Joël Karekezi
+      winner:
+      - tt6396074
+    special jury prize:
+      winner:
+      - tt8917752
+  silver plaque:
+    best art direction:
+      winner:
+      - tt6386748
+    best cinematography:
+      winner:
+      - tt6386748
+    best pilot:
+      winner:
+      - tt6357284
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt8286894
+  special jury prize:
+    best documentary short:
+      winner:
+      - tt8184736
+    q-hugo:
+      winner:
+      - tt7925066
+  special mention:
+    'short film competition: live action':
+      winner:
+      - tt7554976
+  world cinema/out-look competition:
+    best film:
+      nominee:
+      - tt6190456
+'2019':
+  audience choice award:
+    best short film:
+      winner:
+      - tt9902912
+  city & state award:
+    best film:
+      nominee:
+      - tt3917094
+  founder's award:
+    best feature:
+      winner:
+      - tt1302006
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt10091226
+      - tt10619908
+      - tt8012356
+      - tt8150654
+      - tt9620820
+      - tt9903618
+      winner:
+      - tt10224888
+    best documentary:
+      nominee:
+      - tt10299146
+      - tt10847286
+      - tt7466076
+      - tt8995264
+      - tt9567718
+      - tt9592066
+      - tt9780822
+      - tt9786006
+      winner:
+      - tt10883286
+    best documentary short:
+      nominee:
+      - tt10201512
+      - tt10544628
+      - tt10620292
+      - tt10623508
+      - tt10833446
+      - tt12189756
+      - tt6599276
+      - tt8150744
+      - tt8377996
+      - tt8898246
+      - tt9023412
+      - tt9498994
+      - tt9675126
+      - tt9816390
+      - tt9902912
+      winner:
+      - tt9074322
+    best feature:
+      nominee:
+      - tt10603466
+      - tt10703752
+      - tt10767168
+      - tt10899680
+      - tt1667354
+      - tt5577494
+      - tt6131414
+      - tt7275830
+      - tt8212958
+      - tt8241872
+      - tt8359816
+      - tt8649186
+      - tt9584814
+      - tt9778738
+      - tt9778888
+      winner:
+      - tt8613070
+    best narrative short film:
+      nominee:
+      - tt10219324
+      - tt10223044
+      - tt10224954
+      - tt10292926
+      - tt10478120
+      - tt10651850
+      - tt10839386
+      - tt8551514
+      - tt8551848
+      - tt8612010
+      - tt8753748
+      - tt8755868
+      - tt9116400
+      - tt9302096
+      - tt9392416
+      - tt9510082
+      - tt9723316
+      - tt9769192
+      - tt9814760
+      - tt9909186
+      winner:
+      - tt8555122
+    best short film:
+      nominee:
+      - tt10280050
+      - tt10509340
+    new directors competition:
+      nominee:
+      - tt10199664
+      - tt10496762
+      - tt10658248
+      - tt5678218
+      - tt7714770
+      - tt7939352
+      - tt8386898
+      - tt8435324
+      - tt8489152
+      - tt9206516
+      - tt9585684
+      - tt9648994
+      - tt9817070
+      persons:
+        tt10199664:
+          id: nm5685112
+          name: Maryam Touzani
+        tt10223552:
+          id: nm3108047
+          name: Franco Lolli
+        tt10496762:
+          id: nm5208533
+          name: Li Shih
+        tt10658248:
+          id: nm5471170
+          name: Maura Delpero
+        tt5678218:
+          id: nm4632782
+          name: Shahrbanoo Sadat
+        tt7714770:
+          id: nm3302367
+          name: Juris Kursietis
+        tt7939352:
+          id: nm2460716
+          name: Miriam Bliese
+        tt8386898:
+          id: nm0717603
+          name: Halina Reijn
+        tt8435324:
+          id: nm1335451
+          name: Gitanjali Rao
+        tt8489152:
+          id: nm3678007
+          name: Belén Funes
+        tt9206516:
+          id: nm3969062
+          name: Cesar Diaz
+        tt9585684:
+          id: nm3732046
+          name: Grigory Dobrygin
+        tt9648994:
+          id: nm0802910
+          name: Carlo Sironi
+        tt9817070:
+          id: nm7920254
+          name: Saeed Roustayi
+      winner:
+      - tt10223552
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt6314864
+      - tt7128732
+      - tt7280218
+      - tt7945236
+      - tt8234892
+      - tt8574836
+      - tt8613070
+      - tt9031484
+      winner:
+      - tt8963708
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt10199664:
+          id: nm5685112
+          name: Maryam Touzani
+      winner:
+      - tt10199664
+  short film awards:
+    competition:
+      nominee:
+      - tt8551514
+  silver hugo:
+    best actor:
+      persons:
+        tt8649186:
+          id: nm5849568
+          name: Bartosz Bielenia
+      winner:
+      - tt8649186
+    best actress:
+      persons:
+        tt8359816:
+          id: nm10214834
+          name: Debbie Honeywood
+      winner:
+      - tt8359816
+    best animated short film:
+      winner:
+      - tt9903618
+    best cinematography:
+      winner:
+      - tt1667354
+    best director:
+      persons:
+        tt10603466:
+          id: nm0921345
+          name: Maya Da-Rin
+      winner:
+      - tt10603466
+    best documentary:
+      winner:
+      - tt9780822
+    best documentary short:
+      nominee:
+      - tt10342690
+      winner:
+      - tt10201512
+    best feature film:
+      winner:
+      - tt8241872
+    best narrative short film:
+      winner:
+      - tt9510082
+    best screenplay:
+      winner:
+      - tt10703752
+    best short film:
+      nominee:
+      - tt8612010
+    best sound design:
+      winner:
+      - tt8212958
+    new directors competition:
+      persons:
+        tt8435324:
+          id: nm1335451
+          name: Gitanjali Rao
+        tt9206516:
+          id: nm3969062
+          name: Cesar Diaz
+      winner:
+      - tt8435324
+      - tt9206516
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt8613070
+  special mention:
+    best documentary:
+      winner:
+      - tt9786006
+    q-hugo:
+      winner:
+      - tt8234892
+'2020':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt13152386
+    best feature:
+      winner:
+      - tt9770150
+    best international feature:
+      winner:
+      - tt12801374
+    best short film:
+      winner:
+      - tt11952320
+  chicago award:
+    best film:
+      winner:
+      - tt13408228
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt10307058
+      - tt10487680
+      - tt10539388
+      - tt11038340
+      - tt11236218
+      - tt11386204
+      - tt11698640
+      - tt11952320
+      - tt12185772
+      - tt12735446
+      - tt12974890
+      - tt13147220
+      - tt15559928
+      winner:
+      - tt9146020
+    best documentary:
+      nominee:
+      - tt10741012
+      - tt11405250
+      - tt11753696
+      - tt11905514
+      - tt11958790
+      - tt12801356
+      - tt13152386
+      - tt7434314
+      winner:
+      - tt13236126
+    best documentary short:
+      nominee:
+      - tt11570412
+      - tt11830320
+      - tt11842810
+      - tt11911782
+      - tt13531570
+      winner:
+      - tt12161034
+    best feature:
+      nominee:
+      - tt10110614
+      - tt10243992
+      - tt10418630
+      - tt10796286
+      - tt10798072
+      - tt12474056
+      - tt12792594
+      - tt12801374
+      - tt7716120
+      - tt8132778
+      winner:
+      - tt12443946
+    best narrative short:
+      nominee:
+      - tt10272208
+      - tt10485482
+      - tt10713294
+      - tt10866230
+      - tt11313142
+      - tt11384506
+      - tt11385032
+      - tt11421112
+      - tt11548506
+      - tt11650610
+      - tt11734252
+      - tt11753340
+      - tt12025808
+      - tt12063972
+      - tt12397964
+      - tt12762548
+      - tt12804548
+      - tt12841898
+      - tt12974818
+      - tt12974894
+      - tt13046450
+      - tt13128070
+      - tt7555298
+      winner:
+      - tt13081946
+    new directors competition:
+      nominee:
+      - tt10229932
+      - tt11090178
+      - tt11640118
+      - tt11692148
+      - tt11744432
+      - tt12430378
+      - tt12444426
+      - tt13082008
+      persons:
+        tt10229932:
+          id: nm5908839
+          name: Sabine Lubbe Bakker
+        tt11090178:
+          id: nm5298388
+          name: Wei Shujun
+        tt11640118:
+          id: nm6483827
+          name: João Paulo Miranda Maria
+        tt11692148:
+          id: nm5584045
+          name: Arab Nasser
+        tt11744432:
+          id: nm3442945
+          name: Michael Venus
+        tt12430378:
+          id: nm11627527
+          name: Ignacio Marquez
+        tt12444426:
+          id: nm11633954
+          name: Suzanne Lindon
+        tt12564514:
+          id: nm2520336
+          name: Lili Horvát
+        tt13082008:
+          id: nm6833235
+          name: Takuma Satô
+      winner:
+      - tt12564514
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt10457128
+      - tt10741012
+      - tt10975520
+      - tt11697820
+      - tt11753696
+      - tt7983894
+      winner:
+      - tt13236126
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt11640118:
+          id: nm6483827
+          name: João Paulo Miranda Maria
+      winner:
+      - tt11640118
+  short film awards:
+    best narrative short:
+      nominee:
+      - tt12081352
+  silver hugo:
+    best animated short:
+      winner:
+      - tt15559928
+    best art direction:
+      winner:
+      - tt12443946
+    best cinematography:
+      winner:
+      - tt8132778
+    best director:
+      persons:
+        tt10796286:
+          id: nm0464846
+          name: Andrei Konchalovsky
+      winner:
+      - tt10796286
+    best documentary:
+      winner:
+      - tt11753696
+    best documentary short:
+      winner:
+      - tt11570412
+    best ensemble:
+      winner:
+      - tt7716120
+    best narrative short:
+      winner:
+      - tt12841898
+    best performance:
+      winner:
+      - tt12801374
+    best screenplay:
+      winner:
+      - tt10110614
+    best sound:
+      winner:
+      - tt8132778
+    new directors competition:
+      persons:
+        tt12430378:
+          id: nm11627527
+          name: Ignacio Marquez
+      winner:
+      - tt12430378
+    special jury prize:
+      winner:
+      - tt12792594
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt11697820
+'2021':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt8005886
+    best feature:
+      winner:
+      - tt9620288
+    best international feature:
+      winner:
+      - tt14039582
+    best short film:
+      winner:
+      - tt14507332
+      - tt15670588
+  best of the fest:
+    documentary:
+      winner:
+      - tt14395694
+  chicago award:
+    best film:
+      nominee:
+      - tt14459796
+    best short film:
+      nominee:
+      - tt18263692
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt12445648
+      - tt13044582
+      - tt13492552
+      - tt13796046
+      - tt13847902
+      - tt14460998
+      - tt14507332
+      - tt14836958
+      - tt14899008
+      - tt9096824
+      winner:
+      - tt14293560
+    best documentary:
+      nominee:
+      - tt14029622
+      - tt14035242
+      - tt14459796
+      - tt14574478
+      - tt14599510
+      - tt8927992
+      - tt9850492
+      winner:
+      - tt14636704
+    best documentary short:
+      nominee:
+      - tt10522928
+      - tt11803180
+      - tt13484784
+      - tt13649466
+      - tt14039676
+      - tt14135882
+      - tt14438870
+      - tt14558656
+      - tt14845450
+      - tt14962190
+      - tt14972182
+      - tt15107104
+      - tt15119696
+      - tt15210648
+      - tt18263692
+      winner:
+      - tt14873006
+    best feature:
+      nominee:
+      - tt10366574
+      - tt11188010
+      - tt12244822
+      - tt12708658
+      - tt13204490
+      - tt13322726
+      - tt14035154
+      - tt14039582
+      - tt14077696
+      - tt15115280
+      - tt15119676
+      winner:
+      - tt8399288
+    best live action short:
+      nominee:
+      - tt11887594
+      - tt12177362
+      - tt12858924
+      - tt13659404
+      - tt13876134
+      - tt13886816
+      - tt14117520
+      - tt14175546
+      - tt14251536
+      - tt14317542
+      - tt14527238
+      - tt14527718
+      - tt14639404
+      - tt14714548
+      - tt14812804
+      - tt15011242
+      - tt15398792
+      - tt15670588
+      winner:
+      - tt14875862
+    new directors competition:
+      nominee:
+      - tt11460512
+      - tt11813228
+      - tt12822900
+      - tt13667548
+      - tt13834788
+      - tt14962622
+      - tt15078266
+      - tt15211080
+      - tt4440842
+      - tt9737568
+      - tt9860858
+      persons:
+        tt10311018:
+          id: nm5408538
+          name: Ferit Karahan
+        tt11460512:
+          id: nm0836106
+          name: Franziska Stünkel
+        tt11813228:
+          id: nm6371718
+          name: Kavich Neang
+        tt12822900:
+          id: nm11784986
+          name: Irfana Majumdar
+        tt13667548:
+          id: nm4971166
+          name: Constance Meyer
+        tt13834788:
+          id: nm4461980
+          name: Kamila Andini
+        tt14962622:
+          id: nm4100750
+          name: Carlo Francisco Manatad
+        tt15078266:
+          id: nm5447183
+          name: Claudia Huaiquimilla
+        tt15211080:
+          id: nm4830321
+          name: Aga Woszczynska
+        tt4440842:
+          id: nm5929671
+          name: Khadar Ayderus Ahmed
+        tt9737568:
+          id: nm4679895
+          name: Simón Mesa Soto
+        tt9860858:
+          id: nm3701357
+          name: Mounia Akl
+      winner:
+      - tt10311018
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt12708658
+      - tt13003972
+      - tt13622180
+      - tt14034966
+      - tt14459796
+      - tt8430054
+      - tt9471828
+      winner:
+      - tt14775784
+  honorable mention:
+    city & state competition:
+      winner:
+      - tt10874280
+    international feature film competition:
+      winner:
+      - tt10366574
+  silver hugo:
+    best actor:
+      persons:
+        tt11188010:
+          id: nm0099521
+          name: Bouli Lanners
+      winner:
+      - tt11188010
+    best actress:
+      persons:
+        tt11188010:
+          id: nm0265610
+          name: Michelle Fairley
+      winner:
+      - tt11188010
+    best animated short:
+      winner:
+      - tt13044582
+    best art direction:
+      winner:
+      - tt13322726
+    best cinematography:
+      winner:
+      - tt10370710
+    best director:
+      persons:
+        tt15119676:
+          id: nm0449272
+          name: Péter Kerekes
+      winner:
+      - tt15119676
+    best documentary:
+      winner:
+      - tt9850492
+    best documentary short:
+      winner:
+      - tt14558656
+    best live action short:
+      winner:
+      - tt11887594
+    best screenplay:
+      winner:
+      - tt14035154
+    jury prize:
+      winner:
+      - tt14039582
+    new directors competition:
+      persons:
+        tt9737568:
+          id: nm4679895
+          name: Simón Mesa Soto
+      winner:
+      - tt9737568
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt14034966
+  special mention:
+    out-look competition:
+      winner:
+      - tt12708658
+'2022':
+  audience choice award:
+    documentary film:
+      winner:
+      - tt14246676
+      - tt23130054
+    feature film:
+      winner:
+      - tt11564570
+      - tt11702252
+    international film:
+      winner:
+      - tt5851696
+    short film:
+      winner:
+      - tt22309990
+  award for cinematic bravery:
+    award for cinematic bravery:
+      winner:
+      - tt20205236
+  chicago award:
+    chicago award:
+      winner:
+      - tt26897958
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt14174036
+      - tt17155172
+      - tt17663790
+      - tt18352344
+      - tt19388132
+      - tt20158168
+      - tt20783392
+      - tt20867674
+      - tt21065152
+      - tt21961490
+      - tt22695048
+      - tt8628894
+      winner:
+      - tt19781688
+    best documentary:
+      nominee:
+      - tt12510868
+      - tt14405536
+      - tt18083696
+      - tt19725896
+      - tt20517186
+      - tt21093696
+      - tt21377522
+      - tt21998500
+      winner:
+      - tt17080096
+    best documentary short:
+      nominee:
+      - tt15686492
+      - tt16420758
+      - tt17505104
+      - tt17550808
+      - tt19771952
+      - tt20202632
+      - tt22185094
+      - tt22309990
+      winner:
+      - tt17423776
+    best feature:
+      nominee:
+      - tt11306932
+      - tt11992694
+      - tt13482828
+      - tt13495458
+      - tt14859416
+      - tt15006566
+      - tt15215918
+      - tt15376894
+      - tt15399372
+      - tt15941636
+      - tt17679584
+      - tt18550182
+      - tt20205236
+      - tt6337816
+      - tt9660502
+      winner:
+      - tt19623228
+    best narrative short:
+      nominee:
+      - tt10020772
+      - tt13373946
+      - tt13840460
+      - tt13905838
+      - tt14850376
+      - tt15301336
+      - tt15456618
+      - tt15575862
+      - tt16305384
+      - tt16391020
+      - tt17042678
+      - tt17075126
+      - tt19844612
+      - tt20223332
+      - tt20236630
+      - tt20783554
+      - tt21310102
+      - tt21842882
+      - tt21874538
+      - tt22167086
+      winner:
+      - tt16392090
+    new directors competition:
+      nominee:
+      - tt12253164
+      - tt13111170
+      - tt13175506
+      - tt13925988
+      - tt14783042
+      - tt15307126
+      - tt16445764
+      - tt19630504
+      - tt19719904
+      - tt19783714
+      - tt19785426
+      - tt21226876
+      persons:
+        tt11448830:
+          id: nm3114649
+          name: Charlotte Le Bon
+        tt12253164:
+          id: nm2764487
+          name: Alexandru Belc
+        tt13111170:
+          id: nm5653464
+          name: Marian Mathias
+        tt13175506:
+          id: nm1970178
+          name: Pilar Palomero
+        tt13925988:
+          id: nm1908787
+          name: Mikko Myllylahti
+        tt14783042:
+          id: nm1345081
+          name: Michael Koch
+        tt15307126:
+          id: nm5328572
+          name: Erige Sehiri
+        tt16445764:
+          id: nm9974129
+          name: Anders Emblem
+        tt19630504:
+          id: nm7480562
+          name: Katrine Brocks
+        tt19719904:
+          id: nm6433472
+          name: Chie Hayakawa
+        tt19783714:
+          id: nm9557050
+          name: Antonio Lukich
+        tt19785426:
+          id: nm3326361
+          name: Maha Haj
+        tt21226876:
+          id: nm2185108
+          name: Ann Oren
+      winner:
+      - tt11448830
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt11718516
+      - tt12144262
+      - tt13495458
+      - tt14246676
+      - tt14575898
+      - tt14859416
+      - tt15215918
+      - tt16445764
+      - tt17080096
+      - tt20202992
+      - tt6337816
+      winner:
+      - tt9660502
+  rising star award:
+    rising star award:
+      winner:
+      - tt10931784
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt14783042:
+          id: nm1345081
+          name: Michael Koch
+        tt19630504:
+          id: nm7480562
+          name: Katrine Brocks
+      winner:
+      - tt14783042
+      - tt19630504
+  short film awards:
+    best documentary short:
+      nominee:
+      - tt27382309
+  silver hugo:
+    best animated short:
+      winner:
+      - tt17663790
+    best cinematography:
+      winner:
+      - tt19623228
+    best director:
+      persons:
+        tt17679584:
+          id: nm5685112
+          name: Maryam Touzani
+      winner:
+      - tt17679584
+    best documentary feature:
+      winner:
+      - tt19725896
+    best ensemble cast performance:
+      winner:
+      - tt15006566
+    best feature film:
+      winner:
+      - tt9660502
+    best narrative short:
+      winner:
+      - tt22167086
+    best performance:
+      winner:
+      - tt11992694
+    best production design:
+      winner:
+      - tt15399372
+    best screenplay:
+      winner:
+      - tt15376894
+    new directors competition:
+      persons:
+        tt21226876:
+          id: nm2185108
+          name: Ann Oren
+      winner:
+      - tt21226876
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt12144262
+  special mention:
+    q-hugo:
+      winner:
+      - tt17080096
+'2023':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt27390817
+    best film:
+      nominee:
+      - tt23864864
+    best international feature:
+      winner:
+      - tt27722543
+    best short film:
+      winner:
+      - tt29224120
+    best u.s. feature:
+      winner:
+      - tt28639049
+  chicago award:
+    best film:
+      nominee:
+      - tt15388560
+  city & state award:
+    city & state award:
+      winner:
+      - tt28639049
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt13021784
+      - tt24652070
+      - tt26494013
+      - tt26750265
+      - tt27009956
+      - tt27427737
+      - tt27493373
+      - tt27552338
+      - tt27617511
+      - tt27757693
+      - tt28101600
+      - tt29232798
+      - tt29233060
+      - tt7853586
+      winner:
+      - tt28083056
+    best documentary:
+      nominee:
+      - tt10400026
+      - tt21272092
+      - tt22857256
+      - tt27502227
+      - tt27502426
+      - tt27904948
+      winner:
+      - tt26448953
+    best documentary short:
+      nominee:
+      - tt16737116
+      - tt24174926
+      - tt24654284
+      - tt26218316
+      - tt27147047
+      - tt27431980
+      - tt28241123
+      - tt28255932
+      - tt28490259
+      - tt29230749
+      - tt29231200
+      - tt29231231
+      - tt29232534
+      winner:
+      - tt29225339
+    best feature:
+      nominee:
+      - tt11534720
+      - tt13231544
+      - tt13471862
+      - tt13866832
+      - tt14561712
+      - tt17055924
+      - tt18162096
+      - tt18453866
+      - tt18558306
+      - tt21027780
+      - tt21874690
+      - tt26315142
+      - tt27590147
+      - tt28490044
+      winner:
+      - tt27788968
+    best narrative short:
+      nominee:
+      - tt14464176
+      - tt17021880
+      - tt20518296
+      - tt21076576
+      - tt21880312
+      - tt23333044
+      - tt23508198
+      - tt23692248
+      - tt23987812
+      - tt24458804
+      - tt24484614
+      - tt27549360
+      - tt27838478
+      - tt28285666
+      - tt28453076
+      - tt28670640
+      - tt29225435
+      - tt29230057
+      winner:
+      - tt21744162
+    new directors competition:
+      nominee:
+      - tt13110998
+      - tt13866710
+      - tt14330672
+      - tt16968976
+      - tt21257870
+      - tt21882016
+      - tt24575936
+      - tt26218798
+      - tt26256406
+      - tt26343116
+      - tt26448133
+      - tt27789180
+      - tt6430442
+      persons:
+        tt13110998:
+          id: nm5959869
+          name: Ena Sendijarevic
+        tt13866710:
+          id: nm7410499
+          name: Nora el Hourch
+        tt14330672:
+          id: nm8190387
+          name: Mohamed Kordofani
+        tt16611924:
+          id: nm9073819
+          name: Amr Gamal
+        tt16968976:
+          id: nm5407860
+          name: Delphine Girard
+        tt21257870:
+          id: nm9768467
+          name: Lucy Kerr
+        tt21882016:
+          id: nm3272259
+          name: Víctor Iriarte
+        tt24575936:
+          id: nm2183022
+          name: Vera Egito
+        tt26218798:
+          id: nm5315351
+          name: Ninna Pálmadóttir
+        tt26256406:
+          id: nm9967860
+          name: Ramata-Toulaye Sy
+        tt26343116:
+          id: nm12725889
+          name: Myriam Uwiragiye Birara
+        tt26448133:
+          id: nm4962254
+          name: Jose Pablo Escamilla
+        tt27789180:
+          id: nm4197808
+          name: Ernst De Geer
+        tt6430442:
+          id: nm0673829
+          name: Vladimir Perisic
+      winner:
+      - tt16611924
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt11488252
+      - tt14160834
+      - tt21192142
+      - tt21427294
+      - tt21651430
+      - tt24076146
+      - tt24244436
+      - tt24575936
+      - tt26449042
+      - tt27715185
+      - tt9320170
+      winner:
+      - tt23736044
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt14330672:
+          id: nm8190387
+          name: Mohamed Kordofani
+      winner:
+      - tt14330672
+  silver hugo:
+    best cinematography:
+      winner:
+      - tt14561712
+    best director:
+      persons:
+        tt21027780:
+          id: nm0442454
+          name: Aki Kaurismäki
+      winner:
+      - tt21027780
+    best documentary:
+      winner:
+      - tt27531514
+    best documentary short:
+      winner:
+      - tt27431980
+    best ensemble cast performance:
+      winner:
+      - tt14561712
+    best live action short:
+      winner:
+      - tt28670640
+    best performance:
+      winner:
+      - tt18162096
+    best screenplay:
+      winner:
+      - tt27788968
+    best supporting performance:
+      winner:
+      - tt13231544
+    jury prize:
+      winner:
+      - tt18558306
+    new directors competition:
+      persons:
+        tt13110998:
+          id: nm5959869
+          name: Ena Sendijarevic
+      winner:
+      - tt13110998
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt24244436
+  special mention:
+    best animated short:
+      winner:
+      - tt29233060
+    best documentary:
+      winner:
+      - tt27502426
+    best documentary short:
+      winner:
+      - tt24174926
+      - tt29231200
+    out-look competition:
+      winner:
+      - tt11488252
+  world cinema/out-look competition:
+    best film:
+      winner:
+      - tt11488252
+'2024':
+  audience choice award:
+    best documentary feature:
+      winner:
+      - tt33483757
+    best international feature:
+      winner:
+      - tt29048536
+    best short film:
+      winner:
+      - tt33485505
+    best u.s. feature:
+      winner:
+      - tt32150360
+  chicago award:
+    best film:
+      winner:
+      - tt33491061
+      - tt5637628
+  city & state award:
+    city & state award:
+      nominee:
+      - tt33491061
+      winner:
+      - tt5637628
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt28356173
+      - tt28768679
+      - tt32360056
+      - tt32495907
+      - tt32959516
+      winner:
+      - tt32759021
+    best documentary:
+      nominee:
+      - tt20517306
+      - tt29044978
+      - tt30953779
+      - tt31152353
+      - tt32020174
+      - tt32938050
+      - tt33030357
+      winner:
+      - tt22060498
+    best documentary short:
+      nominee:
+      - tt30970709
+      - tt32220579
+      - tt32361089
+      - tt33500791
+      - tt33500804
+      winner:
+      - tt33501410
+    best feature:
+      nominee:
+      - tt13610344
+      - tt15551346
+      - tt27180099
+      - tt27476906
+      - tt28523931
+      - tt28601337
+      - tt32083311
+      - tt32086077
+      - tt32178949
+      - tt32359054
+      - tt33246838
+      - tt33483632
+      winner:
+      - tt28618488
+    best live action short:
+      winner:
+      - tt33202250
+    best narrative short:
+      nominee:
+      - tt23039638
+      - tt26270879
+      - tt28434810
+      - tt28534136
+      - tt28767046
+      - tt29306466
+      - tt29331653
+      - tt29344136
+      - tt29719775
+      - tt30835211
+      - tt30991961
+      - tt31525891
+      - tt32146344
+      - tt32365707
+      - tt32609571
+      - tt33047696
+      - tt33131308
+      - tt33202250
+      - tt33322643
+      - tt33490814
+      - tt33491034
+      - tt33498014
+      - tt33498015
+      - tt33501027
+    new directors competition:
+      nominee:
+      - tt12699704
+      - tt14680834
+      - tt22755524
+      - tt28522171
+      - tt29344907
+      - tt29730305
+      - tt30135174
+      - tt30327762
+      - tt31015278
+      - tt32478023
+      - tt32890051
+      persons:
+        tt12699704:
+          id: nm0891895
+          name: Paz Vega
+        tt14680834:
+          id: nm5084972
+          name: Meryam Joobeur
+        tt22755524:
+          id: nm7403716
+          name: Jason Park
+        tt28522171:
+          id: nm2738713
+          name: Scandar Copti
+        tt29344907:
+          id: nm4902668
+          name: Denise Fernandes
+        tt29730305:
+          id: nm5043529
+          name: Bernhard Wenger
+        tt30135174:
+          id: nm3295740
+          name: Jonathan Millet
+        tt30327762:
+          id: nm9214770
+          name: Saulė Bliuvaitė
+        tt31015278:
+          id: nm8060042
+          name: Behtash Sanaeeha
+        tt32046117:
+          id: nm10709452
+          name: Mo Harawe
+        tt32478023:
+          id: nm1655391
+          name: Abdellah Taïa
+        tt32890051:
+          id: nm12533692
+          name: Maxime Jean-Baptiste
+      winner:
+      - tt32046117
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt19391518
+      - tt22694908
+      - tt28510594
+      - tt31449977
+      - tt32086052
+      - tt32119268
+      - tt32186523
+      - tt32478023
+      - tt32938050
+      winner:
+      - tt26681570
+  roger ebert award:
+    new directors competition:
+      persons:
+        tt29344907:
+          id: nm4902668
+          name: Denise Fernandes
+      winner:
+      - tt29344907
+  silver hugo:
+    best director:
+      persons:
+        tt27180099:
+          id: nm0326937
+          name: Miguel Gomes
+      winner:
+      - tt27180099
+    best documentary:
+      winner:
+      - tt30953779
+    best documentary short:
+      winner:
+      - tt32205767
+    best editing:
+      winner:
+      - tt27180099
+    best ensemble cast performance:
+      winner:
+      - tt32083311
+    best female performance:
+      winner:
+      - tt27476906
+    best live action short:
+      winner:
+      - tt29719775
+    best male performance:
+      winner:
+      - tt28601337
+    best screenplay:
+      winner:
+      - tt32178949
+    jury prize:
+      winner:
+      - tt32086077
+    new directors competition:
+      persons:
+        tt31015278:
+          id: nm0602206
+          name: Maryam Moghadam
+      winner:
+      - tt31015278
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt19391518
+  special mention:
+    best animated short:
+      winner:
+      - tt28768679
+    out-look competition:
+      winner:
+      - tt19391518
+      - tt26681570
+'2025':
+  audience choice award:
+    documentary film:
+      winner:
+      - tt19815868
+    u.s. feature film:
+      winner:
+      - tt14142060
+  chicago award:
+    best film:
+      winner:
+      - tt17399340
+  gold hugo:
+    best animated short:
+      nominee:
+      - tt33019507
+      - tt35051289
+      - tt35405817
+      - tt36854901
+      - tt37227157
+      - tt37675939
+      - tt38775696
+      - tt38998475
+      winner:
+      - tt35050733
+    best documentary:
+      nominee:
+      - tt19815868
+      - tt28711818
+      - tt36458873
+      - tt37539108
+      - tt37660540
+      - tt37660542
+      - tt37816123
+      winner:
+      - tt36598711
+    best documentary short:
+      nominee:
+      - tt35047945
+      - tt35051383
+      - tt35407259
+      - tt35925653
+      - tt37672725
+      - tt38606412
+      winner:
+      - tt38783816
+    best feature:
+      nominee:
+      - tt27811632
+      - tt27847051
+      - tt28690468
+      - tt30220107
+      - tt33381401
+      - tt34378234
+      - tt34886821
+      - tt35492581
+      - tt35695538
+      - tt35746682
+      - tt36243564
+      - tt36943034
+      - tt37981111
+      winner:
+      - tt32298285
+    best live action short:
+      nominee:
+      - tt28713718
+      - tt33775526
+      - tt34875273
+      - tt35381163
+      - tt36583252
+      - tt36724190
+      - tt37061851
+      - tt37506042
+      - tt38627464
+      winner:
+      - tt38628433
+    new directors competition:
+      nominee:
+      - tt30327772
+      - tt31287262
+      - tt32263650
+      - tt33023305
+      - tt33046039
+      - tt33292601
+      - tt36543850
+      - tt36579933
+      - tt37532176
+      - tt37645474
+      - tt37675049
+      - tt37813097
+      persons:
+        tt30327772:
+          id: nm3627226
+          name: Stefan Djordjevic
+        tt31287262:
+          id: nm6192391
+          name: Louise Hémon
+        tt32263650:
+          id: nm4765908
+          name: Brendan Canty
+        tt32283654:
+          id: nm8928824
+          name: Nastia Korkia
+        tt33023305:
+          id: nm8299086
+          name: Jaume Claret Muxart
+        tt33046039:
+          id: nm4817199
+          name: Imran Perretta
+        tt33292601:
+          id: nm9896612
+          name: Carolina Cavalli
+        tt36543850:
+          id: nm8251826
+          name: Sven Bresser
+        tt36579933:
+          id: nm13827076
+          name: Danzuka Yuiga
+        tt37532176:
+          id: nm5795263
+          name: Nurzhamal Karamoldoeva
+        tt37645474:
+          id: nm4740952
+          name: Suzannah Mirghani
+        tt37675049:
+          id: nm6644089
+          name: Karla Badillo
+        tt37813097:
+          id: nm8280488
+          name: Alvaro Olmos Torrico
+      winner:
+      - tt32283654
+    special mention:
+      winner:
+      - tt35695538
+  gold q-hugo:
+    gold q-hugo:
+      nominee:
+      - tt22237964
+      - tt22530226
+      - tt27953589
+      - tt33023305
+      - tt33382323
+      - tt35504279
+      - tt36583356
+      winner:
+      - tt36543744
+  silver hugo:
+    best animated short:
+      winner:
+      - tt35405817
+    best cinematography:
+      winner:
+      - tt27811632
+    best director:
+      persons:
+        tt28690468:
+          id: nm7292576
+          name: Mascha Schilinski
+      winner:
+      - tt28690468
+    best documentary:
+      winner:
+      - tt37660542
+    best female performance:
+      winner:
+      - tt35492581
+    best live action short:
+      winner:
+      - tt36724190
+    best male performance:
+      winner:
+      - tt27847051
+    best screenplay:
+      winner:
+      - tt34886821
+    best sound:
+      winner:
+      - tt28690468
+    documentary short film competition:
+      winner:
+      - tt38796197
+    jury prize:
+      winner:
+      - tt36943034
+    new directors competition:
+      persons:
+        tt37675049:
+          id: nm6644089
+          name: Karla Badillo
+      winner:
+      - tt37675049
+  silver q-hugo:
+    silver q-hugo:
+      winner:
+      - tt22530226
+  special mention:
+    new directors competition:
+      persons:
+        tt31287262:
+          id: nm6192391
+          name: Louise Hémon
+      winner:
+      - tt31287262

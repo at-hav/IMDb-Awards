@@ -1,0 +1,9428 @@
+# Hong Kong Film Awards
+'1982':
+  hong kong film award:
+    best actor:
+      persons:
+        tt0082761:
+          id: nm0401201
+          name: Michael Hui
+      winner:
+      - tt0082761
+    best actress:
+      persons:
+        tt0080717:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+      winner:
+      - tt0080717
+    best director:
+      persons:
+        tt0082428:
+          id: nm0284535
+          name: Allen Fong
+      winner:
+      - tt0082428
+    best picture:
+      winner:
+      - tt0082428
+    best screenplay:
+      winner:
+      - tt0082534
+'1983':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0079891
+      - tt0084266
+      - tt0084267
+      - tt0084557
+      - tt0084671
+      winner:
+      - tt0085211
+    best actor:
+      nominee:
+      - tt0083769
+      - tt0083828
+      - tt0084248
+      - tt0084807
+      persons:
+        tt0083769:
+          id: nm0151155
+          name: Michael Wai-Man Chan
+        tt0083828:
+          id: nm0005033
+          name: Sammo Kam-Bo Hung
+        tt0084248:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0084807:
+          id: nm0482614
+          name: George Lam
+        tt0084955:
+          id: nm0538353
+          name: Karl Maka
+      winner:
+      - tt0084955
+    best actress:
+      nominee:
+      - tt0083669
+      - tt0084807
+      - tt0084955
+      persons:
+        tt0083669:
+          id: nm0161193
+          name: Cherie Chung
+        tt0084263:
+          id: nm0482566
+          name: Becky Lam
+        tt0084807:
+          id: nm0583956
+          name: Cora Miao
+        tt0084955:
+          id: nm0151827
+          name: Sylvia Chang
+      winner:
+      - tt0084263
+    best art direction:
+      nominee:
+      - tt0084248
+      - tt0084386
+      - tt0084929
+      - tt0084941
+      winner:
+      - tt0084807
+    best cinematography:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084807
+      - tt0084941
+      - tt0125710
+      winner:
+      - tt0084929
+    best director:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084775
+      - tt0085211
+      persons:
+        tt0084248:
+          id: nm0848377
+          name: Patrick Tam
+        tt0084263:
+          id: nm0481681
+          name: David Lai
+        tt0084775:
+          id: nm0158797
+          name: Clifford Choi
+        tt0084807:
+          id: nm0401176
+          name: Ann Hui
+        tt0085211:
+          id: nm0005033
+          name: Sammo Kam-Bo Hung
+      winner:
+      - tt0084807
+    best film editing:
+      nominee:
+      - tt0084263
+      - tt0084807
+      - tt0084941
+      - tt0125710
+      winner:
+      - tt0084929
+    best new performer:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084775
+      - tt0084807
+      winner:
+      - tt0084807
+    best original film score:
+      nominee:
+      - tt0084248
+      - tt0084807
+      - tt0084955
+      - tt0126073
+      winner:
+      - tt0084941
+    best original film song:
+      nominee:
+      - tt0083708
+      - tt0084925
+      - tt0084955
+      - tt0121057
+      winner:
+      - tt0084050
+    best picture:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0085211
+      - tt0125710
+      winner:
+      - tt0084807
+    best screenplay:
+      nominee:
+      - tt0084248
+      - tt0084263
+      - tt0084443
+      - tt0084922
+      winner:
+      - tt0084807
+'1984':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0084587
+      - tt0084924
+      - tt0085260
+      - tt0086308
+      winner:
+      - tt0086605
+    best actor:
+      nominee:
+      - tt0084587
+      - tt0085144
+      - tt0086605
+      - tt0125784
+      persons:
+        tt0084587:
+          id: nm0005033
+          name: Sammo Kam-Bo Hung
+        tt0085144:
+          id: nm0911007
+          name: Peter Wang
+        tt0085336:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0086605:
+          id: nm0628827
+          name: Richard Ng
+        tt0125784:
+          id: nm0504973
+          name: Alex Man
+      winner:
+      - tt0085336
+    best actress:
+      nominee:
+      - tt0085144
+      - tt0085336
+      - tt0086308
+      - tt0125784
+      persons:
+        tt0085144:
+          id: nm0401210
+          name: So-Ying Hui
+        tt0085336:
+          id: nm0515043
+          name: Xiaoqing Liu
+        tt0085833:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0086308:
+          id: nm0510857
+          name: Brigitte Lin
+        tt0125784:
+          id: nm0161193
+          name: Cherie Chung
+      winner:
+      - tt0085833
+    best art direction:
+      nominee:
+      - tt0084056
+      - tt0085697
+      - tt0086308
+      - tt0086594
+      winner:
+      - tt0085336
+    best cinematography:
+      nominee:
+      - tt0084056
+      - tt0085144
+      - tt0085336
+      - tt0086594
+      winner:
+      - tt0085697
+    best director:
+      nominee:
+      - tt0084056
+      - tt0084587
+      - tt0085336
+      - tt0086594
+      persons:
+        tt0084056:
+          id: nm0939202
+          name: Kirk Wong
+        tt0084587:
+          id: nm0943138
+          name: Wu Ma
+        tt0085144:
+          id: nm0284535
+          name: Allen Fong
+        tt0085336:
+          id: nm0497379
+          name: Han Hsiang Li
+        tt0086594:
+          id: nm0477108
+          name: Teddy Robin Kwan
+      winner:
+      - tt0085144
+    best film editing:
+      nominee:
+      - tt0084056
+      - tt0084924
+      - tt0085163
+      - tt0086308
+      winner:
+      - tt0085144
+    best new performer:
+      nominee:
+      - tt0085144
+      - tt0085336
+      - tt0086595
+      - tt0086607
+      winner:
+      - tt0085697
+    best original film score:
+      nominee:
+      - tt0084056
+      - tt0085144
+      - tt0086594
+      - tt0125784
+      winner:
+      - tt0085388
+    best original film song:
+      nominee:
+      - tt0084056
+      - tt0085144
+      - tt0086594
+      - tt0125784
+      winner:
+      - tt0085388
+    best picture:
+      nominee:
+      - tt0084056
+      - tt0084587
+      - tt0085336
+      - tt0086308
+      winner:
+      - tt0085144
+    best screenplay:
+      nominee:
+      - tt0084056
+      - tt0084587
+      - tt0085144
+      - tt0085336
+      winner:
+      - tt0085833
+'1985':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0086606
+      - tt0087578
+      - tt0087993
+      - tt0088107
+      winner:
+      - tt0085127
+    best actor:
+      nominee:
+      - tt0085127
+      - tt0086608
+      - tt0087137
+      - tt0088268
+      persons:
+        tt0085127:
+          id: nm0000329
+          name: Jackie Chan
+        tt0086608:
+          id: nm0155587
+          name: Kent Cheng
+        tt0087137:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0087352:
+          id: nm0497097
+          name: Danny Lee
+        tt0088268:
+          id: nm0401201
+          name: Michael Hui
+      winner:
+      - tt0087352
+    best actress:
+      nominee:
+      - tt0087137
+      - tt0088097
+      - tt0088126
+      - tt0088417
+      persons:
+        tt0087137:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0088097:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0088126:
+          id: nm0802700
+          name: Siqin Gaowa
+        tt0088417:
+          id: nm0409677
+          name: Deanie Ip
+      winner:
+      - tt0088126
+    best art direction:
+      nominee:
+      - tt0087959
+      - tt0088097
+      - tt0088098
+      - tt0121787
+      winner:
+      - tt0088126
+    best cinematography:
+      nominee:
+      - tt0087959
+      - tt0088098
+      - tt0088107
+      - tt0088126
+      winner:
+      - tt0087137
+    best director:
+      nominee:
+      - tt0087137
+      - tt0087352
+      - tt0088097
+      - tt0088107
+      - tt0088126
+      persons:
+        tt0087137:
+          id: nm0502987
+          name: Po-Chih Leong
+        tt0087352:
+          id: nm0497097
+          name: Danny Lee
+        tt0088097:
+          id: nm0007139
+          name: Hark Tsui
+        tt0088107:
+          id: nm0538332
+          name: Johnny Mak
+        tt0088126:
+          id: nm0948021
+          name: Ho Yim
+    best film editing:
+      nominee:
+      - tt0087137
+      - tt0088097
+      - tt0088126
+      winner:
+      - tt0088107
+    best new performer:
+      nominee:
+      - tt0086446
+      - tt0086950
+      - tt0088107
+      - tt0125974
+      winner:
+      - tt0088126
+    best original film score:
+      nominee:
+      - tt0088097
+      - tt0088107
+      - tt0088126
+      - tt0121787
+      winner:
+      - tt0087959
+    best original film song:
+      nominee:
+      - tt0086616
+      - tt0087522
+      - tt0088097
+      - tt0088126
+      winner:
+      - tt0088098
+    best picture:
+      nominee:
+      - tt0087137
+      - tt0088097
+      - tt0088107
+      winner:
+      - tt0088126
+    best screenplay:
+      nominee:
+      - tt0086446
+      - tt0087137
+      - tt0088107
+      - tt0088268
+      winner:
+      - tt0088126
+    best supporting actor:
+      nominee:
+      - tt0086950
+      - tt0087352
+      - tt0088424
+      - tt0121787
+      persons:
+        tt0086950:
+          id: nm0150796
+          name: Anthony Chan
+        tt0087352:
+          id: nm0156495
+          name: Tai-Bo
+        tt0088107:
+          id: nm0795806
+          name: Wai Shum
+        tt0088424:
+          id: nm0159201
+          name: Yuen Chor
+        tt0121787:
+          id: nm0151755
+          name: Kuo-Chu Chang
+      winner:
+      - tt0088107
+    best supporting actress:
+      nominee:
+      - tt0087137
+      - tt0087959
+      - tt0088097
+      - tt0121787
+      persons:
+        tt0086950:
+          id: nm0611315
+          name: Anita Mui
+        tt0087137:
+          id: nm0950472
+          name: Angela Yu Chien
+        tt0087959:
+          id: nm0156991
+          name: Chiao Chiao
+        tt0088097:
+          id: nm0497782
+          name: Loletta Lee
+        tt0121787:
+          id: nm0482666
+          name: Monica Lam
+      winner:
+      - tt0086950
+'1986':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0089177
+      - tt0089371
+      - tt0091427
+      - tt0093229
+      winner:
+      - tt0089374
+    best actor:
+      nominee:
+      - tt0089374
+      - tt0089631
+      - tt0089708
+      - tt0091427
+      persons:
+        tt0089259:
+          id: nm0155587
+          name: Kent Cheng
+        tt0089374:
+          id: nm0000329
+          name: Jackie Chan
+        tt0089631:
+          id: nm0401201
+          name: Michael Hui
+        tt0089708:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0091427:
+          id: nm0000329
+          name: Jackie Chan
+      winner:
+      - tt0089259
+    best actress:
+      nominee:
+      - tt0089374
+      - tt0089651
+      - tt0089708
+      - tt0121259
+      persons:
+        tt0089374:
+          id: nm0510857
+          name: Brigitte Lin
+        tt0089515:
+          id: nm0939281
+          name: Siu-Fung Wong
+        tt0089651:
+          id: nm0351717
+          name: Patricia Ha
+        tt0089708:
+          id: nm0583956
+          name: Cora Miao
+        tt0121259:
+          id: nm0409677
+          name: Deanie Ip
+      winner:
+      - tt0089515
+    best art direction:
+      nominee:
+      - tt0089371
+      - tt0089651
+      - tt0089708
+      - tt0113975
+      winner:
+      - tt0093740
+    best cinematography:
+      nominee:
+      - tt0089371
+      - tt0089374
+      - tt0089708
+      - tt0113975
+      winner:
+      - tt0090012
+    best director:
+      nominee:
+      - tt0089371
+      - tt0089374
+      - tt0089708
+      - tt0091427
+      persons:
+        tt0089133:
+          id: nm0156520
+          name: Mabel Cheung
+        tt0089371:
+          id: nm0490605
+          name: Ricky Lau
+        tt0089374:
+          id: nm0000329
+          name: Jackie Chan
+        tt0089708:
+          id: nm0477102
+          name: Stanley Kwan
+        tt0091427:
+          id: nm0005033
+          name: Sammo Kam-Bo Hung
+      winner:
+      - tt0089133
+    best film editing:
+      nominee:
+      - tt0089371
+      - tt0089374
+      - tt0113975
+      winner:
+      - tt0115000
+    best new performer:
+      nominee:
+      - tt0088686
+      - tt0089371
+      - tt0093229
+      winner:
+      - tt0115000
+    best original film score:
+      nominee:
+      - tt0089708
+      - tt0091427
+      - tt0113975
+      winner:
+      - tt0089371
+    best original film song:
+      nominee:
+      - tt0087679
+      - tt0088981
+      - tt0089371
+      - tt0113975
+      winner:
+      - tt0091427
+    best picture:
+      nominee:
+      - tt0089133
+      - tt0089371
+      - tt0089708
+      winner:
+      - tt0089374
+    best screenplay:
+      nominee:
+      - tt0089133
+      - tt0089371
+      - tt0089708
+      - tt0121259
+      winner:
+      - tt0089515
+    best supporting actor:
+      nominee:
+      - tt0089371
+      - tt0089476
+      persons:
+        tt0089371:
+          id: nm0482580
+          name: Ching-Ying Lam
+        tt0089476:
+          id: nm0284011
+          name: Clarence Fok
+        tt0093229:
+          id: nm0388367
+          name: Hoi Mang
+      winner:
+      - tt0093229
+    best supporting actress:
+      nominee:
+      - tt0089708
+      - tt0093740
+      - tt0115000
+      persons:
+        tt0089651:
+          id: nm0409677
+          name: Deanie Ip
+        tt0089708:
+          id: nm0157805
+          name: Elaine Jin
+        tt0093740:
+          id: nm0939281
+          name: Siu-Fung Wong
+        tt0115000:
+          id: nm0151070
+          name: Polly Chan
+      winner:
+      - tt0089651
+  people's choice award:
+    people's choice award:
+      nominee:
+      - tt0089515
+      - tt0115000
+      winner:
+      - tt0089259
+'1987':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0090952
+      - tt0091229
+      - tt0091447
+      - tt0091607
+      - tt0094374
+      winner:
+      - tt0089861
+    best actor:
+      nominee:
+      - tt0090922
+      - tt0091235
+      - tt0091940
+      - tt0092251
+      - tt0092263
+      persons:
+        tt0090922:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0091235:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0091940:
+          id: nm0401201
+          name: Michael Hui
+        tt0092251:
+          id: nm0497097
+          name: Danny Lee
+        tt0092263:
+          id: nm0000334
+          name: Chow Yun-Fat
+      winner:
+      - tt0092263
+    best actress:
+      nominee:
+      - tt0090952
+      - tt0091235
+      - tt0091505
+      - tt0126663
+      persons:
+        tt0090952:
+          id: nm0947313
+          name: Sally Yeh
+        tt0091235:
+          id: nm0393251
+          name: Hong Pan
+        tt0091505:
+          id: nm1501683
+          name: Yuk Guen Lee
+        tt0092301:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0126663:
+          id: nm0530886
+          name: Season Ma
+      winner:
+      - tt0092301
+    best art direction:
+      nominee:
+      - tt0089861
+      - tt0090952
+      - tt0091510
+      - tt0092263
+      - tt0092301
+      winner:
+      - tt0090940
+    best cinematography:
+      nominee:
+      - tt0090952
+      - tt0091505
+      - tt0091510
+      - tt0092263
+      winner:
+      - tt0091378
+    best director:
+      nominee:
+      - tt0090922
+      - tt0090940
+      - tt0091235
+      - tt0092251
+      - tt0092263
+      persons:
+        tt0090922:
+          id: nm0477102
+          name: Stanley Kwan
+        tt0090940:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+        tt0091235:
+          id: nm0497379
+          name: Han Hsiang Li
+        tt0091505:
+          id: nm0284535
+          name: Allen Fong
+        tt0092251:
+          id: nm0793812
+          name: Stephen Shin
+        tt0092263:
+          id: nm0000247
+          name: John Woo
+      winner:
+      - tt0091505
+    best film editing:
+      nominee:
+      - tt0089861
+      - tt0090952
+      - tt0092263
+      - tt0092301
+      winner:
+      - tt0091505
+    best new performer:
+      nominee:
+      - tt0091404
+      - tt0091428
+      - tt0092263
+      - tt0126239
+      winner:
+      - tt0091505
+    best original film score:
+      nominee:
+      - tt0090922
+      - tt0091505
+      - tt0092263
+      - tt0092301
+      winner:
+      - tt0091510
+    best original film song:
+      nominee:
+      - tt0089576
+      - tt0090922
+      - tt0091091
+      - tt0091260
+      winner:
+      - tt0092301
+    best picture:
+      nominee:
+      - tt0090922
+      - tt0090940
+      - tt0091235
+      - tt0091505
+      - tt0092251
+      winner:
+      - tt0092263
+    best screenplay:
+      nominee:
+      - tt0090940
+      - tt0091235
+      - tt0091505
+      - tt0091940
+      - tt0092263
+      winner:
+      - tt0090922
+    best supporting actor:
+      nominee:
+      - tt0090922
+      - tt0090952
+      - tt0091228
+      - tt0092263
+      - tt0094374
+      persons:
+        tt0090922:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0090940:
+          id: nm0157971
+          name: Paul Chun
+        tt0090952:
+          id: nm0157971
+          name: Paul Chun
+        tt0091228:
+          id: nm0793008
+          name: Shing Fui-On
+        tt0092263:
+          id: nm0498429
+          name: Waise Lee
+        tt0094374:
+          id: nm0943138
+          name: Wu Ma
+      winner:
+      - tt0090940
+    best supporting actress:
+      nominee:
+      - tt0090922
+      - tt0091235
+      - tt0091510
+      persons:
+        tt0090922:
+          id: nm0157805
+          name: Elaine Jin
+        tt0091235:
+          id: nm0497155
+          name: Tien-Lang Li
+        tt0091510:
+          id: nm0947778
+          name: Cher Yeung
+      winner:
+      - tt0090922
+'1988':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0090956
+      - tt0091431
+      - tt0093545
+      - tt0093978
+      - tt0094357
+      winner:
+      - tt0092501
+    best actor:
+      nominee:
+      - tt0093304
+      - tt0093426
+      - tt0093435
+      - tt0093962
+      - tt0094357
+      - tt0094387
+      persons:
+        tt0093304:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0093426:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0093435:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0093962:
+          id: nm0196340
+          name: Shichang Da
+        tt0094357:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0094387:
+          id: nm0874676
+          name: Eric Tsang
+      winner:
+      - tt0093435
+    best actress:
+      nominee:
+      - tt0093426
+      - tt0093955
+      - tt0093978
+      - tt0094387
+      persons:
+        tt0092704:
+          id: nm0796196
+          name: Josephine Siao
+        tt0093426:
+          id: nm0161193
+          name: Cherie Chung
+        tt0093955:
+          id: nm0155546
+          name: Do Do Cheng
+        tt0093978:
+          id: nm0939153
+          name: Joey Wang
+        tt0094387:
+          id: nm0497782
+          name: Loletta Lee
+      winner:
+      - tt0092704
+    best art direction:
+      nominee:
+      - tt0093314
+      - tt0093435
+      - tt0093962
+      - tt0094387
+      winner:
+      - tt0093978
+    best cinematography:
+      nominee:
+      - tt0090302
+      - tt0093962
+      - tt0093978
+      - tt0094387
+      winner:
+      - tt0093426
+    best director:
+      nominee:
+      - tt0093304
+      - tt0093426
+      - tt0093962
+      - tt0093978
+      - tt0094387
+      persons:
+        tt0093304:
+          id: nm0482681
+          name: Ringo Lam
+        tt0093426:
+          id: nm0156520
+          name: Mabel Cheung
+        tt0093435:
+          id: nm0482681
+          name: Ringo Lam
+        tt0093962:
+          id: nm0401176
+          name: Ann Hui
+        tt0093978:
+          id: nm0155642
+          name: Siu-Tung Ching
+        tt0094387:
+          id: nm0848377
+          name: Patrick Tam
+      winner:
+      - tt0093435
+    best film editing:
+      nominee:
+      - tt0092501
+      - tt0093435
+      - tt0093962
+      - tt0093978
+      winner:
+      - tt0094387
+    best new performer:
+      nominee:
+      - tt0090956
+      - tt0091157
+      - tt0093304
+      - tt0093314
+      winner:
+      - tt0093957
+    best original film score:
+      nominee:
+      - tt0093304
+      - tt0093426
+      - tt0093435
+      - tt0094387
+      winner:
+      - tt0093978
+    best original film song:
+      nominee:
+      - tt0090302
+      - tt0093304
+      - tt0093435
+      - tt0093978
+      winner:
+      - tt0093978
+    best picture:
+      nominee:
+      - tt0092706
+      - tt0093435
+      - tt0093962
+      - tt0093978
+      - tt0094387
+      winner:
+      - tt0093426
+    best screenplay:
+      nominee:
+      - tt0093304
+      - tt0093435
+      - tt0093955
+      - tt0094387
+      winner:
+      - tt0093426
+    best supporting actor:
+      nominee:
+      - tt0093304
+      - tt0093845
+      - tt0093978
+      - tt0094387
+      persons:
+        tt0093304:
+          id: nm0156558
+          name: Roy Cheung
+        tt0093845:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0093978:
+          id: nm0943138
+          name: Wu Ma
+        tt0094387:
+          id: nm0007139
+          name: Hark Tsui
+      winner:
+      - tt0093845
+    best supporting actress:
+      nominee:
+      - tt0089238
+      - tt0090956
+      - tt0093435
+      persons:
+        tt0089238:
+          id: nm0409677
+          name: Deanie Ip
+        tt0090956:
+          id: nm0323922
+          name: Joyce Godenzi
+        tt0093435:
+          id: nm0628731
+          name: Carrie Ng
+        tt0093845:
+          id: nm0157805
+          name: Elaine Jin
+      winner:
+      - tt0093845
+'1989':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0093015
+      - tt0095491
+      winner:
+      - tt0095403
+    best actor:
+      nominee:
+      - tt0093258
+      - tt0095396
+      - tt0096461
+      - tt0096505
+      persons:
+        tt0093258:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0095396:
+          id: nm0401201
+          name: Michael Hui
+        tt0095937:
+          id: nm0005033
+          name: Sammo Kam-Bo Hung
+        tt0096461:
+          id: nm0490489
+          name: Andy Lau
+        tt0096505:
+          id: nm0161275
+          name: Mok Siu-Chung
+      winner:
+      - tt0095937
+    best actress:
+      nominee:
+      - tt0095397
+      - tt0096032
+      - tt0096457
+      - tt0096461
+      persons:
+        tt0093258:
+          id: nm0611315
+          name: Anita Mui
+        tt0095397:
+          id: nm0583956
+          name: Cora Miao
+        tt0096032:
+          id: nm0155546
+          name: Do Do Cheng
+        tt0096457:
+          id: nm0862882
+          name: Niu Tien
+        tt0096461:
+          id: nm0001041
+          name: Maggie Cheung
+      winner:
+      - tt0093258
+    best art direction:
+      nominee:
+      - tt0093258
+      - tt0095405
+      - tt0095937
+      winner:
+      - tt0096461
+    best cinematography:
+      nominee:
+      - tt0093258
+      - tt0093814
+      - tt0096461
+      - tt0126331
+      winner:
+      - tt0095937
+    best director:
+      nominee:
+      - tt0095937
+      - tt0096284
+      - tt0096461
+      - tt0096505
+      persons:
+        tt0093258:
+          id: nm0477102
+          name: Stanley Kwan
+        tt0095937:
+          id: nm0492288
+          name: Alex Law
+        tt0096284:
+          id: nm0013828
+          name: Lawrence Ah-Mon
+        tt0096461:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0096505:
+          id: nm0156448
+          name: Chi Leung 'Jacob' Cheung
+      winner:
+      - tt0093258
+    best film editing:
+      nominee:
+      - tt0095937
+      - tt0096284
+      - tt0096461
+      winner:
+      - tt0093258
+    best new performer:
+      nominee:
+      - tt0094694
+      - tt0096032
+      - tt0096284
+      - tt0126301
+      winner:
+      - tt0095405
+    best original film score:
+      nominee:
+      - tt0093814
+      - tt0095937
+      - tt0096032
+      - tt0096461
+      winner:
+      - tt0093258
+    best original film song:
+      nominee:
+      - tt0093814
+      - tt0094935
+      - tt0095405
+      winner:
+      - tt0093258
+    best picture:
+      nominee:
+      - tt0095396
+      - tt0095937
+      - tt0096284
+      - tt0096461
+      winner:
+      - tt0093258
+    best screenplay:
+      nominee:
+      - tt0093258
+      - tt0095937
+      - tt0096457
+      - tt0096505
+      winner:
+      - tt0096032
+    best supporting actor:
+      nominee:
+      - tt0096457
+      - tt0096461
+      - tt0096505
+      - tt0126301
+      persons:
+        tt0096457:
+          id: nm0874676
+          name: Eric Tsang
+        tt0096461:
+          id: nm0156484
+          name: Jacky Cheung
+        tt0096505:
+          id: nm0943138
+          name: Wu Ma
+        tt0126301:
+          id: nm0159507
+          name: Stephen Chow
+      winner:
+      - tt0096461
+    best supporting actress:
+      nominee:
+      - tt0096457
+      - tt0098666
+      - tt0121260
+      persons:
+        tt0096457:
+          id: nm0583956
+          name: Cora Miao
+        tt0096472:
+          id: nm0498218
+          name: Lai-Yui Lee
+        tt0098666:
+          id: nm0157805
+          name: Elaine Jin
+        tt0121260:
+          id: nm0490589
+          name: Prudence Liew
+      winner:
+      - tt0096472
+'1990':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0097618
+      - tt0098155
+      winner:
+      - tt0098019
+    best actor:
+      nominee:
+      - tt0097244
+      - tt0097344
+      - tt0097922
+      - tt0098019
+      - tt0099079
+      persons:
+        tt0097244:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0097344:
+          id: nm0628827
+          name: Richard Ng
+        tt0097922:
+          id: nm0401201
+          name: Michael Hui
+        tt0098019:
+          id: nm0000329
+          name: Jackie Chan
+        tt0098694:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0099079:
+          id: nm0005033
+          name: Sammo Kam-Bo Hung
+      winner:
+      - tt0098694
+    best actress:
+      nominee:
+      - tt0095011
+      - tt0096102
+      - tt0097344
+      - tt0098694
+      - tt0099079
+      persons:
+        tt0095011:
+          id: nm0628731
+          name: Carrie Ng
+        tt0096102:
+          id: nm0490500
+          name: Carina Lau
+        tt0096989:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0097344:
+          id: nm0271787
+          name: Bo-Bo Fung
+        tt0098694:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0099079:
+          id: nm0151827
+          name: Sylvia Chang
+      winner:
+      - tt0096989
+    best art direction:
+      nominee:
+      - tt0093944
+      - tt0097344
+      - tt0098019
+      - tt0098691
+      winner:
+      - tt0096989
+    best cinematography:
+      nominee:
+      - tt0096102
+      - tt0097202
+      - tt0097618
+      - tt0099079
+      winner:
+      - tt0096989
+    best director:
+      nominee:
+      - tt0096989
+      - tt0097344
+      - tt0098694
+      - tt0099079
+      persons:
+        tt0096989:
+          id: nm0150796
+          name: Anthony Chan
+        tt0097202:
+          id: nm0000247
+          name: John Woo
+        tt0097344:
+          id: nm0156448
+          name: Chi Leung 'Jacob' Cheung
+        tt0098694:
+          id: nm0864775
+          name: Johnnie To
+        tt0099079:
+          id: nm0156520
+          name: Mabel Cheung
+      winner:
+      - tt0097202
+    best film editing:
+      nominee:
+      - tt0093944
+      - tt0095011
+      - tt0097618
+      - tt0098019
+      winner:
+      - tt0097202
+    best new performer:
+      nominee:
+      - tt0097344
+      - tt0098056
+      - tt0098694
+      - tt0098708
+      winner:
+      - tt0126257
+    best original film score:
+      nominee:
+      - tt0098691
+      - tt0099719
+      winner:
+      - tt0099079
+    best original film song:
+      nominee:
+      - tt0098667
+      - tt0098694
+      - tt0099079
+      - tt0099756
+      winner:
+      - tt0098155
+    best picture:
+      nominee:
+      - tt0096989
+      - tt0097202
+      - tt0098694
+      - tt0099079
+      winner:
+      - tt0097344
+    best screenplay:
+      nominee:
+      - tt0096115
+      - tt0097202
+      - tt0098694
+      - tt0098702
+      - tt0099079
+      winner:
+      - tt0097344
+    best supporting actor:
+      nominee:
+      - tt0097202
+      - tt0098694
+      - tt0099002
+      persons:
+        tt0093944:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0097202:
+          id: nm0160846
+          name: Kong Chu
+        tt0098694:
+          id: nm0399012
+          name: Kun-Hsuan Huang
+        tt0099002:
+          id: nm0793008
+          name: Shing Fui-On
+      winner:
+      - tt0093944
+    best supporting actress:
+      nominee:
+      - tt0095011
+      - tt0096989
+      - tt0097623
+      - tt0098250
+      persons:
+        tt0095011:
+          id: nm0482662
+          name: Meg Lam
+        tt0096989:
+          id: nm0465496
+          name: Josephine Koo
+        tt0097344:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0097623:
+          id: nm0939281
+          name: Siu-Fung Wong
+        tt0098250:
+          id: nm0786187
+          name: Tin-Ngoh Seung
+      winner:
+      - tt0097344
+'1991':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0098147
+      - tt0099791
+      - tt0100625
+      winner:
+      - tt0100973
+    best actor:
+      nominee:
+      - tt0099000
+      - tt0099426
+      - tt0100974
+      - tt0104147
+      persons:
+        tt0099000:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0099426:
+          id: nm0156484
+          name: Jacky Cheung
+        tt0100974:
+          id: nm0401201
+          name: Michael Hui
+        tt0101258:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0104147:
+          id: nm0159507
+          name: Stephen Chow
+      winner:
+      - tt0101258
+    best actress:
+      nominee:
+      - tt0098147
+      - tt0099000
+      - tt0100144
+      - tt0101258
+      persons:
+        tt0098147:
+          id: nm0000084
+          name: Gong Li
+        tt0099000:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0100144:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0101258:
+          id: nm0490500
+          name: Carina Lau
+        tt0101442:
+          id: nm0155546
+          name: Do Do Cheng
+      winner:
+      - tt0101442
+    best art direction:
+      nominee:
+      - tt0098147
+      - tt0099265
+      - tt0100973
+      winner:
+      - tt0101258
+    best cinematography:
+      nominee:
+      - tt0098147
+      - tt0099000
+      - tt0099265
+      - tt0099426
+      - tt0099719
+      winner:
+      - tt0101258
+    best director:
+      nominee:
+      - tt0099000
+      - tt0099426
+      - tt0099719
+      - tt0099927
+      persons:
+        tt0099000:
+          id: nm0492309
+          name: Clara Law
+        tt0099426:
+          id: nm0000247
+          name: John Woo
+        tt0099719:
+          id: nm0948021
+          name: Ho Yim
+        tt0099927:
+          id: nm0401176
+          name: Ann Hui
+        tt0101258:
+          id: nm0939182
+          name: Wong Kar-Wai
+      winner:
+      - tt0101258
+    best film editing:
+      nominee:
+      - tt0098147
+      - tt0099719
+      - tt0100625
+      - tt0100973
+      - tt0101258
+      winner:
+      - tt0099426
+    best new performer:
+      nominee:
+      - tt0099000
+      - tt0100777
+      winner:
+      - tt0100144
+    best original film score:
+      nominee:
+      - tt0099000
+      - tt0099719
+      - tt0100144
+      - tt0100777
+      - tt0100973
+      winner:
+      - tt0098147
+    best original film song:
+      nominee:
+      - tt0098147
+      - tt0099719
+      - tt0100777
+      winner:
+      - tt0100973
+    best picture:
+      nominee:
+      - tt0098147
+      - tt0099000
+      - tt0099719
+      - tt0099927
+      winner:
+      - tt0101258
+    best screenplay:
+      nominee:
+      - tt0099000
+      - tt0099719
+      - tt0099927
+      - tt0101258
+      winner:
+      - tt0100144
+    best supporting actor:
+      nominee:
+      - tt0099265
+      - tt0100625
+      - tt0100973
+      - tt0104147
+      persons:
+        tt0099265:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+        tt0100625:
+          id: nm0156484
+          name: Jacky Cheung
+        tt0100777:
+          id: nm0628806
+          name: Man-Tat Ng
+        tt0100973:
+          id: nm0156484
+          name: Jacky Cheung
+        tt0104147:
+          id: nm0628806
+          name: Man-Tat Ng
+      winner:
+      - tt0100777
+    best supporting actress:
+      nominee:
+      - tt0099000
+      - tt0099709
+      - tt0099719
+      - tt0101258
+      persons:
+        tt0099000:
+          id: nm0541203
+          name: Hayley Man
+        tt0099709:
+          id: nm0155546
+          name: Do Do Cheng
+        tt0099719:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0100144:
+          id: nm0490602
+          name: Rain Lau
+        tt0101258:
+          id: nm0659029
+          name: Rebecca Pan
+      winner:
+      - tt0100144
+'1992':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0099558
+      - tt0102932
+      - tt0103044
+      - tt0104322
+      winner:
+      - tt0103285
+    best actor:
+      nominee:
+      - tt0101020
+      - tt0101490
+      - tt0103045
+      - tt0103292
+      persons:
+        tt0101020:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0101490:
+          id: nm0514998
+          name: Ray Lui
+        tt0102886:
+          id: nm0874676
+          name: Eric Tsang
+        tt0103045:
+          id: nm0159507
+          name: Stephen Chow
+        tt0103292:
+          id: nm0490489
+          name: Andy Lau
+      winner:
+      - tt0102886
+    best actress:
+      nominee:
+      - tt0102068
+      - tt0103314
+      - tt0109263
+      - tt0110194
+      persons:
+        tt0102068:
+          id: nm0611315
+          name: Anita Mui
+        tt0102074:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0103314:
+          id: nm0156522
+          name: Sharla Cheung
+        tt0109263:
+          id: nm0155546
+          name: Do Do Cheng
+        tt0110194:
+          id: nm0490500
+          name: Carina Lau
+      winner:
+      - tt0102074
+    best art direction:
+      nominee:
+      - tt0102068
+      - tt0102886
+      - tt0102932
+      - tt0103285
+      - tt0103292
+      winner:
+      - tt0104322
+    best cinematography:
+      nominee:
+      - tt0100910
+      - tt0102068
+      - tt0103285
+      - tt0103292
+      winner:
+      - tt0104322
+    best director:
+      nominee:
+      - tt0101020
+      - tt0101490
+      - tt0103045
+      - tt0103292
+      persons:
+        tt0101020:
+          id: nm0000247
+          name: John Woo
+        tt0101490:
+          id: nm0690952
+          name: Man Kit Poon
+        tt0103045:
+          id: nm0150906
+          name: Gordon Chan
+        tt0103285:
+          id: nm0007139
+          name: Hark Tsui
+        tt0103292:
+          id: nm0013828
+          name: Lawrence Ah-Mon
+      winner:
+      - tt0103285
+    best film editing:
+      nominee:
+      - tt0101020
+      - tt0101490
+      - tt0102932
+      - tt0104322
+      winner:
+      - tt0103285
+    best new performer:
+      nominee:
+      - tt0103306
+      - tt0110930
+      winner:
+      - tt0101463
+    best original film score:
+      nominee:
+      - tt0100910
+      - tt0102074
+      - tt0102891
+      - tt0102932
+      winner:
+      - tt0103285
+    best original film song:
+      nominee:
+      - tt0102068
+      - tt0102891
+      - tt0103314
+      - tt0108654
+      winner:
+      - tt0105398
+    best picture:
+      nominee:
+      - tt0101020
+      - tt0102074
+      - tt0103285
+      - tt0103292
+      winner:
+      - tt0101490
+    best screenplay:
+      nominee:
+      - tt0102074
+      - tt0102886
+      - tt0103045
+      - tt0103292
+      winner:
+      - tt0101490
+    best supporting actor:
+      nominee:
+      - tt0101490
+      - tt0103045
+      - tt0103285
+      - tt0103291
+      - tt0104322
+      persons:
+        tt0101490:
+          id: nm0155587
+          name: Kent Cheng
+        tt0103045:
+          id: nm0628806
+          name: Man-Tat Ng
+        tt0103285:
+          id: nm0156484
+          name: Jacky Cheung
+        tt0103291:
+          id: nm0867242
+          name: Kent Tong
+        tt0103292:
+          id: nm0477071
+          name: Hoi-San Kwan
+        tt0104322:
+          id: nm0477209
+          name: Aaron Kwok
+      winner:
+      - tt0103292
+    best supporting actress:
+      nominee:
+      - tt0101490
+      - tt0102068
+      - tt0102074
+      - tt0103292
+      persons:
+        tt0101490:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0102068:
+          id: nm0628731
+          name: Carrie Ng
+        tt0102074:
+          id: nm0263851
+          name: Rosamund Kwan
+        tt0103292:
+          id: nm0946873
+          name: Chingmy Yau
+        tt0103314:
+          id: nm0409677
+          name: Deanie Ip
+      winner:
+      - tt0103314
+'1993':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0103295
+      - tt0104558
+      - tt0104771
+      - tt0105859
+      winner:
+      - tt0105839
+    best actor:
+      nominee:
+      - tt0095450
+      - tt0104558
+      - tt0104675
+      - tt0105385
+      persons:
+        tt0095450:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0103602:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0104558:
+          id: nm0000329
+          name: Jackie Chan
+        tt0104675:
+          id: nm0381857
+          name: Charles Heung
+        tt0105385:
+          id: nm0159507
+          name: Stephen Chow
+      winner:
+      - tt0103602
+    best actress:
+      nominee:
+      - tt0103295
+      - tt0104572
+      - tt0105385
+      - tt0105859
+      - tt0109412
+      persons:
+        tt0102816:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0103295:
+          id: nm0510857
+          name: Brigitte Lin
+        tt0104572:
+          id: nm0510857
+          name: Brigitte Lin
+        tt0105385:
+          id: nm0611315
+          name: Anita Mui
+        tt0105859:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0109412:
+          id: nm0946873
+          name: Chingmy Yau
+      winner:
+      - tt0102816
+    best art direction:
+      nominee:
+      - tt0103295
+      - tt0104771
+      - tt0105839
+      - tt0107461
+      winner:
+      - tt0102816
+    best cinematography:
+      nominee:
+      - tt0100963
+      - tt0105839
+      - tt0105844
+      - tt0105859
+      winner:
+      - tt0102816
+    best costume & make up design:
+      nominee:
+      - tt0102816
+      - tt0103602
+      - tt0104771
+      - tt0105385
+      winner:
+      - tt0103295
+    best director:
+      nominee:
+      - tt0100963
+      - tt0102816
+      - tt0103602
+      - tt0105839
+      persons:
+        tt0100963:
+          id: nm0150906
+          name: Gordon Chan
+        tt0102816:
+          id: nm0477102
+          name: Stanley Kwan
+        tt0103602:
+          id: nm0311508
+          name: Jeffrey Lau
+        tt0105839:
+          id: nm0007139
+          name: Hark Tsui
+        tt0107461:
+          id: nm0156448
+          name: Chi Leung 'Jacob' Cheung
+      winner:
+      - tt0107461
+    best film editing:
+      nominee:
+      - tt0103295
+      - tt0104145
+      - tt0105839
+      - tt0105859
+      winner:
+      - tt0104684
+    best new performer:
+      nominee:
+      - tt0104245
+      - tt0105534
+      - tt0105839
+      - tt0326422
+      winner:
+      - tt0105864
+    best original film score:
+      nominee:
+      - tt0100963
+      - tt0103295
+      - tt0103602
+      - tt0105839
+      winner:
+      - tt0102816
+    best original film song:
+      nominee:
+      - tt0100963
+      - tt0103295
+      - tt0104939
+      winner:
+      - tt0102816
+    best picture:
+      nominee:
+      - tt0100963
+      - tt0102816
+      - tt0103602
+      - tt0105839
+      winner:
+      - tt0107461
+    best screenplay:
+      nominee:
+      - tt0100963
+      - tt0102816
+      - tt0103602
+      - tt0105385
+      winner:
+      - tt0107461
+    best supporting actor:
+      nominee:
+      - tt0104572
+      - tt0104684
+      - tt0105831
+      - tt0105839
+      persons:
+        tt0104572:
+          id: nm0628757
+          name: Francis Ng
+        tt0104684:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0105831:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0105839:
+          id: nm0947447
+          name: Donnie Yen
+        tt0107461:
+          id: nm0514961
+          name: Liu Kai-Chi
+      winner:
+      - tt0107461
+    best supporting actress:
+      nominee:
+      - tt0103602
+      - tt0105534
+      - tt0105831
+      persons:
+        tt0103602:
+          id: nm0271787
+          name: Bo-Bo Fung
+        tt0105534:
+          id: nm0409677
+          name: Deanie Ip
+        tt0105831:
+          id: nm0594909
+          name: Teresa Mo
+      winner:
+      - tt0103602
+'1994':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0105619
+      - tt0108148
+      - tt0108656
+      winner:
+      - tt0106936
+    best actor:
+      nominee:
+      - tt0107904
+      - tt0108630
+      - tt0108656
+      - tt0111770
+      persons:
+        tt0103743:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0107904:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt0108630:
+          id: nm0943099
+          name: Hsing-Kuo Wu
+        tt0108656:
+          id: nm0000329
+          name: Jackie Chan
+        tt0111770:
+          id: nm0490513
+          name: Ching-Wan Lau
+      winner:
+      - tt0103743
+    best actress:
+      nominee:
+      - tt0106551
+      - tt0106936
+      - tt0107359
+      - tt0108337
+      persons:
+        tt0106551:
+          id: nm0796196
+          name: Josephine Siao
+        tt0106936:
+          id: nm0796196
+          name: Josephine Siao
+        tt0107359:
+          id: nm0628731
+          name: Carrie Ng
+        tt0108337:
+          id: nm0948154
+          name: Veronica Yip
+        tt0111770:
+          id: nm0950703
+          name: Anita Yuen
+      winner:
+      - tt0111770
+    best art direction:
+      nominee:
+      - tt0106559
+      - tt0108335
+      - tt0108630
+      - tt0111770
+      winner:
+      - tt0106342
+    best cinematography:
+      nominee:
+      - tt0101644
+      - tt0108335
+      - tt0108337
+      - tt0108630
+      winner:
+      - tt0106342
+    best costume & make up design:
+      nominee:
+      - tt0105655
+      - tt0106559
+      - tt0106898
+      - tt0108630
+      - tt0111770
+      winner:
+      - tt0106342
+    best director:
+      nominee:
+      - tt0106898
+      - tt0107984
+      - tt0108630
+      - tt0108656
+      persons:
+        tt0106898:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt0107984:
+          id: nm0149216
+          name: Chuen-Yee Cha
+        tt0108630:
+          id: nm0492309
+          name: Clara Law
+        tt0108656:
+          id: nm0939202
+          name: Kirk Wong
+        tt0111770:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+      winner:
+      - tt0111770
+    best film editing:
+      nominee:
+      - tt0106342
+      - tt0106936
+      - tt0108335
+      - tt0108592
+      winner:
+      - tt0108656
+    best new performer:
+      nominee:
+      - tt0106991
+      - tt0107266
+      - tt0107904
+      - tt0108335
+      winner:
+      - tt0108630
+    best original film score:
+      nominee:
+      - tt0105619
+      - tt0106232
+      - tt0106342
+      - tt0106559
+      - tt0111770
+      winner:
+      - tt0108630
+    best original film song:
+      nominee:
+      - tt0105619
+      - tt0106342
+      - tt0107904
+      - tt0111770
+      winner:
+      - tt0105619
+    best picture:
+      nominee:
+      - tt0106551
+      - tt0106898
+      - tt0108630
+      - tt0108656
+      winner:
+      - tt0111770
+    best screenplay:
+      nominee:
+      - tt0105381
+      - tt0106551
+      - tt0106898
+      - tt0107266
+      - tt0107984
+      winner:
+      - tt0111770
+    best supporting actor:
+      nominee:
+      - tt0105400
+      - tt0106898
+      - tt0107984
+      - tt0108630
+      - tt0108656
+      persons:
+        tt0105400:
+          id: nm0875275
+          name: Elvis Tsui
+        tt0106898:
+          id: nm0155593
+          name: Lawrence Cheng
+        tt0107984:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0108630:
+          id: nm0497874
+          name: Michael Ming-Yang Lee
+        tt0108656:
+          id: nm0155587
+          name: Kent Cheng
+        tt0111770:
+          id: nm0157971
+          name: Paul Chun
+      winner:
+      - tt0111770
+    best supporting actress:
+      nominee:
+      - tt0106232
+      - tt0107163
+      - tt0107904
+      - tt0111770
+      persons:
+        tt0106232:
+          id: nm0948154
+          name: Veronica Yip
+        tt0107163:
+          id: nm0409677
+          name: Deanie Ip
+        tt0107904:
+          id: nm0492352
+          name: Helena Law
+        tt0111770:
+          id: nm0271787
+          name: Bo-Bo Fung
+      winner:
+      - tt0111770
+'1995':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0109688
+      - tt0110054
+      - tt0110200
+      - tt0111835
+      winner:
+      - tt0111512
+    best actor:
+      nominee:
+      - tt0109789
+      - tt0109958
+      - tt0109962
+      - tt0110071
+      - tt0111063
+      persons:
+        tt0109424:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0109789:
+          id: nm0156484
+          name: Jacky Cheung
+        tt0109958:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0109962:
+          id: nm0159507
+          name: Stephen Chow
+        tt0110071:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0111063:
+          id: nm0467601
+          name: Eric Kot
+      winner:
+      - tt0109424
+    best actress:
+      nominee:
+      - tt0109203
+      - tt0109424
+      - tt0110053
+      - tt0110980
+      - tt0111739
+      persons:
+        tt0109203:
+          id: nm0266638
+          name: Fan Hui
+        tt0109424:
+          id: nm0910947
+          name: Faye Wong
+        tt0109958:
+          id: nm0950703
+          name: Anita Yuen
+        tt0110053:
+          id: nm0001040
+          name: Joan Chen
+        tt0110980:
+          id: nm0943072
+          name: Chien-Lien Wu
+        tt0111739:
+          id: nm0481708
+          name: Alice Lau
+      winner:
+      - tt0109958
+    best art direction:
+      nominee:
+      - tt0109424
+      - tt0109958
+      - tt0110053
+      - tt0110340
+      winner:
+      - tt0109688
+    best cinematography:
+      nominee:
+      - tt0108997
+      - tt0109424
+      - tt0110071
+      - tt0110980
+      winner:
+      - tt0109688
+    best costume & make up design:
+      nominee:
+      - tt0109958
+      - tt0110053
+      - tt0110340
+      - tt0111760
+      winner:
+      - tt0109688
+    best director:
+      nominee:
+      - tt0109688
+      - tt0109786
+      - tt0109958
+      - tt0110340
+      persons:
+        tt0109424:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0109688:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0109786:
+          id: nm0150906
+          name: Gordon Chan
+        tt0109958:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt0110340:
+          id: nm0007139
+          name: Hark Tsui
+      winner:
+      - tt0109424
+    best film editing:
+      nominee:
+      - tt0109688
+      - tt0109786
+      - tt0111512
+      - tt0111515
+      winner:
+      - tt0109424
+    best new performer:
+      nominee:
+      - tt0109786
+      - tt0109789
+      - tt0109958
+      - tt0111661
+      winner:
+      - tt0111739
+    best original film score:
+      nominee:
+      - tt0109424
+      - tt0109688
+      - tt0109958
+      - tt0110053
+      - tt0111739
+      winner:
+      - tt0110340
+    best original film song:
+      nominee:
+      - tt0109789
+      - tt0110053
+      - tt0111423
+      - tt0111661
+      winner:
+      - tt0109958
+    best picture:
+      nominee:
+      - tt0109688
+      - tt0109786
+      - tt0109958
+      - tt0111739
+      winner:
+      - tt0109424
+    best screenplay:
+      nominee:
+      - tt0109424
+      - tt0109688
+      - tt0109958
+      - tt0111661
+      winner:
+      - tt0111739
+    best supporting actor:
+      nominee:
+      - tt0109471
+      - tt0109786
+      - tt0109958
+      - tt0109962
+      - tt0111772
+      persons:
+        tt0109471:
+          id: nm0467601
+          name: Eric Kot
+        tt0109786:
+          id: nm0150987
+          name: Kwok-Pong Chan
+        tt0109958:
+          id: nm0150952
+          name: Jordan Chan
+        tt0109962:
+          id: nm0437630
+          name: Kar-Ying Law
+        tt0111661:
+          id: nm0150952
+          name: Jordan Chan
+        tt0111772:
+          id: nm0156484
+          name: Jacky Cheung
+      winner:
+      - tt0111661
+    best supporting actress:
+      nominee:
+      - tt0109424
+      - tt0110340
+      - tt0110980
+      - tt0111739
+      persons:
+        tt0109424:
+          id: nm0159513
+          name: Valerie Chow
+        tt0110340:
+          id: nm0628731
+          name: Carrie Ng
+        tt0110980:
+          id: nm0510950
+          name: Sandra Ng
+        tt0111739:
+          id: nm0492350
+          name: Koon-Lan Law
+      winner:
+      - tt0111739
+'1996':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0112800
+      - tt0113153
+      - tt0113651
+      - tt0114126
+      winner:
+      - tt0113326
+    best actor:
+      nominee:
+      - tt0113292
+      - tt0113326
+      - tt0113651
+      - tt0114996
+      persons:
+        tt0111767:
+          id: nm0152054
+          name: Roy Chiao
+        tt0113292:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0113326:
+          id: nm0000329
+          name: Jackie Chan
+        tt0113651:
+          id: nm0490489
+          name: Andy Lau
+        tt0114996:
+          id: nm0159507
+          name: Stephen Chow
+      winner:
+      - tt0111767
+    best actress:
+      nominee:
+      - tt0112590
+      - tt0112591
+      - tt0113292
+      - tt0113326
+      persons:
+        tt0111767:
+          id: nm0796196
+          name: Josephine Siao
+        tt0112590:
+          id: nm0946873
+          name: Chingmy Yau
+        tt0112591:
+          id: nm0271787
+          name: Bo-Bo Fung
+        tt0113292:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0113326:
+          id: nm0611315
+          name: Anita Mui
+      winner:
+      - tt0111767
+    best art direction:
+      nominee:
+      - tt0111767
+      - tt0112913
+      - tt0113292
+      - tt0113927
+      winner:
+      - tt0115016
+    best cinematography:
+      nominee:
+      - tt0112590
+      - tt0113292
+      - tt0113578
+      - tt0115016
+      winner:
+      - tt0112913
+    best costume & make up design:
+      nominee:
+      - tt0112800
+      - tt0112913
+      - tt0113292
+      - tt0113927
+      winner:
+      - tt0115016
+    best director:
+      nominee:
+      - tt0111424
+      - tt0112913
+      - tt0113651
+      - tt0114991
+      persons:
+        tt0111424:
+          id: nm0948021
+          name: Ho Yim
+        tt0111767:
+          id: nm0401176
+          name: Ann Hui
+        tt0112913:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0113651:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+        tt0114991:
+          id: nm0864775
+          name: Johnnie To
+      winner:
+      - tt0111767
+    best film editing:
+      nominee:
+      - tt0111767
+      - tt0112913
+      - tt0113326
+      - tt0115016
+      winner:
+      - tt0113651
+    best new performer:
+      nominee:
+      - tt0111767
+      - tt0112913
+      - tt0113326
+      - tt0113651
+      - tt0114998
+      winner:
+      - tt0112673
+    best original film score:
+      nominee:
+      - tt0113292
+      - tt0113351
+      - tt0114412
+      - tt0115016
+      winner:
+      - tt0112913
+    best original film song:
+      nominee:
+      - tt0113651
+      - tt0114998
+      - tt0115016
+      - tt0126942
+      winner:
+      - tt0113292
+    best picture:
+      nominee:
+      - tt0111424
+      - tt0112913
+      - tt0113326
+      - tt0113651
+      winner:
+      - tt0111767
+    best screenplay:
+      nominee:
+      - tt0112778
+      - tt0113651
+      - tt0114264
+      - tt0114996
+      winner:
+      - tt0111767
+    best supporting actor:
+      nominee:
+      - tt0112978
+      - tt0113351
+      - tt0113651
+      - tt0116732
+      persons:
+        tt0111767:
+          id: nm0437630
+          name: Kar-Ying Law
+        tt0112978:
+          id: nm0938990
+          name: Dayo Wong
+        tt0113351:
+          id: nm0467601
+          name: Eric Kot
+        tt0113651:
+          id: nm0157759
+          name: Chin Ka-Lok
+        tt0116732:
+          id: nm0150952
+          name: Jordan Chan
+      winner:
+      - tt0111767
+    best supporting actress:
+      nominee:
+      - tt0111767
+      - tt0113326
+      - tt0113651
+      - tt0114264
+      persons:
+        tt0111767:
+          id: nm0492350
+          name: Koon-Lan Law
+        tt0112913:
+          id: nm0596297
+          name: Karen Mok
+        tt0113326:
+          id: nm0948123
+          name: Françoise Yip
+        tt0113651:
+          id: nm0351719
+          name: Ping Ha
+        tt0114264:
+          id: nm0492350
+          name: Koon-Lan Law
+      winner:
+      - tt0112913
+'1997':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0110463
+      - tt0115693
+      - tt0116312
+      - tt0117619
+      - tt0126839
+      winner:
+      - tt0116704
+    best actor:
+      nominee:
+      - tt0116312
+      - tt0116704
+      - tt0117575
+      - tt0117905
+      - tt0126839
+      persons:
+        tt0116312:
+          id: nm0939255
+          name: Michael Wong
+        tt0116704:
+          id: nm0000329
+          name: Jackie Chan
+        tt0116902:
+          id: nm0155587
+          name: Kent Cheng
+        tt0117575:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0117905:
+          id: nm0481709
+          name: Leon Lai
+        tt0126839:
+          id: nm0490513
+          name: Ching-Wan Lau
+      winner:
+      - tt0116902
+    best actress:
+      nominee:
+      - tt0116295
+      - tt0116426
+      - tt0116576
+      - tt0117643
+      persons:
+        tt0116295:
+          id: nm0000084
+          name: Gong Li
+        tt0116426:
+          id: nm0596297
+          name: Karen Mok
+        tt0116576:
+          id: nm0796196
+          name: Josephine Siao
+        tt0117643:
+          id: nm0510950
+          name: Sandra Ng
+        tt0117905:
+          id: nm0001041
+          name: Maggie Cheung
+      winner:
+      - tt0117905
+    best art direction:
+      nominee:
+      - tt0115693
+      - tt0116295
+      - tt0116462
+      - tt0117619
+      winner:
+      - tt0117905
+    best cinematography:
+      nominee:
+      - tt0116295
+      - tt0116820
+      - tt0117619
+      - tt0126839
+      winner:
+      - tt0117905
+    best costume & make up design:
+      nominee:
+      - tt0115693
+      - tt0116462
+      - tt0117619
+      - tt0117643
+      winner:
+      - tt0117905
+    best director:
+      nominee:
+      - tt0116576
+      - tt0116902
+      - tt0117575
+      - tt0126839
+      persons:
+        tt0116576:
+          id: nm0795511
+          name: Kei Shu
+        tt0116902:
+          id: nm0158427
+          name: Derek Chiu
+        tt0117575:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+        tt0117905:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt0126839:
+          id: nm0150802
+          name: Benny Chan
+      winner:
+      - tt0117905
+    best film editing:
+      nominee:
+      - tt0116312
+      - tt0116576
+      - tt0116704
+      - tt0116820
+      winner:
+      - tt0126839
+    best new performer:
+      nominee:
+      - tt0116462
+      - tt0116576
+      - tt0116704
+      - tt0117905
+      winner:
+      - tt0117575
+    best original film score:
+      nominee:
+      - tt0113724
+      - tt0116902
+      - tt0117575
+      - tt0126839
+      winner:
+      - tt0117905
+    best original film song:
+      nominee:
+      - tt0116462
+      - tt0117575
+      - tt0126801
+      winner:
+      - tt0117904
+    best picture:
+      nominee:
+      - tt0116576
+      - tt0116704
+      - tt0117575
+      - tt0126839
+      winner:
+      - tt0117905
+    best screenplay:
+      nominee:
+      - tt0116576
+      - tt0117242
+      - tt0117243
+      - tt0117904
+      - tt0127360
+      winner:
+      - tt0117905
+    best supporting actor:
+      nominee:
+      - tt0116455
+      - tt0116902
+      - tt0117575
+      - tt0117921
+      - tt0126839
+      persons:
+        tt0116455:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0116902:
+          id: nm0482970
+          name: Jerry Lamb
+        tt0117575:
+          id: nm0875275
+          name: Elvis Tsui
+        tt0117905:
+          id: nm0874676
+          name: Eric Tsang
+        tt0117921:
+          id: nm0945189
+          name: Simon Yam
+        tt0126839:
+          id: nm0150952
+          name: Jordan Chan
+      winner:
+      - tt0117905
+    best supporting actress:
+      nominee:
+      - tt0115724
+      - tt0116462
+      - tt0116576
+      - tt0117415
+      - tt0126839
+      persons:
+        tt0115724:
+          id: nm0492350
+          name: Koon-Lan Law
+        tt0116462:
+          id: nm0498350
+          name: Theresa Lee
+        tt0116576:
+          id: nm0950703
+          name: Anita Yuen
+        tt0117415:
+          id: nm0492352
+          name: Helena Law
+        tt0117575:
+          id: nm0795517
+          name: Shu Qi
+        tt0126839:
+          id: nm0498350
+          name: Theresa Lee
+      winner:
+      - tt0117575
+'1998':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0117786
+      - tt0120115
+      - tt0120530
+      - tt0156588
+      winner:
+      - tt0156998
+    best actor:
+      nominee:
+      - tt0118845
+      - tt0134664
+      - tt0134836
+      - tt0156588
+      persons:
+        tt0118845:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0134664:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt0134836:
+          id: nm0874860
+          name: Kwan-Ho Tse
+        tt0156588:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+      winner:
+      - tt0118845
+    best actress:
+      nominee:
+      - tt0127468
+      - tt0133028
+      - tt0134652
+      - tt0156588
+      persons:
+        tt0120164:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0127468:
+          id: nm0943072
+          name: Chien-Lien Wu
+        tt0133028:
+          id: nm0490500
+          name: Carina Lau
+        tt0134652:
+          id: nm0795517
+          name: Shu Qi
+        tt0156588:
+          id: nm0837282
+          name: Paulyn Sun
+      winner:
+      - tt0120164
+    best art direction:
+      nominee:
+      - tt0118845
+      - tt0127468
+      - tt0156588
+      - tt0156998
+      winner:
+      - tt0120164
+    best cinematography:
+      nominee:
+      - tt0118845
+      - tt0120541
+      - tt0127468
+      - tt0156998
+      winner:
+      - tt0120164
+    best costume & make up design:
+      nominee:
+      - tt0118845
+      - tt0119818
+      - tt0127468
+      - tt0156998
+      winner:
+      - tt0120164
+    best director:
+      nominee:
+      - tt0118845
+      - tt0120115
+      - tt0120164
+      - tt0134664
+      persons:
+        tt0118845:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0120115:
+          id: nm0864775
+          name: Johnnie To
+        tt0120164:
+          id: nm0156520
+          name: Mabel Cheung
+        tt0123328:
+          id: nm0150897
+          name: Fruit Chan
+        tt0134664:
+          id: nm0482681
+          name: Ringo Lam
+      winner:
+      - tt0123328
+    best film editing:
+      nominee:
+      - tt0118845
+      - tt0123328
+      - tt0134664
+      - tt0156998
+      winner:
+      - tt0120115
+    best new performer:
+      nominee:
+      - tt0120115
+      - tt0156496
+      - tt0156998
+      - tt0159506
+      winner:
+      - tt0123328
+    best original film score:
+      nominee:
+      - tt0120541
+      - tt0127468
+      - tt0146745
+      - tt0156998
+      winner:
+      - tt0120164
+    best original film song:
+      nominee:
+      - tt0116785
+      - tt0127468
+      - tt0128907
+      - tt0156588
+      winner:
+      - tt0159506
+    best picture:
+      nominee:
+      - tt0118845
+      - tt0120115
+      - tt0120164
+      - tt0134664
+      winner:
+      - tt0123328
+    best screenplay:
+      nominee:
+      - tt0120164
+      - tt0120541
+      - tt0123328
+      - tt0156588
+      winner:
+      - tt0134836
+    best sound design:
+      nominee:
+      - tt0120164
+      - tt0134664
+      - tt0156588
+      - tt0156998
+      winner:
+      - tt0120115
+    best supporting actor:
+      nominee:
+      - tt0116785
+      - tt0118845
+      - tt0133285
+      - tt0134836
+      persons:
+        tt0116785:
+          id: nm0437630
+          name: Kar-Ying Law
+        tt0118845:
+          id: nm0151654
+          name: Chang Chen
+        tt0120164:
+          id: nm0422638
+          name: Wen Jiang
+        tt0133285:
+          id: nm0874676
+          name: Eric Tsang
+        tt0134836:
+          id: nm0690932
+          name: Chan-Leung Poon
+      winner:
+      - tt0120164
+    best supporting actress:
+      nominee:
+      - tt0120164
+      - tt0133028
+      - tt0156998
+      persons:
+        tt0120164:
+          id: nm0157805
+          name: Elaine Jin
+        tt0127468:
+          id: nm0611315
+          name: Anita Mui
+        tt0133028:
+          id: nm0498350
+          name: Theresa Lee
+        tt0156998:
+          id: nm0498350
+          name: Theresa Lee
+      winner:
+      - tt0127468
+'1999':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0163818
+      - tt0165499
+      - tt0180685
+      - tt0181582
+      winner:
+      - tt0127357
+    best actor:
+      nominee:
+      - tt0127357
+      - tt0165499
+      - tt0168043
+      - tt0179110
+      persons:
+        tt0127357:
+          id: nm0000329
+          name: Jackie Chan
+        tt0157366:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0165499:
+          id: nm0002002
+          name: Shin'ichi Chiba
+        tt0168043:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt0179110:
+          id: nm0481709
+          name: Leon Lai
+      winner:
+      - tt0157366
+    best actress:
+      nominee:
+      - tt0144029
+      - tt0147608
+      - tt0176809
+      - tt0179110
+      persons:
+        tt0144029:
+          id: nm0946873
+          name: Chingmy Yau
+        tt0147608:
+          id: nm0950703
+          name: Anita Yuen
+        tt0148631:
+          id: nm0510950
+          name: Sandra Ng
+        tt0176809:
+          id: nm0504939
+          name: Fiona Leung
+        tt0179110:
+          id: nm0795517
+          name: Shu Qi
+      winner:
+      - tt0148631
+    best art direction:
+      nominee:
+      - tt0144029
+      - tt0159251
+      - tt0165499
+      - tt0179110
+      winner:
+      - tt0169929
+    best cinematography:
+      nominee:
+      - tt0144029
+      - tt0159251
+      - tt0165499
+      - tt0179110
+      winner:
+      - tt0169929
+    best costume & make up design:
+      nominee:
+      - tt0159251
+      - tt0169929
+      - tt0176809
+      - tt0179110
+      winner:
+      - tt0165499
+    best director:
+      nominee:
+      - tt0144029
+      - tt0168043
+      - tt0179110
+      - tt0189660
+      persons:
+        tt0144029:
+          id: nm0477102
+          name: Stanley Kwan
+        tt0157366:
+          id: nm0150906
+          name: Gordon Chan
+        tt0168043:
+          id: nm0946883
+          name: Nai-Hoi Yau
+        tt0179110:
+          id: nm0156520
+          name: Mabel Cheung
+        tt0189660:
+          id: nm0150897
+          name: Fruit Chan
+      winner:
+      - tt0157366
+    best film editing:
+      nominee:
+      - tt0127357
+      - tt0157366
+      - tt0168043
+      - tt0181582
+      winner:
+      - tt0165499
+    best new performer:
+      nominee:
+      - tt0159432
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0168264
+    best original film score:
+      nominee:
+      - tt0144029
+      - tt0159251
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0165499
+    best original film song:
+      nominee:
+      - tt0165499
+      - tt0165998
+      - tt0189660
+      winner:
+      - tt0179110
+    best picture:
+      nominee:
+      - tt0127357
+      - tt0165499
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0157366
+    best screenplay:
+      nominee:
+      - tt0159432
+      - tt0168043
+      - tt0179110
+      - tt0189660
+      winner:
+      - tt0157366
+    best sound design:
+      nominee:
+      - tt0127357
+      - tt0157366
+      - tt0179110
+      - tt0181582
+      winner:
+      - tt0165499
+    best supporting actor:
+      nominee:
+      - tt0144029
+      - tt0178998
+      - tt0184354
+      - tt0189660
+      persons:
+        tt0144029:
+          id: nm0874676
+          name: Eric Tsang
+        tt0157366:
+          id: nm0848377
+          name: Patrick Tam
+        tt0178998:
+          id: nm0284533
+          name: Alex Fong
+        tt0184354:
+          id: nm0156496
+          name: Ka-Fai Cheung
+        tt0189660:
+          id: nm0498189
+          name: Sam Lee
+      winner:
+      - tt0157366
+    best supporting actress:
+      nominee:
+      - tt0148631
+      - tt0157366
+      - tt0165499
+      - tt0179064
+      persons:
+        tt0148631:
+          id: nm0795517
+          name: Shu Qi
+        tt0157366:
+          id: nm0154726
+          name: Stephanie Che
+        tt0165499:
+          id: nm0795517
+          name: Shu Qi
+        tt0179064:
+          id: nm0496797
+          name: Amanda Lee
+      winner:
+      - tt0148631
+'2000':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0184526
+      - tt0203672
+      - tt0206334
+      - tt0220644
+      winner:
+      - tt0226693
+    best actor:
+      nominee:
+      - tt0189954
+      - tt0214555
+      - tt0224345
+      - tt0228048
+      persons:
+        tt0189954:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0214555:
+          id: nm0628757
+          name: Francis Ng
+        tt0216165:
+          id: nm0490489
+          name: Andy Lau
+        tt0224345:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt0228048:
+          id: nm0874676
+          name: Eric Tsang
+      winner:
+      - tt0216165
+    best actress:
+      nominee:
+      - tt0189954
+      - tt0213314
+      - tt0215240
+      - tt0241222
+      persons:
+        tt0189954:
+          id: nm0497782
+          name: Loletta Lee
+        tt0213314:
+          id: nm0156444
+          name: Cecilia Cheung
+        tt0214555:
+          id: nm0492352
+          name: Helena Law
+        tt0215240:
+          id: nm0504942
+          name: Gigi Leung
+        tt0241222:
+          id: nm0409677
+          name: Deanie Ip
+      winner:
+      - tt0214555
+    best art direction:
+      nominee:
+      - tt0189954
+      - tt0206334
+      - tt0215240
+      - tt0228048
+      winner:
+      - tt0226693
+    best cinematography:
+      nominee:
+      - tt0206334
+      - tt0213314
+      - tt0224345
+      - tt0228048
+      winner:
+      - tt0226693
+    best costume & make up design:
+      nominee:
+      - tt0203672
+      - tt0206334
+      - tt0215240
+      - tt0228048
+      winner:
+      - tt0226693
+    best director:
+      nominee:
+      - tt0189954
+      - tt0215240
+      - tt0216165
+      - tt0224345
+      persons:
+        tt0189954:
+          id: nm0401176
+          name: Ann Hui
+        tt0215240:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0216165:
+          id: nm0864775
+          name: Johnnie To
+        tt0220644:
+          id: nm0864775
+          name: Johnnie To
+        tt0224345:
+          id: nm0482681
+          name: Ringo Lam
+      winner:
+      - tt0220644
+    best film editing:
+      nominee:
+      - tt0206334
+      - tt0216165
+      - tt0220644
+      - tt0234116
+      winner:
+      - tt0226693
+    best new performer:
+      nominee:
+      - tt0170626
+      - tt0188766
+      - tt0213314
+      - tt0234116
+      winner:
+      - tt0213314
+    best original film score:
+      nominee:
+      - tt0203672
+      - tt0220644
+      - tt0226693
+      - tt0234116
+      winner:
+      - tt0213314
+    best original film song:
+      nominee:
+      - tt0203672
+      - tt0213314
+      - tt0228048
+      - tt0234116
+      winner:
+      - tt0213314
+    best picture:
+      nominee:
+      - tt0213314
+      - tt0216165
+      - tt0220644
+      - tt0234116
+      winner:
+      - tt0189954
+    best screenplay:
+      nominee:
+      - tt0189954
+      - tt0216165
+      - tt0228048
+      - tt0234116
+      winner:
+      - tt0215240
+    best sound design:
+      nominee:
+      - tt0203672
+      - tt0206334
+      - tt0214555
+      - tt0224345
+      winner:
+      - tt0226693
+    best supporting actor:
+      nominee:
+      - tt0189954
+      - tt0216165
+      - tt0220644
+      - tt0234116
+      persons:
+        tt0189954:
+          id: nm0874860
+          name: Kwan-Ho Tse
+        tt0216165:
+          id: nm0401208
+          name: Shiu-Hung Hui
+        tt0220644:
+          id: nm0482695
+          name: Suet Lam
+        tt0223603:
+          id: nm0862479
+          name: Lung Ti
+        tt0234116:
+          id: nm0156554
+          name: Robby Cheung
+      winner:
+      - tt0223603
+    best supporting actress:
+      nominee:
+      - tt0189954
+      - tt0215240
+      - tt0226693
+      - tt0228048
+      persons:
+        tt0189954:
+          id: nm0667978
+          name: Hee Ching Paw
+        tt0215240:
+          id: nm0157805
+          name: Elaine Jin
+        tt0223603:
+          id: nm0628731
+          name: Carrie Ng
+        tt0226693:
+          id: nm0387319
+          name: Josie Ho
+        tt0228048:
+          id: nm0157805
+          name: Elaine Jin
+      winner:
+      - tt0223603
+'2001':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0233600
+      - tt0251094
+      - tt0251433
+      - tt0266408
+      winner:
+      - tt0190332
+    best actor:
+      nominee:
+      - tt0190332
+      - tt0260992
+      - tt0266703
+      - tt0277558
+      persons:
+        tt0118694:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0190332:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0260992:
+          id: nm0628757
+          name: Francis Ng
+        tt0266703:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0277558:
+          id: nm0490489
+          name: Andy Lau
+      winner:
+      - tt0118694
+    best actress:
+      nominee:
+      - tt0190332
+      - tt0244092
+      - tt0255327
+      persons:
+        tt0118694:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0190332:
+          id: nm0000706
+          name: Michelle Yeoh
+        tt0244092:
+          id: nm0155618
+          name: Sammi Cheng
+        tt0255327:
+          id: nm0702656
+          name: Hailu Qin
+      winner:
+      - tt0118694
+    best art direction:
+      nominee:
+      - tt0190332
+      - tt0255327
+      - tt0259741
+      - tt0274626
+      winner:
+      - tt0118694
+    best cinematography:
+      nominee:
+      - tt0118694
+      - tt0259741
+      - tt0274626
+      - tt0277558
+      winner:
+      - tt0190332
+    best costume & make up design:
+      nominee:
+      - tt0190332
+      - tt0233600
+      - tt0251094
+      - tt0274626
+      winner:
+      - tt0118694
+    best director:
+      nominee:
+      - tt0118694
+      - tt0244092
+      - tt0255327
+      - tt0260992
+      persons:
+        tt0118694:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0190332:
+          id: nm0000487
+          name: Ang Lee
+        tt0244092:
+          id: nm0864775
+          name: Johnnie To
+        tt0255327:
+          id: nm0150897
+          name: Fruit Chan
+        tt0260992:
+          id: nm0948159
+          name: Wilson Yip
+      winner:
+      - tt0190332
+    best film editing:
+      nominee:
+      - tt0190332
+      - tt0233600
+      - tt0251433
+      - tt0277558
+      winner:
+      - tt0118694
+    best new performer:
+      nominee:
+      - tt0118694
+      - tt0251094
+      - tt0251433
+      - tt0266408
+      - tt0282159
+      winner:
+      - tt0255327
+    best original film score:
+      nominee:
+      - tt0118694
+      - tt0251433
+      - tt0259741
+      - tt0274626
+      winner:
+      - tt0190332
+    best original film song:
+      nominee:
+      - tt0244092
+      - tt0259741
+      - tt0274626
+      - tt0282159
+      winner:
+      - tt0190332
+    best picture:
+      nominee:
+      - tt0118694
+      - tt0244092
+      - tt0255327
+      - tt0266703
+      winner:
+      - tt0190332
+    best screenplay:
+      nominee:
+      - tt0118694
+      - tt0190332
+      - tt0244092
+      - tt0266703
+      winner:
+      - tt0255327
+    best sound design:
+      nominee:
+      - tt0251094
+      - tt0251433
+      - tt0258489
+      - tt0266408
+      winner:
+      - tt0190332
+    best supporting actor:
+      nominee:
+      - tt0190332
+      - tt0260992
+      - tt0266703
+      - tt0274626
+      persons:
+        tt0190332:
+          id: nm0151654
+          name: Chang Chen
+        tt0214728:
+          id: nm0628757
+          name: Francis Ng
+        tt0260992:
+          id: nm0945189
+          name: Simon Yam
+        tt0266703:
+          id: nm0156558
+          name: Roy Cheung
+        tt0274626:
+          id: nm0150873
+          name: Eason Chan
+      winner:
+      - tt0214728
+    best supporting actress:
+      nominee:
+      - tt0118694
+      - tt0251433
+      - tt0253955
+      - tt0261125
+      persons:
+        tt0190332:
+          id: nm0155607
+          name: Pei-Pei Cheng
+        tt0251433:
+          id: nm0516284
+          name: Candy Lo
+        tt0253955:
+          id: nm0594909
+          name: Teresa Mo
+        tt0261125:
+          id: nm0504942
+          name: Gigi Leung
+      winner:
+      - tt0190332
+'2002':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0260136
+      - tt0286098
+      - tt0286112
+      - tt0295461
+      winner:
+      - tt0271946
+    best actor:
+      nominee:
+      - tt0286797
+      - tt0292066
+      - tt0312886
+      persons:
+        tt0286112:
+          id: nm0159507
+          name: Stephen Chow
+        tt0286797:
+          id: nm0490489
+          name: Andy Lau
+        tt0292066:
+          id: nm0432425
+          name: Jun Hu
+        tt0312886:
+          id: nm0156484
+          name: Jacky Cheung
+      winner:
+      - tt0286112
+    best actress:
+      nominee:
+      - tt0272362
+      - tt0286623
+      - tt0286797
+      - tt0312886
+      persons:
+        tt0272362:
+          id: nm0155618
+          name: Sammi Cheng
+        tt0277674:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0286623:
+          id: nm0155618
+          name: Sammi Cheng
+        tt0286797:
+          id: nm0155618
+          name: Sammi Cheng
+        tt0312886:
+          id: nm0611315
+          name: Anita Mui
+      winner:
+      - tt0277674
+    best art direction:
+      nominee:
+      - tt0272362
+      - tt0286098
+      - tt0292066
+      - tt0312886
+      winner:
+      - tt0279523
+    best asian film:
+      nominee:
+      - tt0215369
+      - tt0220507
+      - tt0244316
+      - tt0304641
+      winner:
+      - tt0245429
+    best cinematography:
+      nominee:
+      - tt0279523
+      - tt0286112
+      - tt0292066
+      - tt0312412
+      winner:
+      - tt0287811
+    best costume & make up design:
+      nominee:
+      - tt0272362
+      - tt0286098
+      - tt0286112
+      - tt0292066
+      winner:
+      - tt0279523
+    best director:
+      nominee:
+      - tt0286797
+      - tt0287811
+      - tt0292066
+      - tt0312886
+      persons:
+        tt0286112:
+          id: nm0159507
+          name: Stephen Chow
+        tt0286797:
+          id: nm0864775
+          name: Johnnie To
+        tt0287811:
+          id: nm0401176
+          name: Ann Hui
+        tt0292066:
+          id: nm0477102
+          name: Stanley Kwan
+        tt0312886:
+          id: nm0401176
+          name: Ann Hui
+      winner:
+      - tt0286112
+    best film editing:
+      nominee:
+      - tt0286098
+      - tt0286112
+      - tt0286635
+      - tt0292066
+      winner:
+      - tt0271946
+    best new performer:
+      nominee:
+      - tt0279697
+      - tt0312563
+      - tt0313579
+      - tt0313812
+      winner:
+      - tt0312886
+    best original film score:
+      nominee:
+      - tt0286112
+      - tt0292066
+      - tt0300197
+      - tt0312412
+      winner:
+      - tt0312941
+    best original film song:
+      nominee:
+      - tt0279523
+      - tt0286112
+      - tt0293895
+      - tt0312412
+      winner:
+      - tt0286797
+    best picture:
+      nominee:
+      - tt0286797
+      - tt0292066
+      - tt0312412
+      - tt0312886
+      winner:
+      - tt0286112
+    best screenplay:
+      nominee:
+      - tt0286112
+      - tt0292066
+      - tt0312563
+      - tt0312932
+      winner:
+      - tt0312886
+    best sound design:
+      nominee:
+      - tt0271946
+      - tt0286098
+      - tt0287811
+      - tt0312412
+      winner:
+      - tt0286112
+    best supporting actor:
+      nominee:
+      - tt0276971
+      - tt0287155
+      - tt0300197
+      - tt0306708
+      persons:
+        tt0276971:
+          id: nm0497126
+          name: David Wai-Sheung Lee
+        tt0286112:
+          id: nm0939431
+          name: Yat-Fei Wong
+        tt0287155:
+          id: nm0848377
+          name: Patrick Tam
+        tt0300197:
+          id: nm0945189
+          name: Simon Yam
+        tt0306708:
+          id: nm0482628
+          name: Ka-Tung Lam
+      winner:
+      - tt0286112
+    best supporting actress:
+      nominee:
+      - tt0260136
+      - tt0277674
+      - tt0287811
+      - tt0292066
+      persons:
+        tt0260136:
+          id: nm0948112
+          name: Cecilia Yip
+        tt0277674:
+          id: nm0387319
+          name: Josie Ho
+        tt0287811:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt0292066:
+          id: nm1092651
+          name: Jin Su
+      winner:
+      - tt0312886
+    best visual effects:
+      nominee:
+      - tt0260136
+      - tt0271946
+      - tt0286098
+      - tt0294251
+      winner:
+      - tt0286112
+'2003':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0282860
+      - tt0293660
+      - tt0300620
+      - tt0338564
+      winner:
+      - tt0299977
+    best actor:
+      nominee:
+      - tt0284066
+      - tt0316023
+      - tt0324242
+      - tt0338564
+      persons:
+        tt0284066:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0316023:
+          id: nm0002000
+          name: Leslie Cheung
+        tt0324242:
+          id: nm0481709
+          name: Leon Lai
+        tt0338564:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+      winner:
+      - tt0338564
+    best actress:
+      nominee:
+      - tt0299977
+      - tt0311913
+      - tt0316023
+      - tt0354593
+      persons:
+        tt0299977:
+          id: nm0001041
+          name: Maggie Cheung
+        tt0311913:
+          id: nm0910947
+          name: Faye Wong
+        tt0316023:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+        tt0325655:
+          id: nm0496806
+          name: Angelica Lee
+        tt0354593:
+          id: nm0510950
+          name: Sandra Ng
+      winner:
+      - tt0325655
+    best art direction:
+      nominee:
+      - tt0284066
+      - tt0311913
+      - tt0324242
+      - tt0354593
+      winner:
+      - tt0299977
+    best asian film:
+      nominee:
+      - tt0260991
+      - tt0287934
+      - tt0307681
+      - tt0312841
+      winner:
+      - tt0293715
+    best cinematography:
+      nominee:
+      - tt0284066
+      - tt0293660
+      - tt0324242
+      - tt0338564
+      winner:
+      - tt0299977
+    best costumes/make up:
+      nominee:
+      - tt0290654
+      - tt0311913
+      - tt0338564
+      - tt0354593
+      winner:
+      - tt0299977
+    best director:
+      nominee:
+      - tt0290654
+      - tt0299977
+      - tt0316023
+      - tt0324242
+      persons:
+        tt0290654:
+          id: nm0150897
+          name: Fruit Chan
+        tt0299977:
+          id: nm0955443
+          name: Yimou Zhang
+        tt0316023:
+          id: nm0492305
+          name: Chi-Leung Lo
+        tt0324242:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt0338564:
+          id: nm0490487
+          name: Wai Keung Lau
+      winner:
+      - tt0338564
+    best film editing:
+      nominee:
+      - tt0284066
+      - tt0299977
+      - tt0324242
+      - tt0325655
+      winner:
+      - tt0338564
+    best music:
+      nominee:
+      - tt0290654
+      - tt0311913
+      - tt0324242
+      - tt0338564
+      winner:
+      - tt0299977
+    best new performer:
+      nominee:
+      - tt0290654
+      - tt0341129
+      - tt0348448
+      - tt0354498
+      winner:
+      - tt0324242
+    best original film song:
+      nominee:
+      - tt0282860
+      - tt0299977
+      - tt0329784
+      - tt0347230
+      winner:
+      - tt0338564
+    best picture:
+      nominee:
+      - tt0290654
+      - tt0299977
+      - tt0324242
+      - tt0354593
+      winner:
+      - tt0338564
+    best screenplay:
+      nominee:
+      - tt0284066
+      - tt0290654
+      - tt0299977
+      - tt0324242
+      winner:
+      - tt0338564
+    best sound:
+      nominee:
+      - tt0316023
+      - tt0324242
+      - tt0325655
+      - tt0338564
+      winner:
+      - tt0299977
+    best supporting actor:
+      nominee:
+      - tt0282860
+      - tt0338564
+      - tt0348448
+      persons:
+        tt0282860:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0338564:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0348448:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+      winner:
+      - tt0338564
+    best supporting actress:
+      nominee:
+      - tt0299977
+      - tt0324242
+      - tt0354593
+      - tt0354771
+      persons:
+        tt0284066:
+          id: nm0515002
+          name: Rene Liu
+        tt0299977:
+          id: nm0955471
+          name: Ziyi Zhang
+        tt0324242:
+          id: nm1067699
+          name: Eugenia Yuan
+        tt0354771:
+          id: nm0948112
+          name: Cecilia Yip
+      winner:
+      - tt0284066
+    best visual effects:
+      nominee:
+      - tt0282860
+      - tt0284066
+      - tt0325655
+      - tt0338564
+      winner:
+      - tt0299977
+'2004':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0288045
+      - tt0374184
+      - tt0378773
+      - tt0379985
+      winner:
+      - tt0351887
+    best actor:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0390272
+      - tt0396030
+      persons:
+        tt0250638:
+          id: nm0945189
+          name: Simon Yam
+        tt0369060:
+          id: nm0628757
+          name: Francis Ng
+        tt0374184:
+          id: nm0490489
+          name: Andy Lau
+        tt0390272:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt0396030:
+          id: nm0156484
+          name: Jacky Cheung
+      winner:
+      - tt0374184
+    best actress:
+      nominee:
+      - tt0369060
+      - tt0374184
+      - tt0377923
+      - tt0396030
+      persons:
+        tt0369060:
+          id: nm0490500
+          name: Carina Lau
+        tt0374184:
+          id: nm0156444
+          name: Cecilia Cheung
+        tt0377923:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+        tt0390272:
+          id: nm0156444
+          name: Cecilia Cheung
+        tt0396030:
+          id: nm0510950
+          name: Sandra Ng
+      winner:
+      - tt0390272
+    best art direction:
+      nominee:
+      - tt0367174
+      - tt0374184
+      - tt0377923
+      - tt0396030
+      winner:
+      - tt0351887
+    best asian film:
+      nominee:
+      - tt0291032
+      - tt0332639
+      - tt0333764
+      - tt0348568
+      winner:
+      - tt0351817
+    best cinematography:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374339
+      - tt0379985
+      winner:
+      - tt0377923
+    best costume design and make up:
+      nominee:
+      - tt0367174
+      - tt0374184
+      - tt0377923
+      - tt0396030
+      winner:
+      - tt0351887
+    best director:
+      nominee:
+      - tt0369060
+      - tt0374184
+      - tt0379985
+      - tt0390272
+      persons:
+        tt0250638:
+          id: nm0864775
+          name: Johnnie To
+        tt0369060:
+          id: nm0490487
+          name: Wai Keung Lau
+        tt0374184:
+          id: nm0864775
+          name: Johnnie To
+        tt0379985:
+          id: nm0150802
+          name: Benny Chan
+        tt0390272:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+      winner:
+      - tt0250638
+    best film editing:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374184
+      - tt0374339
+      winner:
+      - tt0351887
+    best new artist:
+      nominee:
+      - tt0378773
+      - tt0379874
+      - tt0389845
+      - tt0390272
+      winner:
+      - tt0378773
+    best new director:
+      nominee:
+      - tt0377923
+      - tt0379874
+      persons:
+        tt0377923:
+          id: nm0481674
+          name: Miu-Suet Lai
+        tt0379874:
+          id: nm1205568
+          name: Barbara Wong Chun-Chun
+        tt0380291:
+          id: nm1001051
+          name: Pang Ho-Cheung
+      winner:
+      - tt0380291
+    best original film score:
+      nominee:
+      - tt0250638
+      - tt0367174
+      - tt0369060
+      - tt0374339
+      winner:
+      - tt0390272
+    best original film song:
+      nominee:
+      - tt0366371
+      - tt0367174
+      - tt0374184
+      - tt0390272
+      winner:
+      - tt0369060
+    best picture:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374339
+      - tt0390272
+      winner:
+      - tt0374184
+    best screenplay:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374339
+      - tt0390272
+      winner:
+      - tt0374184
+    best sound effects:
+      nominee:
+      - tt0250638
+      - tt0369060
+      - tt0374184
+      - tt0374339
+      winner:
+      - tt0351887
+    best supporting actor:
+      nominee:
+      - tt0369060
+      - tt0374184
+      - tt0380069
+      persons:
+        tt0369060:
+          id: nm0514961
+          name: Liu Kai-Chi
+        tt0374184:
+          id: nm0156567
+          name: Eddie Cheung
+        tt0380069:
+          id: nm0155617
+          name: Ronald Cheng
+        tt0380291:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+      winner:
+      - tt0380291
+    best supporting actress:
+      nominee:
+      - tt0250638
+      - tt0351887
+      - tt0379874
+      - tt0390272
+      persons:
+        tt0250638:
+          id: nm0803308
+          name: Maggie Siu
+        tt0351887:
+          id: nm0387319
+          name: Josie Ho
+        tt0379874:
+          id: nm0516284
+          name: Candy Lo
+        tt0385754:
+          id: nm0387319
+          name: Josie Ho
+        tt0390272:
+          id: nm0667978
+          name: Hee Ching Paw
+      winner:
+      - tt0385754
+    best visual effects:
+      nominee:
+      - tt0250638
+      - tt0288045
+      - tt0374184
+      - tt0374339
+      winner:
+      - tt0351887
+'2005':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0386005
+      - tt0398373
+      - tt0415380
+      - tt0430772
+      winner:
+      - tt0373074
+    best actor:
+      nominee:
+      - tt0373074
+      - tt0386005
+      - tt0430772
+      persons:
+        tt0212712:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0373074:
+          id: nm0159507
+          name: Stephen Chow
+        tt0386005:
+          id: nm0000329
+          name: Jackie Chan
+        tt0430772:
+          id: nm0284533
+          name: Alex Fong
+      winner:
+      - tt0212712
+    best actress:
+      nominee:
+      - tt0373074
+      - tt0397229
+      - tt0408970
+      - tt0430772
+      persons:
+        tt0212712:
+          id: nm0955471
+          name: Ziyi Zhang
+        tt0373074:
+          id: nm1228408
+          name: Qiu Yuen
+        tt0397229:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0408970:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+        tt0430772:
+          id: nm0156444
+          name: Cecilia Cheung
+      winner:
+      - tt0212712
+    best art direction:
+      nominee:
+      - tt0373074
+      - tt0415080
+      - tt0420251
+      - tt0436833
+      winner:
+      - tt0212712
+    best asian film:
+      nominee:
+      - tt0363226
+      - tt0385004
+      - tt0400761
+      - tt0439884
+      winner:
+      - tt0364569
+    best cinematography:
+      nominee:
+      - tt0373074
+      - tt0386590
+      - tt0420251
+      - tt0430772
+      winner:
+      - tt0212712
+    best costume design and make up:
+      nominee:
+      - tt0373074
+      - tt0398373
+      - tt0415080
+      - tt0436833
+      winner:
+      - tt0212712
+    best director:
+      nominee:
+      - tt0212712
+      - tt0373074
+      - tt0386005
+      - tt0414931
+      persons:
+        tt0212712:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt0373074:
+          id: nm0159507
+          name: Stephen Chow
+        tt0386005:
+          id: nm0150802
+          name: Benny Chan
+        tt0414931:
+          id: nm0864775
+          name: Johnnie To
+        tt0430772:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+      winner:
+      - tt0430772
+    best film editing:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0414931
+      - tt0430772
+      winner:
+      - tt0373074
+    best new artist:
+      nominee:
+      - tt0373074
+      - tt0398373
+      - tt0434762
+      - tt0436833
+      winner:
+      - tt0440939
+    best new director:
+      nominee:
+      - tt0419954
+      - tt0440595
+      persons:
+        tt0415080:
+          id: nm1494662
+          name: Wong Ching-Po
+        tt0419954:
+          id: nm1211088
+          name: Toe Yuen
+        tt0440595:
+          id: nm1205568
+          name: Barbara Wong Chun-Chun
+      winner:
+      - tt0415080
+    best new performer:
+      nominee:
+      - tt0436833
+    best original film score:
+      nominee:
+      - tt0373074
+      - tt0386590
+      - tt0430772
+      - tt0436833
+      winner:
+      - tt0212712
+    best original film song:
+      nominee:
+      - tt0386590
+      - tt0396735
+      - tt0415872
+      - tt0440842
+      winner:
+      - tt0419954
+    best original score:
+      nominee:
+      - tt0436833
+    best picture:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0414931
+      - tt0430772
+      winner:
+      - tt0373074
+    best screenplay:
+      nominee:
+      - tt0212712
+      - tt0373074
+      - tt0420251
+      - tt0440003
+      winner:
+      - tt0430772
+    best sound effects:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0408970
+      - tt0430772
+      winner:
+      - tt0373074
+    best supporting actor:
+      nominee:
+      - tt0373074
+      - tt0386005
+      - tt0420251
+      - tt0431733
+      persons:
+        tt0373074:
+          id: nm0950757
+          name: Wah Yuen
+        tt0386005:
+          id: nm0943079
+          name: Daniel Wu
+        tt0420251:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0431733:
+          id: nm1167890
+          name: Sui-Man Chim
+      winner:
+      - tt0373074
+    best supporting actress:
+      nominee:
+      - tt0397229
+      - tt0414931
+      - tt0415872
+      - tt0440595
+      persons:
+        tt0397229:
+          id: nm1329115
+          name: Kate Yeung
+        tt0414931:
+          id: nm0803308
+          name: Maggie Siu
+        tt0415872:
+          id: nm0398883
+          name: Jenny Hu
+        tt0420251:
+          id: nm0000499
+          name: Bai Ling
+        tt0440595:
+          id: nm0516284
+          name: Candy Lo
+      winner:
+      - tt0420251
+    best visual effects:
+      nominee:
+      - tt0212712
+      - tt0386005
+      - tt0398373
+      - tt0434762
+      winner:
+      - tt0373074
+'2006':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0365847
+      - tt0429078
+      - tt0435026
+      - tt0455195
+      winner:
+      - tt0478024
+    best actor:
+      nominee:
+      - tt0434008
+      - tt0455195
+      - tt0475263
+      - tt0477898
+      persons:
+        tt0434008:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0455195:
+          id: nm0477209
+          name: Aaron Kwok
+        tt0475263:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt0477898:
+          id: nm0490489
+          name: Andy Lau
+      winner:
+      - tt0434008
+    best actress:
+      nominee:
+      - tt0383388
+      - tt0475263
+      - tt0477898
+      - tt0483908
+      persons:
+        tt0383388:
+          id: nm0151827
+          name: Sylvia Chang
+        tt0454914:
+          id: nm0955782
+          name: Xun Zhou
+        tt0475263:
+          id: nm0155618
+          name: Sammi Cheng
+        tt0477898:
+          id: nm0596297
+          name: Karen Mok
+        tt0483908:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+      winner:
+      - tt0454914
+    best art direction:
+      nominee:
+      - tt0417976
+      - tt0429078
+      - tt0469050
+      - tt0475263
+      winner:
+      - tt0454914
+    best asian film:
+      nominee:
+      - tt0347149
+      - tt0442268
+      - tt0451094
+      - tt0459666
+      winner:
+      - tt0386651
+    best cinematography:
+      nominee:
+      - tt0417976
+      - tt0429078
+      - tt0434008
+      - tt0439630
+      winner:
+      - tt0454914
+    best costume & make up design:
+      nominee:
+      - tt0417976
+      - tt0429078
+      - tt0469050
+      - tt0475263
+      winner:
+      - tt0454914
+    best director:
+      nominee:
+      - tt0429078
+      - tt0439630
+      - tt0454914
+      - tt0457004
+      persons:
+        tt0429078:
+          id: nm0007139
+          name: Hark Tsui
+        tt0434008:
+          id: nm0864775
+          name: Johnnie To
+        tt0439630:
+          id: nm0490487
+          name: Wai Keung Lau
+        tt0454914:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt0457004:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+      winner:
+      - tt0434008
+    best film editing:
+      nominee:
+      - tt0429078
+      - tt0434008
+      - tt0439630
+      - tt0454914
+      winner:
+      - tt0455195
+    best new director:
+      nominee:
+      - tt0435026
+      - tt0482457
+      persons:
+        tt0383388:
+          id: nm0080456
+          name: Kenneth Bi
+        tt0435026:
+          id: nm0298691
+          name: Stephen Fung
+        tt0482457:
+          id: nm0849315
+          name: Mathew Tang
+      winner:
+      - tt0383388
+    best new performer:
+      nominee:
+      - tt0452581
+      - tt0457004
+      - tt0470263
+      - tt0490393
+      winner:
+      - tt0439630
+    best original film score:
+      nominee:
+      - tt0429078
+      - tt0434008
+      - tt0439630
+      - tt0469050
+      winner:
+      - tt0454914
+    best original film song:
+      nominee:
+      - tt0365847
+      - tt0439630
+      - tt0471243
+      - tt0477898
+      winner:
+      - tt0454914
+    best picture:
+      nominee:
+      - tt0365847
+      - tt0429078
+      - tt0439630
+      - tt0454914
+      winner:
+      - tt0434008
+    best screenplay:
+      nominee:
+      - tt0441511
+      - tt0454914
+      - tt0457004
+      - tt0477898
+      winner:
+      - tt0434008
+    best sound design:
+      nominee:
+      - tt0417976
+      - tt0429078
+      - tt0454914
+      - tt0469050
+      winner:
+      - tt0439630
+    best supporting actor:
+      nominee:
+      - tt0434008
+      - tt0475263
+      - tt0475534
+      - tt0478024
+      persons:
+        tt0434008:
+          id: nm0911048
+          name: Tian-Lin Wang
+        tt0439630:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt0475263:
+          id: nm0432425
+          name: Jun Hu
+        tt0475534:
+          id: nm0284533
+          name: Alex Fong
+        tt0478024:
+          id: nm0514961
+          name: Liu Kai-Chi
+      winner:
+      - tt0439630
+    best supporting actress:
+      nominee:
+      - tt0429078
+      - tt0434008
+      - tt0452581
+      - tt0475263
+      persons:
+        tt0429078:
+          id: nm1846368
+          name: Jingchu Zhang
+        tt0434008:
+          id: nm0803308
+          name: Maggie Siu
+        tt0452581:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+        tt0457004:
+          id: nm0594909
+          name: Teresa Mo
+        tt0475263:
+          id: nm2070547
+          name: Yan Su
+      winner:
+      - tt0457004
+    best visual effects:
+      nominee:
+      - tt0365847
+      - tt0417976
+      - tt0429078
+      - tt0469050
+      winner:
+      - tt0439630
+'2007':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0473444
+      - tt0482930
+      - tt0485863
+      - tt0485976
+      winner:
+      - tt0446059
+    best actor:
+      nominee:
+      - tt0446059
+      - tt0473444
+      - tt0768114
+      - tt0834902
+      persons:
+        tt0446059:
+          id: nm0001472
+          name: Jet Li
+        tt0473444:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0768114:
+          id: nm0477209
+          name: Aaron Kwok
+        tt0834902:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0843287:
+          id: nm0490513
+          name: Ching-Wan Lau
+      winner:
+      - tt0843287
+    best actress:
+      nominee:
+      - tt0498311
+      - tt0499141
+      - tt0860387
+      - tt0923923
+      persons:
+        tt0473444:
+          id: nm0000084
+          name: Gong Li
+        tt0498311:
+          id: nm0496806
+          name: Angelica Lee
+        tt0499141:
+          id: nm1884816
+          name: Isabella Leong
+        tt0860387:
+          id: nm0594909
+          name: Teresa Mo
+        tt0923923:
+          id: nm0515002
+          name: Rene Liu
+      winner:
+      - tt0473444
+    best art direction:
+      nominee:
+      - tt0465676
+      - tt0499141
+      - tt0768114
+      - tt0834902
+      winner:
+      - tt0473444
+    best asian film:
+      nominee:
+      - tt0468492
+      - tt0475179
+      - tt0758742
+      - tt0843270
+      winner:
+      - tt0437447
+    best cinematography:
+      nominee:
+      - tt0473444
+      - tt0499141
+      - tt0768114
+      - tt0796212
+      winner:
+      - tt0834902
+    best costume & make up design:
+      nominee:
+      - tt0465676
+      - tt0485863
+      - tt0499141
+      - tt0834902
+      winner:
+      - tt0473444
+    best director:
+      nominee:
+      - tt0473444
+      - tt0485863
+      - tt0491244
+      - tt0796212
+      persons:
+        tt0473444:
+          id: nm0955443
+          name: Yimou Zhang
+        tt0485863:
+          id: nm0156448
+          name: Chi Leung 'Jacob' Cheung
+        tt0491244:
+          id: nm0864775
+          name: Johnnie To
+        tt0768114:
+          id: nm0848376
+          name: Patrick Tam
+        tt0796212:
+          id: nm0864775
+          name: Johnnie To
+      winner:
+      - tt0768114
+    best film editing:
+      nominee:
+      - tt0446059
+      - tt0768114
+      - tt0796212
+      - tt0834902
+      winner:
+      - tt0485863
+    best new director:
+      nominee:
+      - tt0778129
+      - tt0781359
+      persons:
+        tt0778129:
+          id: nm0492408
+          name: Wing-Cheong Law
+        tt0781359:
+          id: nm0946995
+          name: Patrick Kong
+        tt0800362:
+          id: nm0943079
+          name: Daniel Wu
+      winner:
+      - tt0800362
+    best new performer:
+      nominee:
+      - tt0446059
+      - tt0485976
+      - tt0819765
+      - tt0843287
+      winner:
+      - tt0768114
+    best original film score:
+      nominee:
+      - tt0465676
+      - tt0473444
+      - tt0485863
+      - tt0834902
+      winner:
+      - tt0499141
+    best original film song:
+      nominee:
+      - tt0446059
+      - tt0465676
+      - tt0800362
+      - tt0923923
+      winner:
+      - tt0473444
+    best picture:
+      nominee:
+      - tt0446059
+      - tt0473444
+      - tt0491244
+      - tt0796212
+      winner:
+      - tt0768114
+    best screenplay:
+      nominee:
+      - tt0491244
+      - tt0834902
+      - tt0843287
+      - tt0923923
+      winner:
+      - tt0768114
+    best sound design:
+      nominee:
+      - tt0446059
+      - tt0465676
+      - tt0473444
+      - tt0485863
+      winner:
+      - tt0498311
+    best supporting actor:
+      nominee:
+      - tt0473444
+      - tt0491244
+      persons:
+        tt0473444:
+          id: nm1727100
+          name: Jay Chou
+        tt0491244:
+          id: nm0945189
+          name: Simon Yam
+        tt0768114:
+          id: nm2175489
+          name: Ian Iskandar Gouw
+      winner:
+      - tt0768114
+    best supporting actress:
+      nominee:
+      - tt0768114
+      - tt0819794
+      - tt0843287
+      - tt0865496
+      persons:
+        tt0465676:
+          id: nm0955782
+          name: Xun Zhou
+        tt0768114:
+          id: nm0510914
+          name: Kelly Lin
+        tt0819794:
+          id: nm1235844
+          name: Kristal Tin
+        tt0843287:
+          id: nm0950546
+          name: On-On Yu
+        tt0865496:
+          id: nm1884816
+          name: Isabella Leong
+      winner:
+      - tt0465676
+    best visual effects:
+      nominee:
+      - tt0439630
+      - tt0465676
+      - tt0473444
+      - tt0482930
+      - tt0485863
+      winner:
+      - tt0498311
+'2008':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0841150
+      - tt0913968
+      - tt0934949
+      - tt0995739
+      winner:
+      - tt0992911
+    best actor:
+      nominee:
+      - tt0901488
+      - tt0913968
+      - tt0969269
+      - tt1107807
+      persons:
+        tt0901488:
+          id: nm0945189
+          name: Simon Yam
+        tt0913968:
+          id: nm0001472
+          name: Jet Li
+        tt0969269:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt1107807:
+          id: nm0477209
+          name: Aaron Kwok
+      winner:
+      - tt0913968
+    best actress:
+      nominee:
+      - tt0841150
+      - tt1019919
+      - tt1031942
+      - tt1045818
+      persons:
+        tt0470984:
+          id: nm0802700
+          name: Siqin Gaowa
+        tt0841150:
+          id: nm1846368
+          name: Jingchu Zhang
+        tt1019919:
+          id: nm1218953
+          name: Charlene Choi
+        tt1031942:
+          id: nm0594909
+          name: Teresa Mo
+        tt1045818:
+          id: nm0515002
+          name: Rene Liu
+      winner:
+      - tt0470984
+    best art direction:
+      nominee:
+      - tt0841150
+      - tt0897287
+      - tt1107807
+      - tt1210844
+      winner:
+      - tt0913968
+    best asian film:
+      nominee:
+      - tt0769507
+      - tt0783475
+      - tt0820158
+      - tt1037850
+      winner:
+      - tt0808357
+    best cinematography:
+      nominee:
+      - tt0470984
+      - tt0841150
+      - tt0969269
+      - tt1091616
+      winner:
+      - tt0913968
+    best costume design and make up design:
+      nominee:
+      - tt0470984
+      - tt0897287
+      - tt0969269
+      - tt1107807
+      winner:
+      - tt0913968
+    best director:
+      nominee:
+      - tt0470984
+      - tt0841150
+      - tt0901488
+      - tt0969269
+      persons:
+        tt0470984:
+          id: nm0401176
+          name: Ann Hui
+        tt0841150:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+        tt0901488:
+          id: nm0946883
+          name: Nai-Hoi Yau
+        tt0913968:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt0969269:
+          id: nm0864775
+          name: Johnnie To
+      winner:
+      - tt0913968
+    best film editing:
+      nominee:
+      - tt0901488
+      - tt0913968
+      - tt0969269
+      - tt1107807
+      winner:
+      - tt0841150
+    best new artist:
+      nominee:
+      - tt0841150
+      - tt0996978
+      - tt1018809
+      - tt1210844
+      winner:
+      - tt0901488
+    best new director:
+      nominee:
+      - tt1018809
+      - tt1098218
+      persons:
+        tt0901488:
+          id: nm0946883
+          name: Nai-Hoi Yau
+        tt1018809:
+          id: nm0477213
+          name: Chi-Kin Kwok
+        tt1098218:
+          id: nm1940999
+          name: Adam Wong
+      winner:
+      - tt0901488
+    best original film score:
+      nominee:
+      - tt0831386
+      - tt0841150
+      - tt0913968
+      - tt1107807
+      winner:
+      - tt0470984
+    best original film song:
+      nominee:
+      - tt0885505
+      - tt1018809
+      - tt1031942
+      - tt1121801
+      winner:
+      - tt0996978
+    best picture:
+      nominee:
+      - tt0470984
+      - tt0841150
+      - tt0901488
+      - tt0969269
+      winner:
+      - tt0913968
+    best screenplay:
+      nominee:
+      - tt0470984
+      - tt0841150
+      - tt0901488
+      - tt0913968
+      winner:
+      - tt0969269
+    best sound design:
+      nominee:
+      - tt0831386
+      - tt0841150
+      - tt0992911
+      - tt1107807
+      winner:
+      - tt0913968
+    best supporting actor:
+      nominee:
+      - tt0470984
+      - tt0841150
+      - tt1031942
+      - tt1091616
+      persons:
+        tt0470984:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt0841150:
+          id: nm0490489
+          name: Andy Lau
+        tt1031942:
+          id: nm0155617
+          name: Ronald Cheng
+        tt1091616:
+          id: nm0156533
+          name: Nick Cheung
+      winner:
+      - tt0841150
+    best supporting actress:
+      nominee:
+      - tt0470984
+      - tt0841150
+      - tt0901488
+      - tt1031942
+      persons:
+        tt0470984:
+          id: nm0955505
+          name: Wei Zhao
+        tt0841150:
+          id: nm0950703
+          name: Anita Yuen
+        tt0901488:
+          id: nm0803308
+          name: Maggie Siu
+        tt1018809:
+          id: nm0790034
+          name: Susan Yam-Yam Shaw
+        tt1031942:
+          id: nm0596297
+          name: Karen Mok
+      winner:
+      - tt1018809
+    best visual effects:
+      nominee:
+      - tt0841150
+      - tt0969269
+      - tt1107807
+      winner:
+      - tt0913968
+'2009':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt0425637
+      - tt0882978
+      - tt1055300
+      - tt1156506
+      winner:
+      - tt1220719
+    best actor:
+      nominee:
+      - tt0425637
+      - tt0491044
+      - tt1196714
+      - tt1220719
+      persons:
+        tt0425637:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt0491044:
+          id: nm0945189
+          name: Simon Yam
+        tt1196714:
+          id: nm0465503
+          name: Louis Koo
+        tt1220719:
+          id: nm0947447
+          name: Donnie Yen
+        tt1330525:
+          id: nm0156533
+          name: Nick Cheung
+      winner:
+      - tt1330525
+    best actress:
+      nominee:
+      - tt1055300
+      - tt1156506
+      - tt1303846
+      - tt1347006
+      persons:
+        tt1055300:
+          id: nm0955782
+          name: Xun Zhou
+        tt1156506:
+          id: nm2074459
+          name: Barbie Hsu
+        tt1233499:
+          id: nm0667978
+          name: Hee Ching Paw
+        tt1303846:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+        tt1347006:
+          id: nm0490589
+          name: Prudence Liew
+      winner:
+      - tt1233499
+    best art direction:
+      nominee:
+      - tt0882978
+      - tt1055300
+      - tt1186803
+      - tt1220719
+      winner:
+      - tt0425637
+    best asian film:
+      nominee:
+      - tt0851532
+      - tt1160629
+      - tt1267160
+      - tt1330607
+      winner:
+      - tt0881200
+    best cinematography:
+      nominee:
+      - tt0425637
+      - tt0491044
+      - tt0882978
+      - tt1220719
+      winner:
+      - tt1055300
+    best costume & make up design:
+      nominee:
+      - tt0882978
+      - tt1037146
+      - tt1055300
+      - tt1186803
+      winner:
+      - tt0425637
+    best director:
+      nominee:
+      - tt0425637
+      - tt0491044
+      - tt1156506
+      - tt1220719
+      persons:
+        tt0425637:
+          id: nm0000247
+          name: John Woo
+        tt0491044:
+          id: nm0864775
+          name: Johnnie To
+        tt1156506:
+          id: nm0150802
+          name: Benny Chan
+        tt1220719:
+          id: nm0948159
+          name: Wilson Yip
+        tt1233499:
+          id: nm0401176
+          name: Ann Hui
+      winner:
+      - tt1233499
+    best film editing:
+      nominee:
+      - tt0425637
+      - tt0491044
+      - tt1220719
+      - tt1330525
+      winner:
+      - tt1156506
+    best new director:
+      nominee:
+      - tt1303846
+      - tt1365026
+      persons:
+        tt1236325:
+          id: nm0477213
+          name: Chi-Kin Kwok
+        tt1303846:
+          id: nm0387306
+          name: Ivy Ho
+        tt1365026:
+          id: nm1040773
+          name: Heiward Mak
+      winner:
+      - tt1236325
+    best new performer:
+      nominee:
+      - tt0425637
+      - tt1037146
+      - tt1232825
+      - tt1233499
+      winner:
+      - tt0940709
+    best original film score:
+      nominee:
+      - tt0491044
+      - tt0882978
+      - tt1055300
+      - tt1220719
+      winner:
+      - tt0425637
+    best original film song:
+      nominee:
+      - tt0425637
+      - tt0896815
+      - tt1186803
+      - tt1205065
+      winner:
+      - tt1055300
+    best picture:
+      nominee:
+      - tt0425637
+      - tt0940709
+      - tt1055300
+      - tt1233499
+      winner:
+      - tt1220719
+    best screenplay:
+      nominee:
+      - tt1055300
+      - tt1196714
+      - tt1303846
+      - tt1330525
+      winner:
+      - tt1233499
+    best sound design:
+      nominee:
+      - tt1055300
+      - tt1156506
+      - tt1220719
+      - tt1330525
+      winner:
+      - tt0425637
+    best supporting actor:
+      nominee:
+      - tt0425637
+      - tt0940709
+      - tt1220719
+      persons:
+        tt0425637:
+          id: nm0955342
+          name: Fengyi Zhang
+        tt0940709:
+          id: nm0159507
+          name: Stephen Chow
+        tt1220719:
+          id: nm0266658
+          name: Louis Fan
+        tt1330525:
+          id: nm0514961
+          name: Liu Kai-Chi
+      winner:
+      - tt1330525
+    best supporting actress:
+      nominee:
+      - tt0425637
+      - tt1055300
+      - tt1196714
+      - tt1347006
+      persons:
+        tt0425637:
+          id: nm0955505
+          name: Wei Zhao
+        tt1055300:
+          id: nm2111748
+          name: Li Sun
+        tt1196714:
+          id: nm0583963
+          name: Nora Miao
+        tt1233499:
+          id: nm3014747
+          name: Lai-wun Chan
+        tt1347006:
+          id: nm1779768
+          name: Race Wong
+      winner:
+      - tt1233499
+    best visual effects:
+      nominee:
+      - tt0896815
+      - tt0940709
+      - tt1055300
+      - tt1220719
+      winner:
+      - tt0425637
+'2010':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt1075419
+      - tt1186371
+      - tt1326972
+      - tt1442571
+      winner:
+      - tt1403130
+    best actor:
+      nominee:
+      - tt1349853
+      - tt1392249
+      - tt1403130
+      - tt1437362
+      persons:
+        tt1349853:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt1392249:
+          id: nm0945189
+          name: Simon Yam
+        tt1403130:
+          id: nm1281653
+          name: Xueqi Wang
+        tt1437362:
+          id: nm0477209
+          name: Aaron Kwok
+        tt1602572:
+          id: nm0945189
+          name: Simon Yam
+      winner:
+      - tt1602572
+    best actress:
+      nominee:
+      - tt1308138
+      - tt1312156
+      - tt1392249
+      - tt1602572
+      persons:
+        tt1308138:
+          id: nm0955505
+          name: Wei Zhao
+        tt1312156:
+          id: nm0795517
+          name: Shu Qi
+        tt1392249:
+          id: nm1846368
+          name: Jingchu Zhang
+        tt1483799:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt1602572:
+          id: nm0510950
+          name: Sandra Ng
+      winner:
+      - tt1483799
+    best art direction:
+      nominee:
+      - tt1186371
+      - tt1326972
+      - tt1362045
+      - tt1498834
+      winner:
+      - tt1403130
+    best asian film:
+      nominee:
+      - tt0876563
+      - tt1124052
+      - tt1434423
+      - tt1438461
+      winner:
+      - tt1069238
+    best cinematography:
+      nominee:
+      - tt1075419
+      - tt1326972
+      - tt1362045
+      - tt1498834
+      winner:
+      - tt1403130
+    best costume & make up design:
+      nominee:
+      - tt1186371
+      - tt1326972
+      - tt1362045
+      - tt1498834
+      winner:
+      - tt1403130
+    best director:
+      nominee:
+      - tt1075419
+      - tt1326972
+      - tt1349853
+      - tt1392249
+      persons:
+        tt1075419:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+        tt1326972:
+          id: nm0000247
+          name: John Woo
+        tt1349853:
+          id: nm0538320
+          name: Alan Mak
+        tt1392249:
+          id: nm0401176
+          name: Ann Hui
+        tt1403130:
+          id: nm0151125
+          name: Teddy Chan
+      winner:
+      - tt1403130
+    best editing:
+      nominee:
+      - tt1202514
+      - tt1326972
+      - tt1562343
+    best film:
+      nominee:
+      - tt1075419
+      - tt1326972
+      - tt1349853
+      - tt1562343
+      winner:
+      - tt1403130
+    best film editing:
+      nominee:
+      - tt1403130
+      winner:
+      - tt1349853
+    best new director:
+      nominee:
+      - tt1437362
+      - tt1459937
+      persons:
+        tt1437362:
+          id: nm3469952
+          name: Roy Hin Yeung Chow
+        tt1459937:
+          id: nm3491515
+          name: Philip Yung
+        tt1562343:
+          id: nm1095800
+          name: King-Wai Cheung
+      winner:
+      - tt1562343
+    best new performer:
+      nominee:
+      - tt1403130
+      - tt1483421
+      - tt1498834
+      - tt1602572
+      winner:
+      - tt1602572
+    best original film score:
+      nominee:
+      - tt1230424
+      - tt1329454
+      - tt1498834
+      winner:
+      - tt1403130
+    best original film song:
+      nominee:
+      - tt1308138
+      - tt1326972
+      - tt1403130
+      - tt1430622
+      winner:
+      - tt1602572
+    best original score:
+      nominee:
+      - tt1326972
+    best screenplay:
+      nominee:
+      - tt1202514
+      - tt1349853
+      - tt1403130
+      - tt1451620
+      winner:
+      - tt1602572
+    best sound design:
+      nominee:
+      - tt1186371
+      - tt1403130
+      - tt1442571
+      - tt1562343
+      winner:
+      - tt1326972
+    best supporting actor:
+      nominee:
+      - tt1202514
+      - tt1326972
+      - tt1349853
+      - tt1403130
+      persons:
+        tt1202514:
+          id: nm0298689
+          name: Stanley Sui-Fan Fung
+        tt1326972:
+          id: nm0151654
+          name: Chang Chen
+        tt1349853:
+          id: nm0284533
+          name: Alex Fong
+        tt1403130:
+          id: nm0874866
+          name: Nicholas Tse
+      winner:
+      - tt1403130
+    best supporting actress:
+      nominee:
+      - tt1312156
+      - tt1326972
+      - tt1403130
+      persons:
+        tt1202514:
+          id: nm2091041
+          name: Michelle Ye
+        tt1312156:
+          id: nm1481335
+          name: Denise Ho
+        tt1326972:
+          id: nm0955505
+          name: Wei Zhao
+        tt1403130:
+          id: nm1549063
+          name: Bingbing Fan
+      winner:
+      - tt1202514
+    best visual effects:
+      nominee:
+      - tt1326972
+      - tt1403130
+      - tt1451620
+      - tt1494775
+      winner:
+      - tt1186371
+'2011':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt1123373
+      - tt1456661
+      - tt1460743
+      - tt1611823
+      winner:
+      - tt1386932
+    best actor:
+      nominee:
+      - tt1397498
+      - tt1447800
+      - tt1482989
+      - tt1535492
+      persons:
+        tt1397498:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt1447800:
+          id: nm0156484
+          name: Jacky Cheung
+        tt1482989:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt1535492:
+          id: nm0874866
+          name: Nicholas Tse
+      winner:
+      - tt1535492
+    best actress:
+      nominee:
+      - tt1407972
+      - tt1447800
+      - tt1517633
+      - tt1602479
+      persons:
+        tt1123373:
+          id: nm0490500
+          name: Carina Lau
+        tt1407972:
+          id: nm0387319
+          name: Josie Ho
+        tt1447800:
+          id: nm2325018
+          name: Tang Wei
+        tt1517633:
+          id: nm1894038
+          name: Fiona Sit
+        tt1602479:
+          id: nm1173559
+          name: Miriam Yeung
+      winner:
+      - tt1123373
+    best art direction:
+      nominee:
+      - tt1386932
+      - tt1397498
+      - tt1460743
+      - tt1482989
+      winner:
+      - tt1123373
+    best asian film:
+      nominee:
+      - tt1393746
+      - tt1554523
+      - tt1604900
+      - tt1745704
+      winner:
+      - tt1590089
+    best cinematography:
+      nominee:
+      - tt1123373
+      - tt1386932
+      - tt1460743
+      - tt1756487
+      winner:
+      - tt1397498
+    best costume & make up design:
+      nominee:
+      - tt1397498
+      - tt1456661
+      - tt1460743
+      - tt1482989
+      winner:
+      - tt1123373
+    best director:
+      nominee:
+      - tt1386932
+      - tt1460743
+      - tt1535492
+      - tt1611823
+      persons:
+        tt1123373:
+          id: nm0007139
+          name: Hark Tsui
+        tt1386932:
+          id: nm0948159
+          name: Wilson Yip
+        tt1460743:
+          id: nm0989998
+          name: Chao-Bin Su
+        tt1535492:
+          id: nm0482592
+          name: Dante Lam
+        tt1611823:
+          id: nm0477213
+          name: Chi-Kin Kwok
+      winner:
+      - tt1123373
+    best film editing:
+      nominee:
+      - tt1123373
+      - tt1460743
+      - tt1535492
+      - tt1535495
+      winner:
+      - tt1386932
+    best new director:
+      nominee:
+      - tt1447800
+      - tt1710983
+      persons:
+        tt1447800:
+          id: nm0387306
+          name: Ivy Ho
+        tt1611840:
+          id: nm0159039
+          name: Felix Chong
+        tt1710983:
+          id: nm3270403
+          name: Kwok-Siu Wong
+      winner:
+      - tt1611840
+    best new performer:
+      nominee:
+      - tt1386932
+      - tt1519640
+      - tt1603789
+      - tt1641638
+      winner:
+      - tt1482989
+    best original film score:
+      nominee:
+      - tt1123373
+      - tt1386932
+      - tt1460743
+      - tt1517633
+      winner:
+      - tt1611823
+    best original film song:
+      nominee:
+      - tt1397498
+      - tt1460743
+      - tt1519640
+      - tt1772958
+      winner:
+      - tt1756487
+    best picture:
+      nominee:
+      - tt1123373
+      - tt1386932
+      - tt1460743
+      - tt1535492
+      winner:
+      - tt1611823
+    best screenplay:
+      nominee:
+      - tt1447800
+      - tt1517633
+      - tt1535492
+      - tt1611823
+      winner:
+      - tt1602479
+    best sound design:
+      nominee:
+      - tt1386932
+      - tt1407972
+      - tt1456661
+      - tt1535492
+      winner:
+      - tt1123373
+    best supporting actor:
+      nominee:
+      - tt1123373
+      - tt1460743
+      - tt1535492
+      persons:
+        tt1123373:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt1460743:
+          id: nm1281653
+          name: Xueqi Wang
+        tt1535492:
+          id: nm0514961
+          name: Liu Kai-Chi
+        tt1611823:
+          id: nm0477108
+          name: Teddy Robin Kwan
+      winner:
+      - tt1611823
+    best supporting actress:
+      nominee:
+      - tt1447800
+      - tt1611840
+      - tt1691832
+      persons:
+        tt1447800:
+          id: nm0955815
+          name: Mimi Chu
+        tt1611823:
+          id: nm0790034
+          name: Susan Yam-Yam Shaw
+        tt1611840:
+          id: nm0950546
+          name: On-On Yu
+        tt1691832:
+          id: nm1846368
+          name: Jingchu Zhang
+      winner:
+      - tt1611823
+    best visual effects:
+      nominee:
+      - tt1386932
+      - tt1407972
+      - tt1456661
+      - tt1460743
+      winner:
+      - tt1123373
+'2012':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt1533117
+      - tt1533749
+      - tt1718199
+      - tt1857913
+      winner:
+      - tt1686784
+    best actor:
+      nominee:
+      - tt1371585
+      - tt1533117
+      - tt1852904
+      persons:
+        tt1371585:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt1533117:
+          id: nm0422638
+          name: Wen Jiang
+        tt1852904:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt2008006:
+          id: nm0490489
+          name: Andy Lau
+      winner:
+      - tt2008006
+    best actress:
+      nominee:
+      - tt1686784
+      - tt1718199
+      - tt1776143
+      - tt1934335
+      persons:
+        tt1686784:
+          id: nm0955782
+          name: Xun Zhou
+        tt1718199:
+          id: nm2325018
+          name: Tang Wei
+        tt1776143:
+          id: nm0304729
+          name: Yuanyuan Gao
+        tt1934335:
+          id: nm0795517
+          name: Shu Qi
+        tt2008006:
+          id: nm0409677
+          name: Deanie Ip
+      winner:
+      - tt2008006
+    best art direction:
+      nominee:
+      - tt1533117
+      - tt1533749
+      - tt1718199
+      - tt2102472
+      winner:
+      - tt1686784
+    best chinese language film from the two coasts:
+      nominee:
+      - tt1410063
+      - tt1810602
+      - tt2007993
+      - tt2084098
+      winner:
+      - tt2036416
+    best cinematography:
+      nominee:
+      - tt1533117
+      - tt1686784
+      - tt1852904
+      - tt2008006
+      winner:
+      - tt1718199
+    best costume & make up design:
+      nominee:
+      - tt1686784
+      - tt1718199
+      - tt2062596
+      - tt2102472
+      winner:
+      - tt1533117
+    best director:
+      nominee:
+      - tt1371585
+      - tt1533117
+      - tt1686784
+      - tt1852904
+      persons:
+        tt1371585:
+          id: nm0864775
+          name: Johnnie To
+        tt1533117:
+          id: nm0422638
+          name: Wen Jiang
+        tt1686784:
+          id: nm0007139
+          name: Hark Tsui
+        tt1852904:
+          id: nm0538320
+          name: Alan Mak
+        tt2008006:
+          id: nm0401176
+          name: Ann Hui
+      winner:
+      - tt2008006
+    best film editing:
+      nominee:
+      - tt1371585
+      - tt1533117
+      - tt1718199
+      - tt1852904
+      winner:
+      - tt1686784
+    best new director:
+      nominee:
+      - tt1837529
+      - tt1872026
+      persons:
+        tt1837529:
+          id: nm0690931
+          name: Yuen-Leung Poon
+        tt1872026:
+          id: nm0948107
+          name: Bill Yip
+        tt2066857:
+          id: nm2543797
+          name: Tsui-shan Jessey Tsang
+      winner:
+      - tt2066857
+    best new performer:
+      nominee:
+      - tt1686784
+      - tt1988689
+      - tt2062596
+      - tt2072164
+      winner:
+      - tt2231605
+    best original film score:
+      nominee:
+      - tt1686784
+      - tt1852904
+      - tt1934335
+      - tt2102472
+      winner:
+      - tt1718199
+    best original film song:
+      nominee:
+      - tt1371585
+      - tt1533749
+      - tt1718199
+      - tt1934335
+      winner:
+      - tt1837529
+    best picture:
+      nominee:
+      - tt1371585
+      - tt1533117
+      - tt1686784
+      - tt1852904
+      winner:
+      - tt2008006
+    best screenplay:
+      nominee:
+      - tt1371585
+      - tt1533117
+      - tt1776143
+      - tt1852904
+      winner:
+      - tt2008006
+    best sound design:
+      nominee:
+      - tt1533117
+      - tt1718199
+      - tt1852904
+      - tt2102472
+      winner:
+      - tt1686784
+    best supporting actor:
+      nominee:
+      - tt1533749
+      - tt1718199
+      - tt1852904
+      - tt2008006
+      persons:
+        tt1371585:
+          id: nm1319395
+          name: Hoi-Pang Lo
+        tt1533749:
+          id: nm0874866
+          name: Nicholas Tse
+        tt1718199:
+          id: nm0911093
+          name: Jimmy Wang Yu
+        tt1852904:
+          id: nm0874684
+          name: Kenneth Tsang
+        tt2008006:
+          id: nm0157971
+          name: Paul Chun
+      winner:
+      - tt1371585
+    best supporting actress:
+      nominee:
+      - tt1533117
+      - tt1686784
+      - tt1718199
+      - tt2008006
+      persons:
+        tt1371585:
+          id: nm1680092
+          name: Hang-Shuen So
+        tt1533117:
+          id: nm0490500
+          name: Carina Lau
+        tt1686784:
+          id: nm1251565
+          name: Lun-Mei Gwei
+        tt1718199:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt2008006:
+          id: nm0702656
+          name: Hailu Qin
+      winner:
+      - tt1371585
+    best visual effects:
+      nominee:
+      - tt1533117
+      - tt1718199
+      - tt1857913
+      - tt2062596
+      winner:
+      - tt1686784
+'2013':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt1740002
+      - tt1981080
+      - tt2063011
+      - tt2186715
+      winner:
+      - tt1424310
+    best actor:
+      nominee:
+      - tt2078768
+      - tt2106741
+      - tt2171993
+      - tt2266938
+      persons:
+        tt2078768:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt2106741:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt2171993:
+          id: nm0156533
+          name: Nick Cheung
+        tt2186715:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt2266938:
+          id: nm0864779
+          name: Chapman To
+      winner:
+      - tt2186715
+    best actress:
+      nominee:
+      - tt1869721
+      - tt1941536
+      - tt2078768
+      - tt2225608
+      persons:
+        tt1869721:
+          id: nm0955782
+          name: Xun Zhou
+        tt1941536:
+          id: nm0155618
+          name: Sammi Cheng
+        tt2078768:
+          id: nm0955782
+          name: Xun Zhou
+        tt2225608:
+          id: nm2504513
+          name: Elanne Kong
+        tt2238839:
+          id: nm1173559
+          name: Miriam Yeung
+      winner:
+      - tt2238839
+    best art direction:
+      nominee:
+      - tt1847713
+      - tt1981080
+      - tt2078768
+      - tt2106741
+      winner:
+      - tt2458314
+    best chinese language film from the two coasts:
+      nominee:
+      - tt2115388
+      - tt2202471
+      - tt2319760
+      - tt2371411
+      winner:
+      - tt2113822
+    best cinematography:
+      nominee:
+      - tt2063011
+      - tt2106741
+      - tt2186715
+      - tt2458314
+      winner:
+      - tt2078768
+    best costume & make up design:
+      nominee:
+      - tt1847713
+      - tt1981080
+      - tt2078768
+      - tt2106741
+      winner:
+      - tt1869721
+    best director:
+      nominee:
+      - tt1740002
+      - tt2063011
+      - tt2106741
+      - tt2238839
+      persons:
+        tt1740002:
+          id: nm1110912
+          name: Soi Cheang
+        tt2063011:
+          id: nm0482592
+          name: Dante Lam
+        tt2106741:
+          id: nm0492305
+          name: Chi-Leung Lo
+        tt2186715:
+          id: nm2410081
+          name: Lok Man Leung
+        tt2238839:
+          id: nm1001051
+          name: Pang Ho-Cheung
+      winner:
+      - tt2186715
+    best film editing:
+      nominee:
+      - tt1424310
+      - tt1740002
+      - tt2063011
+      - tt2106741
+      winner:
+      - tt2186715
+    best new director:
+      nominee:
+      - tt2168166
+      - tt2275080
+      persons:
+        tt2168166:
+          id: nm1385080
+          name: Chih-Chiang Fung
+        tt2171993:
+          id: nm3469952
+          name: Roy Hin Yeung Chow
+        tt2275080:
+          id: nm1212034
+          name: Brian Tse
+      winner:
+      - tt2171993
+    best new performer:
+      nominee:
+      - tt1424310
+      - tt1981080
+      - tt2253038
+      - tt2458314
+      winner:
+      - tt2186715
+    best original film score:
+      nominee:
+      - tt2078768
+      - tt2106741
+      - tt2235184
+      - tt2458314
+      winner:
+      - tt2186715
+    best original film song:
+      nominee:
+      - tt1847713
+      - tt1941536
+      - tt2235184
+      - tt2253038
+      winner:
+      - tt2458314
+    best picture:
+      nominee:
+      - tt1740002
+      - tt2063011
+      - tt2106741
+      - tt2266938
+      winner:
+      - tt2186715
+    best screenplay:
+      nominee:
+      - tt2078768
+      - tt2106741
+      - tt2238839
+      - tt2266938
+      winner:
+      - tt2186715
+    best sound design:
+      nominee:
+      - tt1740002
+      - tt1847713
+      - tt2063011
+      - tt2106741
+      winner:
+      - tt2186715
+    best supporting actor:
+      nominee:
+      - tt2106741
+      - tt2168166
+      - tt2186715
+      - tt2235184
+      persons:
+        tt2106741:
+          id: nm0514961
+          name: Liu Kai-Chi
+        tt2168166:
+          id: nm0504973
+          name: Alex Man
+        tt2186715:
+          id: nm0482628
+          name: Ka-Tung Lam
+        tt2235184:
+          id: nm0864779
+          name: Chapman To
+        tt2266938:
+          id: nm0155617
+          name: Ronald Cheng
+      winner:
+      - tt2266938
+    best supporting actress:
+      nominee:
+      - tt2063011
+      - tt2078768
+      - tt2106741
+      - tt2266938
+      persons:
+        tt2063011:
+          id: nm0157805
+          name: Elaine Jin
+        tt2078768:
+          id: nm0266651
+          name: Mavis Fan
+        tt2106741:
+          id: nm2798295
+          name: Yiyan Jiang
+        tt2266938:
+          id: nm4591912
+          name: Dada Chan
+      winner:
+      - tt2266938
+    best visual effects:
+      nominee:
+      - tt1424310
+      - tt1740002
+      - tt1847713
+      - tt1981080
+      winner:
+      - tt2186715
+'2014':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt2118775
+      - tt2992146
+      - tt3003668
+      - tt3341072
+      winner:
+      - tt1462900
+    best actor:
+      nominee:
+      - tt1462900
+      - tt2495118
+      - tt2957774
+      persons:
+        tt1462900:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt2495118:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt2957774:
+          id: nm0465503
+          name: Louis Koo
+        tt3003668:
+          id: nm0156533
+          name: Nick Cheung
+      winner:
+      - tt3003668
+    best actress:
+      nominee:
+      - tt2169322
+      - tt2332707
+      - tt2771800
+      - tt3003996
+      persons:
+        tt1462900:
+          id: nm0955471
+          name: Ziyi Zhang
+        tt2169322:
+          id: nm2325018
+          name: Tang Wei
+        tt2332707:
+          id: nm0155618
+          name: Sammi Cheng
+        tt2771800:
+          id: nm0667978
+          name: Hee Ching Paw
+        tt3003996:
+          id: nm5753377
+          name: Cherry Ngan
+      winner:
+      - tt1462900
+    best art direction:
+      nominee:
+      - tt2017561
+      - tt2771800
+      - tt2992146
+      - tt3414954
+      winner:
+      - tt1462900
+    best chinese language film from the two coasts:
+      nominee:
+      - tt1919137
+      - tt2368920
+      - tt2459022
+      - tt3266806
+      winner:
+      - tt2765340
+    best cinematography:
+      nominee:
+      - tt2771800
+      - tt2957774
+      - tt3003668
+      - tt3414954
+      winner:
+      - tt1462900
+    best costume & make up design:
+      nominee:
+      - tt2017561
+      - tt2278392
+      - tt2771800
+      - tt2992146
+      winner:
+      - tt1462900
+    best director:
+      nominee:
+      - tt2165735
+      - tt2957774
+      - tt3003668
+      - tt3414954
+      persons:
+        tt1462900:
+          id: nm0939182
+          name: Wong Kar-Wai
+        tt2165735:
+          id: nm0864775
+          name: Johnnie To
+        tt2957774:
+          id: nm0150802
+          name: Benny Chan
+        tt3003668:
+          id: nm0482592
+          name: Dante Lam
+        tt3414954:
+          id: nm0477213
+          name: Chi-Kin Kwok
+      winner:
+      - tt1462900
+    best film editing:
+      nominee:
+      - tt2957774
+      - tt3003668
+      - tt3341072
+      - tt3414954
+      winner:
+      - tt1462900
+    best new director:
+      nominee:
+      - tt2771800
+      - tt3341072
+      persons:
+        tt2771800:
+          id: nm1474034
+          name: Juno Mak
+        tt3003996:
+          id: nm1940999
+          name: Adam Wong
+        tt3341072:
+          id: nm0950701
+          name: Alan Yuen
+      winner:
+      - tt3003996
+    best new performer:
+      nominee:
+      - tt2278392
+      - tt2859350
+      - tt2992146
+      - tt4305306
+      winner:
+      - tt3003996
+    best original film score:
+      nominee:
+      - tt2992146
+      - tt3003668
+      - tt3003996
+      - tt3414954
+      winner:
+      - tt1462900
+    best original film song:
+      nominee:
+      - tt2332707
+      - tt2642064
+      - tt2957774
+      - tt3414954
+      winner:
+      - tt3003996
+    best picture:
+      nominee:
+      - tt2017561
+      - tt2957774
+      - tt3003668
+      - tt3003996
+      winner:
+      - tt1462900
+    best screenplay:
+      nominee:
+      - tt2169322
+      - tt2278392
+      - tt2332707
+      - tt3003668
+      winner:
+      - tt1462900
+    best sound design:
+      nominee:
+      - tt2771800
+      - tt2992146
+      - tt3003668
+      - tt3414954
+      winner:
+      - tt1462900
+    best supporting actor:
+      nominee:
+      - tt2017561
+      - tt2278392
+      - tt2771800
+      - tt3003668
+      persons:
+        tt1462900:
+          id: nm1018221
+          name: Jin Zhang
+        tt2017561:
+          id: nm2348646
+          name: Huang Bo
+        tt2278392:
+          id: nm1291827
+          name: Dawei Tong
+        tt2771800:
+          id: nm0150796
+          name: Anthony Chan
+        tt3003668:
+          id: nm2108643
+          name: Eddie Peng
+      winner:
+      - tt1462900
+    best supporting actress:
+      nominee:
+      - tt2278392
+      - tt2957774
+      - tt2992146
+      - tt3003668
+      persons:
+        tt2278392:
+          id: nm5328306
+          name: Juan Du
+        tt2771800:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt2957774:
+          id: nm0492352
+          name: Helena Law
+        tt2992146:
+          id: nm0490500
+          name: Carina Lau
+        tt3003668:
+          id: nm5958775
+          name: Crystal Lee
+      winner:
+      - tt2771800
+    best visual effects:
+      nominee:
+      - tt1462900
+      - tt2992146
+      - tt3341072
+      - tt3414954
+      winner:
+      - tt2771800
+'2015':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt2290567
+      - tt3465456
+      - tt3469592
+      - tt3919278
+      winner:
+      - tt2952602
+    best actor:
+      nominee:
+      - tt3469592
+      - tt3511542
+      - tt3752930
+      - tt4305562
+      persons:
+        tt3121442:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt3469592:
+          id: nm2108643
+          name: Eddie Peng
+        tt3511542:
+          id: nm0943079
+          name: Daniel Wu
+        tt3752930:
+          id: nm2348646
+          name: Huang Bo
+        tt4305562:
+          id: nm0490513
+          name: Ching-Wan Lau
+      winner:
+      - tt3121442
+    best actress:
+      nominee:
+      - tt3313908
+      - tt3451660
+      - tt3696086
+      - tt4510896
+      persons:
+        tt3313908:
+          id: nm0955782
+          name: Xun Zhou
+        tt3451660:
+          id: nm0510950
+          name: Sandra Ng
+        tt3696086:
+          id: nm2325018
+          name: Tang Wei
+        tt3752930:
+          id: nm0955505
+          name: Wei Zhao
+        tt4510896:
+          id: nm1218953
+          name: Charlene Choi
+      winner:
+      - tt3752930
+    best art direction:
+      nominee:
+      - tt2150371
+      - tt3121442
+      - tt3429014
+      - tt3469592
+      winner:
+      - tt3696086
+    best chinese language film from the two coasts:
+      nominee:
+      - tt1456660
+      - tt3469910
+      - tt3974790
+      - tt4012914
+      winner:
+      - tt3125472
+    best cinematography:
+      nominee:
+      - tt2150371
+      - tt3121442
+      - tt3469592
+      - tt3504824
+      winner:
+      - tt3696086
+    best costume & make up design:
+      nominee:
+      - tt1717715
+      - tt2150371
+      - tt3121442
+      - tt3469592
+      winner:
+      - tt3696086
+    best director:
+      nominee:
+      - tt3121442
+      - tt3504824
+      - tt3511542
+      - tt3752930
+      persons:
+        tt3121442:
+          id: nm0538320
+          name: Alan Mak
+        tt3504824:
+          id: nm0150897
+          name: Fruit Chan
+        tt3511542:
+          id: nm0482592
+          name: Dante Lam
+        tt3696086:
+          id: nm0401176
+          name: Ann Hui
+        tt3752930:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+      winner:
+      - tt3696086
+    best film editing:
+      nominee:
+      - tt3121442
+      - tt3469592
+      - tt3511542
+      - tt3696086
+      winner:
+      - tt2150371
+    best new director:
+      nominee:
+      - tt3743974
+      - tt3804012
+      persons:
+        tt3743974:
+          id: nm6509220
+          name: Amos Why
+        tt3804012:
+          id: nm0002548
+          name: Ruby Yang
+        tt4305562:
+          id: nm3360302
+          name: Kwong-yiu Lee
+      winner:
+      - tt4305562
+    best new performer:
+      nominee:
+      - tt3429014
+      - tt3560762
+      - tt3743974
+      - tt3898860
+      winner:
+      - tt3451660
+    best original film score:
+      nominee:
+      - tt2150371
+      - tt3429014
+      - tt3469592
+      - tt3696086
+      winner:
+      - tt3504824
+    best original film song:
+      nominee:
+      - tt3451660
+      - tt3469592
+      - tt3898860
+      - tt4305562
+      winner:
+      - tt3429014
+    best picture:
+      nominee:
+      - tt3121442
+      - tt3429014
+      - tt3504824
+      - tt3752930
+      winner:
+      - tt3696086
+    best screenplay:
+      nominee:
+      - tt3429014
+      - tt3504824
+      - tt3696086
+      - tt3752930
+      winner:
+      - tt3121442
+    best sound design:
+      nominee:
+      - tt2952602
+      - tt3121442
+      - tt3469592
+      - tt3511542
+      winner:
+      - tt2150371
+    best supporting actor:
+      nominee:
+      - tt2952602
+      - tt3121442
+      - tt3429014
+      - tt3504824
+      persons:
+        tt2952602:
+          id: nm1316170
+          name: Baoqiang Wang
+        tt3121442:
+          id: nm0874684
+          name: Kenneth Tsang
+        tt3429014:
+          id: nm0628806
+          name: Man-Tat Ng
+        tt3504824:
+          id: nm0482695
+          name: Suet Lam
+      winner:
+      - tt3121442
+    best supporting actress:
+      nominee:
+      - tt3504824
+      - tt3696086
+      - tt4074114
+      - tt4305562
+      persons:
+        tt3451660:
+          id: nm3807369
+          name: Ivana Wong
+        tt3504824:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt3696086:
+          id: nm1165040
+          name: Lei Hao
+        tt4074114:
+          id: nm1894038
+          name: Fiona Sit
+        tt4305562:
+          id: nm0667978
+          name: Hee Ching Paw
+      winner:
+      - tt3451660
+    best visual effects:
+      nominee:
+      - tt1717715
+      - tt2952602
+      - tt3504824
+      - tt3511542
+      winner:
+      - tt3469592
+'2016':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt2888046
+      - tt3614922
+      - tt3672840
+      - tt3950078
+      winner:
+      - tt3197766
+    best actor:
+      nominee:
+      - tt3950078
+      - tt4440036
+      - tt5157030
+      - tt5514846
+      persons:
+        tt3950078:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt4417522:
+          id: nm0477209
+          name: Aaron Kwok
+        tt4440036:
+          id: nm0490489
+          name: Andy Lau
+        tt5157030:
+          id: nm0156533
+          name: Nick Cheung
+        tt5514846:
+          id: nm0156484
+          name: Jacky Cheung
+      winner:
+      - tt4417522
+    best actress:
+      nominee:
+      - tt3682770
+      - tt4319698
+      - tt4392726
+      - tt5514846
+      persons:
+        tt3682770:
+          id: nm2325018
+          name: Tang Wei
+        tt4319698:
+          id: nm1173559
+          name: Miriam Yeung
+        tt4392726:
+          id: nm0151827
+          name: Sylvia Chang
+        tt4417522:
+          id: nm7097759
+          name: Jessie Li
+        tt5514846:
+          id: nm1157324
+          name: Karena Ka-Yan Lam
+      winner:
+      - tt4417522
+    best art direction:
+      nominee:
+      - tt3682770
+      - tt3781476
+      - tt3950078
+      - tt4027270
+      winner:
+      - tt4392726
+    best chinese language film from the two coasts:
+      nominee:
+      - tt2909116
+      - tt3469964
+      - tt3740778
+      - tt4967094
+      winner:
+      - tt3508840
+    best cinematography:
+      nominee:
+      - tt2888046
+      - tt3682770
+      - tt3950078
+      - tt4788638
+      winner:
+      - tt4417522
+    best costume & make up design:
+      nominee:
+      - tt3682770
+      - tt3950078
+      - tt4027270
+      - tt4392726
+      winner:
+      - tt3781476
+    best director:
+      nominee:
+      - tt2888046
+      - tt4319698
+      - tt4417522
+      - tt4786802
+      persons:
+        tt2888046:
+          id: nm0948159
+          name: Wilson Yip
+        tt3950078:
+          id: nm0007139
+          name: Hark Tsui
+        tt4319698:
+          id: nm0265303
+          name: Adrian Kwan
+        tt4417522:
+          id: nm3491515
+          name: Philip Yung
+        tt4786802:
+          id: nm0232504
+          name: Derek Tung-Sing Yee
+      winner:
+      - tt3950078
+    best film editing:
+      nominee:
+      - tt3197766
+      - tt3950078
+      - tt4417522
+      - tt4788638
+      winner:
+      - tt2888046
+    best new director:
+      nominee:
+      - tt4533838
+      - tt5157030
+      persons:
+        tt3781476:
+          id: nm0401203
+          name: Raman Hui
+        tt4533838:
+          id: nm1210118
+          name: Ho-Leung Lau
+        tt5157030:
+          id: nm0156533
+          name: Nick Cheung
+      winner:
+      - tt3781476
+    best new performer:
+      nominee:
+      - tt4417522
+      - tt5157030
+      - tt5180856
+      - tt5525504
+      winner:
+      - tt4417522
+    best original film score:
+      nominee:
+      - tt3950078
+      - tt4027270
+      - tt4417522
+      - tt5180856
+      winner:
+      - tt4392726
+    best original film song:
+      nominee:
+      - tt3911074
+      - tt4027270
+      - tt4417522
+      - tt4484426
+      winner:
+      - tt5180856
+    best picture:
+      nominee:
+      - tt2888046
+      - tt3950078
+      - tt4319698
+      - tt4417522
+      winner:
+      - tt5269560
+    best screenplay:
+      nominee:
+      - tt4319698
+      - tt4533838
+      - tt4786802
+      - tt5180856
+      winner:
+      - tt4417522
+    best sound design:
+      nominee:
+      - tt2888046
+      - tt3781476
+      - tt4392726
+      - tt5157030
+      winner:
+      - tt3950078
+    best supporting actor:
+      nominee:
+      - tt2888046
+      - tt3197766
+      - tt3730518
+      - tt5157030
+      persons:
+        tt2888046:
+          id: nm1018221
+          name: Jin Zhang
+        tt3197766:
+          id: nm1018221
+          name: Jin Zhang
+        tt3730518:
+          id: nm0482656
+          name: Man-Chung Lam
+        tt4417522:
+          id: nm7097758
+          name: Michael Ning
+        tt5157030:
+          id: nm3518961
+          name: Louis Cheung
+      winner:
+      - tt4417522
+    best supporting actress:
+      nominee:
+      - tt3614922
+      - tt3682770
+      - tt4319698
+      - tt4484426
+      persons:
+        tt3614922:
+          id: nm2906761
+          name: Janice Man
+        tt3682770:
+          id: nm0702656
+          name: Hailu Qin
+        tt4319698:
+          id: nm0628859
+          name: Yuen-Yee Ng
+        tt4417522:
+          id: nm0157805
+          name: Elaine Jin
+        tt4484426:
+          id: nm0496806
+          name: Angelica Lee
+      winner:
+      - tt4417522
+    best visual effects:
+      nominee:
+      - tt2888046
+      - tt3950078
+      - tt4392726
+      - tt5157030
+      winner:
+      - tt3781476
+'2017':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt4591310
+      - tt5112622
+      - tt5269396
+      - tt5842624
+      winner:
+      - tt6044910
+    best actor:
+      nominee:
+      - tt4379800
+      - tt5112622
+      - tt6041030
+      - tt6135054
+      persons:
+        tt4379800:
+          id: nm0482628
+          name: Ka-Tung Lam
+        tt5112622:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt6041030:
+          id: nm1284845
+          name: Shawn Yue
+        tt6135054:
+          id: nm0628757
+          name: Francis Ng
+      winner:
+      - tt4379800
+    best actress:
+      nominee:
+      - tt4960242
+      - tt6054290
+      - tt6405384
+      persons:
+        tt4960242:
+          id: nm2325018
+          name: Tang Wei
+        tt5805026:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt6054290:
+          id: nm4082296
+          name: Dongyu Zhou
+        tt6405384:
+          id: nm0667978
+          name: Hee Ching Paw
+      winner:
+      - tt5805026
+    best art direction:
+      nominee:
+      - tt4591310
+      - tt4701660
+      - tt5269396
+      - tt6054290
+      winner:
+      - tt3824950
+    best chinese language film from the two coasts:
+      nominee:
+      - tt4701702
+      - tt5596352
+      - tt5918090
+      - tt5974402
+      winner:
+      - tt5952306
+    best cinematography:
+      nominee:
+      - tt4379728
+      - tt5112622
+      - tt5128712
+      - tt6054290
+      winner:
+      - tt3824950
+    best costume & make up design:
+      nominee:
+      - tt3824950
+      - tt5269396
+      - tt5481184
+      - tt6054290
+      winner:
+      - tt4591310
+    best director:
+      nominee:
+      - tt4379728
+      - tt4701660
+      - tt6041030
+      - tt6054290
+      persons:
+        tt4379728:
+          id: nm0864775
+          name: Johnnie To
+        tt4379800:
+          id: nm4179382
+          name: Jevons Au
+        tt4701660:
+          id: nm0159507
+          name: Stephen Chow
+        tt6041030:
+          id: nm5241376
+          name: Chun Wong
+        tt6054290:
+          id: nm1229124
+          name: Derek Tsang
+      winner:
+      - tt4379800
+    best film editing:
+      nominee:
+      - tt3824950
+      - tt5112622
+      - tt6044910
+      - tt6054290
+      winner:
+      - tt4379800
+    best new director:
+      nominee:
+      - tt5128712
+      - tt5805026
+      - tt5896962
+      - tt6054290
+      persons:
+        tt5128712:
+          id: nm5234575
+          name: Chi Fat Chan
+        tt5805026:
+          id: nm0516352
+          name: Yiu Fai Lo
+        tt5896962:
+          id: nm8301057
+          name: Jazz Boon
+        tt6041030:
+          id: nm5241376
+          name: Chun Wong
+        tt6054290:
+          id: nm1229124
+          name: Derek Tsang
+      winner:
+      - tt6041030
+    best new performer:
+      nominee:
+      - tt4701660
+      - tt5128712
+      - tt5805026
+      - tt6386132
+      winner:
+      - tt5128712
+    best original film score:
+      nominee:
+      - tt3824950
+      - tt5112622
+      - tt5128712
+      - tt6041030
+      winner:
+      - tt6054290
+    best original film song:
+      nominee:
+      - tt3824950
+      - tt4701660
+      - tt5805026
+      - tt6054290
+      winner:
+      - tt5128712
+    best picture:
+      nominee:
+      - tt4701660
+      - tt5112622
+      - tt5128712
+      - tt6054290
+      winner:
+      - tt4379800
+    best screenplay:
+      nominee:
+      - tt4701660
+      - tt5112622
+      - tt6041030
+      - tt6054290
+      winner:
+      - tt4379800
+    best sound design:
+      nominee:
+      - tt3824950
+      - tt4591310
+      - tt5269396
+      - tt6044910
+      winner:
+      - tt5112622
+    best supporting actor:
+      nominee:
+      - tt4379800
+      - tt4960242
+      - tt5128712
+      - tt6090588
+      persons:
+        tt4379800:
+          id: nm0422623
+          name: Philip Keung
+        tt4960242:
+          id: nm0157971
+          name: Paul Chun
+        tt5128712:
+          id: nm0514961
+          name: Liu Kai-Chi
+        tt6041030:
+          id: nm0874676
+          name: Eric Tsang
+        tt6090588:
+          id: nm0628806
+          name: Man-Tat Ng
+      winner:
+      - tt6041030
+    best supporting actress:
+      nominee:
+      - tt4701660
+      - tt5112622
+      - tt6041030
+      - tt6386132
+      persons:
+        tt4701660:
+          id: nm2514879
+          name: Yuqi Zhang
+        tt5112622:
+          id: nm2906761
+          name: Janice Man
+        tt6041030:
+          id: nm0157805
+          name: Elaine Jin
+        tt6386132:
+          id: nm7184245
+          name: Fish Liew
+      winner:
+      - tt6041030
+    best visual effects:
+      nominee:
+      - tt4701660
+      - tt5112622
+      - tt5269396
+      - tt6044910
+      winner:
+      - tt4591310
+'2018':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt6015328
+      - tt6513406
+      - tt6814080
+      - tt7223050
+      winner:
+      - tt7245176
+    best actor:
+      nominee:
+      - tt5847286
+      - tt7479718
+      - tt7762772
+      - tt7875604
+      persons:
+        tt5847286:
+          id: nm0490489
+          name: Andy Lau
+        tt7245176:
+          id: nm0465503
+          name: Louis Koo
+        tt7479718:
+          id: nm0862514
+          name: Zhuangzhuang Tian
+        tt7762772:
+          id: nm0155617
+          name: Ronald Cheng
+        tt7875604:
+          id: nm8273941
+          name: Man-Lung Ling
+      winner:
+      - tt7245176
+    best actress:
+      nominee:
+      - tt6095004
+      - tt7075594
+      - tt7479718
+      - tt7599050
+      persons:
+        tt6095004:
+          id: nm3012172
+          name: Chrissie Chau
+        tt7075594:
+          id: nm0955782
+          name: Xun Zhou
+        tt7479718:
+          id: nm0151827
+          name: Sylvia Chang
+        tt7599050:
+          id: nm1413739
+          name: Stephy Tang
+        tt7875604:
+          id: nm0594909
+          name: Teresa Mo
+      winner:
+      - tt7875604
+    best art direction:
+      nominee:
+      - tt5273624
+      - tt6015328
+      - tt6513406
+      - tt7599050
+      winner:
+      - tt7075594
+    best chinese language film from the two coasts:
+      nominee:
+      - tt6461514
+      - tt6654316
+      - tt7131870
+      - tt7479784
+      winner:
+      - tt7010412
+    best cinematography:
+      nominee:
+      - tt7075594
+      - tt7245176
+      - tt7479718
+      - tt7599050
+      winner:
+      - tt6015328
+    best costume & make up design:
+      nominee:
+      - tt6015328
+      - tt6513406
+      - tt6772874
+      - tt7075594
+      winner:
+      - tt5273624
+    best director:
+      nominee:
+      - tt5847286
+      - tt6095004
+      - tt7245176
+      - tt7479718
+      persons:
+        tt5847286:
+          id: nm0946875
+          name: Herman Yau
+        tt6095004:
+          id: nm2177308
+          name: Kearen Pang
+        tt7075594:
+          id: nm0401176
+          name: Ann Hui
+        tt7245176:
+          id: nm0948159
+          name: Wilson Yip
+        tt7479718:
+          id: nm0151827
+          name: Sylvia Chang
+      winner:
+      - tt7075594
+    best film editing:
+      nominee:
+      - tt5847286
+      - tt6952782
+      - tt7075594
+      - tt7245176
+      winner:
+      - tt6015328
+    best new director:
+      nominee:
+      - tt6772874
+      - tt7223050
+      - tt7599050
+      - tt7875604
+      persons:
+        tt6095004:
+          id: nm2177308
+          name: Kearen Pang
+        tt6772874:
+          id: nm3215871
+          name: Derek Hui
+        tt7223050:
+          id: nm1197942
+          name: Jonathan Li
+        tt7599050:
+          id: nm0864779
+          name: Chapman To
+        tt7875604:
+          id: nm5335213
+          name: Tai-Lee Chan
+      winner:
+      - tt6095004
+    best new performer:
+      nominee:
+      - tt5956006
+      - tt6554744
+      - tt7245176
+      - tt7757028
+      winner:
+      - tt7875604
+    best original film score:
+      nominee:
+      - tt6095004
+      - tt7479718
+      - tt7599050
+      - tt7762772
+      winner:
+      - tt7075594
+    best original film song:
+      nominee:
+      - tt6095004
+      - tt6270524
+      - tt6772874
+      - tt7479718
+      winner:
+      - tt7762772
+    best picture:
+      nominee:
+      - tt5847286
+      - tt6015328
+      - tt7245176
+      - tt7479718
+      winner:
+      - tt7075594
+    best screenplay:
+      nominee:
+      - tt5956006
+      - tt6095004
+      - tt7075594
+      - tt7757028
+      winner:
+      - tt7479718
+    best sound design:
+      nominee:
+      - tt5273624
+      - tt5847286
+      - tt6513406
+      - tt7075594
+      winner:
+      - tt7245176
+    best supporting actor:
+      nominee:
+      - tt5956006
+      - tt6083388
+      - tt7245176
+      - tt7599050
+      - tt7762772
+      persons:
+        tt5847286:
+          id: nm0422623
+          name: Philip Keung
+        tt5956006:
+          id: nm0157971
+          name: Paul Chun
+        tt6083388:
+          id: nm0475602
+          name: Yasuaki Kurata
+        tt7245176:
+          id: nm0482628
+          name: Ka-Tung Lam
+        tt7599050:
+          id: nm0475602
+          name: Yasuaki Kurata
+        tt7762772:
+          id: nm0422623
+          name: Philip Keung
+      winner:
+      - tt5847286
+    best supporting actress:
+      nominee:
+      - tt6095004
+      - tt6270524
+      - tt7479718
+      - tt7757028
+      persons:
+        tt6095004:
+          id: nm3807582
+          name: Joyce Cheng
+        tt6270524:
+          id: nm0790034
+          name: Susan Yam-Yam Shaw
+        tt7075594:
+          id: nm0409677
+          name: Deanie Ip
+        tt7479718:
+          id: nm1328476
+          name: Yanshu Wu
+        tt7757028:
+          id: nm4986421
+          name: Pui-Yue Bo
+      winner:
+      - tt7075594
+    best visual effects:
+      nominee:
+      - tt5273624
+      - tt5847286
+      - tt6814080
+      - tt7185492
+      winner:
+      - tt6513406
+'2019':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt6869538
+      - tt7183578
+      - tt7262882
+      - tt7521990
+      winner:
+      - tt6878882
+    best actor:
+      nominee:
+      - tt7183578
+      - tt7762748
+      - tt7767874
+      persons:
+        tt7183578:
+          id: nm0000334
+          name: Chow Yun-Fat
+        tt7762748:
+          id: nm0422623
+          name: Philip Keung
+        tt7767874:
+          id: nm0628757
+          name: Francis Ng
+        tt8497794:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+      winner:
+      - tt8497794
+    best actress:
+      nominee:
+      - tt7183578
+      - tt8497794
+      - tt9129808
+      - tt9838372
+      persons:
+        tt7183578:
+          id: nm1846368
+          name: Jingchu Zhang
+        tt8497794:
+          id: nm3507486
+          name: Crisel Consunji
+        tt9076570:
+          id: nm2924454
+          name: Chloe Maayan
+        tt9129808:
+          id: nm8485868
+          name: Jennifer Yu
+        tt9838372:
+          id: nm1218953
+          name: Charlene Choi
+      winner:
+      - tt9076570
+    best art direction:
+      nominee:
+      - tt6170484
+      - tt6466464
+      - tt6869538
+      - tt7762748
+      winner:
+      - tt7183578
+    best chinese language film from the two coasts:
+      nominee:
+      - tt7205208
+      - tt7298400
+      - tt8434380
+      - tt9078374
+      winner:
+      - tt7362036
+    best cinematography:
+      nominee:
+      - tt6170484
+      - tt6869538
+      - tt6878882
+      - tt9647330
+      winner:
+      - tt7183578
+    best costume & make up design:
+      nominee:
+      - tt6170484
+      - tt6466464
+      - tt6869538
+      - tt7762748
+      winner:
+      - tt7183578
+    best director:
+      nominee:
+      - tt6878882
+      - tt7767874
+      - tt8497794
+      - tt9076570
+      persons:
+        tt6878882:
+          id: nm0482592
+          name: Dante Lam
+        tt7183578:
+          id: nm0159039
+          name: Felix Chong
+        tt7767874:
+          id: nm1125509
+          name: Sunny Chan
+        tt8497794:
+          id: nm7874958
+          name: Oliver Siu Kuen Chan
+        tt9076570:
+          id: nm0150897
+          name: Fruit Chan
+      winner:
+      - tt7183578
+    best film editing:
+      nominee:
+      - tt6869538
+      - tt6878882
+      - tt9279172
+      - tt9647330
+      winner:
+      - tt7183578
+    best new director:
+      nominee:
+      - tt7759626
+      - tt7762748
+      - tt7767874
+      - tt9647330
+      persons:
+        tt7759626:
+          id: nm1396561
+          name: Jeff Cheung
+        tt7762748:
+          id: nm9122770
+          name: Jun Li
+        tt7767874:
+          id: nm1125509
+          name: Sunny Chan
+        tt8497794:
+          id: nm7874958
+          name: Oliver Siu Kuen Chan
+        tt9647330:
+          id: nm2777623
+          name: Cheuk Pan Lee
+      winner:
+      - tt8497794
+    best new performer:
+      nominee:
+      - tt7767874
+      - tt8031554
+      - tt9076570
+      - tt9647330
+      winner:
+      - tt8497794
+    best original film score:
+      nominee:
+      - tt7183578
+      - tt7521990
+      - tt7762748
+      - tt9170528
+      winner:
+      - tt7767874
+    best original film song:
+      nominee:
+      - tt7183578
+      - tt7521990
+      - tt7762748
+      - tt9129808
+      winner:
+      - tt7767874
+    best picture:
+      nominee:
+      - tt6878882
+      - tt7767874
+      - tt8497794
+      - tt9076570
+      winner:
+      - tt7183578
+    best screenplay:
+      nominee:
+      - tt7762748
+      - tt7767874
+      - tt8497794
+      - tt8731042
+      winner:
+      - tt7183578
+    best sound design:
+      nominee:
+      - tt6170484
+      - tt6869538
+      - tt7183578
+      - tt9647330
+      winner:
+      - tt6878882
+    best supporting actor:
+      nominee:
+      - tt7183578
+      - tt7767874
+      - tt8497794
+      persons:
+        tt7183578:
+          id: nm0514961
+          name: Liu Kai-Chi
+        tt7762748:
+          id: nm2113499
+          name: Ben Yuen
+        tt7767874:
+          id: nm1936402
+          name: Tak-Bun Wong
+        tt8497794:
+          id: nm0498189
+          name: Sam Lee
+      winner:
+      - tt7762748
+    best supporting actress:
+      nominee:
+      - tt6878882
+      - tt7183578
+      - tt7767874
+      - tt9647330
+      persons:
+        tt6878882:
+          id: nm3360636
+          name: Luxia Jiang
+        tt7183578:
+          id: nm2412978
+          name: Catherine Chau
+        tt7762748:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt7767874:
+          id: nm8485868
+          name: Jennifer Yu
+        tt9647330:
+          id: nm2204070
+          name: Lu Huang
+      winner:
+      - tt7762748
+    best visual effects:
+      nominee:
+      - tt6170484
+      - tt6466464
+      - tt6869538
+      - tt7183578
+      winner:
+      - tt6878882
+'2020':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt10295602
+      - tt10508838
+      - tt11076480
+      - tt8239806
+      winner:
+      - tt2076298
+    best actor:
+      nominee:
+      - tt10117402
+      - tt11070230
+      - tt11076480
+      - tt9586294
+      persons:
+        tt10117402:
+          id: nm0477209
+          name: Aaron Kwok
+        tt10975520:
+          id: nm0156495
+          name: Tai-Bo
+        tt11070230:
+          id: nm3846586
+          name: Pak-Hong Chu
+        tt11076480:
+          id: nm0465503
+          name: Louis Koo
+        tt9586294:
+          id: nm3725393
+          name: Jackson Yee
+      winner:
+      - tt10975520
+    best actress:
+      nominee:
+      - tt10551420
+      - tt11070230
+      - tt11810546
+      - tt7271190
+      persons:
+        tt10551420:
+          id: nm0155618
+          name: Sammi Cheng
+        tt11070230:
+          id: nm1413739
+          name: Stephy Tang
+        tt11810546:
+          id: nm9193136
+          name: Cecilia Choi
+        tt7271190:
+          id: nm0155618
+          name: Sammi Cheng
+        tt9586294:
+          id: nm4082296
+          name: Dongyu Zhou
+      winner:
+      - tt9586294
+    best art direction:
+      nominee:
+      - tt10117402
+      - tt11076480
+      - tt2076298
+      - tt9586294
+      winner:
+      - tt10551420
+    best asian chinese language film:
+      nominee:
+      - tt10805432
+      - tt6864046
+      winner:
+      - tt8020896
+    best cinematography:
+      nominee:
+      - tt10551420
+      - tt11076480
+      - tt11810546
+      - tt2076298
+      winner:
+      - tt9586294
+    best costume & make up design:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt10975520
+      - tt2076298
+      winner:
+      - tt9586294
+    best director:
+      nominee:
+      - tt10551420
+      - tt10975520
+      - tt11810546
+      - tt2076298
+      persons:
+        tt10551420:
+          id: nm1040773
+          name: Heiward Mak
+        tt10975520:
+          id: nm1794148
+          name: Ray Yeung
+        tt11810546:
+          id: nm6257847
+          name: Kiwi Chow
+        tt2076298:
+          id: nm0948159
+          name: Wilson Yip
+        tt9586294:
+          id: nm1229124
+          name: Derek Tsang
+      winner:
+      - tt9586294
+    best film editing:
+      nominee:
+      - tt10975520
+      - tt11070230
+      - tt11076480
+      - tt9586294
+      winner:
+      - tt2076298
+    best new director:
+      nominee:
+      - tt10117402
+      - tt10295602
+      - tt11080024
+      - tt11811996
+      persons:
+        tt10117402:
+          id: nm2651387
+          name: Hing Fan Wong
+        tt10295602:
+          id: nm8301057
+          name: Jazz Boon
+        tt11070230:
+          id: nm3925655
+          name: Norris Wong
+        tt11080024:
+          id: nm2798536
+          name: Cheung Cheuk
+        tt11811996:
+          id: nm4591002
+          name: Nick Leung
+      winner:
+      - tt11070230
+    best new performer:
+      nominee:
+      - tt10975520
+      - tt11810546
+      - tt2076298
+      - tt9368628
+      winner:
+      - tt9586294
+    best original film score:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt2076298
+      - tt9586294
+      winner:
+      - tt11070230
+    best original film song:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt11070230
+      - tt8239806
+      winner:
+      - tt9586294
+    best picture:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt10975520
+      - tt9368628
+      winner:
+      - tt9586294
+    best screenplay:
+      nominee:
+      - tt10551420
+      - tt10975520
+      - tt11070230
+      - tt11810546
+      winner:
+      - tt9586294
+    best sound design:
+      nominee:
+      - tt10218664
+      - tt10551420
+      - tt11810546
+      - tt8239806
+      winner:
+      - tt2076298
+    best supporting actor:
+      nominee:
+      - tt10117402
+      - tt10975520
+      - tt11076480
+      - tt9368628
+      persons:
+        tt10117402:
+          id: nm0156579
+          name: Tat-Ming Cheung
+        tt10975520:
+          id: nm5242231
+          name: Chun Yip Lo
+        tt11076480:
+          id: nm0422623
+          name: Philip Keung
+        tt9368628:
+          id: nm3256497
+          name: Qi Zhang
+      winner:
+      - tt10117402
+    best supporting actress:
+      nominee:
+      - tt10117402
+      - tt10551420
+      - tt11070230
+      - tt7271190
+      persons:
+        tt10117402:
+          id: nm2598196
+          name: Yase Liu
+        tt10551420:
+          id: nm2082146
+          name: Megan Lai
+        tt10975520:
+          id: nm3697267
+          name: Patra Au
+        tt11070230:
+          id: nm0667978
+          name: Hee Ching Paw
+        tt7271190:
+          id: nm1218953
+          name: Charlene Choi
+      winner:
+      - tt10975520
+    best visual effects:
+      nominee:
+      - tt10218664
+      - tt10218674
+      - tt10295602
+      - tt10508838
+      winner:
+      - tt8239806
+'2022':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt13210170
+      - tt13611604
+      - tt14032696
+      - tt9597838
+      winner:
+      - tt8165192
+    best actor:
+      nominee:
+      - tt13210170
+      - tt13887128
+      - tt14032696
+      - tt14892216
+      persons:
+        tt13210170:
+          id: nm0482628
+          name: Ka-Tung Lam
+        tt13887128:
+          id: nm0628757
+          name: Francis Ng
+        tt14032696:
+          id: nm0482628
+          name: Ka-Tung Lam
+        tt14713814:
+          id: nm0874868
+          name: Yin Tse
+        tt14892216:
+          id: nm7711040
+          name: Chung-Hang Leung
+      winner:
+      - tt14713814
+    best actress:
+      nominee:
+      - tt10670442
+      - tt14892216
+      - tt14898796
+      - tt15010590
+      persons:
+        tt10670442:
+          id: nm0000084
+          name: Gong Li
+        tt14032696:
+          id: nm2598196
+          name: Yase Liu
+        tt14892216:
+          id: nm0510950
+          name: Sandra Ng
+        tt14898796:
+          id: nm3012172
+          name: Chrissie Chau
+        tt15010590:
+          id: nm3491651
+          name: Louise Wong
+      winner:
+      - tt14032696
+    best art direction:
+      nominee:
+      - tt10415576
+      - tt13210170
+      - tt13887128
+      - tt15010590
+      winner:
+      - tt14032696
+    best asian chinese language film:
+      nominee:
+      - tt13105824
+      - tt14405280
+      winner:
+      - tt15620158
+    best cinematography:
+      nominee:
+      - tt10415576
+      - tt13210170
+      - tt15010590
+      - tt8165192
+      winner:
+      - tt14032696
+    best costume & make up design:
+      nominee:
+      - tt10415576
+      - tt13210170
+      - tt14032696
+      - tt7587604
+      winner:
+      - tt15010590
+    best director:
+      nominee:
+      - tt10670442
+      - tt14032696
+      - tt14059174
+      - tt15010590
+      persons:
+        tt10670442:
+          id: nm0151066
+          name: Peter Ho-Sun Chan
+        tt14032696:
+          id: nm1110912
+          name: Soi Cheang
+        tt14059174:
+          id: nm0541217
+          name: Lim-Chung Man
+        tt15010590:
+          id: nm2410081
+          name: Lok Man Leung
+        tt8165192:
+          id: nm0150802
+          name: Benny Chan
+      winner:
+      - tt8165192
+    best film editing:
+      nominee:
+      - tt13210170
+      - tt13462900
+      - tt14032696
+      - tt9597838
+      winner:
+      - tt8165192
+    best new director:
+      nominee:
+      - tt13611604
+      - tt13887128
+      - tt14059174
+      - tt9877138
+      persons:
+        tt13210170:
+          id: nm6191521
+          name: Kin-Long Chan
+        tt13611604:
+          id: nm6233775
+          name: Sin-Hang Chiu
+        tt13887128:
+          id: nm9122770
+          name: Jun Li
+        tt14059174:
+          id: nm0541217
+          name: Lim-Chung Man
+        tt9877138:
+          id: nm1210118
+          name: Ho-Leung Lau
+      winner:
+      - tt13210170
+    best new performer:
+      nominee:
+      - tt13887128
+      - tt14713814
+      - tt14892216
+      winner:
+      - tt15010590
+    best original film score:
+      nominee:
+      - tt13887128
+      - tt14032696
+      - tt14892216
+      - tt15010590
+      winner:
+      - tt10415576
+    best original film song:
+      nominee:
+      - tt13212270
+      - tt13887128
+      - tt14892216
+      - tt8165192
+      winner:
+      - tt13611604
+    best picture:
+      nominee:
+      - tt13887128
+      - tt14032696
+      - tt14892216
+      - tt15010590
+      winner:
+      - tt8165192
+    best screenplay:
+      nominee:
+      - tt13611604
+      - tt13887128
+      - tt14713814
+      - tt14892216
+      winner:
+      - tt14032696
+    best sound design:
+      nominee:
+      - tt13462900
+      - tt14032696
+      - tt8165192
+      - tt9597838
+      winner:
+      - tt15010590
+    best supporting actor:
+      nominee:
+      - tt13887128
+      - tt14713814
+      - tt15010590
+      persons:
+        tt13887128:
+          id: nm9885003
+          name: Will Or
+        tt14713814:
+          id: nm0482695
+          name: Suet Lam
+        tt14892216:
+          id: nm13099964
+          name: Ho Yeung Fung
+        tt15010590:
+          id: nm0465503
+          name: Louis Koo
+      winner:
+      - tt14892216
+    best supporting actress:
+      nominee:
+      - tt10670442
+      - tt13887128
+      - tt14032696
+      - tt14713814
+      - tt9877138
+      persons:
+        tt10670442:
+          id: nm11262336
+          name: Lydia Bai
+        tt13887128:
+          id: nm0497782
+          name: Loletta Lee
+        tt14032696:
+          id: nm7184245
+          name: Fish Liew
+        tt14713814:
+          id: nm10537087
+          name: Suet-Ying Chung
+        tt15010590:
+          id: nm7184245
+          name: Fish Liew
+        tt9877138:
+          id: nm0667978
+          name: Hee Ching Paw
+      winner:
+      - tt15010590
+    best visual effects:
+      nominee:
+      - tt13462900
+      - tt14032696
+      - tt8165192
+      - tt9597838
+      winner:
+      - tt15010590
+'2023':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt10283270
+      - tt16194408
+      - tt4431104
+      - tt6902394
+      winner:
+      - tt7375466
+    best actor:
+      nominee:
+      - tt18280126
+      - tt21867590
+      - tt22398026
+      persons:
+        tt10283270:
+          id: nm0490513
+          name: Ching-Wan Lau
+        tt18280126:
+          id: nm0938893
+          name: Anthony Chau-Sang Wong
+        tt21867590:
+          id: nm13099965
+          name: Pui Tung Mak
+        tt22398026:
+          id: nm3518961
+          name: Louis Cheung
+      winner:
+      - tt10283270
+    best actress:
+      nominee:
+      - tt14071600
+      - tt15244854
+      - tt21867590
+      - tt22398026
+      persons:
+        tt14071600:
+          id: nm0151827
+          name: Sylvia Chang
+        tt15244854:
+          id: nm0594909
+          name: Teresa Mo
+        tt21867590:
+          id: nm0811612
+          name: Louisa So
+        tt22397894:
+          id: nm0155618
+          name: Sammi Cheng
+        tt22398026:
+          id: nm7747297
+          name: Angela Yuen
+      winner:
+      - tt22397894
+    best art direction:
+      nominee:
+      - tt10283270
+      - tt21187542
+      - tt21867590
+      - tt7375466
+      winner:
+      - tt6902394
+    best asian chinese language film:
+      nominee:
+      - tt14557302
+      - tt15742308
+      winner:
+      - tt18673234
+    best cinematography:
+      nominee:
+      - tt21867590
+      - tt22398026
+      - tt6902394
+      - tt7375466
+      winner:
+      - tt10283270
+    best costume & make up design:
+      nominee:
+      - tt10283270
+      - tt22397894
+      - tt22398026
+      - tt7375466
+      winner:
+      - tt6902394
+    best director:
+      nominee:
+      - tt21187542
+      - tt21867590
+      - tt21867610
+      - tt22398026
+      persons:
+        tt10283270:
+          id: nm0906413
+          name: Ka-Fai Wai
+        tt21187542:
+          id: nm1125509
+          name: Sunny Chan
+        tt21867590:
+          id: nm6090083
+          name: Cheuk-Tin Ho
+        tt21867610:
+          id: nm0156520
+          name: Mabel Cheung
+        tt22398026:
+          id: nm4104763
+          name: Sum Lam
+      winner:
+      - tt10283270
+    best film:
+      nominee:
+      - tt10283270
+      - tt21867590
+      - tt22398026
+      - tt7375466
+      winner:
+      - tt21867610
+    best film editing:
+      nominee:
+      - tt10283270
+      - tt21187542
+      - tt21867610
+      - tt7375466
+      winner:
+      - tt21867590
+    best new director:
+      nominee:
+      - tt18280126
+      - tt21187542
+      - tt22398026
+      - tt7375466
+      persons:
+        tt18280126:
+          id: nm10242641
+          name: Kok Rui Lau
+        tt21187542:
+          id: nm1125509
+          name: Sunny Chan
+        tt21867590:
+          id: nm6090083
+          name: Cheuk-Tin Ho
+        tt22398026:
+          id: nm4104763
+          name: Sum Lam
+        tt7375466:
+          id: nm2379882
+          name: Yuen Fai Ng
+      winner:
+      - tt21867590
+    best new performer:
+      nominee:
+      - tt14071600
+      - tt15244854
+      - tt17044664
+      - tt22398080
+      winner:
+      - tt18280126
+    best original film score:
+      nominee:
+      - tt21187542
+      - tt21867590
+      - tt6902394
+      - tt7375466
+      winner:
+      - tt22398026
+    best original film song:
+      nominee:
+      - tt15244854
+      - tt21187542
+      - tt21867590
+      - tt7375466
+      winner:
+      - tt22397894
+    best screenplay:
+      nominee:
+      - tt18280126
+      - tt21187542
+      - tt21867590
+      - tt22398026
+      winner:
+      - tt10283270
+    best sound design:
+      nominee:
+      - tt10283270
+      - tt16194408
+      - tt21867590
+      - tt6902394
+      winner:
+      - tt7375466
+    best supporting actor:
+      nominee:
+      - tt15244854
+      - tt21187542
+      - tt21867590
+      persons:
+        tt15244854:
+          id: nm0492408
+          name: Wing-Cheong Law
+        tt21187542:
+          id: nm3518961
+          name: Louis Cheung
+        tt21867590:
+          id: nm0482963
+          name: Jan Lamb
+        tt6902394:
+          id: nm0401201
+          name: Michael Hui
+      winner:
+      - tt6902394
+    best supporting actress:
+      nominee:
+      - tt15618938
+      - tt21187542
+      - tt21867590
+      - tt22398026
+      persons:
+        tt15618938:
+          id: nm8485868
+          name: Jennifer Yu
+        tt21187542:
+          id: nm3807369
+          name: Ivana Wong
+        tt21867590:
+          id: nm2685071
+          name: Harriet Yeung
+        tt22398026:
+          id: nm3697267
+          name: Patra Au
+      winner:
+      - tt21187542
+    best visual effects:
+      nominee:
+      - tt10283270
+      - tt16194408
+      - tt21867590
+      - tt6902394
+      winner:
+      - tt7375466
+'2024':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt19856688
+      - tt21330770
+      - tt22488024
+      - tt26929966
+      winner:
+      - tt29632851
+    best actor:
+      nominee:
+      - tt11000406
+      - tt25377462
+      - tt27881474
+      - tt27881515
+      persons:
+        tt11000406:
+          id: nm3934959
+          name: Da Peng
+        tt14099796:
+          id: nm0504897
+          name: Tony Leung Chiu-wai
+        tt25377462:
+          id: nm0938990
+          name: Dayo Wong
+        tt27881474:
+          id: nm5242231
+          name: Chun Yip Lo
+        tt27881515:
+          id: nm0482572
+          name: Bowie Lam
+      winner:
+      - tt14099796
+    best actress:
+      nominee:
+      - tt25377462
+      - tt29602209
+      - tt30252459
+      - tt31159533
+      persons:
+        tt25377462:
+          id: nm3491651
+          name: Louise Wong
+        tt27881515:
+          id: nm8485868
+          name: Jennifer Yu
+        tt29602209:
+          id: nm3280986
+          name: Kay Tse
+        tt30252459:
+          id: nm3588483
+          name: Michelle Wai
+        tt31159533:
+          id: nm10537087
+          name: Suet-Ying Chung
+      winner:
+      - tt27881515
+    best art direction:
+      nominee:
+      - tt19856688
+      - tt27881474
+      - tt27881515
+      - tt28594068
+      winner:
+      - tt14099796
+    best asian chinese language film:
+      nominee:
+      - tt21148018
+      - tt22742964
+      - tt27445004
+      - tt28076784
+      winner:
+      - tt29319990
+    best cinematography:
+      nominee:
+      - tt19856688
+      - tt21330770
+      - tt27881474
+      - tt27881515
+      winner:
+      - tt14099796
+    best costume & make up design:
+      nominee:
+      - tt19856688
+      - tt26493446
+      - tt27139786
+      - tt27881515
+      winner:
+      - tt14099796
+    best director:
+      nominee:
+      - tt14099796
+      - tt25377462
+      - tt27881474
+      - tt27881515
+      persons:
+        tt14099796:
+          id: nm0159039
+          name: Felix Chong
+        tt19856688:
+          id: nm1110912
+          name: Soi Cheang
+        tt25377462:
+          id: nm1210422
+          name: Wai-Lun Ng
+        tt27881474:
+          id: nm5948808
+          name: Nick Cheuk
+        tt27881515:
+          id: nm5267760
+          name: Lawrence Kwan Chun Kan
+      winner:
+      - tt19856688
+    best film:
+      nominee:
+      - tt14099796
+      - tt19856688
+      - tt27881474
+      - tt27881515
+      winner:
+      - tt25377462
+    best film editing:
+      nominee:
+      - tt14099796
+      - tt25377462
+      - tt27881474
+      - tt27881515
+      winner:
+      - tt19856688
+    best new director:
+      nominee:
+      - tt11000406
+      - tt25377462
+      - tt27139786
+      - tt27881515
+      persons:
+        tt11000406:
+          id: nm1197942
+          name: Jonathan Li
+        tt25377462:
+          id: nm1210422
+          name: Wai-Lun Ng
+        tt27139786:
+          id: nm9122772
+          name: Sasha Chuk
+        tt27881474:
+          id: nm5948808
+          name: Nick Cheuk
+        tt27881515:
+          id: nm5267760
+          name: Lawrence Kwan Chun Kan
+      winner:
+      - tt27881474
+    best new performer:
+      nominee:
+      - tt26244196
+      - tt27881474
+      - tt27881515
+      - tt29602209
+      winner:
+      - tt27139786
+    best original film score:
+      nominee:
+      - tt14099796
+      - tt27881474
+      - tt27881515
+      - tt31159533
+      winner:
+      - tt29602209
+    best original film song:
+      nominee:
+      - tt14099796
+      - tt26244196
+      - tt27881515
+      - tt29602209
+      winner:
+      - tt31159533
+    best screenplay:
+      nominee:
+      - tt14099796
+      - tt25377462
+      - tt27881474
+      - tt27881515
+      winner:
+      - tt19856688
+    best sound design:
+      nominee:
+      - tt11000406
+      - tt19856688
+      - tt27881515
+      - tt29632851
+      winner:
+      - tt14099796
+    best supporting actor:
+      nominee:
+      - tt25377462
+      - tt26493446
+      - tt27139786
+      - tt27881474
+      persons:
+        tt25377462:
+          id: nm0874860
+          name: Kwan-Ho Tse
+        tt26493446:
+          id: nm7914475
+          name: Sheung-ching Lee
+        tt27139786:
+          id: nm4308851
+          name: Kangren Wu
+        tt27881474:
+          id: nm14900228
+          name: Sean Wong
+        tt27881515:
+          id: nm0156955
+          name: David Chiang
+      winner:
+      - tt27881515
+    best supporting actress:
+      nominee:
+      - tt25377462
+      - tt27881474
+      - tt30252459
+      persons:
+        tt25377462:
+          id: nm9052375
+          name: Renci Yeung
+        tt27881474:
+          id: nm4848909
+          name: Rosa Maria Velasco
+        tt27881515:
+          id: nm5741307
+          name: Rachel Leung
+        tt30252459:
+          id: nm0157805
+          name: Elaine Jin
+      winner:
+      - tt27881515
+    best visual effects:
+      nominee:
+      - tt19856688
+      - tt20204936
+      - tt28594068
+      - tt29632851
+      winner:
+      - tt14099796
+'2025':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt29495090
+      - tt30024043
+      - tt31648020
+      - tt33420331
+      winner:
+      - tt20316748
+    best actor:
+      nominee:
+      - tt20316748
+      - tt30958950
+      - tt31648020
+      - tt31660693
+      persons:
+        tt20316748:
+          id: nm1332451
+          name: Raymond Lam
+        tt30958950:
+          id: nm0477209
+          name: Aaron Kwok
+        tt31648020:
+          id: nm0401201
+          name: Michael Hui
+        tt31660693:
+          id: nm6090111
+          name: Neo Yau
+        tt33499985:
+          id: nm0490513
+          name: Ching-Wan Lau
+      winner:
+      - tt33499985
+    best actress:
+      nominee:
+      - tt30439035
+      - tt31647711
+      - tt31660693
+      - tt33616537
+      persons:
+        tt30439035:
+          id: nm3697267
+          name: Patra Au
+        tt31647711:
+          id: nm12668419
+          name: Natalie Hsu
+        tt31648020:
+          id: nm3588483
+          name: Michelle Wai
+        tt31660693:
+          id: nm10537087
+          name: Suet-Ying Chung
+        tt33616537:
+          id: nm7657703
+          name: Hedwig Tam
+      winner:
+      - tt31648020
+    best art direction:
+      nominee:
+      - tt29495090
+      - tt31647711
+      - tt31648020
+      - tt33499985
+      winner:
+      - tt20316748
+    best asian chinese language film:
+      nominee:
+      - tt17079606
+      - tt28131427
+      - tt28151876
+      - tt28258332
+      winner:
+      - tt29452517
+    best cinematography:
+      nominee:
+      - tt29495090
+      - tt31647711
+      - tt31648020
+      - tt33499985
+      winner:
+      - tt20316748
+    best costume & make up design:
+      nominee:
+      - tt30958950
+      - tt31648020
+      - tt31659167
+      - tt33499985
+      winner:
+      - tt20316748
+    best director:
+      nominee:
+      - tt30439035
+      - tt31648020
+      - tt31660693
+      - tt33499985
+      persons:
+        tt20316748:
+          id: nm1110912
+          name: Soi Cheang
+        tt30439035:
+          id: nm1794148
+          name: Ray Yeung
+        tt31648020:
+          id: nm2602313
+          name: Anselm Chan
+        tt31660693:
+          id: nm1940999
+          name: Adam Wong
+        tt33499985:
+          id: nm1098428
+          name: Cheuk Man Au
+      winner:
+      - tt20316748
+    best film:
+      nominee:
+      - tt30439035
+      - tt31648020
+      - tt31660693
+      - tt33499985
+      winner:
+      - tt20316748
+    best film editing:
+      nominee:
+      - tt29733923
+      - tt30024043
+      - tt31648020
+      - tt33499985
+      winner:
+      - tt20316748
+    best new director:
+      nominee:
+      - tt31647711
+      - tt31659167
+      - tt33420331
+      - tt33982094
+      persons:
+        tt29733923:
+          id: nm13979713
+          name: Robin Lee
+        tt31647711:
+          id: nm4183613
+          name: Lai-Yin Leung
+        tt31659167:
+          id: nm5650996
+          name: Miu-Kei Ho
+        tt33420331:
+          id: nm2108974
+          name: Albert Leung
+        tt33982094:
+          id: nm14489498
+          name: Ying-Ngai Ho
+      winner:
+      - tt29733923
+    best new performer:
+      nominee:
+      - tt20316748
+      - tt31647711
+      - tt31660693
+      - tt33509234
+      winner:
+      - tt33499985
+    best original film score:
+      nominee:
+      - tt20316748
+      - tt31647711
+      - tt31659167
+      - tt33499985
+      winner:
+      - tt31648020
+    best original film song:
+      nominee:
+      - tt31647711
+      - tt31659167
+      - tt31660693
+      - tt33509234
+      winner:
+      - tt31648020
+    best screenplay:
+      nominee:
+      - tt30439035
+      - tt30958950
+      - tt31659167
+      - tt33499985
+      winner:
+      - tt31648020
+    best sound design:
+      nominee:
+      - tt29495090
+      - tt30024043
+      - tt31648020
+      - tt31660693
+      winner:
+      - tt20316748
+    best supporting actor:
+      nominee:
+      - tt20316748
+      - tt31648020
+      - tt33616537
+      persons:
+        tt20316748:
+          id: nm0465503
+          name: Louis Koo
+        tt31648020:
+          id: nm3846586
+          name: Pak-Hong Chu
+        tt33616537:
+          id: nm5242231
+          name: Chun Yip Lo
+      winner:
+      - tt31648020
+    best supporting actress:
+      nominee:
+      - tt30439035
+      - tt31648020
+      - tt31659167
+      persons:
+        tt30439035:
+          id: nm0482652
+          name: Lin-Lin Li
+        tt31648020:
+          id: nm4848909
+          name: Rosa Maria Velasco
+        tt31659167:
+          id: nm1413739
+          name: Stephy Tang
+        tt33499985:
+          id: nm0423268
+          name: Jo Koo
+      winner:
+      - tt33499985
+    best visual effects:
+      nominee:
+      - tt19029666
+      - tt29195082
+      - tt29495090
+      - tt31648020
+      winner:
+      - tt20316748
+'2026':
+  hong kong film award:
+    best action choreography:
+      nominee:
+      - tt33348127
+      - tt35464708
+      - tt35498436
+      - tt4968738
+      winner:
+      - tt34610311
+    best actor:
+      nominee:
+      - tt33348127
+      - tt33836212
+      - tt35498436
+      - tt36217308
+      persons:
+        tt33348127:
+          id: nm0465503
+          name: Louis Koo
+        tt33836212:
+          id: nm0465503
+          name: Louis Koo
+        tt34610311:
+          id: nm0504899
+          name: Tony Ka Fai Leung
+        tt35498436:
+          id: nm3518961
+          name: Louis Cheung
+        tt36217308:
+          id: nm3225390
+          name: Carlos Chan
+      winner:
+      - tt34610311
+    best actress:
+      nominee:
+      - tt29429728
+      - tt32851910
+      - tt35724928
+      - tt5562068
+      persons:
+        tt29429728:
+          id: nm4454684
+          name: Li Ma
+        tt32851910:
+          id: nm2371196
+          name: Fala Chen
+        tt35724928:
+          id: nm12668419
+          name: Natalie Hsu
+        tt36217308:
+          id: nm7184245
+          name: Fish Liew
+        tt5562068:
+          id: nm0955471
+          name: Ziyi Zhang
+      winner:
+      - tt36217308
+    best art direction:
+      nominee:
+      - tt33348127
+      - tt33830021
+      - tt36639436
+      - tt5562068
+      winner:
+      - tt4968738
+    best cinematography:
+      nominee:
+      - tt14241008
+      - tt33348127
+      - tt33396536
+      - tt5562068
+      winner:
+      - tt4968738
+    best costume & make up design:
+      nominee:
+      - tt32851910
+      - tt33348127
+      - tt33830021
+      - tt5562068
+      winner:
+      - tt4968738
+    best director:
+      nominee:
+      - tt33396536
+      - tt33836212
+      - tt36639436
+      - tt5562068
+      persons:
+        tt14241008:
+          id: nm0504980
+          name: Patrick Leung
+        tt33396536:
+          id: nm0795517
+          name: Shu Qi
+        tt33836212:
+          id: nm6431932
+          name: Man Yu Chow
+        tt36639436:
+          id: nm6335015
+          name: Tommy Kai Chung Ng
+        tt5562068:
+          id: nm10833779
+          name: Shuai Han
+      winner:
+      - tt14241008
+    best film:
+      nominee:
+      - tt33348127
+      - tt36639436
+      - tt4968738
+      - tt5562068
+      winner:
+      - tt14241008
+    best film editing:
+      nominee:
+      - tt14241008
+      - tt33348127
+      - tt34610311
+      - tt5562068
+      winner:
+      - tt4968738
+    best new director:
+      nominee:
+      - tt33830021
+      - tt36639436
+      - tt38857175
+      - tt4968738
+      persons:
+        tt33396536:
+          id: nm0795517
+          name: Shu Qi
+        tt33830021:
+          id: nm3387567
+          name: Siu-Ping Kung
+        tt36639436:
+          id: nm6335015
+          name: Tommy Kai Chung Ng
+        tt38857175:
+          id: nm6546305
+          name: Jack Chun-Kit Lee
+        tt4968738:
+          id: nm1474034
+          name: Juno Mak
+      winner:
+      - tt33396536
+    best new performer:
+      nominee:
+      - tt32799446
+      - tt34610311
+      - tt35498436
+      - tt36204735
+      winner:
+      - tt35683790
+    best original film score:
+      nominee:
+      - tt14241008
+      - tt33348127
+      - tt33830021
+      - tt36639436
+      winner:
+      - tt4968738
+    best original film song:
+      nominee:
+      - tt32851910
+      - tt33830021
+      - tt35683790
+      - tt36639436
+      winner:
+      - tt14241008
+    best screenplay:
+      nominee:
+      - tt33396536
+      - tt33836212
+      - tt36639436
+      - tt38857175
+      winner:
+      - tt14241008
+    best sound design:
+      nominee:
+      - tt32515812
+      - tt33348127
+      - tt34610311
+      - tt36639436
+      winner:
+      - tt4968738
+    best supporting actor:
+      nominee:
+      - tt14241008
+      - tt29429728
+      - tt31645726
+      - tt38857175
+      persons:
+        tt14241008:
+          id: nm1264361
+          name: You-Nam Wong
+        tt29429728:
+          id: nm2113499
+          name: Ben Yuen
+        tt31645726:
+          id: nm10014384
+          name: Ka-Hei Lam
+        tt38857175:
+          id: nm4277404
+          name: Charm Man Peter Chan
+        tt4968738:
+          id: nm0864764
+          name: Alex To
+      winner:
+      - tt4968738
+    best supporting actress:
+      nominee:
+      - tt29429728
+      - tt33348127
+      - tt35683790
+      - tt4968738
+      persons:
+        tt14241008:
+          id: nm3588483
+          name: Michelle Wai
+        tt29429728:
+          id: nm0401192
+          name: Kara Ying Hung Wai
+        tt33348127:
+          id: nm2378009
+          name: Joyce Tang Lai-Ming
+        tt35683790:
+          id: nm11003721
+          name: Elizabeth Tang
+        tt4968738:
+          id: nm0667978
+          name: Hee Ching Paw
+      winner:
+      - tt14241008
+    best visual effects:
+      nominee:
+      - tt14241008
+      - tt32851910
+      - tt33348127
+      - tt35464708
+      winner:
+      - tt4968738
