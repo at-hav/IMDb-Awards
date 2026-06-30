@@ -24,7 +24,7 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0000299](events/ev0000299.yml) | Goya Awards | 40 | 41 | 1029 |
 | [ev0000329](events/ev0000329.yml) | Hong Kong Film Awards | 44 | 45 | 738 |
 | [ev0000349](events/ev0000349.yml) | Film Independent Spirit Awards | 41 | 172 | 649 |
-| [ev0000384](events/ev0000384.yml) | Karlovy Vary International Film Festival | 60 | 612 | 683 |
+| [ev0000384](events/ev0000384.yml) | Karlovy Vary International Film Festival | 61 | 613 | 684 |
 | [ev0000400](events/ev0000400.yml) | Locarno Film Festival | 78 | 1053 | 1301 |
 | [ev0000404](events/ev0000404.yml) | BFI London Film Festival | 39 | 164 | 194 |
 | [ev0000427](events/ev0000427.yml) | Melbourne International Film Festival | 63 | 321 | 392 |
@@ -53,4 +53,4 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 11 | 39 | 65 |
 
 ---
-_Last updated June 29, 2026 18:07 UTC, duration 00:07:51_
+_Last updated June 30, 2026 16:46 UTC, duration 00:07:37_
