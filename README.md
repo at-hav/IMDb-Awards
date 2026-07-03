@@ -14,7 +14,7 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0000091](events/ev0000091.yml) | Berlin International Film Festival | 76 | 1571 | 2659 |
 | [ev0000123](events/ev0000123.yml) | BAFTA Awards | 78 | 446 | 3724 |
 | [ev0000141](events/ev0000141.yml) | Cairo International Film Festival | 38 | 305 | 355 |
-| [ev0000147](events/ev0000147.yml) | Cannes Film Festival | 79 | 1737 | 1912 |
+| [ev0000147](events/ev0000147.yml) | Cannes Film Festival | 80 | 1738 | 1913 |
 | [ev0000155](events/ev0000155.yml) | Sitges - Catalonian International Film Festival | 56 | 853 | 1144 |
 | [ev0000157](events/ev0000157.yml) | César Awards, France | 51 | 56 | 1020 |
 | [ev0000165](events/ev0000165.yml) | Chicago International Film Festival | 59 | 411 | 1316 |
@@ -53,4 +53,4 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 11 | 39 | 65 |
 
 ---
-_Last updated July 02, 2026 16:25 UTC, duration 00:07:42_
+_Last updated July 03, 2026 16:08 UTC, duration 00:07:49_
