@@ -12837,3 +12837,246 @@
     cinematographic merit (mérito cinematográfico):
       winner:
       - tt0245712
+'2026':
+  golden ariel:
+    best picture (mejor película):
+      nominee:
+      - tt29135677
+      - tt33084835
+      - tt35340614
+      - tt35484319
+      - tt37660509
+  silver ariel:
+    best actor (mejor actuación masculina):
+      nominee:
+      - tt21413704
+      - tt22074568
+      - tt26445667
+      - tt31062002
+      - tt37660509
+      persons:
+        tt21413704:
+          id: nm4621970
+          name: Hoze Meléndez
+        tt22074568:
+          id: nm12516212
+          name: Ernesto Rocha
+        tt26445667:
+          id: nm18267808
+          name: Andrés Catzín
+        tt31062002:
+          id: nm2078557
+          name: Mauricio Isaac
+        tt37660509:
+          id: nm8227918
+          name: Osvaldo Sanchez
+    best actress (mejor actuación femenina):
+      nominee:
+      - tt26445667
+      - tt32192764
+      - tt33481807
+      - tt37656135
+      - tt37947670
+      persons:
+        tt26445667:
+          id: nm0596807
+          name: Ángela Molina
+        tt32192764:
+          id: nm1756304
+          name: Emma Dib
+        tt33481807:
+          id: nm2415604
+          name: Mónica Del Carmen
+        tt37656135:
+          id: nm0721376
+          name: Natalia Reyes
+        tt37947670:
+          id: nm5774112
+          name: Diana Sedano
+    best art direction (mejor diseño de arte):
+      nominee:
+      - tt29135677
+      - tt36971130
+      - tt37656135
+      - tt37660509
+      - tt37947670
+    best cinematography (mejor fotografía):
+      nominee:
+      - tt26445667
+      - tt34888938
+      - tt35340614
+      - tt37656135
+      - tt37660509
+    best costume design (mejor vestuario):
+      nominee:
+      - tt26445667
+      - tt29135677
+      - tt36971130
+      - tt37656135
+      winner:
+      - tt37660509
+    best direction (mejor dirección):
+      nominee:
+      - tt33454422
+      - tt34888938
+      - tt35340614
+      - tt35484319
+      - tt37660509
+    best editing (mejor edición):
+      nominee:
+      - tt33454422
+      - tt35340614
+      - tt35484319
+      - tt37096766
+      - tt37660509
+    best feature length animated film (mejor largometraje de animación):
+      nominee:
+      - tt32598868
+      - tt36639986
+    best feature length documentary (mejor largometraje documental):
+      nominee:
+      - tt33084835
+      - tt33454422
+      - tt37185873
+      - tt37952926
+      - tt43658457
+    best first work (mejor ópera prima):
+      nominee:
+      - tt21413704
+      - tt29135677
+      - tt34888938
+      - tt35484319
+      - tt37947670
+    best latin-american film (mejor película iberoamericana):
+      nominee:
+      - tt22237964
+      - tt27911420
+      - tt35513027
+      - tt36544524
+      - tt37531036
+    best make-up (mejor maquillaje):
+      nominee:
+      - tt29135677
+      - tt30028791
+      - tt36971130
+      - tt37656135
+      - tt37660509
+    best score (mejor música de fondo):
+      nominee:
+      - tt34888938
+      - tt35340614
+      - tt37185873
+      - tt37660509
+      - tt37947670
+    best screenplay adapted from another source (mejor guión cinematográfico adaptado):
+      nominee:
+      - tt15203010
+      - tt27608025
+      - tt28657879
+      - tt33481807
+      - tt37656135
+    best screenplay written directly for the screen (mejor guión cinematográfico original):
+      nominee:
+      - tt26445667
+      - tt34888938
+      - tt35340614
+      - tt35484319
+      - tt37660509
+    best short animated film (mejor cortometraje de animación):
+      nominee:
+      - tt32820790
+      - tt37617640
+      - tt38652106
+      - tt38960976
+    best short documentary (mejor cortometraje documental):
+      nominee:
+      - tt36161223
+      - tt37853632
+      - tt37930392
+      - tt39168250
+    best short fiction film (mejor cortometraje de ficción):
+      nominee:
+      - tt33063035
+      - tt37844542
+    best sound (mejor sonido):
+      nominee:
+      - tt26445667
+      - tt35340614
+      - tt36971130
+      - tt37185873
+      - tt37656135
+    best special effects (mejor efectos especiales):
+      nominee:
+      - tt21413704
+      - tt23648788
+      - tt27608025
+      - tt30028791
+      - tt37656135
+    best supporting actor (mejor coactuación masculina):
+      nominee:
+      - tt21413704
+      - tt31226985
+      - tt35484319
+      - tt35922918
+      - tt37660509
+      persons:
+        tt21413704:
+          id: nm9039647
+          name: Manuel Cruz Vivas
+        tt31226985:
+          id: nm0554929
+          name: Roberto Sosa
+        tt35484319:
+          id: nm1794532
+          name: Gamboa Bernardo
+        tt35922918:
+          id: nm2026965
+          name: Hector Kotsifakis
+        tt37660509:
+          id: nm18553470
+          name: Mariano López Sosa
+    best supporting actress (mejor coactuación femenina):
+      nominee:
+      - tt21413704
+      - tt31226985
+      - tt32192764
+      - tt37947670
+      persons:
+        tt21413704:
+          id: nm0709204
+          name: Arcelia Ramírez
+        tt31226985:
+          id: nm0190502
+          name: Ángeles Cruz
+        tt32192764:
+          id: nm8438062
+          name: Ruth Ramos
+        tt37947670:
+          id: nm0764463
+          name: Margarita Sanz
+    best visual effects (mejor efectos visuales):
+      nominee:
+      - tt30028791
+      - tt36639986
+      - tt36971130
+      - tt37656135
+      - tt37660509
+    breakthrough actor/actress (revelación actoral):
+      nominee:
+      - tt29135677
+      - tt34888938
+      - tt35484319
+      - tt37660509
+      persons:
+        tt29135677:
+          id: nm17648084
+          name: Aurora Dávila
+        tt34888938:
+          id: nm17636933
+          name: Carolina Guzmán
+        tt35484319:
+          id: nm14797797
+          name: Donovan Said Martínez
+        tt37660509:
+          id: nm17516719
+          name: Victor Prieto Simental

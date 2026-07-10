@@ -6,7 +6,7 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 
 | Event ID | Name | Years | Awards | Categories |
 |---|---|---:|---:|---:|
-| [ev0000001](events/ev0000001.yml) | Ariel Awards, Mexico | 67 | 146 | 1372 |
+| [ev0000001](events/ev0000001.yml) | Ariel Awards, Mexico | 68 | 148 | 1397 |
 | [ev0000003](events/ev0000003.yml) | Academy Awards, USA | 97 | 141 | 2230 |
 | [ev0000025](events/ev0000025.yml) | International Documentary Film Festival Amsterdam (IDFA) | 38 | 328 | 391 |
 | [ev0000031](events/ev0000031.yml) | Annecy International Animated Film Festival | 48 | 473 | 660 |
@@ -53,4 +53,4 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 11 | 39 | 65 |
 
 ---
-_Last updated July 09, 2026 12:02 UTC, duration 00:07:58_
+_Last updated July 10, 2026 11:56 UTC, duration 00:07:30_
