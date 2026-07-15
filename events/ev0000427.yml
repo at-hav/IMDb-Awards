@@ -1924,3 +1924,15 @@
     best screenplay:
       winner:
       - tt7204298
+'2026':
+  best student production:
+    best director student film:
+      persons:
+        tt33056641:
+          id: nm16397574
+          name: Caroline B. McNamara
+      winner:
+      - tt33056641
+    best student film:
+      winner:
+      - tt33056641
