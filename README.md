@@ -33,7 +33,7 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0000531](events/ev0000531.yml) | PGA Awards | 37 | 100 | 357 |
 | [ev0000569](events/ev0000569.yml) | International Film Festival Rotterdam | 45 | 372 | 434 |
 | [ev0000584](events/ev0000584.yml) | San Francisco International Film Festival | 57 | 159 | 686 |
-| [ev0000588](events/ev0000588.yml) | San Sebastián International Film Festival | 73 | 871 | 1113 |
+| [ev0000588](events/ev0000588.yml) | San Sebastián International Film Festival | 74 | 872 | 1114 |
 | [ev0000589](events/ev0000589.yml) | Santa Barbara International Film Festival | 35 | 423 | 567 |
 | [ev0000600](events/ev0000600.yml) | Seattle International Film Festival | 42 | 368 | 667 |
 | [ev0000612](events/ev0000612.yml) | Slamdance Film Festival | 31 | 205 | 465 |
@@ -53,4 +53,4 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 11 | 39 | 65 |
 
 ---
-_Last updated July 17, 2026 10:52 UTC, duration 00:07:54_
+_Last updated July 18, 2026 10:24 UTC, duration 00:07:52_
