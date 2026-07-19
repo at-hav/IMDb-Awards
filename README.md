@@ -42,7 +42,7 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0000637](events/ev0000637.yml) | Sydney Film Festival | 40 | 180 | 249 |
 | [ev0000655](events/ev0000655.yml) | Tokyo International Film Festival | 38 | 368 | 372 |
 | [ev0000659](events/ev0000659.yml) | Toronto International Film Festival | 49 | 394 | 508 |
-| [ev0000681](events/ev0000681.yml) | Venice Film Festival | 84 | 1912 | 2566 |
+| [ev0000681](events/ev0000681.yml) | Venice Film Festival | 85 | 1913 | 2567 |
 | [ev0000710](events/ev0000710.yml) | Writers Guild of America, USA | 78 | 190 | 948 |
 | [ev0000871](events/ev0000871.yml) | Sarajevo Film Festival | 29 | 290 | 467 |
 | [ev0000894](events/ev0000894.yml) | Tribeca Film Festival | 25 | 366 | 718 |
@@ -53,4 +53,4 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 11 | 39 | 65 |
 
 ---
-_Last updated July 18, 2026 10:24 UTC, duration 00:07:52_
+_Last updated July 19, 2026 10:32 UTC, duration 00:07:27_
