@@ -52,5 +52,55 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | [ev0004044](events/ev0004044.yml) | Busan International Film Festival | 15 | 224 | 299 |
 | [ev0004901](events/ev0004901.yml) | Blackstar Film Festival | 11 | 39 | 65 |
 
+## Pending Retries
+
+| Event ID | Name |
+|---|---|
+| ev0000001 | Ariel Awards, Mexico |
+| ev0000003 | Academy Awards, USA |
+| ev0000025 | International Documentary Film Festival Amsterdam (IDFA) |
+| ev0000031 | Annecy International Animated Film Festival |
+| ev0000057 | Austin Film Festival |
+| ev0000091 | Berlin International Film Festival |
+| ev0000123 | BAFTA Awards |
+| ev0000141 | Cairo International Film Festival |
+| ev0000147 | Cannes Film Festival |
+| ev0000155 | Sitges - Catalonian International Film Festival |
+| ev0000157 | César Awards, France |
+| ev0000165 | Chicago International Film Festival |
+| ev0000203 | David di Donatello Awards |
+| ev0000212 | Directors Guild of America, USA |
+| ev0000230 | European Film Awards |
+| ev0000299 | Goya Awards |
+| ev0000329 | Hong Kong Film Awards |
+| ev0000349 | Film Independent Spirit Awards |
+| ev0000384 | Karlovy Vary International Film Festival |
+| ev0000400 | Locarno Film Festival |
+| ev0000404 | BFI London Film Festival |
+| ev0000427 | Melbourne International Film Festival |
+| ev0000489 | New York Film Festival |
+| ev0000521 | Palm Springs International Film Festival |
+| ev0000531 | PGA Awards |
+| ev0000569 | International Film Festival Rotterdam |
+| ev0000584 | San Francisco International Film Festival |
+| ev0000588 | San Sebastián International Film Festival |
+| ev0000589 | Santa Barbara International Film Festival |
+| ev0000600 | Seattle International Film Festival |
+| ev0000612 | Slamdance Film Festival |
+| ev0000631 | Sundance Film Festival |
+| ev0000636 | SXSW Film Festival |
+| ev0000637 | Sydney Film Festival |
+| ev0000655 | Tokyo International Film Festival |
+| ev0000659 | Toronto International Film Festival |
+| ev0000681 | Venice Film Festival |
+| ev0000710 | Writers Guild of America, USA |
+| ev0000871 | Sarajevo Film Festival |
+| ev0000894 | Tribeca Film Festival |
+| ev0001535 | Mill Valley Film Festival |
+| ev0001695 | Fantastic Fest |
+| ev0001858 | Telluride Film Festival |
+| ev0004044 | Busan International Film Festival |
+| ev0004901 | Blackstar Film Festival |
+
 ---
-_Last updated July 23, 2026 11:15 UTC, duration 00:07:56_
+_Last updated July 24, 2026 11:37 UTC, duration 00:36:42_
