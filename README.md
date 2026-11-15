@@ -103,4 +103,4 @@ IMDb award event data. Auto-updated nightly by GitHub Actions.
 | ev0004901 | Blackstar Film Festival |
 
 ---
-_Last updated November 14, 2026 16:07 UTC, duration 00:37:03_
+_Last updated November 15, 2026 16:39 UTC, duration 00:37:02_
